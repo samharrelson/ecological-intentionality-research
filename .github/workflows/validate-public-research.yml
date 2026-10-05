@@ -1,0 +1,25 @@
+name: Validate public research
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  privacy-and-structure:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Run privacy guard
+        run: python3 scripts/privacy_guard.py .
+      - name: Confirm required public files
+        run: |
+          test -f README.md
+          test -f PUBLIC-SOURCE-MAP.md
+          test -f CITATION.cff
+          test -f scripts/sync_public_research.py

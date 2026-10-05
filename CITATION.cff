@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use or discuss this public research layer, please cite the repository and the relevant dated field note."
+title: "Ecological Intentionality: Public Research Layer"
+type: dataset
+authors:
+  - family-names: "Harrelson"
+    given-names: "Sam"
+repository-code: "https://github.com/samharrelson/ecological-intentionality-research"
+url: "https://ecologicalintentionality.org"
+abstract: >-
+  A versioned public research layer for an ongoing inquiry in ecology,
+  phenomenology, religion, attention, vegetal encounter, and creaturely relation.
