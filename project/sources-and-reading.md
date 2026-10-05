@@ -14,11 +14,11 @@ This is a living bibliography rather than a complete list of everything behind t
 
 The sections below distinguish three roles: foundational readings from my first comprehensive examination, current readings for the second examination, and adjacent conversations that are testing or extending the project without necessarily belonging to the formal exam list.
 
-For a periodically updated account of how these readings are changing the argument, see Where the Inquiry Stands.
+For a periodically updated account of how these readings are changing the argument, see [Where the Inquiry Stands](where-the-inquiry-stands.md).
 
-These sources feed most directly into Ecological Intentionality, Attention, Remainder, Vegetal Encounter, and Place and Agency.
+These sources feed most directly into [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), and [Place and Agency](../concepts/Place%20and%20Agency.md).
 
-Active thinker threads in the current field notes and reading archive: Franz Brentano · Edmund Husserl · Edith Stein · Maurice Merleau-Ponty · Melanie Harris · Raymond Ruyer · Vanessa Watts · Robin Wall Kimmerer.
+Active thinker threads in the current field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
 
 Each linked thinker page gathers the works currently doing argumentative work in the project, along with the sits in which that thinker has actually entered the interpretation.
 
@@ -38,13 +38,13 @@ The first comprehensive examination developed ecological intentionality through 
 - Bergson, Henri. *Freedom Lectures*.
 - Deleuze, Gilles. *Difference and Repetition*. Chapters 1, 2, and 5.
 - Deleuze, Gilles, and Félix Guattari. *What Is Philosophy?*
-- Merleau-Ponty, Maurice. *Nature: Course Notes from the Collège de France*. Course 1, Parts 1–2; Course 2.
-- Merleau-Ponty, Maurice. *Phenomenology of Perception*.
-- Ruyer, Raymond. *Neofinalism*.
-- Stein, Edith. *Finite and Eternal Being*.
-- Stein, Edith. *On the Problem of Empathy*.
-- Stein, Edith. *Potency and Act*.
-- Stein, Edith. *The Science of the Cross*.
+- [Merleau-Ponty, Maurice](../concepts/Maurice%20Merleau-Ponty.md). *Nature: Course Notes from the Collège de France*. Course 1, Parts 1–2; Course 2.
+- [Merleau-Ponty, Maurice](../concepts/Maurice%20Merleau-Ponty.md). *Phenomenology of Perception*.
+- [Ruyer, Raymond](../concepts/Ruyer.md). *Neofinalism*.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *Finite and Eternal Being*.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *On the Problem of Empathy*.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *Potency and Act*.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *The Science of the Cross*.
 - John of the Cross. Selections from *The Ascent of Mount Carmel* and *The Dark Night*.
 
 ### Selected interlocutors and bridge readings
@@ -72,14 +72,14 @@ The second comprehensive examination asks whether ecological intentionality can 
 
 ### Constitution, embodiment, and otherness
 
-- Husserl, Edmund. *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book: Studies in the Phenomenology of Constitution*. Translated by Richard Rojcewicz and André Schuwer. Dordrecht: Kluwer Academic Publishers, 1989.
-- Stein, Edith. *On the Problem of Empathy*. Translated by Waltraut Stein. 3rd rev. ed. Washington, DC: ICS Publications, 1989.
-- Stein, Edith. *Finite and Eternal Being: An Attempt at an Ascent to the Meaning of Being*. Translated by Kurt F. Reinhardt. Washington, DC: ICS Publications, 2002.
-- Merleau-Ponty, Maurice. *Phenomenology of Perception*. Translated by Donald A. Landes. London: Routledge, 2012.
-- Merleau-Ponty, Maurice. *The Visible and the Invisible*. Edited by Claude Lefort. Translated by Alphonso Lingis. Evanston, IL: Northwestern University Press, 1968.
-- Ruyer, Raymond. *Neofinalism*. Translated by Alyosha Edlebi. Minneapolis: University of Minnesota Press, 2016.
+- [Husserl, Edmund](../concepts/Husserl.md). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book: Studies in the Phenomenology of Constitution*. Translated by Richard Rojcewicz and André Schuwer. Dordrecht: Kluwer Academic Publishers, 1989.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *On the Problem of Empathy*. Translated by Waltraut Stein. 3rd rev. ed. Washington, DC: ICS Publications, 1989.
+- [Stein, Edith](../concepts/Edith%20Stein.md). *Finite and Eternal Being: An Attempt at an Ascent to the Meaning of Being*. Translated by Kurt F. Reinhardt. Washington, DC: ICS Publications, 2002.
+- [Merleau-Ponty, Maurice](../concepts/Maurice%20Merleau-Ponty.md). *Phenomenology of Perception*. Translated by Donald A. Landes. London: Routledge, 2012.
+- [Merleau-Ponty, Maurice](../concepts/Maurice%20Merleau-Ponty.md). *The Visible and the Invisible*. Edited by Claude Lefort. Translated by Alphonso Lingis. Evanston, IL: Northwestern University Press, 1968.
+- [Ruyer, Raymond](../concepts/Ruyer.md). *Neofinalism*. Translated by Alyosha Edlebi. Minneapolis: University of Minnesota Press, 2016.
 
-These texts are especially important for the public threads on Attention, Remainder, and Vegetal Encounter: what is given, what is inferred, what belongs to another living center, and what remains inaccessible.
+These texts are especially important for the public threads on [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), and [Vegetal Encounter](../concepts/Vegetal%20Encounter.md): what is given, what is inferred, what belongs to another living center, and what remains inaccessible.
 
 ### Participation, creation, and the Ecology of the Cross
 
@@ -92,8 +92,8 @@ These sources test whether cruciformity belongs only to the formation of a human
 
 ### Place, memory, and structural accountability
 
-- Harris, Melanie L. *Ecowomanism: African American Women and Earth-Honoring Faiths*. Maryknoll, NY: Orbis Books, 2017.
-- Harris, Melanie L. “Ecowomanism: An Introduction.” *Worldviews: Global Religions, Culture, and Ecology* 20, no. 1 (2016): 5–14.
+- [Harris, Melanie L.](../concepts/Melanie%20Harris.md) *Ecowomanism: African American Women and Earth-Honoring Faiths*. Maryknoll, NY: Orbis Books, 2017.
+- [Harris, Melanie L.](../concepts/Melanie%20Harris.md) “Ecowomanism: An Introduction.” *Worldviews: Global Religions, Culture, and Ecology* 20, no. 1 (2016): 5–14.
 - Manigault-Bryant, LeRhonda S. *Talking to the Dead: Religion, Music, and Lived Memory among Gullah/Geechee Women*. Durham, NC: Duke University Press, 2014.
 
 These texts matter because perceptual attention cannot by itself establish the histories of race, gender, land, dispossession, memory, and structural power that make a place what it is. Merleau-Ponty’s own account of social and historical situation makes the comparison more demanding: Harris and Manigault-Bryant are not here to add “history” to an otherwise ahistorical phenomenology, but to press questions of whose experience and memory guide ecological knowing, what evidential practices establish particular histories, and how inquiry moves toward accountability and praxis.
@@ -104,14 +104,14 @@ These readings are not all part of the formal Comps II contract. They are includ
 
 ### Place, agency, reciprocity
 
-- Watts, Vanessa. “Indigenous Place-Thought & Agency Amongst Humans and Non-Humans (First Woman and Sky Woman Go on a European World Tour!).” *Decolonization: Indigeneity, Education & Society* 2, no. 1 (2013): 20–34.
-- Kimmerer, Robin Wall. *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants*. Minneapolis: Milkweed Editions, 2013.
+- [Watts, Vanessa](../concepts/Vanessa%20Watts.md). “Indigenous Place-Thought & Agency Amongst Humans and Non-Humans (First Woman and Sky Woman Go on a European World Tour!).” *Decolonization: Indigeneity, Education & Society* 2, no. 1 (2013): 20–34.
+- [Kimmerer, Robin Wall](../concepts/Robin%20Wall%20Kimmerer.md). *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants*. Minneapolis: Milkweed Editions, 2013.
 
-Watts and Kimmerer are important to Place and Agency, but they should not be treated as Indigenous confirmations of a pre-existing European phenomenology. Their work presses the project to ask whether relation begins from a human perceiver at all, and what obligations follow when place and nonhuman agency are taken seriously on their own terms.
+Watts and Kimmerer are important to [Place and Agency](../concepts/Place%20and%20Agency.md), but they should not be treated as Indigenous confirmations of a pre-existing European phenomenology. Their work presses the project to ask whether relation begins from a human perceiver at all, and what obligations follow when place and nonhuman agency are taken seriously on their own terms.
 
 ### Genealogies of intentionality, habit, and self-presence
 
-- Brentano, Franz. *Psychology from an Empirical Standpoint*. Translated by Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister. London: Routledge, 1973/1995.
+- [Brentano, Franz](../concepts/Franz%20Brentano.md). *Psychology from an Empirical Standpoint*. Translated by Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister. London: Routledge, 1973/1995.
 - Ravaisson, Félix. *Of Habit*. Translated by Clare Carlisle and Mark Sinclair. London: Continuum, 2008.
 
 Brentano and Ravaisson help clarify two genealogies running behind the project: the modern account of intentionality and inner awareness, and the Aristotelian line of activity, habit, inclination, and living form that runs toward Bergson.

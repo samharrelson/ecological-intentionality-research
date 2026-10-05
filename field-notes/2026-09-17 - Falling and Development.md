@@ -33,20 +33,20 @@ Years of attention may make the appearance of this walnut temporally richer. The
 
 ## Research Connection
 
-Husserl distinguishes the just-past held within an unfolding present from the active recollection of an earlier event, and immediate protention from longer-range anticipation. The falling leaf and yesterday’s canopy therefore involve different temporal achievements. His account of habit also suggests that repeated encounters can persist as an implicit horizon of similar memories, so familiarity may shape what becomes salient without requiring explicit recollection each time. His account gives temporal, habitual, and horizonal synthesis its strongest explanatory role before a new category is introduced.
+[Husserl](../concepts/Husserl.md) distinguishes the just-past held within an unfolding present from the active recollection of an earlier event, and immediate protention from longer-range anticipation. The falling leaf and yesterday’s canopy therefore involve different temporal achievements. His account of habit also suggests that repeated encounters can persist as an implicit horizon of similar memories, so familiarity may shape what becomes salient without requiring explicit recollection each time. His account gives temporal, habitual, and horizonal synthesis its strongest explanatory role before a new category is introduced.
 
-Edith Stein complicates the result. In *On the Problem of Empathy*, she treats growth and development as phenomena of life, says that development itself, not only its results, is given, and distinguishes this from merely verifying separate stages of development. She also allows qualified empathic fulfillment in the plant case while withholding an awake I, reflective consciousness, and settled claims about vegetal sensation. Her physician-and-gardener comparison further distinguishes cultivated apprehension of a life-condition from later causal diagnosis. Her claim therefore cannot simply mean that development is visibly present all at once.
+[Edith Stein](../concepts/Edith%20Stein.md) complicates the result. In *On the Problem of Empathy*, she treats growth and development as phenomena of life, says that development itself, not only its results, is given, and distinguishes this from merely verifying separate stages of development. She also allows qualified empathic fulfillment in the plant case while withholding an awake I, reflective consciousness, and settled claims about vegetal sensation. Her physician-and-gardener comparison further distinguishes cultivated apprehension of a life-condition from later causal diagnosis. Her claim therefore cannot simply mean that development is visibly present all at once.
 
-The sit makes Attention answerable to correction: cultivated perception is not self-validating if the concepts guiding it can only confirm themselves. It also sharpens Remainder, because the walnut’s longer development is not contained in one visible instant, and even its disclosure as living does not amount to access to vegetal experience.
+The sit makes [Attention](../concepts/Attention.md) answerable to correction: cultivated perception is not self-validating if the concepts guiding it can only confirm themselves. It also sharpens [Remainder](../concepts/Remainder.md), because the walnut’s longer development is not contained in one visible instant, and even its disclosure as living does not amount to access to vegetal experience.
 
-For Ecological Intentionality, this becomes a redundancy test. If Husserl’s temporal synthesis, habit, and horizonality explain the whole phenomenon, the term should not duplicate them. If something remains, it must be identified after that account has done its strongest work. One possibility now under test is that Husserl explains how the appearances belong together while Stein helps clarify how they become intelligible specifically as phenomena of life. That remains an interpretive hypothesis, not a settled conclusion.
+For [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), this becomes a redundancy test. If Husserl’s temporal synthesis, habit, and horizonality explain the whole phenomenon, the term should not duplicate them. If something remains, it must be identified after that account has done its strongest work. One possibility now under test is that Husserl explains how the appearances belong together while Stein helps clarify how they become intelligible specifically as phenomena of life. That remains an interpretive hypothesis, not a settled conclusion.
 
 ## Question Carried Forward
 
 **Once Husserl has explained how the walnut’s appearances belong together across time and habit, what warrants apprehending them specifically as the development of life, and is that transition what Stein means by vegetal empathic fulfillment?**
 
-Related threads: Attention · Remainder · Ecological Intentionality
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md)
 
-Thinkers: Husserl · Edith Stein
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md)
 
 Browse: #husserl · #edithstein

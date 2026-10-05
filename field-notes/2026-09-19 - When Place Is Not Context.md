@@ -37,22 +37,22 @@ The philosophical question lies in the distance between those sentences.
 
 ## Research Connection
 
-Franz Brentano gives the first discipline. Mental acts are directed toward objects in different ways, and awareness of the act belongs to the same act rather than requiring a second inner observer. His striking methodological point is that I can notice my seeing only while attention remains directed toward something else. That closely matches today’s attempt to notice *that I am seeing* without replacing the walnut with self-observation.
+[Franz Brentano](../concepts/Franz%20Brentano.md) gives the first discipline. Mental acts are directed toward objects in different ways, and awareness of the act belongs to the same act rather than requiring a second inner observer. His striking methodological point is that I can notice my seeing only while attention remains directed toward something else. That closely matches today’s attempt to notice *that I am seeing* without replacing the walnut with self-observation.
 
-Husserl helps distinguish an appearing thing’s motivation of attention from a real causal relation. His account can describe attention as responsive and embodied without treating the walnut as an intending subject. That strengthens the demand that Ecological Intentionality not claim novelty for structures phenomenology already possesses.
+[Husserl](../concepts/Husserl.md) helps distinguish an appearing thing’s motivation of attention from a real causal relation. His account can describe attention as responsive and embodied without treating the walnut as an intending subject. That strengthens the demand that [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) not claim novelty for structures phenomenology already possesses.
 
-Edith Stein supplies another discipline through her physician-and-gardener comparison: cultivated apprehension of a living condition is distinct from causal diagnosis. Because Stein places this within her account of empathic comprehension, however, the passage does not by itself establish that a condition such as vigor or decline is simply *visually perceived*. That keeps both the condition/cause distinction and the mode of vegetal givenness open.
+[Edith Stein](../concepts/Edith%20Stein.md) supplies another discipline through her physician-and-gardener comparison: cultivated apprehension of a living condition is distinct from causal diagnosis. Because Stein places this within her account of empathic comprehension, however, the passage does not by itself establish that a condition such as vigor or decline is simply *visually perceived*. That keeps both the condition/cause distinction and the mode of vegetal givenness open.
 
-Vanessa Watts changes the pressure more radically. Writing specifically from Haudenosaunee and Anishnaabe cosmological framings, she describes Place-Thought as a space in which place and thought “were never separated because they never could or can be separated.” Land is not context for thought but, in her account, alive and thinking; human and nonhuman agency are implicated in that frame from the outset. Watts even speaks of the land’s “intentions” and “land’s intentionality,” but that lexical overlap should not be mistaken for Brentano’s or Husserl’s technical sense of intentionality. Watts also warns against turning Indigenous histories into abstract resources for Western theory. Place-Thought therefore should not be translated immediately into Husserlian horizon, reduced to the formula “relation precedes relata,” or used as confirmation that everything is relational.
+[Vanessa Watts](../concepts/Vanessa%20Watts.md) changes the pressure more radically. Writing specifically from Haudenosaunee and Anishnaabe cosmological framings, she describes Place-Thought as a space in which place and thought “were never separated because they never could or can be separated.” Land is not context for thought but, in her account, alive and thinking; human and nonhuman agency are implicated in that frame from the outset. Watts even speaks of the land’s “intentions” and “land’s intentionality,” but that lexical overlap should not be mistaken for Brentano’s or Husserl’s technical sense of intentionality. Watts also warns against turning Indigenous histories into abstract resources for Western theory. Place-Thought therefore should not be translated immediately into Husserlian horizon, reduced to the formula “relation precedes relata,” or used as confirmation that everything is relational.
 
-This brings Attention into direct contact with Place and Agency. The question is whether place is more content within a human intentional field, or whether the perceiver-centered architecture itself has become the problem.
+This brings [Attention](../concepts/Attention.md) into direct contact with [Place and Agency](../concepts/Place%20and%20Agency.md). The question is whether place is more content within a human intentional field, or whether the perceiver-centered architecture itself has become the problem.
 
 ## Question Carried Forward
 
 **Does ecological intentionality enrich the human act of attending, or does ecological relation require questioning why that act was granted priority, and what kind of “before” is at stake when place and relation are said to precede it?**
 
-Related threads: Attention · Ecological Intentionality · Place and Agency
+Related threads: [Attention](../concepts/Attention.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Place and Agency](../concepts/Place%20and%20Agency.md)
 
-Thinkers: Franz Brentano · Husserl · Edith Stein · Vanessa Watts
+Thinkers: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md)
 
 Browse: #brentano · #husserl · #edithstein · #vanessawatts

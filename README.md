@@ -28,7 +28,7 @@ It intentionally excludes private field journals, Daily Notes, unpublished CIIS 
 
 The public workflow is:
 
-**sit → private field note → philosophical analysis → research integration → curated public field note → public research layer**
+**sit → private field note → philosophical analysis → research integration → curated public field note → verified website publication → versioned public research record**
 
 ## Current research pressure
 
@@ -57,36 +57,14 @@ field-notes/   Curated public sits
 concepts/      Public concept and thinker pages
 project/       Orientation pages such as "Where the Inquiry Stands"
 method/        Public descriptions of the field practice and templates
-scripts/       Local export, link conversion, privacy checks, and publishing helpers
-automation/    Optional macOS scheduling instructions
+scripts/       Guarded export and publication helpers
 ```
 
-## Automation philosophy
+## Publication model
 
-Automation here is deliberately conservative.
+The repository records material that has **already** crossed a deliberate public boundary; it does not decide what becomes public. The local exporter reads only an explicit allowlist under `Public/Tracking`, converts links only when their targets are also public, and flattens unresolved or non-public Obsidian links to plain text. A privacy guard runs before commits are pushed, and GitHub Actions validates the public layer again after each push.
 
-The sync script accepts only material under `Public/Tracking` in the Obsidian vault and copies only an explicit allowlist of public subfolders/files. It will not crawl the whole vault. A privacy guard scans the exported repository for private-path markers before publication.
-
-The default command is a dry run:
-
-```bash
-python3 scripts/sync_public_research.py --vault "/path/to/your/Obsidian/vault" --repo .
-```
-
-To write changes:
-
-```bash
-python3 scripts/sync_public_research.py --vault "/path/to/your/Obsidian/vault" --repo . --apply
-python3 scripts/privacy_guard.py .
-```
-
-To sync, validate, commit, and push in one step:
-
-```bash
-./scripts/publish.sh "/path/to/your/Obsidian/vault"
-```
-
-Do not schedule unattended publishing until the manual workflow has been used enough to earn trust.
+Implementation details and local commands live in [`SETUP.md`](SETUP.md) and [`PUBLIC-SOURCE-MAP.md`](PUBLIC-SOURCE-MAP.md) so the repository front page can remain centered on the research rather than the plumbing.
 
 ## Public scholarship and provenance
 

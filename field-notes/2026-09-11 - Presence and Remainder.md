@@ -41,18 +41,18 @@ This creates an important distinction. The unseen reverse side of a trunk is not
 
 ## Research Connection
 
-Much of this encounter can be described through ordinary structures of embodied perception: changing profiles, bodily movement, memory of previous appearances, and anticipation of unseen ones. That matters for Ecological Intentionality. If ecological intentionality is doing real philosophical work, it cannot simply rename structures already available in phenomenology.
+Much of this encounter can be described through ordinary structures of embodied perception: changing profiles, bodily movement, memory of previous appearances, and anticipation of unseen ones. That matters for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). If ecological intentionality is doing real philosophical work, it cannot simply rename structures already available in phenomenology.
 
 A possibility emerging from the practice is that ecological intentionality may be less a wholly new kind of intentional act than a **discipline or education of intentional life**: sustained attention that makes increasingly explicit the transitions among perception, memory, inference, attribution, anticipation, and interpretation.
 
-That discipline also bears on Remainder. Intimacy may deepen not because remainder disappears, but because attention becomes more precise about what is given and what remains inaccessible.
+That discipline also bears on [Remainder](../concepts/Remainder.md). Intimacy may deepen not because remainder disappears, but because attention becomes more precise about what is given and what remains inaccessible.
 
 ## Question Carried Forward
 
 **What distinguishes the horizonal excess of a perceptual object from the non-primordially given interiority of another living center?**
 
-Related threads: Attention · Remainder · Ecological Intentionality · Vegetal Encounter
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Husserl · Edith Stein · Maurice Merleau-Ponty
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md)
 
 Browse: #husserl · #edithstein · #MerleauPonty

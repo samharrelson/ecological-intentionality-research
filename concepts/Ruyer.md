@@ -11,7 +11,7 @@ For now, his public role remains deliberately prospective. The current walnut se
 
 - *Neofinalism*: organismic form, self-survey, finality, value, and the question of whether living unity requires a metaphysical account stronger than phenomenological constitution alone.
 
-Related: Ecological Intentionality · Vegetal Encounter · Sources & Reading
+Related: [Ecological Intentionality](Ecological%20Intentionality.md) · [Vegetal Encounter](Vegetal%20Encounter.md) · [Sources & Reading](../project/sources-and-reading.md)
 
 Browse: #ruyer
 

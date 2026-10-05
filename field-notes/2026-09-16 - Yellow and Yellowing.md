@@ -33,20 +33,20 @@ The word *unfolding* must still be earned. Temporal persistence alone does not d
 
 ## Research Connection
 
-Husserl helps hold open the perceptual middle ground. In *Ideas II*, straightforward perception already involves sensuous synthesis rather than neutral sensations later unified by judgment. *Ideas I* sharpens the temporal problem further: retention is not the same as recollection, and protention is not the same as explicit anticipation. Watching a walnut fall during the sit and remembering yesterday’s greener canopy therefore involve different temporal achievements. Temporal identity through change is also not unique to living beings, so Husserl presses rather than settles the difference between an enduring unity and a developing life.
+[Husserl](../concepts/Husserl.md) helps hold open the perceptual middle ground. In *Ideas II*, straightforward perception already involves sensuous synthesis rather than neutral sensations later unified by judgment. *Ideas I* sharpens the temporal problem further: retention is not the same as recollection, and protention is not the same as explicit anticipation. Watching a walnut fall during the sit and remembering yesterday’s greener canopy therefore involve different temporal achievements. Temporal identity through change is also not unique to living beings, so Husserl presses rather than settles the difference between an enduring unity and a developing life.
 
-Edith Stein names growth and development among the phenomena of life and writes that “the development and not only its results, is given to us.” Yet this occurs within her discussion of empathic comprehension, so *given* should not simply be equated with *visually perceived*. Her account of a physician’s “schooled view,” followed by a comparison to the gardener who sees plants thriving, ailing, recovering, or dying, offers a model of cultivated Attention that is not simply causal diagnosis.
+[Edith Stein](../concepts/Edith%20Stein.md) names growth and development among the phenomena of life and writes that “the development and not only its results, is given to us.” Yet this occurs within her discussion of empathic comprehension, so *given* should not simply be equated with *visually perceived*. Her account of a physician’s “schooled view,” followed by a comparison to the gardener who sees plants thriving, ailing, recovering, or dying, offers a model of cultivated [Attention](../concepts/Attention.md) that is not simply causal diagnosis.
 
-The boundary matters for Remainder and Vegetal Encounter: I may perceive the walnut’s development without perceiving the walnut’s experience. The manifestation of life does not automatically give access to psychic or experiential interiority.
+The boundary matters for [Remainder](../concepts/Remainder.md) and [Vegetal Encounter](../concepts/Vegetal%20Encounter.md): I may perceive the walnut’s development without perceiving the walnut’s experience. The manifestation of life does not automatically give access to psychic or experiential interiority.
 
-That distinction suggests a provisional task for Ecological Intentionality: remaining attentive to another living development without requiring that the other become experientially available to me. This is a constructive proposal from the sit, not a claim attributed to Husserl or Stein.
+That distinction suggests a provisional task for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md): remaining attentive to another living development without requiring that the other become experientially available to me. This is a constructive proposal from the sit, not a claim attributed to Husserl or Stein.
 
 ## Question Carried Forward
 
 **What distinguishes perceiving the walnut as developing from knowing that it has changed, and can that distinction be described without importing an organismic metaphysics before the encounter has earned it?**
 
-Related threads: Attention · Remainder · Ecological Intentionality · Vegetal Encounter
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Husserl · Edith Stein
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md)
 
 Browse: #husserl · #edithstein

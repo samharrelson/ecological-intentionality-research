@@ -37,16 +37,16 @@ That uncertainty does not make the walnut less alive or less itself. It places a
 
 Edith Stein’s account of empathy distinguishes the givenness of another’s experience from an inference based on outward signs, but she does not restrict empathy to expression in the narrow symbolic sense. In her discussion of sensual empathy, foreign sensation can be given without being expressed as sadness is expressed in a countenance. More surprisingly, Stein also allows a qualified empathic fulfillment of the “phenomena of life” in plants while withholding stronger claims about an awake I, reflective consciousness, or settled plant sensation.
 
-That makes the walnut a sharper test for Ecological Intentionality. Perhaps it is not empathy expanded outward across the more-than-human world. It may instead name a practice of remaining in relation when empathic access is partial, uncertain, or reaches a limit.
+That makes the walnut a sharper test for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). Perhaps it is not empathy expanded outward across the more-than-human world. It may instead name a practice of remaining in relation when empathic access is partial, uncertain, or reaches a limit.
 
-That possibility sharpens Remainder. The limit is not merely a lack of information that more observation will cure. It may belong to the truth of this Vegetal Encounter: the walnut can resist becoming either an object fully known or an interior life imaginatively supplied.
+That possibility sharpens [Remainder](../concepts/Remainder.md). The limit is not merely a lack of information that more observation will cure. It may belong to the truth of this [Vegetal Encounter](../concepts/Vegetal%20Encounter.md): the walnut can resist becoming either an object fully known or an interior life imaginatively supplied.
 
 ## Question Carried Forward
 
 **Can the walnut be genuinely other to me even if no foreign experience is given through its embodiment, and, if so, what kind of relation remains when empathic access reaches its limit?**
 
-Related threads: Ecological Intentionality · Remainder · Vegetal Encounter
+Related threads: [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Remainder](../concepts/Remainder.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Edith Stein · Husserl
+Thinkers: [Edith Stein](../concepts/Edith%20Stein.md) · [Husserl](../concepts/Husserl.md)
 
 Browse: #edithstein · #husserl

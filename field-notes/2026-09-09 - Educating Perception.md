@@ -33,16 +33,16 @@ The walnut’s otherness has to remain capable of resisting my interpretation. E
 
 ## Research Connection
 
-This sit presses on Ecological Intentionality in a useful way. Perhaps ecological intentionality need not name a wholly new intentional structure. It may instead name an **education or formation of intentionality through sustained ecological attention**: a discipline in which features once available mainly through inference become increasingly perceptually salient over time.
+This sit presses on [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) in a useful way. Perhaps ecological intentionality need not name a wholly new intentional structure. It may instead name an **education or formation of intentionality through sustained ecological attention**: a discipline in which features once available mainly through inference become increasingly perceptually salient over time.
 
-That possibility also connects Attention, Remainder, and Place and Agency. Increased familiarity need not erase otherness. The question is whether intimacy can deepen while the walnut remains irreducible to the concepts through which I understand it.
+That possibility also connects [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), and [Place and Agency](../concepts/Place%20and%20Agency.md). Increased familiarity need not erase otherness. The question is whether intimacy can deepen while the walnut remains irreducible to the concepts through which I understand it.
 
 ## Question Carried Forward
 
 **In the passage from material body to living center, what exactly is perceived, what is inferred, and what is contributed by prior conceptual formation?**
 
-Related threads: Attention · Remainder · Ecological Intentionality · Place and Agency · Vegetal Encounter
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Place and Agency](../concepts/Place%20and%20Agency.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Husserl
+Thinkers: [Husserl](../concepts/Husserl.md)
 
 Browse: #husserl

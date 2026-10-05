@@ -12,13 +12,13 @@ Her role is methodological rather than illustrative. Harris pressures any accoun
 - *Ecowomanism: African American Women and Earth-Honoring Faiths*: ecowomanist method, eco-memory, earth-honoring faith, environmental justice, and praxis.
 - “Ecowomanism: An Introduction”: Black women’s lived experience, womanist intersectional analysis, ecological justice, agency, and earth community.
 
-Related: Attention · Ecological Intentionality · Place and Agency · Sources & Reading
+Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md) · [Place and Agency](Place%20and%20Agency.md) · [Sources & Reading](../project/sources-and-reading.md)
 
 Browse: #melanieharris
 
 ## From the sits
 
-- October 5, 2026: Difference Need Not Mean Separation
-- October 4, 2026: One Shared Field, No Single Good
-- October 3, 2026: The Past Is Present Without Being Transparent
-- October 2, 2026: Whose “I Can” Is This?
+- [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
+- [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)
+- [October 3, 2026: The Past Is Present Without Being Transparent](../field-notes/2026-10-03%20-%20The%20Past%20Is%20Present%20Without%20Being%20Transparent.md)
+- [October 2, 2026: Whose “I Can” Is This?](../field-notes/2026-10-02%20-%20Whose%20I%20Can%20Is%20This.md)

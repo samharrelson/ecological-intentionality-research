@@ -33,20 +33,20 @@ That formulation remains provisional. It describes how the walnut became intelli
 
 ## Research Connection
 
-This sit returns to Attention as an education of perception. Repeated encounters may make growth, continuity, and seasonal change more salient. They may also make perception more saturated by biological and philosophical concepts. The practice therefore needs the discipline of Remainder: the walnut must remain capable of resisting the framework that taught me what to notice.
+This sit returns to [Attention](../concepts/Attention.md) as an education of perception. Repeated encounters may make growth, continuity, and seasonal change more salient. They may also make perception more saturated by biological and philosophical concepts. The practice therefore needs the discipline of [Remainder](../concepts/Remainder.md): the walnut must remain capable of resisting the framework that taught me what to notice.
 
-For Ecological Intentionality, the emerging possibility remains moderate. It may name a disciplined organization of perception, memory, anticipation, inference, and interpretation rather than a wholly new structure of intentionality. Husserl complicates the question in both directions. In *Ideas II* §9, straightforward perception is already a non-spontaneous sensuous synthesis: a thing can present itself as a unity before concepts or predicative judgments explicitly intervene. But §§15e–16 also show that temporal identity through change is not enough to distinguish life; an enduring tone, too, is grasped as one through temporal continuity. Organized persistence therefore does not by itself explain why change appears as the development of a living form.
+For [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), the emerging possibility remains moderate. It may name a disciplined organization of perception, memory, anticipation, inference, and interpretation rather than a wholly new structure of intentionality. Husserl complicates the question in both directions. In *Ideas II* §9, straightforward perception is already a non-spontaneous sensuous synthesis: a thing can present itself as a unity before concepts or predicative judgments explicitly intervene. But §§15e–16 also show that temporal identity through change is not enough to distinguish life; an enduring tone, too, is grasped as one through temporal continuity. Organized persistence therefore does not by itself explain why change appears as the development of a living form.
 
 Stein sharpens the other side of the problem. In *On the Problem of Empathy* III.5(i), she names growth, development, aging, health and sickness, vigor and sluggishness as “phenomena of life,” and her example of the physician’s “schooled view” distinguishes cultivated perceptual discrimination from later causal diagnosis. She immediately compares this to the gardener who sees plants as thriving, ailing, recovering, or dying. That gives this field practice a useful test: sustained attention may genuinely educate perception without thereby granting access to vegetal interiority.
 
-This remains a Vegetal Encounter, not evidence that I have gained access to a plant’s inner experience. Perceiving a living organization and encountering a foreign experiential interiority are different claims.
+This remains a [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), not evidence that I have gained access to a plant’s inner experience. Perceiving a living organization and encountering a foreign experiential interiority are different claims.
 
 ## Question Carried Forward
 
 **What kind of synthesis lets changing sensible features appear as the development of a living form rather than merely as successive states of an enduring thing, and how can I distinguish perception educated by sustained attention from perception merely saturated by the concepts that trained it?**
 
-Related threads: Attention · Remainder · Ecological Intentionality · Vegetal Encounter
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Husserl · Edith Stein
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md)
 
 Browse: #husserl · #edithstein

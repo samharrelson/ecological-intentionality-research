@@ -9,7 +9,7 @@ from pathlib import Path
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
 SCAN_DIRS = ["field-notes", "concepts", "project", "method"]
 
-# These are structural/path-like leak indicators, not ordinary words.
+# Structural/path-like leak indicators, not ordinary methodological prose.
 BLOCKED_PATTERNS = {
     "absolute macOS user path": re.compile(r"/Users/[^/\s]+/", re.I),
     "Daily Notes path": re.compile(r"(?:^|[\s(\[`\"'])Daily Notes/", re.I),
@@ -28,6 +28,7 @@ for dirname in SCAN_DIRS:
     d = ROOT / dirname
     if not d.exists():
         continue
+
     for p in d.rglob("*"):
         if not p.is_file() or p.name == ".gitkeep":
             continue

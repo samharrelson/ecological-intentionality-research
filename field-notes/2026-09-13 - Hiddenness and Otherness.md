@@ -36,18 +36,18 @@ The encounter did not settle that claim. Growth, damage, continuing form, season
 
 ## Research Connection
 
-This sit sharpens Remainder by locating a possible break between perspectival incompleteness and irreducible alterity. Some of the walnut’s absence can be overcome through movement; some can be approached through memory, repeated encounter, or scientific knowledge. Whether another kind remains is still an open question.
+This sit sharpens [Remainder](../concepts/Remainder.md) by locating a possible break between perspectival incompleteness and irreducible alterity. Some of the walnut’s absence can be overcome through movement; some can be approached through memory, repeated encounter, or scientific knowledge. Whether another kind remains is still an open question.
 
-For Ecological Intentionality, the result is methodological. The practice can train attention to distinguish perception, memory, anticipation, inference, and attribution without claiming privileged access to the walnut’s inner life. Its work may begin by making the transition from living organization to interiority visible as a problem.
+For [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), the result is methodological. The practice can train attention to distinguish perception, memory, anticipation, inference, and attribution without claiming privileged access to the walnut’s inner life. Its work may begin by making the transition from living organization to interiority visible as a problem.
 
-The walnut remains a Vegetal Encounter because it resists becoming an example of a settled theory. Edith Stein’s account of non-primordial access to another’s experience cannot simply be transferred to plant life. The plant case may invite an analogy, or it may expose the limit of empathy proper.
+The walnut remains a [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) because it resists becoming an example of a settled theory. Edith Stein’s account of non-primordial access to another’s experience cannot simply be transferred to plant life. The plant case may invite an analogy, or it may expose the limit of empathy proper.
 
 ## Question Carried Forward
 
 **What in the encounter warrants the move from perceived living organization to irreducible interiority rather than horizonal or epistemic absence?**
 
-Related threads: Remainder · Ecological Intentionality · Vegetal Encounter
+Related threads: [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md)
 
-Thinkers: Husserl · Edith Stein · Maurice Merleau-Ponty
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md)
 
 Browse: #husserl · #edithstein · #MerleauPonty

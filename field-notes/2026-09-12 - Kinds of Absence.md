@@ -46,11 +46,11 @@ The first two do not automatically establish the third.
 
 ## Research Connection
 
-This sharpens the meaning of Remainder. Remainder cannot simply mean everything I have not yet perceived or learned. Some absence can be overcome through movement. Some can be reduced through memory, repeated encounter, or scientific knowledge. A genuinely irreducible otherness, if there is one, would be different in kind.
+This sharpens the meaning of [Remainder](../concepts/Remainder.md). Remainder cannot simply mean everything I have not yet perceived or learned. Some absence can be overcome through movement. Some can be reduced through memory, repeated encounter, or scientific knowledge. A genuinely irreducible otherness, if there is one, would be different in kind.
 
-That distinction matters for Ecological Intentionality. The practice may not give privileged access to another being’s hidden interiority. Its philosophical work may instead lie in training attention to distinguish what is perceptually given, what is inferred, and what must remain unresolved rather than filled in by projection.
+That distinction matters for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). The practice may not give privileged access to another being’s hidden interiority. Its philosophical work may instead lie in training attention to distinguish what is perceptually given, what is inferred, and what must remain unresolved rather than filled in by projection.
 
-The black walnut continues to function as a Vegetal Encounter in precisely this sense: not an illustration of a finished philosophy, but a test case that can refuse the concepts brought to it.
+The black walnut continues to function as a [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) in precisely this sense: not an illustration of a finished philosophy, but a test case that can refuse the concepts brought to it.
 
 This also keeps a question from Edith Stein in view. Non-primordiality names a form of access to another’s experience without that experience becoming primordial for me. Whether anything analogous occurs across the human–plant difference remains an open question, not a conclusion.
 
@@ -58,8 +58,8 @@ This also keeps a question from Edith Stein in view. Non-primordiality names a f
 
 **Does the walnut give any phenomenological warrant for distinguishing the alterity of another living center from the ordinary horizonal incompleteness of a perceptual object?**
 
-Related threads: Remainder · Ecological Intentionality · Vegetal Encounter · Attention
+Related threads: [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) · [Attention](../concepts/Attention.md)
 
-Thinkers: Husserl · Edith Stein
+Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md)
 
 Browse: #husserl · #edithstein

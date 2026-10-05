@@ -38,20 +38,20 @@ That remains a question-bearing formulation. It does not make the walnut an inte
 
 ## Research Connection
 
-Franz Brentano supplies a strict starting point: an act is directed toward something, different kinds of act must remain distinct, and awareness of an act need not become a second act of inner observation. That made it possible to notice attending without abandoning the walnut for an inward spectator.
+[Franz Brentano](../concepts/Franz%20Brentano.md) supplies a strict starting point: an act is directed toward something, different kinds of act must remain distinct, and awareness of an act need not become a second act of inner observation. That made it possible to notice attending without abandoning the walnut for an inward spectator.
 
-Husserl complicates the simple act–object picture. The same walnut is given differently as perceived now, remembered from yesterday, anticipated next month, judged as changing, or valued through long familiarity. He also distinguishes the intentional or motivational relation from the real causal relation, while allowing experienced things to arouse interest and redirect attention. This gives the redundancy objection its strongest form: Ecological Intentionality should not rename structures phenomenology already describes, or solve a change of explanatory level by inventing a new intentional structure.
+[Husserl](../concepts/Husserl.md) complicates the simple act–object picture. The same walnut is given differently as perceived now, remembered from yesterday, anticipated next month, judged as changing, or valued through long familiarity. He also distinguishes the intentional or motivational relation from the real causal relation, while allowing experienced things to arouse interest and redirect attention. This gives the redundancy objection its strongest form: [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) should not rename structures phenomenology already describes, or solve a change of explanatory level by inventing a new intentional structure.
 
-Edith Stein keeps another limit visible. The walnut appears as living and developing, but that does not grant primordial access to vegetal experience, an awake I, or reflective consciousness. Her physician-and-gardener comparison is useful here: apprehending a living condition such as thriving, ailing, or recovering is not the same achievement as causally explaining why that condition obtains. Her account of vegetal phenomena of life may still disclose something beyond object-synthesis, but that difference remains to be established.
+[Edith Stein](../concepts/Edith%20Stein.md) keeps another limit visible. The walnut appears as living and developing, but that does not grant primordial access to vegetal experience, an awake I, or reflective consciousness. Her physician-and-gardener comparison is useful here: apprehending a living condition such as thriving, ailing, or recovering is not the same achievement as causally explaining why that condition obtains. Her account of vegetal phenomena of life may still disclose something beyond object-synthesis, but that difference remains to be established.
 
-The sit therefore joins Attention to Place and Agency. The question is not simply what the human act intends, but how that act is situated within conditions and relations already underway. Remainder names what those acts, taken together, still do not make present or exhaust.
+The sit therefore joins [Attention](../concepts/Attention.md) to [Place and Agency](../concepts/Place%20and%20Agency.md). The question is not simply what the human act intends, but how that act is situated within conditions and relations already underway. [Remainder](../concepts/Remainder.md) names what those acts, taken together, still do not make present or exhaust.
 
 ## Question Carried Forward
 
 **How far can phenomenology describe an encounter whose conditions exceed the focal act of the human perceiver, and what is already underway, materially and phenomenologically, before the perceiver–object relation becomes focal?**
 
-Related threads: Attention · Remainder · Ecological Intentionality · Place and Agency
+Related threads: [Attention](../concepts/Attention.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Place and Agency](../concepts/Place%20and%20Agency.md)
 
-Thinkers: Franz Brentano · Husserl · Edith Stein
+Thinkers: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md)
 
 Browse: #brentano · #husserl · #edithstein
