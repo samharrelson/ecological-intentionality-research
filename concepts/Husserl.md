@@ -10,7 +10,7 @@ His role here is especially important as a pressure test for [Ecological Intenti
 ## Works in this project
 
 - *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*: especially attention, retention, recollection, protention, anticipation, and temporal horizon.
-- *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*: especially sensuous synthesis, embodiment, constitution, motivation, the surrounding world, cultural and practical objects, the distinction between intentional and real-causal relation, and the redetermination or cancellation of an apprehension through further experience. Sept. 27 adds a scale question: sensuous synthesis can explain **one perceived thing**, while Husserl’s broader constitutive program also contemplates animate / living strata. Sept. 28 adds another correction: the personalistic attitude can give an object *as* a practical-cultural object rather than as neutral sensory material. The remaining limit is that **cultural givenness is not historical explanation**.
+- *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book*: especially sensuous synthesis, embodiment, constitution, motivation, the surrounding world, cultural and practical objects, the distinction between intentional and real-causal relation, and the redetermination or cancellation of an apprehension through further experience. Sept. 27 adds a scale question: sensuous synthesis can explain **one perceived thing**, while Husserl’s broader constitutive program also contemplates animate / living strata. Sept. 28 adds another correction: the personalistic attitude can give an object *as* a practical-cultural object rather than as neutral sensory material. October 6 adds a temporal control from *Ideas I* §§77–82: retention is not recollection, immediate protention is not explicit anticipation, and every present experience carries horizons of before and after. The remaining limits are that **cultural givenness is not historical explanation, and temporal identity is not yet living development**.
 
 Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Vegetal Encounter](Vegetal%20Encounter.md) · [Sources & Reading](../project/sources-and-reading.md)
 
@@ -18,6 +18,7 @@ Browse: #husserl
 
 ## From the sits
 
+- [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)
 - [October 1, 2026: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md)

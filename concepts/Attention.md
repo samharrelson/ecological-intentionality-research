@@ -7,6 +7,7 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
 - [October 3, 2026: The Past Is Present Without Being Transparent](../field-notes/2026-10-03%20-%20The%20Past%20Is%20Present%20Without%20Being%20Transparent.md)
 - [October 2, 2026: Whose “I Can” Is This?](../field-notes/2026-10-02%20-%20Whose%20I%20Can%20Is%20This.md)

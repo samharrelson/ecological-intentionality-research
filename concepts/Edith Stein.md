@@ -10,7 +10,7 @@ Her role is double: Stein provides resources for taking another being seriously 
 ## Works in this project
 
 - *On the Problem of Empathy*: non-primordiality, foreign experience, the phenomena of life, vegetal empathic fulfillment, the physician / gardener “schooled view,” and the correction of empathic acts through further experience.
-- *Finite and Eternal Being*: finite being, actuality and potentiality, natural measure, progressive self-formation, hidden finality, creaturely individuality, received *esse*, participation, and the ordering of finite goods. The current readings add four especially important distinctions: external circumstances can co-condition development while living form remains self-forming from within; organismic unity is an internally articulated whole whose differentiated parts belong as members or organs; an individual’s historically actual form must not be equated with flourishing; and not every existent is a good for every other, since each existent’s own goodness differs from goods mediated through other beings. **What formed a being is not thereby good for that being, and what is good through a being may not be good for that being.**
+- *Finite and Eternal Being*: finite being, actuality and potentiality, natural measure, progressive self-formation, hidden finality, creaturely individuality, received *esse*, participation, and the ordering of finite goods. October 6 adds an especially concrete vegetal distinction: ripe fruit belongs to the vital unity of the generating individual while a new life begins only through a further transition. The current readings add four especially important distinctions: external circumstances can co-condition development while living form remains self-forming from within; organismic unity is an internally articulated whole whose differentiated parts belong as members or organs; an individual’s historically actual form must not be equated with flourishing; and not every existent is a good for every other, since each existent’s own goodness differs from goods mediated through other beings. **What formed a being is not thereby good for that being, and what is good through a being may not be good for that being.**
 - *Potency and Act*: actuality, potency, becoming, and the metaphysical background to creaturely form.
 - *The Science of the Cross*: cruciform formation, surrender, and the theological background of the Ecology of the Cross.
 
@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)
 - [October 3, 2026: The Past Is Present Without Being Transparent](../field-notes/2026-10-03%20-%20The%20Past%20Is%20Present%20Without%20Being%20Transparent.md)

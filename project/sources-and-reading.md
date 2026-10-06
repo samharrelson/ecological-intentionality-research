@@ -134,3 +134,5 @@ Peirce’s synechism and agapism are being explored as a possible cosmological c
 The field notes are not meant to become miniature literature reviews. Most sit pages therefore carry only the concepts that genuinely emerged from the encounter. This page holds the wider scholarly conversation in one place so that the public archive can remain close to observation while still making its intellectual debts visible.
 
 As the project develops, sources will move between these sections, new ones will appear, and some may fall away. The bibliography is therefore part of the research process rather than a final statement of canon.
+
+Versioned research record: [Open Research on GitHub](https://github.com/samharrelson/ecological-intentionality-research)

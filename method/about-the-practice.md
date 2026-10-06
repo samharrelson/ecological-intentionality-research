@@ -19,4 +19,6 @@ The goal is not to turn every encounter into an argument. It is to practice atte
 
 Over time, the notes gather around recurring questions: attention and possession, presence and remainder, place and agency, vegetal life, creaturely otherness, and the possibility of relation without mastery.
 
+**Open research:** A versioned public research layer for this project is available on [GitHub](https://github.com/samharrelson/ecological-intentionality-research), including curated field notes, concept pages, methodological documentation, and the revision history of the inquiry. The repository records material that has already been deliberately made public; it is not a mirror of the private research vault.
+
 For finished essays and other public writing, see [samharrelson.com](https://samharrelson.com).

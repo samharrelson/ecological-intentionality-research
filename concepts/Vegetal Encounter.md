@@ -3,12 +3,13 @@ description: Notes arising from sustained encounter with vegetal life.
 ---
 Vegetal encounter names the concrete practice at the center of this archive: attending to plant life without reducing the plant either to object, symbol, projection, or generalized ecological example.
 
-The black walnut remains the primary philosophical test case. The current problem is no longer only how plant life becomes perceptually intelligible, but how the unity of one living organism differs from generic object-unity, how flourishing or impairment acquires a norm, and how those organismic claims can be carried into ecological relation without turning grove, place, or watershed into larger versions of the same kind of whole. The Sept. 29 root-boundary sit adds that living integrity does not require material closure: a boundary can permit incorporation and exchange without organism and world becoming indistinct.
+The black walnut remains the primary philosophical test case. The current problem is no longer only how plant life becomes perceptually intelligible, but how the unity of one living organism differs from generic object-unity, how flourishing or impairment acquires a norm, and how those organismic claims can be carried into ecological relation without turning grove, place, or watershed into larger versions of the same kind of whole. The Sept. 29 root-boundary sit adds that living integrity does not require material closure: a boundary can permit incorporation and exchange without organism and world becoming indistinct. October 6 adds a temporal threshold: present attachment, remembered fruit fall, anticipated detachment, membership in one living whole, and the possibility of a new individual life are different claims that should not be collapsed into one story of development.
 
 Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Agency](Place%20and%20Agency.md)
 
 ## From the sits
 
+- [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 1, 2026: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md)
 - [September 30, 2026: Can Received Being Educate Attention?](../field-notes/2026-09-30%20-%20Can%20Received%20Being%20Educate%20Attention.md)
 - [September 29, 2026: A Boundary Need Not Be a Wall](../field-notes/2026-09-29%20-%20A%20Boundary%20Need%20Not%20Be%20a%20Wall.md)

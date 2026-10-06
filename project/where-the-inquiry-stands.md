@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 5, 2026.*
+*Last updated October 6, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -215,6 +215,16 @@ The October 5 guardrail is:
 
 **difference internal to relation does not by itself establish the metaphysical priority of difference.**
 
+[October 6: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md) turns the transition problem toward time. Two attached walnuts made the ordinary word “still” philosophically visible. Present attachment is given now; earlier fruit fall is remembered; later detachment is anticipated. Husserl's temporal analysis already gives a strong account of these differences.
+
+The source pass then made the Merleau-Ponty comparison harder again. *Phenomenology of Perception* already describes temporal cohesion through a **transition synthesis**. Temporal moments differentiate themselves through passage, the present carries its genesis, and Merleau-Ponty speaks of the "cohesion of a life." The later ontology therefore has to add more than the claim that identity persists through temporal noncoincidence.
+
+Stein changes the question at another level. In *Finite and Eternal Being*, plant becoming has a temporal structure, and ripe fruit belongs to the vital unity of the generating individual while a new individual life requires a further transition. This gives the sit a new sequence:
+
+**present attachment ≠ temporal remaining ≠ living membership ≠ new individual life**
+
+The emerging hypothesis for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) is becoming more explicit. Its contribution may lie less in naming another act or another form of connection than in disciplining transitions among kinds of claim. The practice repeatedly asks what is given now, what memory or anticipation adds, what biology or metaphysics can establish, and what stronger ontological or normative claim would still have to be earned.
+
 ## Friction, remainder, and asymmetry
 
 A related thread has become increasingly important across the notes. [Remainder](../concepts/Remainder.md) first named what remained absent, hidden, or inaccessible. More recently, the question is whether remainder also has methodological and ethical consequences without thereby becoming evidence of hidden agency.
@@ -249,6 +259,8 @@ The strongest questions now carrying the inquiry are:
 - If ecological intentionality increasingly coordinates perception, biological knowledge, historical evidence, community memory, ethical judgment, and praxis, does *intentionality* still name the structure at issue, or is the project becoming a disciplined ecological orientation of another kind?
 - If Merleau-Ponty can already secure belonging without fusion, coincidence, or one larger organism, what additional philosophical work is required to distinguish the goods of the beings who belong within that field?
 - Does *écart* make difference metaphysically prior to identity, or does it name a diacritical structure in which resemblance and difference are mutually implicated?
+- What does the later ontology of *écart* add after Husserlian temporal synthesis and Merleau-Ponty's own transition synthesis have already made temporal noncoincidence philosophically available?
+- Is ecological intentionality becoming a distinctive intentional structure, an education of existing structures, or a discipline for moving responsibly among different modes of warrant?
 - Can friction and resistance remain philosophically significant without being prematurely redescribed as agency, intentionality, or communication?
 
 None of these questions is settled. The point of the practice is to keep them answerable to repeated encounter.
