@@ -5,6 +5,7 @@ type: dataset
 authors:
   - family-names: "Harrelson"
     given-names: "Sam"
+orcid: "https://orcid.org/0009-0003-8261-9316"
 repository-code: "https://github.com/samharrelson/ecological-intentionality-research"
 url: "https://ecologicalintentionality.org"
 abstract: >-
