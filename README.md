@@ -1,6 +1,6 @@
 # Ecological Intentionality — Public Research Layer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176758.svg)](https://doi.org/10.5281/zenodo.23176758)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176757.svg)](https://doi.org/10.5281/zenodo.23176757)
 
 This repository is a public research layer for an ongoing inquiry in ecology, phenomenology, religion, and creaturely relation.
 
