@@ -1,13 +1,39 @@
 cff-version: 1.2.0
-message: "If you use or discuss this public research layer, please cite the repository and the relevant dated field note."
+message: "If you use this public research layer, please cite it using the metadata from this file."
+
 title: "Ecological Intentionality: Public Research Layer"
-type: dataset
+version: "0.2.1"
+date-released: "2026-10-05"
+doi: "10.5281/zenodo.23176758"
+
 authors:
   - family-names: "Harrelson"
     given-names: "Sam"
-orcid: "https://orcid.org/0009-0003-8261-9316"
-repository-code: "https://github.com/samharrelson/ecological-intentionality-research"
-url: "https://ecologicalintentionality.org"
+    orcid: "https://orcid.org/0009-0003-8261-9316"
+
 abstract: >-
   A versioned public research layer for an ongoing inquiry in ecology,
-  phenomenology, religion, attention, vegetal encounter, and creaturely relation.
+  phenomenology, religion, and creaturely relation. The project includes
+  curated Black Walnut field notes, concept pages, methodological
+  documentation, sources, and a public record of revision and conceptual
+  development over time.
+
+repository-code: "https://github.com/samharrelson/ecological-intentionality-research"
+url: "https://ecologicalintentionality.org"
+
+doi: "10.5281/zenodo.23176758"
+
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.23176758"
+    description: "Initial public snapshot of Ecological Intentionality: Public Research Layer."
+
+keywords:
+  - "ecological intentionality"
+  - "phenomenology"
+  - "ecophenomenology"
+  - "environmental humanities"
+  - "digital humanities"
+  - "field notes"
+  - "open research"
+  - "ecology and religion"

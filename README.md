@@ -1,5 +1,7 @@
 # Ecological Intentionality — Public Research Layer
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176758.svg)](https://doi.org/10.5281/zenodo.23176758)
+
 This repository is a public research layer for an ongoing inquiry in ecology, phenomenology, religion, and creaturely relation.
 
 The work is grounded in repeated field encounters, currently centered on a black walnut tree in Spartanburg, South Carolina. The field practice is not treated as an illustration added after the philosophy is finished. It is one of the places where philosophical claims are tested, corrected, narrowed, and sometimes abandoned.
@@ -74,9 +76,9 @@ The goal is not to pretend that unfinished work is finished. It is to make revis
 
 ## Author
 
-Sam Harrelson  
-PhD candidate, Ecology, Spirituality, and Religion  
+Sam Harrelson
+PhD candidate, Ecology, Spirituality, and Religion
 California Institute of Integral Studies
 
-Public writing: https://samharrelson.com  
+Public writing: https://samharrelson.com
 Field notes: https://ecologicalintentionality.org

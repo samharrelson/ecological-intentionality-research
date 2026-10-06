@@ -1,5 +1,11 @@
 # Changelog
 
+## 0.2.1 — First citable research snapshot
+
+- Added DOI and ORCID-linked citation metadata.
+- Preserved the current public research layer as the first archived Zenodo snapshot.
+- Added citation support for the evolving field notes, concept pages, method documents, and research infrastructure.
+
 ## 0.2.0 — Linked public research graph and deliberate publication trigger
 
 - Convert known public Obsidian wikilinks into relative GitHub Markdown links.
