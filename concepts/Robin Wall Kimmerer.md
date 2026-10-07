@@ -9,7 +9,7 @@ Her role here is not to supply an Indigenous ethical supplement to a phenomenolo
 
 ## Works in this project
 
-- *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants* (2013): especially “The Gift of Strawberries,” “The Council of Pecans,” “Learning the Grammar of Animacy,” “Mishkos Kenomagwen: The Teachings of Grass,” “The Honorable Harvest,” “Wisgaak Gokpenagen: A Black Ash Basket,” “Old-Growth Children,” and “The Sacred and the Superfund.” Across these chapters, gift, synchronized collective action, species-specific response, disturbance, restoration practice, historical damage, cultural relation, and reciprocal responsibility complicate any single neutral account of ecological good or unity. Sept. 28 especially draws on the Onondaga Lake chapter to distinguish present ecological function from adequate historical and relational healing.
+- *Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants* (2013): especially “The Gift of Strawberries,” “The Council of Pecans,” “Learning the Grammar of Animacy,” “Mishkos Kenomagwen: The Teachings of Grass,” “The Honorable Harvest,” “Wisgaak Gokpenagen: A Black Ash Basket,” “Old-Growth Children,” “Putting Down Roots,” and “The Sacred and the Superfund.” Across these chapters, gift, synchronized collective action, species-specific response, disturbance, restoration practice, historical damage, cultural relation, and reciprocal responsibility complicate any single neutral account of ecological good or unity. Sept. 28 especially draws on the Onondaga Lake chapter to distinguish present ecological function from adequate historical and relational healing.
 - *The Serviceberry: An Economy of Abundance*: a later extension of gift economy, gratitude, and reciprocity that may become useful as the project develops.
 
 Related: [Place and Agency](Place%20and%20Agency.md) · [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md) · [Sources & Reading](../project/sources-and-reading.md)
@@ -17,6 +17,8 @@ Related: [Place and Agency](Place%20and%20Agency.md) · [Attention](Attention.md
 Browse: #robinwallkimmerer
 
 ## From the sits
+
+- [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)
 
 - [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)

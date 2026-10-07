@@ -13,7 +13,9 @@ What appears here is a curated public layer: selected observations and reflectio
 
 The workflow is:
 
-**sit → private field note → philosophical analysis → research integration → public field note**
+**sit → private field note → philosophical analysis → research integration → curated public field note → verified public archive**
+
+After publication, the curated public layer is also versioned in the project’s GitHub repository. The repository records what has already crossed the public boundary; it does not decide what becomes public.
 
 The goal is not to turn every encounter into an argument. It is to practice attention carefully enough that the encounter can resist the categories brought to it.
 

@@ -26,7 +26,7 @@ The practice today was to mark that boundary rather than rush across it.
 
 ## Reflection
 
-The question is not whether the walnut is alive. The harder question is how its life becomes available to me without my simply supplying an image of what that life must be like.
+The question is not whether the walnut is alive. The harder question is how its life becomes available to me without my supplying an image of what that life must be like.
 
 That makes the boundary between perception and attribution especially important. The walnut may appear as a living center without its interiority becoming mine, and without my imagining myself into its life.
 

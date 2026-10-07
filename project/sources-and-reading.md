@@ -116,6 +116,14 @@ Watts and Kimmerer are important to [Place and Agency](../concepts/Place%20and%2
 
 Brentano and Ravaisson help clarify two genealogies running behind the project: the modern account of intentionality and inner awareness, and the Aristotelian line of activity, habit, inclination, and living form that runs toward Bergson.
 
+### Merleau-Ponty: reversibility, difference, and time
+
+- Davis, Duane H., and William S. Hamrick, eds. *Merleau-Ponty and the Art of Perception*. Albany: State University of New York Press, 2016.
+- Kaushik, Rajiv. *Merleau-Ponty between Philosophy and Symbolism: The Matrixed Ontology*. Albany: State University of New York Press, 2019.
+- Morris, David, and Kym Maclaren, eds. *Time, Memory, Institution: Merleau-Ponty’s New Ontology of Self*. Athens: Ohio University Press, 2015.
+
+These works are currently serving as secondary controls rather than substitutes for the primary texts. Davis and Hamrick help trace chiasmatic reversibility back through Husserl’s touching / touched analysis; Kaushik presses the stronger reading of *écart* as constitutive divergence; Morris and Maclaren foreground the continuity from early temporality and transition synthesis toward the later ontology. Each claim remains answerable to Merleau-Ponty’s own texts.
+
 ### Place, field, and comparative philosophy
 
 - Nishida Kitarō. *An Inquiry into the Good*.

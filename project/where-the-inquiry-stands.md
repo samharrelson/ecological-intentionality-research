@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 6, 2026.*
+*Last updated October 7, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -225,6 +225,12 @@ Stein changes the question at another level. In *Finite and Eternal Being*, plan
 
 The emerging hypothesis for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) is becoming more explicit. Its contribution may lie less in naming another act or another form of connection than in disciplining transitions among kinds of claim. The practice repeatedly asks what is given now, what memory or anticipation adds, what biology or metaphysics can establish, and what stronger ontological or normative claim would still have to be earned.
 
+A related possibility concerns [Remainder](../concepts/Remainder.md). Transition may move something from one kind of remainder to another. A branch hidden in foliage can become perceptually present after leaf fall; the canopy that was present can become remembered; an anticipated event can become actual; a visible trace can remain historically unexplained. On this proposal, sustained attention does not progressively eliminate remainder. It changes the status of what is absent, available, recoverable, inferable, or still withheld. **Ecological intentionality may train not the overcoming of remainder, but the ability to recognize how remainder changes status as an encounter develops.** Husserl remains the strongest challenge: horizonality, temporal synthesis, fulfillment, recollection, and anticipation may already explain much of this movement.
+
+[October 7: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md) gives that proposal its first direct field test. A small bodily movement disclosed part of a branch that had been hidden by foliage. The same movement did not disclose underground physiological process or the histories through which the yard acquired its present form. A closer source pass made the result harder again. Husserl already gives a strong account of bodily profile-fulfillment, while a May 1960 Merleau-Ponty working note explicitly distinguishes several kinds of invisibility and warns against placing them under one undifferentiated category.
+
+The project therefore cannot claim originality merely by saying that remainder comes in different kinds. The stronger possibility is diachronic and methodological: **the remainder has a history**. What is hidden can become visible; what is present can become remembered; what is anticipated can become an event; what becomes visible can still require biological or historical explanation. The question is increasingly whether ecological intentionality names the discipline of recognizing those changes in status and handing the inquiry to the form of evidence each requires.
+
 ## Friction, remainder, and asymmetry
 
 A related thread has become increasingly important across the notes. [Remainder](../concepts/Remainder.md) first named what remained absent, hidden, or inaccessible. More recently, the question is whether remainder also has methodological and ethical consequences without thereby becoming evidence of hidden agency.
@@ -236,6 +242,20 @@ Friction, resistance, interruption, and asymmetry may mark places where another 
 The field practice therefore treats friction as a place to investigate rather than as proof. The walnut must remain capable of resisting not only my preferred concepts but also the philosophical and ethical frameworks that taught me to notice them.
 
 This is one reason asymmetry now matters so much. A walnut and a human do not need, give, perceive, or inhabit time in the same ways. If reciprocity becomes the right word, it cannot mean balanced exchange between equivalent agents. One current proposal to test is whether reciprocity might instead be **a response adequate to difference**. But Sept. 22 adds a further restraint: if every ecologically beneficial act is called reciprocity, the term loses relational specificity.
+
+## A theological question opened by remainder
+
+The October 6 remainder work also opens a theological extension that has not yet been earned by the later theological readings. If transition can change the status of remainder, redemption need not be imagined only as the eventual disappearance of distance, wound, absence, or difference.
+
+One proposal now waiting for Maximus, Bonaventure, Moltmann, deep-incarnation theology, and the inherited Stein material is:
+
+The October 7 sit gives the proposal a cleaner formulation:
+
+**redemption does not erase remainder; it transforms the relation in which remainder remains.**
+
+A related possibility is that salvation perfects relation without converting creatures into God, one creature into another, or difference into deficiency. On that reading, the cross would not eliminate the distance between God and world so much as transform what that distance means within a history of self-giving. The fieldwork can generate the grammar of this question, but it cannot establish the Christology.
+
+The guardrail is as important as the proposal: **transformation of remainder does not retrospectively justify harm.** Wounds, ecological damage, dispossession, and historical violence cannot become good merely because repair, reconciliation, or new life later become possible. This is a theological question generated by the inquiry, not a claim established by the walnut sit.
 
 ## Current live questions
 
@@ -261,6 +281,7 @@ The strongest questions now carrying the inquiry are:
 - Does *écart* make difference metaphysically prior to identity, or does it name a diacritical structure in which resemblance and difference are mutually implicated?
 - What does the later ontology of *écart* add after Husserlian temporal synthesis and Merleau-Ponty's own transition synthesis have already made temporal noncoincidence philosophically available?
 - Is ecological intentionality becoming a distinctive intentional structure, an education of existing structures, or a discipline for moving responsibly among different modes of warrant?
+- At each transition, **what kind of claim am I making now, what warrants it, and what would have to happen before I could responsibly make the next one?**
 - Can friction and resistance remain philosophically significant without being prematurely redescribed as agency, intentionality, or communication?
 
 None of these questions is settled. The point of the practice is to keep them answerable to repeated encounter.

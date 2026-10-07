@@ -10,7 +10,7 @@ His role is not to provide a ready-made ecological ontology. The walnut encounte
 ## Works in this project
 
 - *Phenomenology of Perception*: embodiment, operative intentionality, bodily orientation, motricity, habit, sedimentation, the social world, conditioned freedom, temporality, and the critique of detached overview. October 6 makes the temporality chapter newly central: Merleau-Ponty develops Husserlian passive synthesis as a **transition synthesis**, treats temporal moments as differentiating themselves through passage, and speaks of the “cohesion of a life” through temporal *ek-stase*.
-- *The Visible and the Invisible*: flesh, chiasm, reversibility, *écart*, structural noncoincidence, and the unfinished late ontology. The October 4 source pass is especially important because Merleau-Ponty rejects both completed coincidence and the idea that distinct bodies become organs of one larger organism. October 5 adds a further caution: his diacritical language makes difference internal to relation, but the primary text also describes an “advent of difference” on a ground of resemblance, so the priority of difference should not be assumed in advance.
+- *The Visible and the Invisible*: flesh, chiasm, reversibility, *écart*, structural noncoincidence, and the unfinished late ontology. The October 4 source pass is especially important because Merleau-Ponty rejects both completed coincidence and the idea that distinct bodies become organs of one larger organism. October 5 adds a further caution: his diacritical language makes difference internal to relation, but the primary text also describes an “advent of difference” on a ground of resemblance, so the priority of difference should not be assumed in advance. October 7 adds a different control from a May 1960 working note: Merleau-Ponty distinguishes hidden or inactual aspects that could become visible from other modes of invisibility and warns against treating them as one undifferentiated category. This makes the project’s own language of differentiated remainder answer to the late text rather than assume novelty.
 - *Nature: Course Notes from the Collège de France*: organism, behavior, nature, and the movement toward a non-objectifying account of the sensible world.
 
 Related: [Attention](Attention.md) · [Place and Agency](Place%20and%20Agency.md) · [Remainder](Remainder.md) · [Sources & Reading](../project/sources-and-reading.md)
@@ -19,6 +19,7 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)
 - [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)
