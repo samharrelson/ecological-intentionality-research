@@ -22,7 +22,7 @@ Rain had moved in overnight. The morning was overcast and much cooler, near 60°
 
 A closer photograph showed pale fungal bodies along dark woody tissue, with green and yellowing leaves nearby. That much was visible. The image did not establish whether the branch was dead or dying, whether the fungi were decomposing tissue, whether disease or earlier damage was involved, or whether several processes were occurring together. **Visible fungi are not yet a biological diagnosis.**
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 4, 2026. Fungal bodies appear along woody tissue within the walnut’s canopy; the visible relation raises biological and normative questions without answering them.*
 
 ## Reflection

@@ -20,7 +20,7 @@ Monday morning was overcast and cool, around 63–64°F. The forecast rain had m
 
 Several leaflets occupied nearly the same small region. Most were green, while some had begun to yellow. They met the diffuse light at different angles. Some faced me, some turned away, and some were partly hidden behind others. Small holes, marks, surface differences, light, shadow, and orientation were directly visible. Their causes were not.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 5, 2026. Leaflets of one walnut share a branch and morning while differing in orientation, color, surface, light, and visible marks.*
 
 ## Reflection

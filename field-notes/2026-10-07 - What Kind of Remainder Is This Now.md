@@ -21,10 +21,10 @@ The morning was clear, sunny, and cool. Looking upward, I could follow the walnu
 
 Looking downward, I saw the trunk, root flare, a surface root, moss, grasses, fallen leaves, and soil. The visible root became hidden beneath the ground. Above and below, the tree exceeded what this view disclosed, but not in exactly the same way.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 7, 2026. Trunk, limbs, leaves, light, and openings through the canopy. Branches remain traceable for a while before foliage interrupts the view.*
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 7, 2026. Root flare, a surface root, moss, grasses, fallen leaves, and soil. The visible root passes out of sight beneath the ground.*
 
 ## Reflection

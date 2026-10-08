@@ -19,7 +19,7 @@ Sunlight returned after the overcast mornings. The air was cool, around 55°F, w
 
 The fruit caught my attention because I remembered watching other walnuts fall in recent days. Today's attachment was visible. The earlier falls belonged to memory, and the prospect of these fruits detaching belonged to expectation. I did not record a walnut falling during this sit.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 6, 2026. Two attached walnuts among sunlit and shaded leaves. The photograph records their presence, not how long either will remain.*
 
 ## Reflection
