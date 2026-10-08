@@ -20,7 +20,7 @@ A brief thunderstorm passed overnight. In the morning, branches from the oak, ma
 
 At the walnut I saw the trunk, mostly green leaves with yellow appearing among them, and a walnut held high in the canopy. Branches stirred; a bird crossed; sunlight changed; sounds arrived from the street and the house being renovated across it. The sloped ground positioned my chair, the canopy made shade, and the heat affected how long I could remain comfortably.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 19, 2026. The black walnut’s divided trunk and mostly green canopy after an overnight storm; a walnut remains visible at the upper right.*
 
 ## Reflection

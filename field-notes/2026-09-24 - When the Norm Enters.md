@@ -20,7 +20,7 @@ Rain had fallen off and on overnight and continued steadily through the sit. The
 
 That field contained several different accomplishments. Cool air, rain, diffuse light, wet bark, color, movement, and sound were presently sensible. The hotter weather and greener summer canopy belonged to memory. Dormancy, seasonal cycles, and plant physiology came from prior knowledge. The expectation of further yellowing and leaf fall reached toward what had not yet happened.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 24, 2026. Rain-darkened branches, mostly green compound leaves, scattered yellowing, and walnuts held beneath a cloudy sky.*
 
 ## Reflection

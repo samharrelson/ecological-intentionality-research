@@ -19,7 +19,7 @@ The morning was already warm and headed into the nineties. Sunlight and shade sh
 
 I tried a simple exercise: see the trunk while noticing the seeing, hear the leaves while noticing the hearing, and remain with the walnut while attending to the act of attention itself. Movement, changing light, birds, and sound repeatedly redirected attention before I explicitly chose a new focal object.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 18, 2026. The black walnut’s green canopy is increasingly interrupted by yellow leaves in the late-summer light.*
 
 ## Reflection

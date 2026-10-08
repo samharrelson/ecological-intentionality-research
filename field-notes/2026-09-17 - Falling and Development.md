@@ -18,7 +18,7 @@ The morning was warming toward the nineties after several cooler days. More yell
 
 During the sit, a couple of yellow leaves detached, fluttered downward while changing orientation, and came to rest on the ground. I did not experience a sequence of unrelated positions. I watched a leaf fall as one continuous event.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 17, 2026. Green and yellow compound leaves, dark branches, and walnuts still held in the canopy.*
 
 ## Reflection

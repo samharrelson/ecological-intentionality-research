@@ -20,7 +20,7 @@ An intense thunderstorm passed just after midnight. By morning, branches from th
 
 The fallen branches, wet soil, fracture surfaces, scattered fruit, and altered light were present to perception. Their precise histories were not. I heard the storm but did not witness most of the breaking. Calling what I saw *damage* or *loss* added a judgment about the integrity of a living form.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 22, 2026. Storm-downed limbs and fallen walnuts lie beneath the black walnut in the changed morning light.*
 
 ## Reflection
