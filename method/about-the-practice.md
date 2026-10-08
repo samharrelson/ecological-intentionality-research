@@ -17,6 +17,10 @@ The workflow is:
 
 After publication, the curated public layer is also versioned in the project’s GitHub repository. The repository records what has already crossed the public boundary; it does not decide what becomes public.
 
+The workflow is part of the method, not only a way to move finished ideas onto a website. It is designed to preserve provenance, keep encounter distinct from inference and stronger interpretation, make revision visible, and require verification before a claim or file crosses into the public layer. In that limited sense, the workflow is designed to exert methodological resistance on the researcher.
+
+One larger question of the project is whether the form of scholarship can embody some of the same epistemic virtues the inquiry recommends: attention to relation and difference, awareness of limits, corrigibility, and openness to changed conditions. The public archive and its version history are therefore an experiment in making the genealogy of an argument inspectable rather than presenting only its finished form.
+
 The goal is not to turn every encounter into an argument. It is to practice attention carefully enough that the encounter can resist the categories brought to it.
 
 Over time, the notes gather around recurring questions: attention and possession, presence and remainder, place and agency, vegetal life, creaturely otherness, and the possibility of relation without mastery.
