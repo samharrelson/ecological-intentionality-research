@@ -21,8 +21,6 @@ abstract: >-
 repository-code: "https://github.com/samharrelson/ecological-intentionality-research"
 url: "https://ecologicalintentionality.org"
 
-doi: "10.5281/zenodo.23176758"
-
 identifiers:
   - type: doi
     value: "10.5281/zenodo.23176758"
