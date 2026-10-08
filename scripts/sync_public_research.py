@@ -201,8 +201,12 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
     def embed_repl(match):
         nonlocal flattened
         target = match.group(1).strip()
-        alias = (match.group(2) or Path(target).stem).strip()
+        alias = (match.group(2) or "").strip()
         flattened += 1
+        # A numeric embed alias is an Obsidian display width, not alt text.
+        # Media stays outside this public research repository.
+        if not alias or alias.isdigit() or re.fullmatch(r"\\d+x\\d+", alias):
+            return "*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*"
         return f"*{alias}*"
 
     text = re.sub(r'!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', embed_repl, text)
