@@ -20,7 +20,7 @@ The morning was clear and about fifty-two degrees, with sunlight and a light bre
 
 The word *reaching* arrived almost immediately. What was presently sensible was more modest: branch orientation, the oak beyond it, distance, open sky, and two canopies entering one visual field. Memory supplied squirrels moving between the trees on other days. Prior knowledge supplied possibilities involving light, crown development, soil, water, and competition. Reaching, cooperation, conflict, and communion each added something further.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 26, 2026. A sunlit black walnut branch and the darker oak canopy enter one visible field across open blue sky; the image suggests an approach without establishing what relation obtains.*
 
 ## Reflection

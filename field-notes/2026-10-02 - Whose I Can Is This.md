@@ -19,7 +19,7 @@ Looking upward from beneath the walnut, branches crossed the field and leaves ga
 
 The photograph gives a real appearance. It also excludes nearly everything that might explain the history of this place: no property boundary, house, street, power line, record, former inhabitant, or account of labor appears within the frame. **A beautiful view can be true without being complete.**
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 2, 2026. Branches, leaves, blue sky, and morning light are organized by one bodily position beneath the walnut; the frame gives the view without giving the histories that made this access and place possible.*
 
 ## Reflection

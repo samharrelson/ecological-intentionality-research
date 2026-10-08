@@ -20,7 +20,7 @@ Near sunrise the walnut stood mostly dark against the early sky. Its canopy fill
 
 The wires were immediately visible, but a Husserlian correction matters here. In ordinary practical life I do not necessarily encounter neutral dark lines and only afterward infer *power line*. The wires can already appear as practical and cultural objects within a familiar human world. Memory supplied workers and earlier pruning. What was not thereby given was the contingent history of this grid: utility ownership, property agreements, maintenance policy, routing decisions, and the reasons a particular branch was cut.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 28, 2026. The walnut’s dark canopy and utility lines share the sunrise sky; the wires are visible, while the grid and history shaping their relation to the tree are not.*
 
 ## Reflection

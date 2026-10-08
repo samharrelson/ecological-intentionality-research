@@ -20,7 +20,7 @@ The morning was clear and about sixty-five degrees after temperatures in the fif
 
 The field contained different kinds of evidence. Green and yellowing leaves, fruit, broken wood, movement, sunlight, and cool soil were presently sensible. The preceding hot, dry months and the fuller green canopy belonged to memory. Biological knowledge made fruiting, seed, dormancy, germination, consumption, and decomposition intelligible. Calling any of these possibilities flourishing, impairment, fulfillment, or loss introduced a further judgment.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 25, 2026. A storm-broken limb remains among sunlit green and yellowing leaves in the walnut’s historically particular canopy.*
 
 ## Reflection

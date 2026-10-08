@@ -20,7 +20,7 @@ After several days of looking upward, I looked down. The trunk widened into the 
 
 What was visible was modest: bark, exposed root, ground, surrounding vegetation, fallen material, sunlight, shade, and movement. Root uptake, metabolism, cell formation, and any particular fungal relation were not visible. Those processes may be scientifically investigable, but their presence and character cannot be established from this photograph alone.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 29, 2026. The walnut’s trunk widens into exposed roots among dry soil, surrounding plants, fallen leaves, and scattered walnuts.*
 
 ## Reflection
