@@ -16,7 +16,7 @@ status: published
 
 The early clouds had cleared, leaving a bright morning around seventy-four degrees. A slight breeze moved the compound leaves while the trunk and main branches appeared still. Green and yellow leaves remained in the canopy; yellow leaves and fallen walnuts lay on the ground. A couple of walnuts dropped while I sat.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 16, 2026. Looking upward beneath a dark branch toward green compound leaves and walnuts still held in the canopy.*
 
 I knew there were more yellow leaves because I remembered yesterday, last week, spring, and summer. But that comparison raised another question: was I only assembling a sequence of remembered states, or did the present appearance show itself as one phase of an ongoing development?

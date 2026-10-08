@@ -17,7 +17,7 @@ status: published
 
 On a warm, increasingly cloudy afternoon, my attention settled on the place where the walnut’s trunk opens into two large lateral branches while the central trunk continues upward. A fissure in the bark was visible from where I sat. Some branches appeared clearly and others only in part; some compound leaves showed their surfaces while others appeared edgewise. A few walnuts were visible in the canopy, while others were concealed.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 13, 2026. Looking upward where the trunk divides: bark, branches, and overlapping leaves offer one visible profile while concealing others.*
 
 The distinction between perception and prior knowledge mattered. I could see this side of the trunk. I knew the trunk had another side because I had walked around it before. I could see some fruit and knew there was more than appeared from this position. What I remembered or inferred belonged to the encounter, but it was not identical with what was directly given.

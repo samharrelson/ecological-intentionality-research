@@ -16,7 +16,7 @@ status: published
 
 On a clear, warm morning, yellow leaves had begun to stand out within the walnut’s mostly green canopy. More walnuts lay on the ground than remained visibly held in the tree. Brown leaves crunched underfoot; a light breeze occasionally rustled the leaves and shifted a branch.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 14, 2026. Sunlit compound leaves, several beginning to yellow, cross the walnut’s dark bark and branching trunk.*
 
 I noticed how quickly description acquired stronger verbs. Branches *reached* toward light. The tree *responded* to the season. Wounded bark *healed*. Some of these words may be warranted, but each says more than the immediate appearance.

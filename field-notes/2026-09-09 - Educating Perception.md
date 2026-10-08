@@ -15,7 +15,7 @@ status: published
 
 The leaves are still green, walnuts remain in the branches, and a few more yellow leaves have begun to collect on the ground. Around the exposed roots, grasses and violets have appeared again as the season begins to turn.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 
 *September 9, 2026. Walnuts among green compound leaves, with sunlight filtering through the canopy.*
 

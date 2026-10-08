@@ -16,7 +16,7 @@ status: published
 
 The clear morning in the mid-seventies was a respite from the heat. A light breeze moved through the mostly green canopy and seemed to comb out yellow leaves already ready to fall. Walnuts and leaves lay across the ground. Dry brown leaves crunched when I walked, and my shadow crossed the shadows of the branches.
 
-*480*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *September 15, 2026. Fallen walnuts and yellow leaves lie in shifting patches of sunlight and canopy-shadow beneath the tree.*
 
 I tried to notice when descriptive language became a “life word.” Bark, branches, walnuts, movement, leaf color, new sprouts, and marks on the trunk were sensibly present. *Growth*, *repair*, *vigor*, and *seasonal transition* gathered those features into meanings that no single feature supplied by itself.
