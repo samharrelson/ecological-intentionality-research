@@ -19,13 +19,7 @@ jobs:
         run: python3 scripts/privacy_guard.py .
       - name: Check exported field notes for image-width placeholders
         run: |
-          if grep -RnE --include='*.md' '^\*[0-9]{2,5}(x[0-9]{2,5})?\*
-        run: |
-          test -f README.md
-          test -f PUBLIC-SOURCE-MAP.md
-          test -f CITATION.cff
-          test -f scripts/sync_public_research.py
- field-notes; then
+          if grep -RnE --include='*.md' '^\*[0-9]{2,5}(x[0-9]{2,5})?\*$' field-notes; then
             echo "Unconverted Obsidian image dimensions found in exported field notes." >&2
             exit 1
           fi
