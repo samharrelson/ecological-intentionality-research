@@ -20,6 +20,8 @@ For the second, I stood closer to the trunk. A low leafy branch came forward aga
 *Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
 *October 9, 2026. Looking into the canopy: crossing limbs, overlapping leaves, and openings onto the sky.*
 
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*October 9, 2026. Closer to the trunk: a low leafy branch stands against the bark, with the yard beyond. Individual leaflets come into view, while the branch's history remains a question.*
 ## Reflection
 
 Some things showed themselves by hiding other things. A nearer leaf interrupted the view of bark; one limb passed in front of another. The tree's unity did not depend on all its surfaces becoming visible together.

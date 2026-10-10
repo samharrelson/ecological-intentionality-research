@@ -18,6 +18,7 @@ Browse: #melanieharris
 
 ## From the sits
 
+- [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)
 - [October 5, 2026: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md)
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)

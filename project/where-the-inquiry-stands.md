@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 8, 2026.*
+*Last updated October 9, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -232,6 +232,8 @@ A related possibility concerns [Remainder](../concepts/Remainder.md). Transition
 The project therefore cannot claim originality merely by saying that remainder comes in different kinds. The stronger possibility is diachronic and methodological: **the remainder has a history**. What is hidden can become visible; what is present can become remembered; what is anticipated can become an event; what becomes visible can still require biological or historical explanation. The question is increasingly whether ecological intentionality names the discipline of recognizing those changes in status and handing the inquiry to the form of evidence each requires.
 
 [October 8: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md) adds another limit. A walnut on the ground can make a missing fall newly salient without establishing that I witnessed the event or that this is one of the same fruits photographed two days earlier. **Similarity is not identity, and serial observation is not an established individual history.** The source pass also makes relational status more differentiated. Stein's explicit case is a fallen apple: fruit within the generating plant's vital unity, fallen fruit in separate existence, capacity for life, and the beginning of a new organism are not interchangeable statuses. Applied to the walnut, that account also corrects an overly smooth claim that “relation” simply persists through detachment. **One relation can end while others persist or begin:** organismic membership can cease while biological derivation remains and new ecological or practical relations become possible. Merleau-Ponty explains why the fruit now enters the body's practical field as something reachable, but that “I can” does not provide an “I may.” Kimmerer's Honorable Harvest then complicates the restraint: gathering nuts can belong within a reciprocal relation, so the question is what warrants availability as gift, harvest, or permission rather than whether all taking is forbidden.
+
+[October 9: One Tree, Two Perspectives](../field-notes/2026-10-09%20-%20One%20Tree%2C%20Two%20Perspectives.md) turns from attachment and unwitnessed change to what different bodily viewpoints disclose. The canopy and low branch become differently visible, but the photographs do not establish the branch's history or a new intentional structure. Husserl already explains much of this through horizons, bodily movement, familiarity, and temporal synthesis. There are now **two separate burdens**: whether Merleau-Ponty's late flesh and *écart* add something to these accounts, and, even if they do, whether ecological intentionality has a further contribution that existing phenomenology cannot already make. The photographs test these questions without settling them.
 
 ## Friction, remainder, and asymmetry
 

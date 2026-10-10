@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 8, 2026: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md)
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)
 - [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)

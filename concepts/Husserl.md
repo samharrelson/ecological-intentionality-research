@@ -18,6 +18,7 @@ Browse: #husserl
 
 ## From the sits
 
+- [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 9, 2026: One Tree, Two Perspectives](../field-notes/2026-10-09%20-%20One%20Tree%2C%20Two%20Perspectives.md)
 - [October 8, 2026: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md)
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)
