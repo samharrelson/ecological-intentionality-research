@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
 - [October 11, 2026: The Same Branch, Now on the Ground](../field-notes/2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md)
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 8, 2026: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md)

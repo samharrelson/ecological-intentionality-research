@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 10, 2026.*
+*Last updated October 11, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -239,6 +239,10 @@ The project therefore cannot claim originality merely by saying that remainder c
 
 Two limits now belong together: **newly noticed is not newly produced; more detail noticed is not yet demonstrated improvement in attention.** Husserl's account of salience, habit, embodiment, and motivated attention keeps the strongest redundancy objection alive; Stein's gardener and physician show why cultivated apprehension cannot be dismissed as merely inference added to raw sensation, while also distinguishing apprehension from causal diagnosis. The task is to record what came from the encounter, what the prompt prepared, and what later comparison or scientific investigation establishes. This is a correction to the inquiry's method, not evidence for a new intentional structure.
 
+[October 11: The Same Branch, Now on the Ground](../field-notes/2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md) returns to the fungal-bearing branch photographed on October 4, now identified on the wet ground after heavy rain. Unlike the October 8 fallen walnut, this is a particular object that can be recognized across the observations. Its earlier attachment and present detachment are documented. **The intervening fall was not witnessed, and recognition does not establish its cause or the date when it ceased to be a living member of the tree.** The same leaflets photographed on October 10 were also revisited from the same bodily position, offering a stronger comparison without removing differences of light and wetness.
+
+This case adds a reciprocal challenge to the readings rather than another illustration of them. Stein's *Finite and Eternal Being* distinguishes a dead branch remaining materially attached from a member still participating in a living whole. That corrects what the fieldwork can claim. But Stein's surrounding account also interprets destruction in relation to fallen nature, raising a genuine theological question for an Ecology of the Cross that resists treating creaturely loss as justified by a greater good. Neither the walnut nor the field journal settles that disagreement. **The task is not just to ask what a thinker helps us see, but what the encounter makes difficult for the thinker to explain, what the thinker makes difficult for us to claim, and what remains unresolved after both challenges.** This reciprocal test now guides the research, while the distinctiveness of ecological intentionality and of *remainder* itself remain open.
+
 ## Friction, remainder, and asymmetry
 
 A related thread has become increasingly important across the notes. [Remainder](../concepts/Remainder.md) first named what remained absent, hidden, or inaccessible. More recently, the question is whether remainder also has methodological and ethical consequences without thereby becoming evidence of hidden agency.
@@ -290,6 +294,7 @@ The strongest questions now carrying the inquiry are:
 - At each transition, **what kind of claim am I making now, what warrants it, and what would have to happen before I could responsibly make the next one?**
 - What establishes identity across repeated field observations strongly enough to narrate one being's transition rather than merely compare changing encounters?
 - If redemption transforms relation, what makes a transformation specifically redemptive rather than merely a change in relational status?
+- Does Stein's interpretation of natural mortality and destruction as related to fallen nature survive an ecological theology that refuses to justify creaturely loss? What primary theological argument, rather than a field observation, could adjudicate this?
 - Can friction and resistance remain philosophically significant without being prematurely redescribed as agency, intentionality, or communication?
 
 None of these questions is settled. The point of the practice is to keep them answerable to repeated encounter.

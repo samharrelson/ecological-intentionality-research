@@ -53,6 +53,8 @@ The source pass revises the constructive proposal: **belonging without coinciden
 
 **If flesh can name a shared field without fusion or a cosmic superorganism, what additional account is needed to distinguish the goods of the beings who belong within it?**
 
+*Later observation, October 11:* [The Same Branch, Now on the Ground](2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md) follows this particular fungal-bearing branch after it became detached. Identifying the same branch across photographs establishes a change in its attachment, not when or why it fell or whether it was still living beforehand.
+
 Related threads: [Place and Agency](../concepts/Place%20and%20Agency.md) · [Remainder](../concepts/Remainder.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md)
 
 Thinkers: [Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Melanie Harris](../concepts/Melanie%20Harris.md)
