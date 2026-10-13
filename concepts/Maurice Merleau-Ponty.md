@@ -7,6 +7,8 @@ Maurice Merleau-Ponty enters these Field Notes through embodied perception, bodi
 
 His role is not to provide a ready-made ecological ontology. The walnut encounters first test bodily spatiality, motricity, the operative “I can,” habit, sedimentation, the social world, and conditioned freedom before moving to flesh or chiasm. Merleau-Ponty’s embodied subject is already socially and historically situated, and the past can remain active in acquired bodily powers and a sedimented cultural world. The remaining question is what that phenomenological historical depth can disclose without substituting for the evidential work required to establish particular histories or for the ethical and political work of responding to them.
 
+The October 13 reading of [Bryan Smyth](Bryan%20Smyth.md) adds a further control: early embodied phenomenology may radicalize the transcendental project rather than abandon it. The Preface to *Phenomenology of Perception*, pp. lxxiv–lxxvi in the Landes translation, distinguishes perception from scientific explanation while explicitly acknowledging Husserl's problem of others. Smyth's practical interpretation of a common world raises a question about the conditions of empirical correction; it does not settle the relation between the early work and the unfinished late ontology.
+
 ## Works in this project
 
 - *Phenomenology of Perception*: embodiment, operative intentionality, bodily orientation, motricity, habit, sedimentation, the social world, conditioned freedom, temporality, and the critique of detached overview. October 6 makes the temporality chapter newly central: Merleau-Ponty develops Husserlian passive synthesis as a **transition synthesis**, treats temporal moments as differentiating themselves through passage, and speaks of the “cohesion of a life” through temporal *ek-stase*. October 8 returns to motricity and the thing / natural world: the body is a power for a world, and things can appear as poles of action or practical possibilities. That makes the project's ethical handoff explicit: **motor solicitation is not ethical permission**.
@@ -19,6 +21,7 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [October 13, 2026: A Shared World, Different Questions](../field-notes/2026-10-13%20-%20A%20Shared%20World%2C%20Different%20Questions.md)
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 9, 2026: One Tree, Two Perspectives](../field-notes/2026-10-09%20-%20One%20Tree%2C%20Two%20Perspectives.md)
 - [October 8, 2026: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md)

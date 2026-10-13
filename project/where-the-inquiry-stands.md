@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 11, 2026.*
+*Last updated October 13, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -298,6 +298,14 @@ The strongest questions now carrying the inquiry are:
 - Can friction and resistance remain philosophically significant without being prematurely redescribed as agency, intentionality, or communication?
 
 None of these questions is settled. The point of the practice is to keep them answerable to repeated encounter.
+
+## October 13: separate questions must still answer to one another
+
+[A Shared World, Different Questions](../field-notes/2026-10-13%20-%20A%20Shared%20World%2C%20Different%20Questions.md) sharpens an objection already encountered in the reading: [Bryan Smyth](../concepts/Bryan%20Smyth.md) interprets early Merleau-Ponty's transcendental project as practical, normative, and unfinished. Ecological intentionality therefore cannot establish its distinctiveness merely by coordinating description with action or by refusing a final view of the world.
+
+Yet Smyth's conditional accommodation of empirical work leaves a difficult question. Can another inquiry revise the framework's claims, or only contribute within terms already set by phenomenology? A workable comparison must specify the claim, its evidence, what could defeat it, and the reach of that correction. A biological finding about a branch's vital condition can revise an interpretation without erasing how the branch appeared. A phenomenological distinction can change the question an empirical study asks without supplying its measurements. Neither move by itself settles an ethical obligation.
+
+Harris, Watts, and Kimmerer make authority over those questions part of the problem. Their differently grounded approaches cannot be gathered as confirmations of a common method already decided elsewhere. The inquiry must remain open to discovering that its proposed coordination is already available—or that its vocabulary needs to change.
 
 ## Current interlocutors
 
