@@ -11,6 +11,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [October 14, 2026: What Would Change My Mind?](../field-notes/2026-10-14%20-%20What%20Would%20Change%20My%20Mind.md)
 - [October 13, 2026: A Shared World, Different Questions](../field-notes/2026-10-13%20-%20A%20Shared%20World%2C%20Different%20Questions.md)
 
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
