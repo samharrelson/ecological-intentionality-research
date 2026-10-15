@@ -11,6 +11,7 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 15, 2026: What Changes the Next Question?](../field-notes/2026-10-15%20-%20What%20Changes%20the%20Next%20Question.md)
 - [October 14, 2026: What Would Change My Mind?](../field-notes/2026-10-14%20-%20What%20Would%20Change%20My%20Mind.md)
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
 - [October 11, 2026: The Same Branch, Now on the Ground](../field-notes/2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md)
