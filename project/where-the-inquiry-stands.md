@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 13, 2026.*
+*Last updated October 16, 2026. Draft update pending publication.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -306,6 +306,14 @@ None of these questions is settled. The point of the practice is to keep them an
 Yet Smyth's conditional accommodation of empirical work leaves a difficult question. Can another inquiry revise the framework's claims, or only contribute within terms already set by phenomenology? A workable comparison must specify the claim, its evidence, what could defeat it, and the reach of that correction. A biological finding about a branch's vital condition can revise an interpretation without erasing how the branch appeared. A phenomenological distinction can change the question an empirical study asks without supplying its measurements. Neither move by itself settles an ethical obligation.
 
 Harris, Watts, and Kimmerer make authority over those questions part of the problem. Their differently grounded approaches cannot be gathered as confirmations of a common method already decided elsewhere. The inquiry must remain open to discovering that its proposed coordination is already available, or that its vocabulary needs to change.
+
+## October 16: what a new perspective does not give
+
+The short coastal comparison in [No Line on the Horizon](../field-notes/2026-10-16%20-%20No%20Line%20on%20the%20Horizon%3A%20Distance%2C%20Proximity%2C%20and%20the%20Possibilities%20of%20Encounter.md) sharpens the limits of the walnut method without replacing its sustained encounters. From an elevated balcony, the shoreline's larger patterns were more visible. On the sand, shell fragments became distinguishable. Turning back made the building that supported the earlier view itself available for inspection. Neither position gives the entire history of the building or of the fragments.
+
+Three claims must be kept separate: **a further possible appearance**, **a particular history requiring additional evidence that might not be recoverable**, and **the developmental potency of a living being**. Husserl's account of bodily movement and appearance already explains much of the first. Stein's account of potency and act addresses a different ontological question. Merleau-Ponty's early account of bodily perspective already complicates any assumption that proximity is always superior to distance. The further job of late flesh remains to be demonstrated, not assumed from the photographs.
+
+This changes the discipline of our questions, not the provisional verdict about ecological intentionality's distinctiveness. The coast provides a brief comparison; the black walnut remains the longitudinal test case. The October 21 outline must still show what late Merleau-Ponty can add beyond the strongest Husserlian account before asking what the proposed ecological category contributes beyond both.
 
 ## Current interlocutors
 
