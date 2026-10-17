@@ -51,7 +51,6 @@ The first comprehensive examination developed ecological intentionality through 
 
 - Abram, David. “Merleau-Ponty and the Voice of the Earth.”
 - Al-Saji, Alia. “A Past Which Has Never Been Present: Bergsonian Dimensions in Merleau-Ponty’s Theory of the Prepersonal.”
-- Bagby, John. *Aristotle’s Theory of Dynamics*. Dissertation.
 - Bogue, Ronald. “The Force That Is but Does Not Act: Ruyer, Leibniz and Deleuze.”
 - Borden Sharkey, Sarah. “Is Edith Stein’s *Finite and Eternal Being* a Kind of ‘Phenomenological Metaphysics’?” *Symposium* 25, no. 2 (2021): 48–66.
 - Brown, Charles S., and Ted Toadvine, eds. *Eco-Phenomenology: Back to the Earth Itself*. Albany: SUNY Press, 2003.
@@ -114,7 +113,7 @@ Watts and Kimmerer are important to [Place and Agency](../concepts/Place%20and%2
 - [Brentano, Franz](../concepts/Franz%20Brentano.md). *Psychology from an Empirical Standpoint*. Translated by Antos C. Rancurello, D. B. Terrell, and Linda L. McAlister. London: Routledge, 1973/1995.
 - Ravaisson, Félix. *Of Habit*. Translated by Clare Carlisle and Mark Sinclair. London: Continuum, 2008.
 
-Brentano and Ravaisson help clarify two genealogies running behind the project: the modern account of intentionality and inner awareness, and the Aristotelian line of activity, habit, inclination, and living form that runs toward Bergson.
+[Brentano](../concepts/Franz%20Brentano.md) and Ravaisson help clarify two genealogies running behind the project: the modern account of intentionality and inner awareness, and the Aristotelian line of activity, habit, inclination, and living form that runs toward Bergson.
 
 ### Merleau-Ponty: reversibility, difference, and time
 

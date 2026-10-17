@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 16, 2026. Draft update pending publication.*
+*Last updated October 17, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -11,7 +11,7 @@ This page is a provisional orientation to an argument still being made. It is no
 
 **Does ecological intentionality name a genuinely distinct phenomenological structure, or can the encounter already be described through existing structures of intentionality, embodiment, temporality, habit, valuation, and relation?**
 
-So far, [Franz Brentano](../concepts/Franz%20Brentano.md), [Edmund Husserl](../concepts/Husserl.md), and [Edith Stein](../concepts/Edith%20Stein.md) have made the case for restraint stronger rather than weaker. Brentano disciplines the meaning of *intentionality* and distinguishes perceiving, judging, valuing, remembering, desiring, and feeling gratitude as different modes of directed mental life. Husserl explains far more of the walnut encounter than an early formulation of ecological intentionality allowed: profiles, horizons, temporal synthesis, habit, embodied orientation, motivated attention, and even pre-theoretical “value-reception.” Stein complicates the vegetal boundary further by allowing qualified empathic fulfillment of phenomena of life while withholding stronger claims about an awake I, reflective consciousness, or transparent interiority.
+So far, [Franz Brentano](../concepts/Franz%20Brentano.md), [Edmund Husserl](../concepts/Husserl.md), and [Edith Stein](../concepts/Edith%20Stein.md) have made the case for restraint stronger rather than weaker. [Brentano](../concepts/Franz%20Brentano.md) disciplines the meaning of *intentionality* and distinguishes perceiving, judging, valuing, remembering, desiring, and feeling gratitude as different modes of directed mental life. Husserl explains far more of the walnut encounter than an early formulation of ecological intentionality allowed: profiles, horizons, temporal synthesis, habit, embodied orientation, motivated attention, and even pre-theoretical “value-reception.” Stein complicates the vegetal boundary further by allowing qualified empathic fulfillment of phenomena of life while withholding stronger claims about an awake I, reflective consciousness, or transparent interiority.
 
 That means ecological intentionality has **not yet earned the status of a new kind of intentional act**. One live possibility is that it names an education or formation of already available intentional structures. But that possibility is itself now under pressure.
 
@@ -314,6 +314,14 @@ The short coastal comparison in [No Line on the Horizon](../field-notes/2026-10-
 Three claims must be kept separate: **a further possible appearance**, **a particular history requiring additional evidence that might not be recoverable**, and **the developmental potency of a living being**. Husserl's account of bodily movement and appearance already explains much of the first. Stein's account of potency and act addresses a different ontological question. Merleau-Ponty's early account of bodily perspective already complicates any assumption that proximity is always superior to distance. The further job of late flesh remains to be demonstrated, not assumed from the photographs.
 
 This changes the discipline of our questions, not the provisional verdict about ecological intentionality's distinctiveness. The coast provides a brief comparison; the black walnut remains the longitudinal test case. The October 21 outline must still show what late Merleau-Ponty can add beyond the strongest Husserlian account before asking what the proposed ecological category contributes beyond both.
+
+## October 17: when the conditions of appearance change
+
+The next coastal sit, [When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md), returns to a familiar view under a colder, cloudier, windier morning. Felt cold and changing light are part of the encounter. The larger weather system comes from scientific explanation rather than direct observation of a front, and the particular ways shoreline organisms respond remain questions for further investigation. Birds briefly arriving at the balcony interrupt the reflection, but their intentions are not established by the visit.
+
+The new philosophical pressure is also more exact. Husserl's *Ideas II* §18(b) already addresses changing illumination and other perceptual circumstances, not only bodily movement between viewpoints. Merleau-Ponty's later account of flesh and incomplete reversibility still invites a different kind of ontological question, but altered weather cannot settle it. The walnut remains anticipated rather than directly seen on October 17. Its next appearance may answer an expectation without giving us the unwitnessed history of every change during the absence.
+
+The two questions remain distinct: what late Merleau-Ponty adds beyond a strong Husserlian and early embodied account, and what ecological intentionality would add beyond that and independently warranted ecological inquiry. The case makes those questions harder to evade, not easier to answer.
 
 ## Current interlocutors
 
