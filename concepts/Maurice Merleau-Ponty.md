@@ -21,8 +21,9 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
 - [October 17, 2026: When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md)
-- [October 16, 2026: No Line on the Horizon: Distance, Proximity, and the Possibilities of Encounter](../field-notes/2026-10-16%20-%20No%20Line%20on%20the%20Horizon%3A%20Distance%2C%20Proximity%2C%20and%20the%20Possibilities%20of%20Encounter.md)
+- [October 16, 2026: No Line on the Horizon: Distance, Proximity, and the Possibilities of Encounter](../field-notes/2026-10-16%20-%20No%20Line%20on%20the%20Horizon%20-%20%20Distance%2C%20Proximity%2C%20and%20the%20Possibilities%20of%20Encounter.md)
 - [October 14, 2026: What Would Change My Mind?](../field-notes/2026-10-14%20-%20What%20Would%20Change%20My%20Mind.md)
 - [October 13, 2026: A Shared World, Different Questions](../field-notes/2026-10-13%20-%20A%20Shared%20World%2C%20Different%20Questions.md)
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)

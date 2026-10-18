@@ -20,6 +20,8 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) (qualified vegetal life, apparent seasonal changes, and limits of causal claims)
+
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
 - [October 11, 2026: The Same Branch, Now on the Ground](../field-notes/2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md)
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
