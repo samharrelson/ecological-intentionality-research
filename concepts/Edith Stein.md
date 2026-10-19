@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md) (fulfilled perspective, living membership, and the further grounds of care)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) (qualified vegetal life, apparent seasonal changes, and limits of causal claims)
 
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)

@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 18, 2026.*
+*Last updated October 19, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -309,7 +309,7 @@ Harris, Watts, and Kimmerer make authority over those questions part of the prob
 
 ## October 16: what a new perspective does not give
 
-The short coastal comparison in [No Line on the Horizon](../field-notes/2026-10-16%20-%20No%20Line%20on%20the%20Horizon%20-%20%20Distance%2C%20Proximity%2C%20and%20the%20Possibilities%20of%20Encounter.md) sharpens the limits of the walnut method without replacing its sustained encounters. From an elevated balcony, the shoreline's larger patterns were more visible. On the sand, shell fragments became distinguishable. Turning back made the building that supported the earlier view itself available for inspection. Neither position gives the entire history of the building or of the fragments.
+The short coastal comparison in [No Line on the Horizon](https://ecologicalintentionality.org/sits/2026-10-16) sharpens the limits of the walnut method without replacing its sustained encounters. From an elevated balcony, the shoreline's larger patterns were more visible. On the sand, shell fragments became distinguishable. Turning back made the building that supported the earlier view itself available for inspection. Neither position gives the entire history of the building or of the fragments.
 
 Three claims must be kept separate: **a further possible appearance**, **a particular history requiring additional evidence that might not be recoverable**, and **the developmental potency of a living being**. Husserl's account of bodily movement and appearance already explains much of the first. Stein's account of potency and act addresses a different ontological question. Merleau-Ponty's early account of bodily perspective already complicates any assumption that proximity is always superior to distance. The further job of late flesh remains to be demonstrated, not assumed from the photographs.
 
@@ -328,6 +328,14 @@ The two questions remain distinct: what late Merleau-Ponty adds beyond a strong 
 [What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) completes the anticipated return to the walnut. The tree is mostly green, with yellow leaflets, some fallen leaves, and a few walnuts on the ground. Comparing these with last week's view involves memory; I have not witnessed when particular leaves fell or what happened to fruits I no longer see in the canopy. The visit offers no clear defeated expectation. **Confirmation is not correction, and neither is an explanation of the interval.**
 
 This puts a further Husserlian resource on the table: *Ideas II* §59's discussion of habituated expectation and implicit horizons of similar memories. Familiarity may help direct attention without establishing a new kind of intentionality. The detached piece of bark kept on my desk also returns as a remembered gift. Kimmerer's writing helps distinguish gratitude for what I received from the unproved claim that the walnut intended to give it, or that detachment gave permission to collect it. These distinctions preserve a place for ecological and ethical investigation without treating its necessity as proof of a new phenomenological category.
+
+## October 19: what a clearer view leaves open
+
+In [What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md), I made a small prediction before moving. Two branches that overlapped from one position became distinguishable when I stepped left. I could also see more of the trunk, notice yellow leaves that hadn't caught my attention, and feel the different sunlight. The prediction was fulfilled, but I had not mistakenly believed the branches were one, so this was **not a correction of a false judgment**.
+
+The attached swing offered a different question. Seeing it in the canopy doesn't establish whether its attachment harms this tree, or whether a particular action would benefit it. I can investigate that, but it requires knowledge beyond another perceptual profile. Husserl and early Merleau-Ponty already explain much of the movement and anticipation in this sit. Late Merleau-Ponty's *flesh* still has to earn its different ontological contribution, and ecological intentionality then has a separate question to answer: what, if anything, does it add beyond these resources and responsible ecological scholarship?
+
+What matters for the October 21 outline is the difference among **an expectation fulfilled, a mistaken judgment corrected, and an ecological or ethical claim established by further reasons**. The walnut's living organization makes the third kind of question urgent without answering it for me.
 
 ## Current interlocutors
 

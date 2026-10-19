@@ -11,9 +11,10 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
 - [October 17, 2026: When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md)
-- [October 16, 2026: No Line on the Horizon: Distance, Proximity, and the Possibilities of Encounter](../field-notes/2026-10-16%20-%20No%20Line%20on%20the%20Horizon%20-%20%20Distance%2C%20Proximity%2C%20and%20the%20Possibilities%20of%20Encounter.md)
+- [October 16, 2026: No Line on the Horizon](https://ecologicalintentionality.org/sits/2026-10-16)
 - [October 15, 2026: What Changes the Next Question?](../field-notes/2026-10-15%20-%20What%20Changes%20the%20Next%20Question.md)
 - [October 14, 2026: What Would Change My Mind?](../field-notes/2026-10-14%20-%20What%20Would%20Change%20My%20Mind.md)
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
