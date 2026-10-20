@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 19, 2026.*
+*Last updated October 20, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
 
@@ -336,6 +336,14 @@ In [What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20
 The attached swing offered a different question. Seeing it in the canopy doesn't establish whether its attachment harms this tree, or whether a particular action would benefit it. I can investigate that, but it requires knowledge beyond another perceptual profile. Husserl and early Merleau-Ponty already explain much of the movement and anticipation in this sit. Late Merleau-Ponty's *flesh* still has to earn its different ontological contribution, and ecological intentionality then has a separate question to answer: what, if anything, does it add beyond these resources and responsible ecological scholarship?
 
 What matters for the October 21 outline is the difference among **an expectation fulfilled, a mistaken judgment corrected, and an ecological or ethical claim established by further reasons**. The walnut's living organization makes the third kind of question urgent without answering it for me.
+
+## October 20: what touch leaves open
+
+In [What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md), I rested my hand, the back of my hand, and my forearm against the walnut's bark. I felt its rough texture and pressure, and I shifted my stance. A knot in the trunk held my attention, but looking and touching didn't tell me how it formed. The tactile encounter gave me a different kind of acquaintance, not a history of the tree or its experience.
+
+Merleau-Ponty distinguishes exploring an external texture, sensing one's own body, and the reversal involved when one hand touches the other. This morning I explored the bark with different surfaces of my arm. That doesn't mean I enacted a reciprocal touch between the walnut and me, nor that I established what the tree might experience. Husserl's account of bodily sensing remains a substantial explanation of what occurred.
+
+**Two questions remain separate:** What does the later ontology of flesh add beyond Husserl and early Merleau-Ponty? And even if that ontological account succeeds, what, if anything, does ecological intentionality add beyond these descriptions and the ecological inquiries already available? The knot's unanswered history and the question of responsible care make those distinctions matter without answering either philosophical question.
 
 ## Current interlocutors
 

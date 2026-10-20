@@ -7,6 +7,7 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A changed feel of bark invites further attention without making tactile acquaintance a diagnosis or another being's experience.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
 - [October 16, 2026: No Line on the Horizon](https://ecologicalintentionality.org/sits/2026-10-16)

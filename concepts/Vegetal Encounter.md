@@ -9,6 +9,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A visible, tangible knot raises a real question about this organism's history without disclosing its cause.
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
 - [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 1, 2026: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md)

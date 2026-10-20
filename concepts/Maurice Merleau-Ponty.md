@@ -21,6 +21,7 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Bark contact sharpens the distinction between tactile acquaintance, bodily reversibility, and unestablished experiential reciprocity.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
 - [October 17, 2026: When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md)
