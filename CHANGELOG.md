@@ -1,5 +1,11 @@
 # Changelog
 
+## Unreleased — Sits-only RSS subscription
+
+- Generate stable RSS 2.0 from the curated public Home sit index and exported field-note metadata, not site-wide changes.
+- Stage `docs/sits.xml` in the guarded publication workflow, with no media or private files included.
+- Add feed regression tests and a standalone GitHub Pages endpoint (enabled separately in repository settings).
+
 ## Unreleased — Inquiry overview and research history
 
 - Separate the living `Where the Inquiry Stands` overview from the durable `How the Inquiry Developed` research-history archive.
