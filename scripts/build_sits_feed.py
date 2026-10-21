@@ -2,12 +2,15 @@
 """Build a *sits-only* RSS feed from the curated public Obsidian index.
 
 The Obsidian Home.md "Recent sits" links are the feed allowlist.
-Descriptions come only from already-exported public field-note metadata.
+Descriptions and full-text HTML come only from already-exported public field notes.
 No private vault paths, unindexed notes, or page-edit timestamps are syndicated.
 """
 from __future__ import annotations
 
 import argparse
+from html import escape
+import posixpath
+from urllib.parse import quote, unquote, urlsplit
 from datetime import date, datetime, time, timezone
 from email.utils import format_datetime
 from pathlib import Path
@@ -17,7 +20,9 @@ import xml.etree.ElementTree as ET
 SITE = "https://ecologicalintentionality.org"
 FEED = "https://samharrelson.github.io/ecological-intentionality-research/sits.xml"
 ATOM = "http://www.w3.org/2005/Atom"
+CONTENT = "http://purl.org/rss/1.0/modules/content/"
 ET.register_namespace("atom", ATOM)
+ET.register_namespace("content", CONTENT)
 DATE_PATTERN = re.compile(r"\b(20\d{2}-\d{2}-\d{2})\b")
 
 
@@ -34,6 +39,112 @@ def frontmatter(text: str) -> dict[str, str]:
         if sep and key.strip().lower() in {"date", "description"}:
             result[key.strip().lower()] = value.strip().strip('"').strip("'")
     return result
+
+
+def body_without_frontmatter(text: str) -> str:
+    """Use the public note body, never its publication-routing YAML metadata."""
+    if text.startswith("---\n"):
+        end = text.find("\n---\n", 4)
+        if end >= 0:
+            return text[end + 5:].strip()
+    return text.strip()
+
+
+def public_link(url: str) -> str | None:
+    """Keep external links and allowlisted public GitHub Markdown references."""
+    parsed = urlsplit(url)
+    if parsed.scheme in {"http", "https"} and parsed.netloc:
+        return url
+    if parsed.scheme or parsed.netloc or url.startswith("/"):
+        return None
+    decoded = unquote(parsed.path)
+    path = posixpath.normpath(posixpath.join("field-notes", decoded))
+    if (
+        path.startswith(("concepts/", "field-notes/", "project/", "method/"))
+        and path.endswith(".md")
+        and ".." not in path.split("/")
+    ):
+        return (
+            "https://github.com/samharrelson/ecological-intentionality-research/blob/main/"
+            + quote(path, safe="/._-")
+            + (("#" + quote(parsed.fragment, safe="-_")) if parsed.fragment else "")
+        )
+    return None
+
+
+def inline_html(text: str) -> str:
+    """Render basic Markdown without trusting raw HTML or local links."""
+    links = []
+
+    def render_link(match):
+        label, url = match.group(1), match.group(2)
+        if match.group(0).startswith("!"):
+            # No remote images or private media in RSS.
+            return label
+        href = public_link(url)
+        if not href:
+            return label
+        links.append(f'<a href="{escape(href, quote=True)}">{escape(label)}</a>')
+        return f"FEEDLINKPLACEHOLDER{len(links) - 1}END"
+
+    text = re.sub(r"!?\[([^\]]+)\]\(([^)\s]+)\)", render_link, text)
+    escaped = escape(text)
+    escaped = re.sub(r"\*\*([^*\n]+)\*\*", r"<strong>\1</strong>", escaped)
+    escaped = re.sub(r"(?<!\*)\*([^*\n]+)\*(?!\*)", r"<em>\1</em>", escaped)
+    for i, value in enumerate(links):
+        escaped = escaped.replace(f"FEEDLINKPLACEHOLDER{i}END", value)
+    return escaped
+
+
+def markdown_to_html(text: str) -> str:
+    """Render already-public Markdown as reader-friendly, sanitized HTML."""
+    lines = body_without_frontmatter(text).splitlines()
+    fragments = []
+    paragraph = []
+    bullets = []
+    quoted = []
+
+    def flush_para():
+        if paragraph:
+            fragments.append("<p>" + inline_html(" ".join(paragraph)) + "</p>")
+            paragraph.clear()
+
+    def flush_bullets():
+        if bullets:
+            fragments.append("<ul>" + "".join("<li>" + inline_html(x) + "</li>" for x in bullets) + "</ul>")
+            bullets.clear()
+
+    def flush_quote():
+        if quoted:
+            fragments.append("<blockquote><p>" + inline_html(" ".join(quoted)) + "</p></blockquote>")
+            quoted.clear()
+
+    for raw in lines:
+        line = raw.strip()
+        if not line:
+            flush_para()
+            flush_bullets()
+            flush_quote()
+            continue
+        heading = re.match(r"^(#{1,5})\s+(.+)$", line)
+        bullet = re.match(r"^[-*]\s+(.+)$", line)
+        quote_line = re.match(r"^>\s?(.*)$", line)
+        if heading:
+            flush_para(); flush_bullets(); flush_quote()
+            level = min(len(heading.group(1)) + 1, 6)
+            fragments.append(f"<h{level}>" + inline_html(heading.group(2)) + f"</h{level}>")
+        elif quote_line:
+            flush_para(); flush_bullets()
+            quoted.append(quote_line.group(1))
+        elif bullet:
+            flush_para(); flush_quote()
+            bullets.append(bullet.group(1))
+        else:
+            flush_bullets(); flush_quote()
+            paragraph.append(line)
+
+    flush_para(); flush_bullets(); flush_quote()
+    return "\n".join(fragments)
 
 
 def curated_sits(home_text: str) -> list[tuple[str, str]]:
@@ -85,7 +196,7 @@ def public_metadata(notes_dir: Path) -> dict[str, dict[str, str]]:
             continue
         # Duplicate exported filenames for one date are common while renaming.
         # Their date-specific public permalink is the stable article identity.
-        result.setdefault(day, metadata)
+        result.setdefault(day, {"date": day, "description": metadata["description"], "body": path.read_text(encoding="utf-8")})
     return result
 
 
@@ -112,6 +223,7 @@ def build_xml(home_text: str, notes_dir: Path) -> bytes:
         ET.SubElement(item, "link").text = permalink
         ET.SubElement(item, "guid", isPermaLink="true").text = permalink
         ET.SubElement(item, "description").text = metadata[day]["description"]
+        ET.SubElement(item, f"{{{CONTENT}}}encoded").text = markdown_to_html(metadata[day]["body"])
         # Source records a field-sit day, not an exact website publication time.
         # A constant UTC day boundary keeps the item stable during edits.
         stamp = datetime.combine(date.fromisoformat(day), time.min, tzinfo=timezone.utc)
