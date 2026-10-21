@@ -32,7 +32,7 @@ There are two questions in my interest in the bark feature. Why did it catch my 
 
 Light, position, and familiarity belong to the first question, though I have not established exactly how they combined to draw my attention. The second asks for evidence about the tree's history. A clearer photograph might help describe the feature. An earlier photograph might show that it was already present. Neither would necessarily explain how it arose.
 
-My [Attention](../concepts/Attention.md) makes the question more definite, but it doesn't supply an answer. The [Remainder](../concepts/Remainder.md) is also more specific now: I can see the feature, I don't know its history, and I have to decide what kind of inquiry could tell me more.
+Paying [attention](../concepts/Attention.md) makes the question more definite, but it doesn't supply an answer. The [remainder](../concepts/Remainder.md) is also more specific now: I can see the feature, I don't know its history, and I have to decide what kind of inquiry could tell me more.
 
 The squirrel brings another distinction. I can report its movement and my impression of being looked at. The humorous commentary I imagine it making belongs to me. Its particular thoughts remain unknown. Sharing this encounter does not make our experiences identical, and the animal's presence tells me nothing directly about the walnut's experience.
 

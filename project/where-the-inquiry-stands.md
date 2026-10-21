@@ -1,360 +1,119 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 21, 2026.*
+*Updated October 21, 2026 · Black Walnut Field Notes · An argument in progress*
 
-This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
+For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
-**After the October 21 outline.** I sent Jack a working outline that keeps two questions separate: what late Merleau-Ponty's flesh contributes beyond Husserl and early Merleau-Ponty, and whether ecological intentionality contributes anything beyond those accounts and already developed ecological practices. The October 21 sit, [A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md), made a familiar high bark feature newly noticeable in changing light, and a squirrel briefly interrupted my attention. I still don't know how the feature formed. Returning to Husserl's *Ideas II* §§55–56 has sharpened the difference between understanding why I attended to it and finding an account of its causal history. Husserl already has resources for both motivated inquiry and the distinction between motivation and natural causality. I want to ask how learning the latter might change my subsequent perception, without pretending the encounter defeats his account or establishes a new one.
+The encounters have been wonderfully ordinary. I've watched leaves turn, followed branches through the canopy, touched familiar places on the bark, noticed fallen wood, and occasionally been interrupted by a squirrel. Alongside those encounters, I've been reading phenomenology, ecological thought, and theology. The texts help me notice more carefully, but they also make some of my earlier claims harder to defend.
 
-## Where the inquiry stands
+I'm less certain than I was at the end of my first comprehensive examination that ecological intentionality names a new structure of consciousness. That isn't a problem to work around. It has become one of the central questions of the research.
 
-[Ecological Intentionality](../concepts/Ecological%20Intentionality.md) began as a name for a disciplined form of creaturely attention: a way of attending to another being as relationally given, irreducibly other, and never exhausted by its appearance within human experience. The Black Walnut Field Notes have increasingly made that proposal answer to a harder question:
+**I want to find out what the encounters and the texts actually warrant, even if that requires changing or relinquishing a concept I began with.**
 
-**Does ecological intentionality name a genuinely distinct phenomenological structure, or can the encounter already be described through existing structures of intentionality, embodiment, temporality, habit, valuation, and relation?**
+**On this page:** [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
-So far, [Franz Brentano](../concepts/Franz%20Brentano.md), [Edmund Husserl](../concepts/Husserl.md), and [Edith Stein](../concepts/Edith%20Stein.md) have made the case for restraint stronger rather than weaker. [Brentano](../concepts/Franz%20Brentano.md) disciplines the meaning of *intentionality* and distinguishes perceiving, judging, valuing, remembering, desiring, and feeling gratitude as different modes of directed mental life. Husserl explains far more of the walnut encounter than an early formulation of ecological intentionality allowed: profiles, horizons, temporal synthesis, habit, embodied orientation, motivated attention, and even pre-theoretical “value-reception.” Stein complicates the vegetal boundary further by allowing qualified empathic fulfillment of phenomena of life while withholding stronger claims about an awake I, reflective consciousness, or transparent interiority.
+For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
 
-That means ecological intentionality has **not yet earned the status of a new kind of intentional act**. One live possibility is that it names an education or formation of already available intentional structures. But that possibility is itself now under pressure.
+## The two questions
 
-## From perception to livingness
+The October 21 Comps 2 outline keeps two explanatory burdens separate. They are related, but answering one will not automatically answer the other.
 
-The first sequence of sits trained the method to distinguish what is perceptually given from what is remembered, anticipated, inferred, or conceptually imposed.
+**First: What does late Merleau-Ponty's ontology of flesh explain beyond Husserl and early Merleau-Ponty?**
 
-[September 9: Educating Perception](../field-notes/2026-09-09%20-%20Educating%20Perception.md) began with the perception / inference problem. [September 11: Presence and Remainder](../field-notes/2026-09-11%20-%20Presence%20and%20Remainder.md) introduced the problem of what exceeds any one appearance. [September 12: Kinds of Absence](../field-notes/2026-09-12%20-%20Kinds%20of%20Absence.md) and [September 13: Hiddenness and Otherness](../field-notes/2026-09-13%20-%20Hiddenness%20and%20Otherness.md) separated perspectival absence from stronger claims about alterity.
+[Edmund Husserl](../concepts/Husserl.md) already offers a remarkably rich account of perception. An object appears through partial profiles and changing horizons; the sensing body moves, remembers, anticipates, develops habits, and responds to what draws attention. His account of motivation even allows what I perceive to lead me toward scientific investigation and practical judgment. Early [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) makes this challenge stronger through embodied movement, habit, and the bodily *I can*.
 
-The next turn asked how the walnut becomes intelligible specifically as living. [September 15: How Livingness Appears](../field-notes/2026-09-15%20-%20How%20Livingness%20Appears.md) proposed that livingness may be disclosed through organized, temporally extended appearances rather than as one more visible property. [September 16: Yellow and Yellowing](../field-notes/2026-09-16%20-%20Yellow%20and%20Yellowing.md) then made *development* itself a problem: “yellow” is not yet “yellowing.” [September 17: Falling and Development](../field-notes/2026-09-17%20-%20Falling%20and%20Development.md) distinguished an event unfolding within one perceptual present from a slower development known across memory, anticipation, familiarity, and repeated encounter.
+In his later work, Merleau-Ponty asks whether sensing and sensible existence must be understood from a different ontological starting point. His language of *flesh*, *chiasm*, incomplete reversibility, and *écart* may explain how perceiver and perceived are differentiated within a sensible world rather than first existing as two complete terms. But that ontological proposal isn't proven by touching a tree, and sharing a sensible world doesn't establish shared conscious experience.
 
-These notes gather around [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), [Attention](../concepts/Attention.md), and [Remainder](../concepts/Remainder.md). Their recurring discipline is that greater familiarity must not automatically become greater possession.
+**Second: Even if late flesh contributes something important, what does ecological intentionality contribute beyond these accounts and existing ecological inquiry?**
 
-## Place and agency change the starting question
+Distinguishing perception, biological investigation, historical knowledge, and ethical reasoning may be useful without constituting a new kind of intentionality. It may also describe work that phenomenology, natural history, Indigenous relational traditions, ecowomanism, and ecological ethics already do well. I want the term to earn its place, not receive one because it seems to suit a tree.
 
-[September 18: Relations Already Underway](../field-notes/2026-09-18%20-%20Relations%20Already%20Underway.md) and [September 19: When Place Is Not Context](../field-notes/2026-09-19%20-%20When%20Place%20Is%20Not%20Context.md) widened the problem. A human intentional act can be described with great precision, while still occurring within material, ecological, historical, and political relations it did not initiate.
+## What the walnut has made difficult
 
-Here [Vanessa Watts](../concepts/Vanessa%20Watts.md) changes the pressure. Her account of Place-Thought, developed through specifically Haudenosaunee and Anishnaabe cosmological framings, should not be reduced to a generic claim that “everything is relational.” It challenges whether a human perceiver, a nonhuman object, and a surrounding context should be treated as neutral starting terms at all.
+The practice began by distinguishing what was **perceptually given** from what I remembered, expected, inferred, or brought conceptually to the encounter. That discipline hasn't disappeared as the questions have grown.
 
-That challenge does not make Husserl wrong. It makes his success more interesting. Husserl may explain a richly responsive **Ego of intentionality within a surrounding world** while Watts asks whether that architecture itself was granted priority too quickly.
+In [What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md) (October 19), I predicted that moving a little to one side would separate branches that seemed to overlap. The movement fulfilled that prediction. It wasn't a correction of a mistaken belief. A clearer view also didn't disclose the branches' unwitnessed growth or history. Husserl's account of bodily movement and perceptual fulfillment already explains much of this.
 
-[September 20: What Counts as Agency](../field-notes/2026-09-20%20-%20What%20Counts%20as%20Agency.md) makes the problem concrete. Causal efficacy, response, agency, subjectivity, and accessible experience are not interchangeable. At the same time, the criteria by which agency is recognized are not necessarily neutral. The question therefore becomes both **what warrants an attribution of agency?** and **who or what supplied the criteria of warrant?**
+In [What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) (October 20), I rested my palm, the back of my hand, and my forearm against the walnut's bark. Touch disclosed roughness, pressure, and bodily posture, but not the history of a familiar knot or what, if anything, the walnut experiences. More intimate contact wasn't automatically more adequate knowledge, still less a justified practice of care.
 
-These questions now gather around [Place and Agency](../concepts/Place%20and%20Agency.md) as much as around perception alone.
+In [A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) (October 21), a familiar protrusion high on the trunk caught my attention differently in the morning light. A squirrel briefly appeared and seemed to look toward me. I imagined its opinion of a person who keeps talking to this tree, then recognized that the imagined commentary was mine. Why the protrusion caught my eye, how it formed, and how learning its history might change what I notice are connected questions requiring different kinds of evidence.
 
-## Gift, obligation, and asymmetry
+Earlier encounters with fallen branches, an attached swing, and changing leaves raised related questions about attachment, organismic unity, agency, and care. A visible feature is not its own causal explanation. Something can be perceptually given without being a gift or an invitation. A practice of attention can improve a description without yet establishing what is good for a particular organism.
 
-[September 21: When Receiving Becomes Gift](../field-notes/2026-09-21%20-%20When%20Receiving%20Becomes%20Gift.md) introduces another shift through [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
+One methodological conviction has become clearer: **the task isn't merely to expect the unexpected. It's to recognize what actually happened, even when it doesn't serve the argument I brought to the tree.** Changed salience, redirected attention, a corrected belief, and a revised ethical judgment are not the same event.
 
-The sit distinguishes several increasingly strong claims: there is shade; the shade benefits me; I experience the benefit as received; I say that the walnut gives shade; I call the shade a gift. Those are not identical descriptions.
+## Hear the practice
 
-Kimmerer’s “The Gift of Strawberries” makes this distinction especially useful. She does not require a consciously strategizing plant-giver in order for gift to reorganize relation. Her claim that human perception can make the world intelligible as gift gives real support to the idea that practices of gratitude and reciprocity can educate perception. But that support creates a new circularity problem: a grateful mode of seeing cannot then cite itself as proof that the world intentionally gave.
+*Field recording · October 21, 2026 · approximately 5 minutes*
 
-This puts pressure on the older methodological line **“First, the seeing, then the keeping.”** Its restraint remains important: care should not decide in advance what another being needs or means. But the sequence may not be one-way. Keeping, gratitude, and reciprocity may also teach the perceiver how to see.
+This is what the practice sounds like in my own voice, recorded beside the walnut. I talk about returning to the tree, what has surprised me, and the two questions now guiding the research. The recording is a spoken introduction, not a separate argument or evidence that the tree experiences our encounters.
 
-The emerging question is therefore not only whether the walnut is an agent or giver. It is whether obligation can become salient before every metaphysical question about agency has been settled.
+[Listen to the field recording on the website](https://ecologicalintentionality.org/inquiry#hear-the-practice)
 
-[September 22: Can Restraint Be a Return?](../field-notes/2026-09-22%20-%20Can%20Restraint%20Be%20a%20Return.md) makes reciprocity itself the next term that has to earn its name. Storm-fallen branches supplied a clean distinction: **a branch given in perception is not thereby given to me**. Availability, usefulness, detachment, permission, and gift are not interchangeable.
+> [!note]- Read the transcript
+> Good morning. I'm Sam Harrelson, and I'm here with a black walnut tree in Spartanburg, South Carolina.
+>
+> It's a beautiful October morning, and I wanted to give you a little preview of how I do these sit notes. One of the main parts is this audio note I make each day when I'm here with the black walnut, after sitting for a while and observing and noticing what it's given to me.
+>
+> I've been doing this for a couple of years now, so I have notes going back to around 2024 in the archives. It's always fun to go back and listen to what I was observing two years ago and reflect on that. But for the past several weeks, since early September, I've been coming back to this tree intentionally, usually for about twenty to thirty minutes, looking, listening, taking photos, and talking through what I'm noticing.
+>
+> Sometimes I see something I hadn't paid attention to before, like I did this morning. Sometimes I discover that I thought I knew more than I actually did. And sometimes a squirrel shows up and reminds me that the tree isn't here to cooperate with my philosophical agenda.
+>
+> This all began as part of my doctoral work in ecology, spirituality, and religion at the California Institute of Integral Studies. I've been trying to think through something I'm calling ecological intentionality.
+>
+> In phenomenology, intentionality concerns how consciousness is directed toward something. But the longer I've been sitting here and standing here, the less willing I am to assume that putting *ecological* in front of that word establishes a new kind of intentionality. And that's partly because of thinkers like Edmund Husserl.
+>
+> He already explains so much about what happens when I encounter this tree, from the way I move, to how different sides become visible, to how memory and expectations shape my attention, and how something I notice can lead me to a new question.
+>
+> Edith Stein makes me more careful, too. Recognizing another living being isn't the same as knowing what, if anything, it experiences.
+>
+> So there are two questions that are really carrying the research now.
+>
+> The first concerns Maurice Merleau-Ponty. In his later work, he uses the word *flesh*, not to mean my skin or the tree's bark, but to investigate how a perceiving body belongs to the sensible world. So what does that account explain beyond Husserl and Merleau-Ponty's earlier work in phenomenology?
+>
+> And then there's a second question, one that's a little harder on my own argument. Even if Merleau-Ponty's later work on flesh changes the philosophical picture, what work remains for ecological intentionality? Is it something genuinely new, a way of educating capacities we already have, a useful practice of inquiry, or a term we might eventually have to give up?
+>
+> This walnut keeps those questions from becoming too abstract. Yesterday I touched the bark during my sit recording and learned something about texture and pressure, but not the history of a knot on this tree. This morning, another feature higher on the trunk caught my eye in the changing light. I still don't know how it formed. Looking closer might help me describe it. Learning its history, though, would require different evidence. Deciding whether it needs care would require something further still.
+>
+> And that's why I'm recording these sits and sharing selected notes here. I want people to be able to follow the inquiry as it develops, including the surprises, the squirrels, the mistaken interpretations, and the questions that remain open.
+>
+> I'm not asking the walnut to illustrate a theory I've already decided on. I'm trying to return with enough attention and curiosity to recognize what actually happens each morning, even when it doesn't serve the argument I brought with me.
+>
+> First the seeing, then the keeping. And do reach out if you have any questions!
 
-Kimmerer’s own “Honorable Harvest” also prevents the fieldwork from claiming too much novelty here. She already allows reciprocity to take indirect forms through land stewardship, science, art, practical reverence, and related practices. The narrower question generated by the sit is whether **not taking**, restraint, or leaving something alone can itself count as reciprocal return rather than unilateral care or stewardship.
+## Thinkers who complicate the account
 
-[September 23: Care Without Immunity](../field-notes/2026-09-23%20-%20Care%20Without%20Immunity.md) turns that problem toward **corrigibility**. Kimmerer’s sweetgrass work makes a generic rule such as *leave nature alone* fail: respectful harvest can help one plant flourish while harming another. Care therefore cannot justify itself merely by appearing restrained, reciprocal, or benevolent. It has to remain answerable to the particular life-form.
+Husserl is now my strongest philosophical check against inventing a new category too early. Merleau-Ponty's late ontology may offer a different understanding of the relation between perceiver and perceived, but its contribution must be demonstrated against Husserl and Merleau-Ponty's earlier work.
 
-The primary texts make that proposal harder. Husserl already allows ongoing experience to **redetermine or cancel** an earlier apprehension, and Stein explicitly treats empathic apprehension as open to correction by further experience. So the fact that perception can be corrected does not by itself distinguish ecological intentionality.
+[Edith Stein](../concepts/Edith%20Stein.md) helps me ask different questions. Her account of empathy insists that another's experience, when given as another's, isn't primordially mine. Her discussion of vegetal phenomena of life allows a qualified kind of apprehension without authorizing confident claims about plant sensation or an awake plant *I*. Her later metaphysics of living form and finite being raises the separate question of a creature's own development and good. I'm not assuming these claims fit neatly with Merleau-Ponty's flesh.
 
-The unresolved transition is now normative:
+The conversation also cannot remain confined to European phenomenology. [Vanessa Watts's](../concepts/Vanessa%20Watts.md) Place-Thought challenges the priority of a human perceiver confronting a surrounding environment, from within particular Indigenous cosmological traditions. [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md) makes gift, reciprocity, harvest, restoration, and living beings' differentiated needs questions of situated practice. [Melanie Harris's](../concepts/Melanie%20Harris.md) ecowomanism presses the importance of Black women's experience, historical memory, structural harm, environmental justice, and accountable praxis. Their work is not additional evidence for a phenomenological framework already decided elsewhere.
 
-**corrigibility of apprehension is not yet adequacy of care.**
+A theological horizon remains open in what I've been calling the *Ecology of the Cross*. Creatureliness, participation, suffering, and redemption matter here, but a broken branch isn't evidence of a Christological claim. Ecological damage or imposed harm doesn't become good because I can give it a moving theological interpretation.
 
-A judgment that the walnut is damaged, recovering, vigorous, or declining may become better warranted through sustained encounter and biological knowledge. But deciding that pruning, restraint, harvest, protection, or nonintervention is the better response requires some further account of flourishing, impairment, need, good, or appropriate relation.
+## What remains open
 
-This also places a limit on the metaphor that the walnut “answers.” Observable changes can support, complicate, or defeat an interpretation or practice without thereby proving communication, agency, or access to the walnut’s experience. Watts’s stronger claim that land speaks within Place-Thought belongs to a specific Haudenosaunee and Anishnaabe cosmological, historical, and political framework and should not be reduced to empirical feedback.
+There are four live possibilities for ecological intentionality. It might name **a distinct intentional structure**, **an education or configuration of inherited capacities**, **a disciplined coordination of inquiries with different warrants**, or **a term whose apparent work is already done elsewhere**. None has won by default. Even the appealing phrase “a discipline of transitions” must answer to existing approaches.
 
-[September 24: When the Norm Enters](../field-notes/2026-09-24%20-%20When%20the%20Norm%20Enters.md) asks what makes correction matter in the first place. Autumn leaf fall supplied a simple test: the same sensible event, detachment from a branch, can mean something very different in June and late September. **Change is not yet damage; growth is not yet fulfillment; loss is not yet impairment.** A judgment of flourishing already invokes a norm.
+Five questions are carrying the next stage of the work:
 
-A close reading of Stein’s *Finite and Eternal Being* makes that problem more interesting. Stein describes finite life through actuality and potentiality, temporal becoming, a living being’s “natural measure,” progressive self-formation, and development toward an end or perfection. She also treats each living being as a genuine individual with a definite measure of being. These claims provide a metaphysical candidate for **organismic normativity**: fuller and poorer actualizations may be intelligible relative to the living form itself rather than only to human preference.
+- **Ontology:** What does late flesh explain that Husserl and early Merleau-Ponty cannot already explain?
+- **Otherness:** How do empirical ignorance, Stein's non-primordiality, and Merleau-Ponty's *écart* differ? When does “intimacy with remainder” conceal those differences?
+- **Creaturely goods:** What warrants moving from an observed condition to an account of this organism's flourishing, and then to an ethical obligation? The goods of an individual tree, a species, and a place need not coincide.
+- **Place and history:** Whose evidence and experience shape an adequate ecological description? When are biological research, histories, community knowledge, and political analysis necessary?
+- **Distinctiveness:** If ecological intentionality adds nothing beyond existing scholarship and practice, am I prepared to relinquish the term?
 
-But the ethical transition remains open:
+These are tests of the argument, not rhetorical questions with answers chosen in advance.
 
-**organismic norm is not yet ethical obligation.**
+## What comes next
 
-The inquiry now has to keep three achievements distinct: **apprehend the condition → articulate the organismic norm → justify the ethical response**. Stein may help with the second after Husserl and empathy have disciplined the first. Neither automatically supplies the third.
+For the remainder of Fall 2026, I want to compare Husserl's *Ideas II*, early *Phenomenology of Perception*, and the late *The Visible and the Invisible* closely enough to establish what each can and cannot explain. Stein's accounts of empathy, living form, and creaturely good remain central. Plant-empathy scholarship, eco-phenomenology, Indigenous relational thought, ecowomanism, and the theology of the cross will have to challenge the project rather than merely decorate it.
 
-Stein also introduces a new complication for the field journal’s insistence on **this walnut**. In the same discussion where she calls living beings genuine individuals, she gives plant life a strong orientation toward the actualization and propagation of the species-form. So even an immanent norm does not yet tell us whether the relevant good belongs primarily to the individual tree, the species, or some structured relation between them.
+I'll also keep returning to this particular walnut. The question I carried forward on October 21 is modest but useful: **How might learning the history of a visible feature change the way I see it, and what evidence would warrant that change?**
 
-Kimmerer keeps that metaphysics answerable to practice. In “Old-Growth Children,” restoration becomes a long process of studying a place and its species, making mistakes, observing responses, and revising care: a “forestry of intimacy.” A metaphysics of living form therefore has to survive contact with the concrete conditions under which different organisms and places actually flourish.
+I'm not asking the tree to resolve the philosophy. I'm trying to let actual encounters and serious reading make my claims answerable to what I can know, what I still need to investigate, and what I shouldn't infer.
 
-[September 25: Whose Good Is This](../field-notes/2026-09-25%20-%20Whose%20Good%20Is%20This.md) asks the next question: **who or what bears the good?** A fallen walnut can be good food for a squirrel, a reproductive possibility for the species, part of the parent tree’s fruiting, or material for decomposition. These goods can overlap without being identical. What is good **through** a being may not be good **for** that being.
+For more, start with the latest field notes, read [About the Practice](../method/about-the-practice.md), explore [Sources & Reading](sources-and-reading.md), or follow the longer [research-development history](how-the-inquiry-developed.md).
 
-Stein’s text now makes this distinction sharper. She protects the individual living being from dissolution into the species, but also makes propagation of the specific form central to plant life. In her later account of goodness she says that each existent’s own perfection is its immediate good, while other beings can be mediately good by contributing to that perfection. Finite goods therefore have limited spheres.
-
-Yet Stein also places these differentiated goods within a deeper divine order in which creaturely perfections ultimately belong together. This creates a new pressure from the field notes: are ecological conflicts merely local and apparent from a finite perspective, or can creaturely life contain genuine incompatibilities and losses that resist final harmonization?
-
-Kimmerer complicates the “good of the whole” from another direction. “The Sacred and the Superfund” shows that restoration itself can be guided by different goods: ecological function, reference condition, ancestral place, cultural renewal, reciprocal relationship, responsibility, sacred community, or home. The good of a place cannot therefore be assumed to be a neutral aggregate visible from above.
-
-The working sequence now has four stages:
-
-**apprehend the condition → articulate the organismic norm → distinguish and order the bearers of good → justify the ethical response**
-
-Two new restraints follow: **organismic good is not automatically ecological good**, and **ecological usefulness is not automatically individual flourishing**.
-
-[September 26: What Is Between These Trees](../field-notes/2026-09-26%20-%20What%20Is%20Between%20These%20Trees.md) turns from the bearer of good to the work done by **relation** itself. A photograph of a walnut branch extending toward a distant oak made relation look almost self-evident. The sit separated what was actually given from stronger claims about reaching, cooperation, competition, or communion. What was given included orientation, distance, visual overlap, and one perceptual field.
-
-Husserl gives that distinction a clearer form in *Ideas II* §55: **intentional relation is not real-causal relation**. Two trees can be co-given without their ecological interaction being given; real causal relations can likewise obtain without being perceptually thematic.
-
-Stein then prevents the opposite mistake of treating an individual’s proper good as independent of circumstance. In *Finite and Eternal Being*, external conditions can release, impede, and co-condition the actual formation of a living being, while animate life remains self-formation from a vital center. The current distinction is therefore:
-
-**relational conditioning of actualization is not yet relational constitution of the organismic norm.**
-
-Kimmerer makes that distinction concrete. In “Wisgaak Gokpenagen,” disease or windthrow can open the canopy needed for young black ash to flourish; in “Old-Growth Children,” cedar possibilities depend on shade, wetness, competition, disturbance, browsing, and other organisms. One creature’s loss can become a condition of another’s flourishing without becoming good for the being that was lost.
-
-The current formula has therefore become:
-
-**integrity without isolation; relation without dissolution; good without guaranteed harmony.**
-
-[September 27: Where Is the Unity of This Tree](../field-notes/2026-09-27%20-%20Where%20Is%20the%20Unity%20of%20This%20Tree.md) turns the problem inward from relations between trees to the differentiated unity of one tree. A trunk forks, branches disappear into foliage, and limbs carry different histories, yet one black walnut continues to be perceived.
-
-Husserl helps explain the first level: sensuous synthesis gives one thing through partial and hidden appearances. Stein gives the stronger metaphysical claim. In *Finite and Eternal Being*, a living natural whole is internally cohering rather than merely assembled; plant life incorporates matter into itself; differentiated parts belong to the organism as members or organs of one living form.
-
-That makes the scale problem more exact. Organismic unity is not mere physical continuity, but neither can it be transferred automatically to every ecological pattern. Kimmerer’s “Council of Pecans” supplies a useful middle case: pecan trees can synchronize fruiting across groves and display what she calls a “power of unity,” while remaining a plurality of trees.
-
-The resulting sequence is:
-
-**co-givenness is not ecological interaction → ecological interaction is not organismic unity → organismic unity is not sameness among parts → collective coordination is not organismic unity**
-
-The sequence is not meant as a taxonomy of nature. It is a restraint on conceptual drift across scales.
-
-The new paper-level warning is:
-
-**do not let ecology borrow the unity of the organism without argument.**
-
-[September 28: What Looking Harder Cannot Show](../field-notes/2026-09-28%20-%20What%20Looking%20Harder%20Cannot%20Show.md) turns from the unity of living form to a limit of the field method itself. Power lines cross the walnut’s canopy. Their practical meaning is not necessarily absent from perception: Husserl’s personalistic attitude allows an object to be encountered *as* a power line, a use- and cultural object within a familiar surrounding world.
-
-What is not thereby given is the contingent history of this particular grid: ownership, property agreements, route decisions, maintenance practices, legal authority, and the political relations through which branches are cut and landscapes are organized.
-
-That distinction revises the first field formulation “the wire is visible; the grid is not.” The stronger version is:
-
-**cultural givenness is not historical explanation.**
-
-A visible scar, fence, or power line can direct inquiry beyond itself without containing the explanation of how it came to be. **Visible trace is not self-explanatory structure.**
-
-Stein gives the organismic side of the same problem. External circumstances can become part of an individual’s “fate” and concrete formation while the living being remains self-forming from within. Yet the present form cannot become its own justification:
-
-**what formed a being is not thereby good for that being.**
-
-Kimmerer’s “The Sacred and the Superfund” supplies a place-level pressure: restored vegetation or ecosystem function may be real without exhausting what healing requires when industrial history, land relation, responsibility, and reciprocal restoration remain unresolved.
-
-The methodological consequence is now substantial. Ecological intentionality cannot survive merely as a promise that better attention will eventually reveal the whole ecological story. If the term survives, it may name a disciplined coordination of phenomenological, biological, historical, legal, political, metaphysical, and ethical inquiry, while keeping their different evidential tasks visible.
-
-[September 29: A Boundary Need Not Be a Wall](../field-notes/2026-09-29%20-%20A%20Boundary%20Need%20Not%20Be%20a%20Wall.md) turns the relation problem toward the boundary of one living being. At the base of the tree, exposed roots make the organism / environment distinction perceptually salient without making the biological operation of that boundary visible.
-
-Husserl helps separate kinds of absence. The visible trunk and roots can support an anticipation of below-ground continuation, and familiarity with trees shapes what I expect beyond the surface. But the determinate architecture of this root system, root uptake, metabolism, and fungal relations are not thereby given. Those questions require biological inquiry rather than another change of viewing angle.
-
-Stein gives the strongest metaphysical distinction yet. In *Finite and Eternal Being*, plant form can take up material from beyond the limits of the existing whole, transform it, and incorporate it into one articulated life. This makes it possible to distinguish a condition that shapes the walnut from material that crosses its boundary and from material that becomes part of the organism.
-
-The current field sequence is:
-
-**external conditioning is not material crossing → material crossing is not yet incorporation → incorporation is not automatically membership in a living whole**
-
-This sequence is a restraint rather than a complete taxonomy. Its purpose is to prevent permeability from becoming another name for boundlessness. **A boundary need not be a wall, and permeability need not mean indistinction.**
-
-The same sit also returns the normativity problem in a new form. Water, minerals, gases, pathogens, toxins, excess water, drought, fallen leaves, fruit, and damaged limbs can all involve movement across a living boundary without carrying the meaning of that movement visibly with them. **Exchange is not flourishing.** The fact that a living being depends on what lies beyond itself does not make everything beyond itself good for it.
-
-A theological temptation also becomes visible here. The walnut materially persists through exchanges with what it does not produce from itself, while Stein describes finite being as receiving being rather than possessing it from itself. These claims may become analogically or spiritually illuminating beside one another, but **material reception is not received *esse***. Botanical uptake cannot serve as evidence for Stein’s metaphysics of creaturely dependence.
-
-Kimmerer and Watts keep the opposite danger in view. Kimmerer resists treating soil and the more-than-human world as an inventory of resources available to an already complete individual, while Watts makes “environment” less secure as a neutral category surrounding an organism. Neither requires organism and world to become indistinguishable.
-
-The methodological consequence continues the movement of the previous sit. Ecological attention may need to know not only how to look closely, but when a question has crossed into another mode of inquiry. Phenomenology can clarify what is given; biology can investigate uptake and regulation; metaphysics can ask what kind of unity persists through material change; ethics must distinguish sustaining from harmful relations; theology must justify its analogies.
-
-[September 30: Can Received Being Educate Attention?](../field-notes/2026-09-30%20-%20Can%20Received%20Being%20Educate%20Attention.md) returns to the strongest Stein sentence carried from the previous exam: “A being that receives itself may also learn to receive another without possession.”
-
-The fieldwork now requires that sentence to be weaker. A finite being’s received existence does not cause ethical virtue, and metaphysical dependence does not itself produce receptive knowing. The current formulation is therefore formational rather than deductive:
-
-**to understand oneself as received may form a creature toward receiving another without possession.**
-
-A further return to *Finite and Eternal Being* makes the possible bridge more explicit while also narrowing it. Stein later describes love through self-giving and says that the finite person’s surrender to God becomes a surrender of the self to the created world. If this supplies part of the missing bridge, then the movement toward non-possession runs through participation in divine love rather than through bare finitude alone. Yet Stein’s full account of love is personal and theological. It does not directly establish a vegetal ethic.
-
-This gives the end of September a new distinction:
-
-**received being is not receptive knowing.**
-
-It also sharpens the handoff to [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md). Stein has made individuality, proper good, organismic integrity, and irreducible otherness difficult to dissolve. The next problem is how differentiated beings belong to one sensible world without relation becoming an external addition or belonging becoming fusion.
-
-## October: embodiment, history, and evidence
-
-[October 1: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md) begins the Merleau-Ponty turn before flesh or chiasm. The walnut appears from a bodily *here*: near and far, reachable and unreachable, movement, orientation, and practical possibility are already organized through an operative “I can.” But Husserl and Stein prevent an easy story in which Merleau-Ponty discovers embodiment after a disembodied phenomenology. Both already give the living body a zero point of orientation. Merleau-Ponty must therefore earn what is stronger in his account of situational bodily spatiality, motricity, habit, and practical inherence in a world.
-
-The first guardrail is:
-
-**embodied access is not possession, and human practical possibility is not creaturely being.**
-
-[October 2: Whose “I Can” Is This?](../field-notes/2026-10-02%20-%20Whose%20I%20Can%20Is%20This.md) brings [Melanie Harris](../concepts/Melanie%20Harris.md) into that problem. At first, the contrast looked straightforward: Merleau-Ponty supplied embodied situation while Harris supplied historical situation. A return to *Phenomenology of Perception* made that contrast untenable. Merleau-Ponty’s social world is already a permanent dimension of existence, and his account of conditioned freedom explicitly makes embodied existence social and historical.
-
-Harris therefore has to do more than remind phenomenology that history exists. Ecowomanism changes the orientation of inquiry through Black women’s lived experience, eco-memory, environmental justice, intergenerational sharing, method, and praxis. The emerging question is not whether phenomenology or ecowomanism “has history,” but what kinds of historical knowledge each makes possible, whose experience and memory guide ecological knowing, and what that knowing is for.
-
-[October 3: The Past Is Present Without Being Transparent](../field-notes/2026-10-03%20-%20The%20Past%20Is%20Present%20Without%20Being%20Transparent.md) makes the distinction concrete at the walnut’s trunk. Grooves, forks, knots, unequal limbs, and present thickness are visibly given. Biological knowledge lets me understand them as results of living development through time. But storm, drought, pruning, obstruction, disease, competition, and repair do not announce themselves as determinate causes in the bark.
-
-Merleau-Ponty, Stein, and Harris now describe different ways a past can matter. Merleau-Ponty shows how acquired bodily and cultural history can remain operative through habit and sedimentation. Stein describes a living individual whose development is co-conditioned by circumstances and whose particular “fate” matters for what it becomes. Harris presses ecological knowledge toward experience, memory, environmental justice, and praxis. These differences should not be flattened into one generalized idea of sedimentation.
-
-The present methodological sequence is therefore:
-
-**past operative in the present ≠ established historical explanation ≠ accountable response**
-
-This sequence places new pressure on [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). If the term names only better perception, it is too small. If it comes to name the coordination of perception, memory, biology, historical evidence, community knowledge, ethical judgment, and praxis, it may be becoming a disciplined ecological orientation rather than a distinct intentional structure. The project should remain willing to discover that another term is eventually needed.
-
-[October 4: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md) turns from history toward belonging and differentiated good. Rain, walnut, oak, fungi, soil, infrastructure, and perceiver arrive within one sensible field, but co-givenness does not establish real ecological interaction, and interaction does not by itself establish constitutive relation. A detail photograph of fungal bodies on woody tissue makes the normative problem concrete without supplying a biological diagnosis: one relation can matter differently to fungus, branch, whole tree, insects, soil, and other lives.
-
-A targeted return to *The Visible and the Invisible* makes Merleau-Ponty stronger than the field question initially allowed. He does not treat flesh as fusion. Distance and divergence belong to the relation; reversibility remains incomplete; and he explicitly rejects the image of distinct bodies as organs of one larger organism. The problem therefore shifts. Merleau-Ponty can make difference internal to belonging, while Stein gives a more developed account of non-primordiality, own-good, and mediate good. The current question is whether ontological noncoincidence is enough to explain differentiated creaturely goods.
-
-The October 4 field rule is therefore:
-
-**belonging without coincidence is not yet an account of shared or differentiated good.**
-
-[October 5: Difference Need Not Mean Separation](../field-notes/2026-10-05%20-%20Difference%20Need%20Not%20Mean%20Separation.md) turns that result back toward the structure of difference itself. A close view of differentiated leaflets makes one point phenomenologically modest but philosophically useful: visible difference is available before its cause is explained. Stepping back then exposes another transition. The leaflets are perceived as belonging to one tree, but perceptual unity is not yet the same achievement as organismic membership.
-
-The source work makes the Merleau-Ponty question harder again. His working notes describe the sensible as diacritical and speak of an “advent of difference,” giving real support to the thought that difference belongs within relation rather than arriving only after unity breaks down. Yet one of those notes says this advent occurs **on the ground of resemblance**. That prevents the project from turning *écart* too quickly into a metaphysics in which pure difference comes first. The current question is whether Merleau-Ponty is instead trying to think sameness and difference as mutually implicated.
-
-Husserl presses from behind again. *Ideas II* §36 already describes the doubled touching / touched Body when one hand touches the other. Merleau-Ponty therefore has to earn not reversibility as such but the philosophical move from lived-body reversibility to flesh as an ontology of the sensible.
-
-The October 5 guardrail is:
-
-**difference internal to relation does not by itself establish the metaphysical priority of difference.**
-
-[October 6: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md) turns the transition problem toward time. Two attached walnuts made the ordinary word “still” philosophically visible. Present attachment is given now; earlier fruit fall is remembered; later detachment is anticipated. Husserl's temporal analysis already gives a strong account of these differences.
-
-The source pass then made the Merleau-Ponty comparison harder again. *Phenomenology of Perception* already describes temporal cohesion through a **transition synthesis**. Temporal moments differentiate themselves through passage, the present carries its genesis, and Merleau-Ponty speaks of the "cohesion of a life." The later ontology therefore has to add more than the claim that identity persists through temporal noncoincidence.
-
-Stein changes the question at another level. In *Finite and Eternal Being*, plant becoming has a temporal structure, and ripe fruit belongs to the vital unity of the generating individual while a new individual life requires a further transition. This gives the sit a new sequence:
-
-**present attachment ≠ temporal remaining ≠ living membership ≠ new individual life**
-
-The emerging hypothesis for [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) is becoming more explicit. Its contribution may lie less in naming another act or another form of connection than in disciplining transitions among kinds of claim. The practice repeatedly asks what is given now, what memory or anticipation adds, what biology or metaphysics can establish, and what stronger ontological or normative claim would still have to be earned.
-
-A related possibility concerns [Remainder](../concepts/Remainder.md). Transition may move something from one kind of remainder to another. A branch hidden in foliage can become perceptually present after leaf fall; the canopy that was present can become remembered; an anticipated event can become actual; a visible trace can remain historically unexplained. On this proposal, sustained attention does not progressively eliminate remainder. It changes the status of what is absent, available, recoverable, inferable, or still withheld. **Ecological intentionality may train not the overcoming of remainder, but the ability to recognize how remainder changes status as an encounter develops.** Husserl remains the strongest challenge: horizonality, temporal synthesis, fulfillment, recollection, and anticipation may already explain much of this movement.
-
-[October 7: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md) gives that proposal its first direct field test. A small bodily movement disclosed part of a branch that had been hidden by foliage. The same movement did not disclose underground physiological process or the histories through which the yard acquired its present form. A closer source pass made the result harder again. Husserl already gives a strong account of bodily profile-fulfillment, while a May 1960 Merleau-Ponty working note explicitly distinguishes several kinds of invisibility and warns against placing them under one undifferentiated category.
-
-The project therefore cannot claim originality merely by saying that remainder comes in different kinds. The stronger possibility is diachronic and methodological: **the remainder has a history**. What is hidden can become visible; what is present can become remembered; what is anticipated can become an event; what becomes visible can still require biological or historical explanation. The question is increasingly whether ecological intentionality names the discipline of recognizing those changes in status and handing the inquiry to the form of evidence each requires.
-
-[October 8: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md) adds another limit. A walnut on the ground can make a missing fall newly salient without establishing that I witnessed the event or that this is one of the same fruits photographed two days earlier. **Similarity is not identity, and serial observation is not an established individual history.** The source pass also makes relational status more differentiated. Stein's explicit case is a fallen apple: fruit within the generating plant's vital unity, fallen fruit in separate existence, capacity for life, and the beginning of a new organism are not interchangeable statuses. Applied to the walnut, that account also corrects an overly smooth claim that “relation” continues unchanged through detachment. **One relation can end while others persist or begin:** organismic membership can cease while biological derivation remains and new ecological or practical relations become possible. Merleau-Ponty explains why the fruit now enters the body's practical field as something reachable, but that “I can” does not provide an “I may.” Kimmerer's Honorable Harvest then complicates the restraint: gathering nuts can belong within a reciprocal relation, so the question is what warrants availability as gift, harvest, or permission rather than whether all taking is forbidden.
-
-[October 9: One Tree, Two Perspectives](../field-notes/2026-10-09%20-%20One%20Tree%2C%20Two%20Perspectives.md) turns from attachment and unwitnessed change to what different bodily viewpoints disclose. The canopy and low branch become differently visible, but the photographs do not establish the branch's history or a new intentional structure. Husserl already explains much of this through horizons, bodily movement, familiarity, and temporal synthesis. There are now **two separate burdens**: whether Merleau-Ponty's late flesh and *écart* add something to these accounts, and, even if they do, whether ecological intentionality has a further contribution that existing phenomenology cannot already make. The photographs test these questions without settling them.
-
-[October 10: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md) turns the education-of-perception proposal back on the field practice itself. The rain and a closer photograph made holes, dark spots, and yellowing leaflets easier to notice. But their new visibility does not establish that the marks are new, that the storm caused them, or that they diagnose the tree's condition. And noticing more detail does not demonstrate that attention has become more discriminating: weather, light, viewing distance, familiarity, and deliberate attention may all be involved. The photographs also preceded a prepared sit script that already raised these questions. Repeating them in the recorded reflection is not independent evidence that the encounter first disclosed them there.
-
-Two limits now belong together: **newly noticed is not newly produced; more detail noticed is not yet demonstrated improvement in attention.** Husserl's account of salience, habit, embodiment, and motivated attention keeps the strongest redundancy objection alive; Stein's gardener and physician show why cultivated apprehension cannot be dismissed as merely inference added to raw sensation, while also distinguishing apprehension from causal diagnosis. The task is to record what came from the encounter, what the prompt prepared, and what later comparison or scientific investigation establishes. This is a correction to the inquiry's method, not evidence for a new intentional structure.
-
-[October 11: The Same Branch, Now on the Ground](../field-notes/2026-10-11%20-%20The%20Same%20Branch%2C%20Now%20on%20the%20Ground.md) returns to the fungal-bearing branch photographed on October 4, now identified on the wet ground after heavy rain. Unlike the October 8 fallen walnut, this is a particular object that can be recognized across the observations. Its earlier attachment and present detachment are documented. **The intervening fall was not witnessed, and recognition does not establish its cause or the date when it ceased to be a living member of the tree.** The same leaflets photographed on October 10 were also revisited from the same bodily position, offering a stronger comparison without removing differences of light and wetness.
-
-This case adds a reciprocal challenge to the readings rather than another illustration of them. Stein's *Finite and Eternal Being* distinguishes a dead branch remaining materially attached from a member still participating in a living whole. That corrects what the fieldwork can claim. But Stein's surrounding account also interprets destruction in relation to fallen nature, raising a genuine theological question for an Ecology of the Cross that resists treating creaturely loss as justified by a greater good. Neither the walnut nor the field journal settles that disagreement. **The task is not just to ask what a thinker helps us see, but what the encounter makes difficult for the thinker to explain, what the thinker makes difficult for us to claim, and what remains unresolved after both challenges.** This reciprocal test now guides the research, while the distinctiveness of ecological intentionality and of *remainder* itself remain open.
-
-## Friction, remainder, and asymmetry
-
-A related thread has become increasingly important across the notes. [Remainder](../concepts/Remainder.md) first named what remained absent, hidden, or inaccessible. More recently, the question is whether remainder also has methodological and ethical consequences without thereby becoming evidence of hidden agency.
-
-Friction, resistance, interruption, and asymmetry may mark places where another being makes a difference that the perceiver’s purposes or concepts cannot fully absorb. But the distinction remains crucial:
-
-**friction is not automatically agency, and resistance is not automatically intentionality.**
-
-The field practice therefore treats friction as a place to investigate rather than as proof. The walnut must remain capable of resisting not only my preferred concepts but also the philosophical and ethical frameworks that taught me to notice them.
-
-This is one reason asymmetry now matters so much. A walnut and a human do not need, give, perceive, or inhabit time in the same ways. If reciprocity becomes the right word, it cannot mean balanced exchange between equivalent agents. One current proposal to test is whether reciprocity might instead be **a response adequate to difference**. But Sept. 22 adds a further restraint: if every ecologically beneficial act is called reciprocity, the term loses relational specificity.
-
-## A theological question opened by remainder
-
-The October 6 remainder work also opens a theological extension that has not yet been earned by the later theological readings. If transition can change the status of remainder, redemption need not be imagined only as the eventual disappearance of distance, wound, absence, or difference.
-
-One proposal now waiting for Maximus, Bonaventure, Moltmann, deep-incarnation theology, and the inherited Stein material was sharpened by the October 7 sit into this formulation:
-
-**redemption does not erase remainder; it transforms the relation in which remainder remains.**
-
-A related possibility is that salvation perfects relation without converting creatures into God, one creature into another, or difference into deficiency. On that reading, the cross would not eliminate the distance between God and world so much as transform what that distance means within a history of self-giving. The fieldwork can generate the grammar of this question, but it cannot establish the Christology.
-
-The guardrail is as important as the proposal: **transformation of remainder does not retrospectively justify harm.** October 8 adds another: **transformation of relation is not yet redemption.** October 10 adds a further theological restraint: **chosen relinquishment of possessive control is not involuntary dispossession.** Kenosis cannot be invoked to bless a vulnerability or deprivation imposed upon another creature or community. Ordinary relations change through growth, detachment, decay, violence, repair, and chance. The fruit case also warns against treating “relation” as one bond that must always persist: one relation can end while history and other relations remain. The theological sources therefore have to say not only what makes transformation redemptive, but which relations should be healed, preserved, newly constituted, or ended. Wounds, ecological damage, dispossession, and historical violence cannot become good merely because repair, reconciliation, or new life later become possible. This is a theological question generated by the inquiry, not a claim established by the walnut sit.
-
-## Current live questions
-
-The strongest questions now carrying the inquiry are:
-
-- Does ecological intentionality remain best understood as an **education of human intentionality**, or do Watts, Kimmerer, and the fieldwork increasingly show that even this moderate formulation keeps the human act too firmly at the center?
-- What does *gift* add beyond Husserlian value-reception, and how can gratitude educate perception without becoming circular evidence for intentional giving?
-- Can nonhuman agency be described without reducing it to causal efficacy and without making human intentional consciousness its universal measure?
-- What warrants calling restraint or place-wide care **reciprocity** across profound asymmetry rather than unilateral care, stewardship, conservation, obligation, or simple benefit?
-- What can correct an apprehension of this walnut’s condition, and what additional norm warrants calling one practice of care better or worse?
-- Does Stein’s account of natural measure, living form, and hidden finality adequately ground organismic normativity, or does it import a teleology that itself requires defense?
-- If a living being has an immanent measure of actualization, what additional argument turns that organismic norm into an ethical obligation for another being?
-- In vegetal life, does the relevant good belong primarily to the individual organism, the species-form and its propagation, or both?
-- Are conflicts among individual, specific-form, and place-wide goods only local within a deeper order, or can creaturely goods remain genuinely at odds?
-- When external relations co-condition which possibilities a living being can actualize, do they merely shape the path of flourishing, or do they enter into the norm by which flourishing is judged?
-- What differentiates external conditioning, material crossing, incorporation, and membership in a living whole, and what kind of evidence is required at each transition?
-- Can a living boundary remain genuinely open without making organismic individuality either an illusion or a form of isolation?
-- What in experience warrants the move from **one perceived thing** to **one living organism**, and what would have to be shown before a grove, place, or watershed could be said to share organismic unity?
-- What counts as the “good of a place” when ecological function, historical continuity, cultural relation, and reciprocal responsibility do not reduce to one criterion?
-- When a past remains operative in bodily, living, social, or material form without its determinate history being given, what evidence is adequate to establish that history?
-- If ecological intentionality increasingly coordinates perception, biological knowledge, historical evidence, community memory, ethical judgment, and praxis, does *intentionality* still name the structure at issue, or is the project becoming a disciplined ecological orientation of another kind?
-- If Merleau-Ponty can already secure belonging without fusion, coincidence, or one larger organism, what additional philosophical work is required to distinguish the goods of the beings who belong within that field?
-- Does *écart* make difference metaphysically prior to identity, or does it name a diacritical structure in which resemblance and difference are mutually implicated?
-- What does the later ontology of *écart* add after Husserlian temporal synthesis and Merleau-Ponty's own transition synthesis have already made temporal noncoincidence philosophically available?
-- Is ecological intentionality becoming a distinctive intentional structure, an education of existing structures, or a discipline for moving responsibly among different modes of warrant?
-- At each transition, **what kind of claim am I making now, what warrants it, and what would have to happen before I could responsibly make the next one?**
-- What establishes identity across repeated field observations strongly enough to narrate one being's transition rather than merely compare changing encounters?
-- If redemption transforms relation, what makes a transformation specifically redemptive rather than merely a change in relational status?
-- Does Stein's interpretation of natural mortality and destruction as related to fallen nature survive an ecological theology that refuses to justify creaturely loss? What primary theological argument, rather than a field observation, could adjudicate this?
-- Can friction and resistance remain philosophically significant without being prematurely redescribed as agency, intentionality, or communication?
-
-None of these questions is settled. The point of the practice is to keep them answerable to repeated encounter.
-
-## October 13: separate questions must still answer to one another
-
-[A Shared World, Different Questions](../field-notes/2026-10-13%20-%20A%20Shared%20World%2C%20Different%20Questions.md) sharpens an objection already encountered in the reading: [Bryan Smyth](../concepts/Bryan%20Smyth.md) interprets early Merleau-Ponty's transcendental project as practical, normative, and unfinished. Ecological intentionality therefore cannot establish its distinctiveness merely by coordinating description with action or by refusing a final view of the world.
-
-Yet Smyth's conditional accommodation of empirical work leaves a difficult question. Can another inquiry revise the framework's claims, or only contribute within terms already set by phenomenology? A workable comparison must specify the claim, its evidence, what could defeat it, and the reach of that correction. A biological finding about a branch's vital condition can revise an interpretation without erasing how the branch appeared. A phenomenological distinction can change the question an empirical study asks without supplying its measurements. Neither move by itself settles an ethical obligation.
-
-Harris, Watts, and Kimmerer make authority over those questions part of the problem. Their differently grounded approaches cannot be gathered as confirmations of a common method already decided elsewhere. The inquiry must remain open to discovering that its proposed coordination is already available, or that its vocabulary needs to change.
-
-## October 16: what a new perspective does not give
-
-The short coastal comparison in [No Line on the Horizon](https://ecologicalintentionality.org/sits/2026-10-16) sharpens the limits of the walnut method without replacing its sustained encounters. From an elevated balcony, the shoreline's larger patterns were more visible. On the sand, shell fragments became distinguishable. Turning back made the building that supported the earlier view itself available for inspection. Neither position gives the entire history of the building or of the fragments.
-
-Three claims must be kept separate: **a further possible appearance**, **a particular history requiring additional evidence that might not be recoverable**, and **the developmental potency of a living being**. Husserl's account of bodily movement and appearance already explains much of the first. Stein's account of potency and act addresses a different ontological question. Merleau-Ponty's early account of bodily perspective already complicates any assumption that proximity is always superior to distance. The further job of late flesh remains to be demonstrated, not assumed from the photographs.
-
-This changes the discipline of our questions, not the provisional verdict about ecological intentionality's distinctiveness. The coast provides a brief comparison; the black walnut remains the longitudinal test case. The October 21 outline must still show what late Merleau-Ponty can add beyond the strongest Husserlian account before asking what the proposed ecological category contributes beyond both.
-
-## October 17: when the conditions of appearance change
-
-The next coastal sit, [When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md), returns to a familiar view under a colder, cloudier, windier morning. Felt cold and changing light are part of the encounter. The larger weather system comes from scientific explanation rather than direct observation of a front, and the particular ways shoreline organisms respond remain questions for further investigation. Birds briefly arriving at the balcony interrupt the reflection, but their intentions are not established by the visit.
-
-The new philosophical pressure is also more exact. Husserl's *Ideas II* §18(b) already addresses changing illumination and other perceptual circumstances, not only bodily movement between viewpoints. Merleau-Ponty's later account of flesh and incomplete reversibility still invites a different kind of ontological question, but altered weather cannot settle it. The walnut remains anticipated rather than directly seen on October 17. Its next appearance may answer an expectation without giving us the unwitnessed history of every change during the absence.
-
-The two questions remain distinct: what late Merleau-Ponty adds beyond a strong Husserlian and early embodied account, and what ecological intentionality would add beyond that and independently warranted ecological inquiry. The case makes those questions harder to evade, not easier to answer.
-
-## October 18: the return can confirm without correcting
-
-[What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) completes the anticipated return to the walnut. The tree is mostly green, with yellow leaflets, some fallen leaves, and a few walnuts on the ground. Comparing these with last week's view involves memory; I have not witnessed when particular leaves fell or what happened to fruits I no longer see in the canopy. The visit offers no clear defeated expectation. **Confirmation is not correction, and neither is an explanation of the interval.**
-
-This puts a further Husserlian resource on the table: *Ideas II* §59's discussion of habituated expectation and implicit horizons of similar memories. Familiarity may help direct attention without establishing a new kind of intentionality. The detached piece of bark kept on my desk also returns as a remembered gift. Kimmerer's writing helps distinguish gratitude for what I received from the unproved claim that the walnut intended to give it, or that detachment gave permission to collect it. These distinctions preserve a place for ecological and ethical investigation without treating its necessity as proof of a new phenomenological category.
-
-## October 19: what a clearer view leaves open
-
-In [What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md), I made a small prediction before moving. Two branches that overlapped from one position became distinguishable when I stepped left. I could also see more of the trunk, notice yellow leaves that hadn't caught my attention, and feel the different sunlight. The prediction was fulfilled, but I had not mistakenly believed the branches were one, so this was **not a correction of a false judgment**.
-
-The attached swing offered a different question. Seeing it in the canopy doesn't establish whether its attachment harms this tree, or whether a particular action would benefit it. I can investigate that, but it requires knowledge beyond another perceptual profile. Husserl and early Merleau-Ponty already explain much of the movement and anticipation in this sit. Late Merleau-Ponty's *flesh* still has to earn its different ontological contribution, and ecological intentionality then has a separate question to answer: what, if anything, does it add beyond these resources and responsible ecological scholarship?
-
-What matters for the October 21 outline is the difference among **an expectation fulfilled, a mistaken judgment corrected, and an ecological or ethical claim established by further reasons**. The walnut's living organization makes the third kind of question urgent without answering it for me.
-
-## October 20: what touch leaves open
-
-In [What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md), I rested my hand, the back of my hand, and my forearm against the walnut's bark. I felt its rough texture and pressure, and I shifted my stance. A knot in the trunk held my attention, but looking and touching didn't tell me how it formed. The tactile encounter gave me a different kind of acquaintance, not a history of the tree or its experience.
-
-Merleau-Ponty distinguishes exploring an external texture, sensing one's own body, and the reversal involved when one hand touches the other. This morning I explored the bark with different surfaces of my arm. That doesn't mean I enacted a reciprocal touch between the walnut and me, nor that I established what the tree might experience. Husserl's account of bodily sensing remains a substantial explanation of what occurred.
-
-**Two questions remain separate:** What does the later ontology of flesh add beyond Husserl and early Merleau-Ponty? And even if that ontological account succeeds, what, if anything, does ecological intentionality add beyond these descriptions and the ecological inquiries already available? The knot's unanswered history and the question of responsible care make those distinctions matter without answering either philosophical question.
-
-## Current interlocutors
-
-[Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md)
-
-Merleau-Ponty has now entered the field directly through embodiment, bodily spatiality, motility, and the operative “I can.” The immediate comparison is not a disembodied Husserl followed by an embodied Merleau-Ponty. Husserl and Stein already give the living body a zero point of orientation. Nor can Merleau-Ponty be left with a historically anonymous body: his later discussion of the social world and conditioned freedom explicitly makes embodied existence social and historical. The question is what this stronger account of situated bodily inherence can explain without turning proximity into possession, difference into fusion, or the walnut into a correlate of human practical possibility.
-
-[Melanie Harris](../concepts/Melanie%20Harris.md) now presses that historical situation from another methodological direction. Ecowomanism foregrounds Black women’s lived experience, environmental justice, agency, earth community, history, method, and praxis. Harris is not being used to add “context” to phenomenology; the live question is whether phenomenological historical situatedness and ecowomanist accountability perform the same work, especially when ecological knowledge is ordered toward environmental justice and action.
-
-Flesh, reversibility, chiasm, and *écart* remain ahead as full close-reading work rather than serving as answers in advance, although the October 4 source pass has now identified passages where Merleau-Ponty explicitly resists fusion, completed coincidence, and the larger-organism model. [Raymond Ruyer](../concepts/Ruyer.md) also remains deliberately downstream. Stein already supplies substantial metaphysical language of measure, self-formation, internally articulated organismic unity, and finality, so Ruyer will need to show what self-survey, value, and finality add rather than repeating that living form has an immanent norm or center.
-
-For the texts currently shaping these conversations, see [Sources & Reading](sources-and-reading.md).
+*First, the seeing. Then, the keeping.*
