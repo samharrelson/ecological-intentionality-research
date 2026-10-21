@@ -16,7 +16,8 @@ class SitFeedTests(unittest.TestCase):
         p = directory / f"{date} - {name}.md"
         p.write_text(
             f"---\ndate: {date}\ndescription: {description}\nstatus: draft\n---\n"
-            "## Body\nPrivate-looking text should never be used in the summary.\n",
+            "## Field Notes\nA public observation that belongs in the full text.\n\n"
+            "## Reflection\nA thoughtful distinction.\n",
             encoding="utf-8"
         )
 
@@ -41,7 +42,11 @@ class SitFeedTests(unittest.TestCase):
         self.assertEqual([x.findtext("title") for x in items], ["A Shared Morning", "No Line on the Horizon"])
         self.assertEqual(items[0].findtext("guid"), "https://ecologicalintentionality.org/sits/2026-10-21")
         self.assertEqual(items[0].findtext("description"), "A short day beside the walnut.")
-        self.assertNotIn("Private-looking text", xml)
+        encoded = items[0].findtext(f"{{{feed.CONTENT}}}encoded")
+        self.assertIn("<h3>Field Notes</h3>", encoded)
+        self.assertIn("A public observation that belongs in the full text.", encoded)
+        self.assertIn("<h3>Reflection</h3>", encoded)
+        self.assertNotIn("status: draft", xml)
         self.assertNotIn("2026-10-17", xml)
         self.assertNotIn("Public/Tracking", xml)
 
@@ -56,6 +61,32 @@ class SitFeedTests(unittest.TestCase):
             self.assertEqual(first.findtext("guid"), second.findtext("guid"))
             self.assertEqual(first.findtext("pubDate"), second.findtext("pubDate"))
             self.assertEqual(second.findtext("description"), "Revised description.")
+
+    def test_html_escapes_raw_markup_and_restricts_links(self):
+        markdown = (
+            "---\ndate: 2026-10-21\ndescription: Shown only in preview.\n---\n"
+            "## Research Connection\n"
+            "A **strong** idea, and *a tentative* claim. "
+            "[Husserl](../concepts/Husserl.md) "
+            "[website](https://ecologicalintentionality.org/) "
+            "[private](../private/something.md) "
+            "<script>alert('bad')</script>\n\n"
+            "> What do I actually know?\n\n"
+            "- Observation\n- Inference\n\n"
+            "![secret](file:///Users/test/private.png)\n"
+        )
+        rendered = feed.markdown_to_html(markdown)
+        self.assertIn("<h3>Research Connection</h3>", rendered)
+        self.assertIn("<strong>strong</strong>", rendered)
+        self.assertIn("<em>a tentative</em>", rendered)
+        self.assertIn("<blockquote>", rendered)
+        self.assertIn("<ul>", rendered)
+        self.assertIn("github.com/samharrelson/ecological-intentionality-research/blob/main/concepts/Husserl.md", rendered)
+        self.assertIn('href="https://ecologicalintentionality.org/"', rendered)
+        self.assertNotIn("../private", rendered)
+        self.assertNotIn("file://", rendered)
+        self.assertNotIn("<script>", rendered)
+        self.assertNotIn("status: draft", rendered)
 
     def test_index_requires_matching_exported_public_sit(self):
         home = "## Recent sits\n- [[2026-10-22 - Missing|October 22, 2026: Missing]]\n"
