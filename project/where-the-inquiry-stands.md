@@ -90,7 +90,7 @@ Husserl is now my strongest philosophical check against inventing a new category
 
 The conversation also cannot remain confined to European phenomenology. [Vanessa Watts's](../concepts/Vanessa%20Watts.md) Place-Thought challenges the priority of a human perceiver confronting a surrounding environment, from within particular Indigenous cosmological traditions. [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md) makes gift, reciprocity, harvest, restoration, and living beings' differentiated needs questions of situated practice. [Melanie Harris's](../concepts/Melanie%20Harris.md) ecowomanism presses the importance of Black women's experience, historical memory, structural harm, environmental justice, and accountable praxis. Their work is not additional evidence for a phenomenological framework already decided elsewhere.
 
-A theological horizon remains open in what I've been calling the *Ecology of the Cross*. Creatureliness, participation, suffering, and redemption matter here, but a broken branch isn't evidence of a Christological claim. Ecological damage or imposed harm doesn't become good because I can give it a moving theological interpretation.
+A theological horizon remains open in what I've been calling the *Ecology of the Cross*. Creatureliness, participation, suffering, and redemption matter here, but a broken branch isn't evidence of a Christological claim. [Niels Henrik Gregersen's](../concepts/Niels%20Henrik%20Gregersen.md) questions about evolutionary suffering and deep incarnation are one theological test I still need to develop, not a conclusion the fieldwork can establish. Ecological damage or imposed harm doesn't become good because I can give it a moving theological interpretation.
 
 ## What remains open
 

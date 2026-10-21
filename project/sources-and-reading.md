@@ -16,11 +16,15 @@ The sections below distinguish three roles: foundational readings from my first 
 
 For a periodically updated account of how these readings are changing the argument, see [Where the Inquiry Stands](where-the-inquiry-stands.md).
 
+**Browse:** [Foundations](#foundations-comps-i) · [Current work](#current-work-comps-ii) · [Recent comparisons](#newly-important-comparisons-october-2026) · [Place and reciprocity](#place-agency-reciprocity) · [How I use these sources](#a-note-on-use)
+
 These sources feed most directly into [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), and [Place and Agency](../concepts/Place%20and%20Agency.md).
 
-Active thinker threads in the current field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
+Active thinker threads in the field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
 
-Each linked thinker page gathers the works currently doing argumentative work in the project, along with the sits in which that thinker has actually entered the interpretation.
+Focused critical and theological interlocutors with public notes: [Rajiv Kaushik](../concepts/Rajiv%20Kaushik.md) · [Bryan Smyth](../concepts/Bryan%20Smyth.md) · [Niels Henrik Gregersen](../concepts/Niels%20Henrik%20Gregersen.md). These pages distinguish active interpretations from readings still in progress.
+
+Each linked thinker page explains the work that thinker is doing, or is being asked to do, in the project. When a thinker has actually shaped a public sit, the page links to that encounter. Prospective theological or metaphysical interlocutors are marked as such rather than credited with findings the fieldwork hasn't established.
 
 Browse by tag: #brentano · #husserl · #edithstein · #MerleauPonty · #melanieharris · #ruyer · #vanessawatts · #robinwallkimmerer
 
@@ -67,7 +71,7 @@ The primary outcome of this first stage was an account of ecological intentional
 
 ## Current work: Comps II
 
-The second comprehensive examination asks whether ecological intentionality can move from encounter between a living form and an embodied perceiver into an account of shared flesh, participation, place, and historical accountability without losing creaturely difference.
+The second comprehensive examination now puts two questions under separate pressure: what late Merleau-Ponty's ontology of flesh explains beyond Husserl and early Merleau-Ponty, and what, if anything, ecological intentionality contributes beyond those resources and existing ecological inquiry. Questions of creaturely difference, participation, place, history, and accountability matter to both tests, but none settles them in advance.
 
 ### Constitution, embodiment, and otherness
 
@@ -85,7 +89,7 @@ These texts are especially important for the public threads on [Attention](../co
 - Maximus the Confessor. *On Difficulties in the Church Fathers: The Ambigua*. Edited and translated by Nicholas Constas. 2 vols. Cambridge, MA: Harvard University Press, 2014.
 - Bonaventure. *The Soul’s Journey into God; The Tree of Life; The Life of St. Francis*. Translated by Ewert Cousins. New York: Paulist Press, 1978.
 - Moltmann, Jürgen. *God in Creation: A New Theology of Creation and the Spirit of God*. Translated by Margaret Kohl. Minneapolis: Fortress Press, 1993.
-- Gregersen, Niels Henrik. “The Cross of Christ in an Evolutionary World.” *Dialog: A Journal of Theology* 40, no. 3 (2001). The broader deep-incarnation conversation also continues in Gregersen’s edited volume *Incarnation: On the Scope and Depth of Christology* (Fortress Press, 2015).
+- [Gregersen, Niels Henrik](../concepts/Niels%20Henrik%20Gregersen.md). “The Cross of Christ in an Evolutionary World.” *Dialog: A Journal of Theology* 40, no. 3 (2001): 192–207. https://doi.org/10.1111/0012-2033.00075. The related deep-incarnation discussion continues in Gregersen’s edited volume *Incarnation: On the Scope and Depth of Christology* (Fortress Press, 2015). His public thinker note marks the reading as a theological challenge still under examination, not a result of the walnut encounters.
 
 These sources test whether cruciformity belongs only to the formation of a human perceiver or whether incarnation and participation reach into materiality, biological vulnerability, evolutionary suffering, and creaturely becoming.
 
@@ -99,7 +103,30 @@ These texts matter because perceptual attention cannot by itself establish the h
 
 ## Adjacent conversations
 
-These readings are not all part of the formal Comps II contract. They are included because they are actively challenging, extending, or clarifying the public concepts that emerge from the sits.
+These readings are not all part of the formal Comps II contract. They are included because they are actively challenging, extending, or clarifying the public concepts that emerge from the sits. The selections below are **reading priorities and possible objections**, not a claim that I've completed every text or that its argument has already survived close examination.
+
+### Newly important comparisons (October 2026)
+
+These sources sharpen two separate burdens: what late flesh adds beyond Husserl and early Merleau-Ponty, and what ecological intentionality contributes beyond already developed ecological philosophy and methods. I want to read them for their strongest objections, not as additional authorities agreeing with a theory I've already settled.
+
+**Husserl, Stein, and living forms**
+
+- Jardine, James. *Empathy, Embodiment, and the Person: Husserlian Investigations of Social Experience and the Self*. Cham: Springer, 2022. https://doi.org/10.1007/978-3-030-84463-9. Chapters 3–5 are a priority: they reconstruct Husserl's accounts of empathy, nature, and animate embodiment. **Test:** Does Husserl already supply distinctions I have been tempted to attribute uniquely to Stein or ecological intentionality?
+- King, Hal. “Propagating Plant Empathy with Edith Stein.” *Plant Perspectives* (published online October 5, 2026). https://doi.org/10.3197/whppp.63876246815941. King's proposal concerning the plant as living body, spontaneous movement, and intuitive empathy poses a direct prior-work challenge. It does not, by itself, license an attribution of awake vegetal consciousness to this walnut.
+- Pustarfi, Laura. “An Ecophenomenological Dendrochronology: Shlain's *Dendrofemonology* through a Lens of Stein's Temporality.” *Cogent Arts & Humanities* 13, no. 1 (2026): article 2697670. https://doi.org/10.1080/23311983.2026.2697670. Her reading of Tiffany Shlain's artwork joins Stein, feminist historical memory, tree rings, and arboreal temporality. **Question:** What does a tree's material history disclose, and what happens when artistic interpretation and lived temporality are distinguished from an unwitnessed individual history? The botanical record isn't identical to the history represented in an artwork.
+
+**Methods, more-than-human ethics, and accountability**
+
+- Kaell, Hillary. “A Multibeing Manifesto.” *Journal of the American Academy of Religion* 93, no. 3 (2025): 351–371. https://doi.org/10.1093/jaarel/lfaf070. Her attention to *Spartina*, coastal fieldwork, and multiple human and nonhuman knowers makes this a particularly important methodological comparison. **Test:** What does sustained philosophical sitting omit unless the inquiry follows the being into ecological, social, and historical relationships?
+- Wren, Heather. “Reconceptualising Empathy for an Ethical Approach to Environmental Decision-Making.” *Environmental Values* (published online September 28, 2026). https://doi.org/10.1177/09632719261492961. A developing account of relational, embodied environmental empathy. Its proposed link to ethical responsiveness may already anticipate parts of what I'm calling a discipline of ecological attention. That argument must still explain how attunement relates to warranted decisions rather than assuming care follows directly from feeling.
+- Nawrath, Maximilian, Eléonore Maitre-Ekern, Bård Hobæk, and Isabel Seifert-Dähnn. “An Interdisciplinary Perspective on the Interpretation of Legal-Scientific Concepts in Rights-of-Nature Initiatives.” *People and Nature* (2026). https://doi.org/10.1002/pan3.70436. This tests the passage from relational description to legal and institutional responsibilities. **Question:** How do ecological knowledge, contested concepts, and legal recognition interact without treating ecosystems as organisms or assuming personhood settles questions of care?
+
+**Symbols and theology: a distinct, later question**
+
+- Marder, Michael, and Luis Garagalza. “The Vegetality of the Symbol.” *Religions* 17, no. 10 (2026): article 1163. https://doi.org/10.3390/rel17101163. Their proposal that symbolic life has a vegetal dimension is a worthwhile hermeneutical counterpoint. The use of seed, meristem, and organic development as philosophical figures does not establish what this particular walnut experiences or what any ecological loss means theologically.
+- Johnson, Elizabeth A. *Creation and the Cross: The Mercy of God for a Planet in Peril*. Maryknoll, NY: Orbis Books, 2018. [Publisher](https://orbisbooks.com/products/creation-and-the-cross-paperback). A major theological prior-work challenge, to be read alongside Gregersen rather than after the theological case is already decided. **Question:** What does the proposed Ecology of the Cross contribute beyond Johnson's account of cosmic redemption, creaturely value, and divine mercy? Her criticism of satisfaction atonement also cannot be presumed to settle the distinct Luther–Stein question.
+
+These works have different evidential jobs. In particular, **vegetal empathy is not plant consciousness, symbolic interpretation is not a botanical diagnosis, and ethical sensitivity is not yet a justified decision**. The newer reading should make the distinctions more demanding, not supply a shortcut through them.
 
 ### Place, agency, reciprocity
 
@@ -118,8 +145,9 @@ Watts and Kimmerer are important to [Place and Agency](../concepts/Place%20and%2
 ### Merleau-Ponty: reversibility, difference, and time
 
 - Davis, Duane H., and William S. Hamrick, eds. *Merleau-Ponty and the Art of Perception*. Albany: State University of New York Press, 2016.
-- Kaushik, Rajiv. *Merleau-Ponty between Philosophy and Symbolism: The Matrixed Ontology*. Albany: State University of New York Press, 2019.
+- [Kaushik, Rajiv](../concepts/Rajiv%20Kaushik.md). *Merleau-Ponty between Philosophy and Symbolism: The Matrixed Ontology*. Albany: State University of New York Press, 2019. Kaushik's diacritical reading of *écart* became an explicit hypothesis in the October 5 walnut sit. His claim that divergence is constitutive needs to be tested against Merleau-Ponty's own discussions of resemblance and against Husserl's explanatory resources.
 - Morris, David, and Kym Maclaren, eds. *Time, Memory, Institution: Merleau-Ponty’s New Ontology of Self*. Athens: Ohio University Press, 2015.
+- [Smyth, Bryan](../concepts/Bryan%20Smyth.md). “Merleau-Ponty and the ‘Naturalization’ of Phenomenology.” *Philosophy Today* 54, SPEP Supplement (2010): 153–162. His reading of early Merleau-Ponty has already become a concrete challenge in the October 13 sit: a methodological appeal to embodiment and practice may not distinguish ecological intentionality after all.
 
 These works are currently serving as secondary controls rather than substitutes for the primary texts. Davis and Hamrick help trace chiasmatic reversibility back through Husserl’s touching / touched analysis; Kaushik presses the stronger reading of *écart* as constitutive divergence; Morris and Maclaren foreground the continuity from early temporality and transition synthesis toward the later ontology. Each claim remains answerable to Merleau-Ponty’s own texts.
 
