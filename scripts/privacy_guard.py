@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
-SCAN_DIRS = ["field-notes", "concepts", "project", "method"]
+SCAN_DIRS = ["field-notes", "concepts", "project", "method", "docs"]
 
 # Structural/path-like leak indicators, not ordinary methodological prose.
 BLOCKED_PATTERNS = {
@@ -21,7 +21,7 @@ BLOCKED_PATTERNS = {
     "plugin URL": re.compile(r"\bplugin://", re.I),
 }
 
-ALLOWED_EXTS = {".md", ".txt", ".csv", ".json", ".yml", ".yaml"}
+ALLOWED_EXTS = {".md", ".txt", ".csv", ".json", ".yml", ".yaml", ".html", ".xml"}
 failures = []
 
 for dirname in SCAN_DIRS:
