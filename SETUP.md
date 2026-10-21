@@ -29,7 +29,7 @@ python3 scripts/build_sits_feed.py --vault "/Users/samharrelson/Vaults/Obsidian"
 
 The feed is generated at `docs/sits.xml`. It contains only the dated sit links intentionally listed under **Recent sits** in the public `Public/Tracking/Home.md`, cross-checked against exported public `field-notes/` metadata. Merely creating a file in the Sits folder doesn't add it to RSS, and editing Sources, thinker pages, site layout, or other research notes does not create a feed item.
 
-Every entry has a permanent `https://ecologicalintentionality.org/sits/YYYY-MM-DD` GUID and link, the public sit title and short description, and a stable timestamp corresponding to the *sit date*. That timestamp is **not** claimed to be the exact website publishing hour. Revisions of an older sit can update its description, but not its identity or feed date. When multiple exported Markdown filenames refer to the same day (as on October 16, 2026), the RSS generator emits only one entry. It never exports the full private recording, photographs, or the full sit body into XML.
+Every entry has a permanent `https://ecologicalintentionality.org/sits/YYYY-MM-DD` GUID and link, the public sit title and short description, and a stable timestamp corresponding to the *sit date*. That timestamp is **not** claimed to be the exact website publishing hour. Revisions of an older sit can update its description, but not its identity or feed date. When multiple exported Markdown filenames refer to the same day (as on October 16, 2026), the RSS generator emits only one entry. It includes the full **already-public, guarded Markdown sit body** in RSS `content:encoded`, rendered as safe HTML for in-reader reading. The short `description` remains as the preview. It never reads the private field journal or copies photographs, recordings, or private vault paths into XML. Links to public concept notes can point to their public GitHub copies.
 
 ### Enable RSS hosting once
 
@@ -44,6 +44,6 @@ This is a small independent GitHub Pages site, not a replacement for Obsidian Pu
 
 5. The RSS link in the Obsidian public Home page can now be published. The RSS hosting does not affect Obsidian Publish's separate built-in all-site `/rss.xml` feed.
 
-Future public-sit publication requires no new RSS-specific command: the existing guarded publication workflow updates the XML automatically. Because its contents are deterministic, routine site edits alone leave the XML unchanged.
+Future public-sit publication requires no new RSS-specific command: the existing guarded publication workflow updates the XML automatically. Because its contents are deterministic, routine site edits alone leave the XML unchanged. Editing an older sit may update its HTML content, but the stable GUID and sit-day publication date will not turn that revision into a new feed item. Feed readers may cache previously imported summaries until they refresh.
 
 To change the public RSS URL in the future, update the `FEED` constant in `scripts/build_sits_feed.py` only after a stable destination has been configured and tested.
