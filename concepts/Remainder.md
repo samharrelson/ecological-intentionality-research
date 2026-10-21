@@ -11,6 +11,7 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — A high bark feature is visible while its cause remains unknown; the squirrel's particular experience poses a different question.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A knot is visible and bark is tactually available while causal history and experiential attribution remain separate questions.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)

@@ -1,9 +1,11 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Last updated October 20, 2026.*
+*Last updated October 21, 2026.*
 
 This page is a provisional orientation to an argument still being made. It is not a list of settled findings. The individual Field Notes remain the primary record of the work; this page is updated occasionally to show where the inquiry has become most difficult, what has changed, and which questions are currently carrying the research forward.
+
+**After the October 21 outline.** I sent Jack a working outline that keeps two questions separate: what late Merleau-Ponty's flesh contributes beyond Husserl and early Merleau-Ponty, and whether ecological intentionality contributes anything beyond those accounts and already developed ecological practices. The October 21 sit, [A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md), made a familiar high bark feature newly noticeable in changing light, and a squirrel briefly interrupted my attention. I still don't know how the feature formed. Returning to Husserl's *Ideas II* §§55–56 has sharpened the difference between understanding why I attended to it and finding an account of its causal history. Husserl already has resources for both motivated inquiry and the distinction between motivation and natural causality. I want to ask how learning the latter might change my subsequent perception, without pretending the encounter defeats his account or establishes a new one.
 
 ## Where the inquiry stands
 

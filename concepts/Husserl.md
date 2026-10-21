@@ -18,6 +18,7 @@ Browse: #husserl
 
 ## From the sits
 
+- [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — Why a bark feature draws attention and how it formed are distinct questions; motivated inquiry and causal explanation already have places in Ideas II.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Bark contact, posture, and a causal question about the knot test localized sensations and motivated investigation without a new intentional act.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
