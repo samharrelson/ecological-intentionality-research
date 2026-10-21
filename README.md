@@ -16,7 +16,8 @@ This repository serves a different purpose. It makes selected research materials
 
 - curated public Black Walnut field notes
 - public concept pages
-- `Where the Inquiry Stands`
+- `Where the Inquiry Stands`, the living overview of the argument
+- `How the Inquiry Developed`, the longer dated research history
 - public sources / reading orientation
 - the field-practice description
 - the public sit template and method notes
@@ -36,7 +37,12 @@ The public workflow is:
 
 Ecological intentionality began as a name for a disciplined form of creaturely attention: attending to another being as relationally given, irreducibly other, and never exhausted by its appearance within human experience.
 
-The live question is whether ecological intentionality names a genuinely distinct phenomenological structure or instead a disciplined coordination of already available structures and methods: perception, embodiment, temporality, empathy, organismic normativity, ecological relation, historical evidence, ethical judgment, and theological interpretation.
+Two independent questions now organize the research:
+
+1. **Late flesh:** What, if anything, does Merleau-Ponty's late ontology of flesh explain beyond Husserl's account of embodiment and intentionality and Merleau-Ponty's earlier phenomenology?
+2. **Ecological intentionality:** Even if late flesh makes a distinctive ontological contribution, what additional explanatory or methodological work remains for ecological intentionality beyond established phenomenological and ecological approaches?
+
+Four outcomes remain possible: a distinct structure, a distinctive education or configuration of existing capacities, a methodological orientation, or relinquishing the term if it proves redundant. The Black Walnut Field Notes help test those possibilities; they do not settle them.
 
 Current work is especially concerned with:
 
@@ -57,7 +63,7 @@ A working formulation emerging from the field notes is:
 ```text
 field-notes/   Curated public sits
 concepts/      Public concept and thinker pages
-project/       Orientation pages such as "Where the Inquiry Stands"
+project/       Current overview, research-development history, and sources
 method/        Public descriptions of the field practice and templates
 scripts/       Guarded export and publication helpers
 ```
@@ -71,6 +77,8 @@ Implementation details and local commands live in [`SETUP.md`](SETUP.md) and [`P
 ## Public scholarship and provenance
 
 The website remains the primary reading experience. This repository is the versioned research record.
+
+Two project documents distinguish the [current inquiry](project/where-the-inquiry-stands.md) from the [history of its development](project/how-the-inquiry-developed.md). The public website also hosts a short [field-recorded audio introduction](https://ecologicalintentionality.org/inquiry#hear-the-practice). GitHub retains the cleaned public transcript and a listening link rather than mirroring the audio attachment.
 
 The goal is not to pretend that unfinished work is finished. It is to make revision, correction, and methodological development visible while preserving the distinction between public research and the private working environment.
 
