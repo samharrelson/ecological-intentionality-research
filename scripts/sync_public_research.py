@@ -34,6 +34,7 @@ BLOCKED_PATH_MARKERS = (
 
 EXACT_FILES = {
     Path("Public/Tracking/Where the Inquiry Stands.md"): Path("project/where-the-inquiry-stands.md"),
+    Path("Public/Tracking/How the Inquiry Developed.md"): Path("project/how-the-inquiry-developed.md"),
     Path("Public/Tracking/Sources & Reading.md"): Path("project/sources-and-reading.md"),
     Path("Public/Tracking/About the Practice.md"): Path("method/about-the-practice.md"),
     Path("Public/Tracking/Sit Template.md"): Path("method/sit-template.md"),
@@ -196,15 +197,16 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
     converted = 0
     flattened = 0
 
-    # Embedded Obsidian assets are not mirrored into this repo.
-    # Preserve readable alt/caption text without exposing a private path.
+    # Do not export media bytes or reveal local attachment filenames.
+    # The audio introduction remains hosted on the already-public website.
     def embed_repl(match):
         nonlocal flattened
         target = match.group(1).strip()
         alias = (match.group(2) or "").strip()
         flattened += 1
+        if target.lower().startswith("walnut-audio-") or target.lower().endswith((".mp3", ".m4a", ".wav", ".ogg")):
+            return "[Listen to the field recording on the website](https://ecologicalintentionality.org/inquiry#hear-the-practice)"
         # A numeric embed alias is an Obsidian display width, not alt text.
-        # Media stays outside this public research repository.
         if not alias or alias.isdigit() or re.fullmatch(r"\d+x\d+", alias):
             return "*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*"
         return f"*{alias}*"
@@ -215,6 +217,17 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
         nonlocal converted, flattened
         raw_target = match.group(1).strip()
         alias = match.group(2)
+
+        # A heading-only Obsidian link is a same-page link, not a note title.
+        if raw_target.startswith("#"):
+            heading = raw_target[1:].split("^", 1)[0].strip()
+            label = (alias or heading).strip()
+            anchor = github_anchor(heading)
+            if anchor:
+                converted += 1
+                return f"[{label}](#{quote(anchor, safe='-_')})"
+            flattened += 1
+            return label
 
         note_target, _heading = normalize_wiki_target(raw_target)
         label = (alias or Path(note_target).name).strip()
@@ -232,11 +245,26 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
     return text, converted, flattened
 
 
+def convert_public_transcript_callout(text: str) -> str:
+    """Keep the public transcript accessible and collapsible on GitHub."""
+    pattern = re.compile(
+        r"(?m)^> \[!note\]- (Read the transcript \(lightly edited\))\n((?:>.*\n)*)"
+    )
+
+    def replace(match):
+        lines = match.group(2).splitlines()
+        transcript = "\n".join(line[2:] if line.startswith("> ") else "" for line in lines).strip()
+        return f"<details>\n<summary>{match.group(1)}</summary>\n\n{transcript}\n\n</details>\n"
+
+    return pattern.sub(replace, text)
+
+
 def normalize(text: str, current_dest: Path, by_full_target, by_title):
     text = strip_publish_frontmatter(text)
     text, converted, flattened = convert_wikilinks(
         text, current_dest, by_full_target, by_title
     )
+    text = convert_public_transcript_callout(text)
     return text.rstrip() + "\n", converted, flattened
 
 
