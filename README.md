@@ -77,7 +77,7 @@ Implementation details and local commands live in [`SETUP.md`](SETUP.md) and [`P
 
 ## Black Walnut sits: dedicated RSS
 
-A separate, **sits-only** RSS feed is generated from the curated public Home index and already-exported field-note metadata. It does not announce Sources-page edits, thinker-page revisions, or other site maintenance. Once GitHub Pages is enabled, subscribe at:
+A separate, **sits-only** RSS feed is generated from the curated public Home index and already-exported field-note metadata. It includes the **full text** of each curated public sit for reading directly in Inoreader or NetNewsWire, while retaining a short preview. It does not announce Sources-page edits, thinker-page revisions, or other site maintenance. Photos and private recordings remain off-feed. Once GitHub Pages is enabled, subscribe at:
 
 [**Black Walnut Field Notes RSS**](https://samharrelson.github.io/ecological-intentionality-research/sits.xml)
 
