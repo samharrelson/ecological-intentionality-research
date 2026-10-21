@@ -18,9 +18,10 @@ if ! git pull --ff-only; then
 fi
 
 python3 scripts/sync_public_research.py --vault "$VAULT" --repo "$REPO" --apply
+python3 scripts/build_sits_feed.py --vault "$VAULT" --repo "$REPO" --apply
 python3 scripts/privacy_guard.py "$REPO"
 
-git add field-notes concepts project method
+git add field-notes concepts project method docs
 
 if git diff --cached --quiet; then
   echo "No public research changes to publish."
