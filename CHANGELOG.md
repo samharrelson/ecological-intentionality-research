@@ -3,6 +3,7 @@
 ## Unreleased — Sits-only RSS subscription
 
 - Generate stable RSS 2.0 from the curated public Home sit index and exported field-note metadata, not site-wide changes.
+- Include safely rendered, already-public sit bodies as full-text RSS content, preserving short preview descriptions.
 - Stage `docs/sits.xml` in the guarded publication workflow, with no media or private files included.
 - Add feed regression tests and a standalone GitHub Pages endpoint (enabled separately in repository settings).
 
