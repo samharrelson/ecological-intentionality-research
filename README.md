@@ -66,6 +66,7 @@ concepts/      Public concept and thinker pages
 project/       Current overview, research-development history, and sources
 method/        Public descriptions of the field practice and templates
 scripts/       Guarded export and publication helpers
+docs/          Standalone GitHub Pages RSS endpoint
 ```
 
 ## Publication model
@@ -73,6 +74,14 @@ scripts/       Guarded export and publication helpers
 The repository records material that has **already** crossed a deliberate public boundary; it does not decide what becomes public. The local exporter reads only an explicit allowlist under `Public/Tracking`, converts links only when their targets are also public, and flattens unresolved or non-public Obsidian links to plain text. A privacy guard runs before commits are pushed, and GitHub Actions validates the public layer again after each push.
 
 Implementation details and local commands live in [`SETUP.md`](SETUP.md) and [`PUBLIC-SOURCE-MAP.md`](PUBLIC-SOURCE-MAP.md) so the repository front page can remain centered on the research rather than the plumbing.
+
+## Black Walnut sits: dedicated RSS
+
+A separate, **sits-only** RSS feed is generated from the curated public Home index and already-exported field-note metadata. It does not announce Sources-page edits, thinker-page revisions, or other site maintenance. Once GitHub Pages is enabled, subscribe at:
+
+[**Black Walnut Field Notes RSS**](https://samharrelson.github.io/ecological-intentionality-research/sits.xml)
+
+The website itself remains on Obsidian Publish. The feed is a separate, minimal static endpoint. See [SETUP.md](SETUP.md) for the one-time Pages configuration and the existing publish command.
 
 ## Public scholarship and provenance
 
