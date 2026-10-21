@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased — Inquiry overview and research history
+
+- Separate the living `Where the Inquiry Stands` overview from the durable `How the Inquiry Developed` research-history archive.
+- Add an explicit archive source mapping without broadening the private-vault boundary.
+- Convert heading-level Obsidian navigation into GitHub links.
+- Preserve the spoken introduction as an external website recording with a readable, collapsible public transcript; do not copy audio into the repository.
+- Add regression tests to the public research validation workflow.
+
 ## 0.2.1 — First citable research snapshot
 
 - Added DOI and ORCID-linked citation metadata.
