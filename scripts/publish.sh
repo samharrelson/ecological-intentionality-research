@@ -10,10 +10,17 @@ VAULT="$1"
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 cd "$REPO"
 
-# Pick up remote changes before exporting, without creating merge commits.
-# A failed fast-forward stops publication rather than trying a risky merge.
-if ! git pull --ff-only; then
-  echo "Research repository needs attention: could not safely fast-forward. Resolve local Git changes before publishing." >&2
+# Only publish from main, and update from the one intended remote branch.
+# An implicit "git pull" can fail when local Git has multiple upstream merge
+# entries ("Cannot fast-forward to multiple branches"). Using FETCH_HEAD after
+# explicitly fetching origin/main avoids that ambiguity without a merge commit.
+if [ "$(git branch --show-current)" != "main" ]; then
+  echo "Research repository needs attention: switch to the main branch before publishing." >&2
+  exit 1
+fi
+
+if ! git fetch origin main || ! git merge --ff-only FETCH_HEAD; then
+  echo "Research repository needs attention: could not safely fast-forward from origin/main. Resolve divergent or uncommitted changes before publishing." >&2
   exit 1
 fi
 
@@ -30,6 +37,6 @@ fi
 
 STAMP="$(date '+%Y-%m-%d %H:%M')"
 git commit -m "Update public research layer ${STAMP}"
-git push
+git push origin HEAD:main
 
 echo "Public research layer published."
