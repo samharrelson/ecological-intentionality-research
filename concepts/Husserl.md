@@ -18,6 +18,7 @@ Browse: #husserl
 
 ## From the sits
 
+- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Changed visibility and a question about living membership remain compatible with bodily horizons and motivated inquiry; no new intentional structure is established.
 - [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — A remembered pruning event narrows one historical question; motivation, investigation, and practical judgment remain distinct from establishing biological consequences.
 - [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — Why a bark feature draws attention and how it formed are distinct questions; motivated inquiry and causal explanation already have places in Ideas II.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Bark contact, posture, and a causal question about the knot test localized sensations and motivated investigation without a new intentional act.

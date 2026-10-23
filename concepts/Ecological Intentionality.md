@@ -11,6 +11,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Recognizing life sharpens the evidence required for claims about development and care, while the necessity of a further concept remains unsettled.
 - [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — Learning a causal history might revise attention or judgment, but that possibility must be compared with Husserl's existing account of motivated inquiry.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — The tactile encounter asks again what ecological inquiry adds beyond an already sophisticated account of bodily touch.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)

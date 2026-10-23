@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Two branches' organic membership and remembered fruiting raise questions for Stein's differentiated living form without implying direct access to vegetal interiority or flourishing.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Touching bark does not supply the tree's first-person experience or its individual organismic good.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md) (fulfilled perspective, living membership, and the further grounds of care)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) (qualified vegetal life, apparent seasonal changes, and limits of causal claims)
