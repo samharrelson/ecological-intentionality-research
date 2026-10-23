@@ -70,7 +70,7 @@ def strip_publish_frontmatter(text: str) -> str:
 
     for line in fm:
         key = line.split(":", 1)[0].strip().lower() if ":" in line else ""
-        if key in {"permalink", "publish", "published", "share", "cssclasses"}:
+        if key in {"permalink", "publish", "published", "share", "cssclasses", "status"}:
             continue
         kept.append(line)
 
@@ -204,11 +204,17 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
         target = match.group(1).strip()
         alias = (match.group(2) or "").strip()
         flattened += 1
-        if target.lower().startswith("walnut-audio-") or target.lower().endswith((".mp3", ".m4a", ".wav", ".ogg")):
+        if target.lower().startswith("walnut-audio-") or target.lower().endswith((".mp3", ".m4a", ".wav", ".ogg", ".mp4")):
             return "[Listen to the field recording on the website](https://ecologicalintentionality.org/inquiry#hear-the-practice)"
+        # Date-specific illustrated URL, without exporting attachment paths.
+        dated = re.fullmatch(r"field-notes/(20\d{2}-\d{2}-\d{2}) - [^/]+\.md", current_dest.as_posix())
+        image_page = (
+            f"https://ecologicalintentionality.org/sits/{dated.group(1)}"
+            if dated else "https://ecologicalintentionality.org/"
+        )
         # A numeric embed alias is an Obsidian display width, not alt text.
         if not alias or alias.isdigit() or re.fullmatch(r"\d+x\d+", alias):
-            return "*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*"
+            return f"*Photograph available on the [illustrated field-notes site]({image_page}).*"
         return f"*{alias}*"
 
     text = re.sub(r'!\[\[([^\]|]+)(?:\|([^\]]+))?\]\]', embed_repl, text)
