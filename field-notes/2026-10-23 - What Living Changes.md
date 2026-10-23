@@ -1,7 +1,6 @@
 ---
 date: 2026-10-23
 description: Two branches and a swing strap sharpen the difference between seeing a connection and understanding participation in a living tree.
-status: draft
 tags:
   - husserl
   - ruyer
@@ -17,21 +16,21 @@ tags:
 
 Sunlight reaches the green and yellow canopy. The air is cool. Birds and traffic are audible, and leaves and acorns crunch underfoot. One walnut catches my eye on the ground; I cannot see another in the canopy. Squirrels cross the yard.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-23).*
 
 *October 23, 2026. Morning light through the walnut's canopy, with the swing below. The wider view records the arrangement without explaining the histories of individual branches.*
 
 I return to a branch photographed from two positions roughly ten feet apart. From the second position, smaller branches near its abrupt end become easier to distinguish. The light has changed since the photographs were taken. I see more, but cannot identify a belief I have had to withdraw.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-23).*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-23).*
 
 *The same branching area from two places roughly ten feet apart. These are different available appearances, not evidence of an overnight biological change or a corrected belief.*
 
 Near the swing strap, two smaller branches meet a larger limb. One turns upward; the other droops down. Their different directions hold my attention. I remember both bearing walnuts. That remembered fruiting tells me something about their history, but does not settle their present condition.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-23).*
 
 *Two differently oriented branches and the human-made swing attachment share one view. The photograph records their visible arrangement, not why the branches developed as they did or what the strap is doing to the tree.*
 
