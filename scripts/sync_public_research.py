@@ -204,7 +204,7 @@ def convert_wikilinks(text: str, current_dest: Path, by_full_target, by_title):
         target = match.group(1).strip()
         alias = (match.group(2) or "").strip()
         flattened += 1
-        if target.lower().startswith("walnut-audio-") or target.lower().endswith((".mp3", ".m4a", ".wav", ".ogg", ".mp4")):
+        if target.lower().startswith("walnut-audio-") or target.lower().endswith((".mp3", ".m4a", ".wav", ".ogg")):
             return "[Listen to the field recording on the website](https://ecologicalintentionality.org/inquiry#hear-the-practice)"
         # Date-specific illustrated URL, without exporting attachment paths.
         dated = re.fullmatch(r"field-notes/(20\d{2}-\d{2}-\d{2}) - [^/]+\.md", current_dest.as_posix())
