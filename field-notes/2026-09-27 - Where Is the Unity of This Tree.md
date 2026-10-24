@@ -6,7 +6,6 @@ tags:
   - edithstein
   - vanessawatts
   - robinwallkimmerer
-status: published
 ---
 *September 27, 2026 · Black walnut · 25 minutes*
 
@@ -20,7 +19,7 @@ Looking upward, I could follow the walnut’s trunk into a fork, a limb into sma
 
 What appeared first was not a collection of neighboring branches but one black walnut. Some continuity was visible. Memory and habit helped me find the tree again when a branch disappeared. Biological knowledge supplied other possibilities: shared circulation, development, and integrated growth. Calling this multiplicity one self-forming life added a stronger claim than the photograph alone could establish.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-27).*
 *September 27, 2026. Sunlight enters the walnut’s branching canopy; the trunk divides while the tree continues to appear as one living whole.*
 
 ## Reflection

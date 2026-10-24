@@ -6,7 +6,6 @@ tags:
   - edithstein
   - vanessawatts
   - robinwallkimmerer
-status: published
 ---
 *September 30, 2026 · Black walnut · 24 minutes*
 
@@ -20,7 +19,7 @@ A large branch lay beneath the walnut. Fungi were visible along part of the fall
 
 The branch’s present condition did not disclose its full history. It may have been damaged, diseased, or dead before it fell, but the photograph alone cannot decide among those possibilities. What appeared was simpler: branch on ground, fungi on wood, living tree behind it, and a changed scene within a familiar place.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-30).*
 *September 30, 2026. A fallen branch bearing visible fungi lies among walnuts and leaves beneath the living black walnut.*
 
 ## Reflection

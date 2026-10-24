@@ -7,7 +7,6 @@ tags:
   - MerleauPonty
   - vanessawatts
   - robinwallkimmerer
-status: published
 ---
 *October 1, 2026 · Black walnut · 20 minutes*
 
@@ -21,7 +20,7 @@ The walnut filled the foreground: deeply furrowed bark, a trunk widening toward 
 
 Yet the image carried the position from which it was made. Camera height, distance, angle, the trunk’s size in the frame, the visible side of the bark, and the hidden side all depended on where I stood. **The body was absent from the photograph but present in the perspective.**
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-01).*
 *October 1, 2026. The trunk fills the foreground and several limbs continue beyond the frame; the image records one bodily position without exhausting the tree or the perceptual field from which it was made.*
 
 ## Reflection

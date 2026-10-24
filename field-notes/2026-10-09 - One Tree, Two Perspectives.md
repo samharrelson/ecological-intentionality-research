@@ -17,10 +17,10 @@ I took two photographs before sitting down. In the first, I looked upward throug
 
 For the second, I stood closer to the trunk. A low leafy branch came forward against the bark, with the yard beyond it. Individual leaflets were easier to distinguish. The branch was familiar, though its history remained a question.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-09).*
 *October 9, 2026. Looking into the canopy: crossing limbs, overlapping leaves, and openings onto the sky.*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-09).*
 *October 9, 2026. Closer to the trunk: a low leafy branch stands against the bark, with the yard beyond. Individual leaflets come into view, while the branch's history remains a question.*
 ## Reflection
 

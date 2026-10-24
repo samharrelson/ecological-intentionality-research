@@ -5,7 +5,6 @@ tags:
   - husserl
   - edithstein
   - MerleauPonty
-status: published
 ---
 *September 11, 2026 · Black walnut · 20 minutes*
 
@@ -17,7 +16,7 @@ status: published
 
 From where I sit, one side of the trunk is visibly present while the other disappears from view. Some compound leaves are fully visible, some appear edgewise, and others are hidden behind branches. Wind and changing sunlight continually alter what becomes salient.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-11).*
 
 *September 11, 2026. Looking upward into the canopy: overlapping leaves and branches reveal some profiles and conceal others.*
 

@@ -1,7 +1,6 @@
 ---
 date: 2026-10-17
 description: A colder coastal morning asks what changed conditions disclose and what the anticipated return to the walnut leaves open.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -18,7 +17,7 @@ The Atlantic lies beneath a broad clouded sky this morning. A narrow band of war
 
 The air feels colder. Wind makes itself felt against my skin, and I have added clothing and sought shelter. The change reaches me through more than the view. A few birds visit the balcony and look toward the interior, briefly interrupting the reflection. I cannot tell from that visit exactly what brought them here.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-17).*
 
 *October 17, 2026. Cloud cover over the Atlantic, with a thin band of warm light and breaking waves below. The photograph preserves the view; the felt cold belongs to the account of being there.*
 

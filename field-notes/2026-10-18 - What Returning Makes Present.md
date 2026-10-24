@@ -1,7 +1,6 @@
 ---
 date: 2026-10-18
 description: Returning to the walnut brings anticipated autumn changes into view without revealing the history between visits.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -22,7 +21,7 @@ The canopy remains mostly green. Yellow leaflets stand out among the green, and 
 
 Looking upward from my familiar position, I have the impression that more branches are visible. I cannot yet say how much of that impression belongs to changed foliage, today's light, or the expectation I brought with me. A few walnuts lie on the ground. I do not see any in the canopy from the positions I take this morning.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-18).*
 
 *October 18, 2026. The walnut's branching canopy against blue sky, with sunlight passing through foliage. This photograph records the return view; it does not establish when particular leaves fell.*
 

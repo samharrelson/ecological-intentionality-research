@@ -1,7 +1,6 @@
 ---
 date: 2026-10-20
 description: Touch brings the walnut's bark into closer acquaintance while leaving its history, experience, and needs open to inquiry.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -25,7 +24,7 @@ One knot holds my attention. Its form is plainly there, but I do not know how it
 
 Later, light on the leaves and bark catches my attention again. I begin to call it different, then hesitate. What I can say is that I am noticing something I had not expected to notice. That does not tell me whether the light itself has changed or whether my attention has.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-20).*
 
 *October 20, 2026. My hand rests against the walnut's textured bark. The photograph documents physical contact, not what the walnut experiences.*
 

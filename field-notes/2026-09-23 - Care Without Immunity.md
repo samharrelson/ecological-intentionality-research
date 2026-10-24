@@ -6,7 +6,6 @@ tags:
   - edithstein
   - vanessawatts
   - robinwallkimmerer
-status: published
 ---
 *September 23, 2026 · Black walnut · 29 minutes*
 
@@ -20,7 +19,7 @@ The morning was in the lower sixties, cooler than it had been for months. Light 
 
 Wet soil, the slope, a few ants, two birds, utility wires, the house, the barn, remaining storm-downed limbs, and fallen walnuts belonged to the field. One walnut lay on the soil in its green husk. Its color and position were present; its likely darkening, decomposition, consumption, or germination belonged to memory, biological knowledge, and anticipation.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-23).*
 *September 23, 2026. Rain darkens the black walnut’s trunk beneath a mostly green canopy and overcast sky.*
 
 ## Reflection

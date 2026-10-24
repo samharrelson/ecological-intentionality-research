@@ -1,7 +1,6 @@
 ---
 date: 2026-10-16
 description: A coastal comparison asks what distance and proximity disclose, and what further encounter leaves unknown.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -20,19 +19,19 @@ U2's “No Line on the Horizon” comes to mind. The title sits strangely beside
 
 The balcony offers patterns that would be harder to take in from the sand. I am still bodily present here: feeling the air, facing the light, standing within a structure that makes this particular view possible.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-16).*
 
 *October 16, 2026. Morning sunlight across the Atlantic; the elevated view gathers horizon, breaking waves, and shoreline into one scene.*
 
 On the beach, the broad surface differentiates into shells and fragments. There are variations in size, shape, color, and texture; comparatively intact pieces lie among broken ones. Darker materials remain unidentified. Getting closer makes these differences available.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-16).*
 
 *October 16, 2026. Shells and fragments on the beach. Close examination brings individual forms into view without revealing how each came to be here.*
 
 Then I turn around and photograph the building. The balconies, railings, and windows occupy the scene I had been surveying. The place from which I looked has become something I can look at.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-16).*
 
 *October 16, 2026. Looking back toward the balconies from the sand. The building that made the elevated view possible becomes part of the visible scene.*
 

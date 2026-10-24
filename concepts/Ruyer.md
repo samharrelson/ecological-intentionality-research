@@ -17,5 +17,6 @@ Browse: #ruyer
 
 ## From the sits
 
+- [October 24, 2026: A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) — Chapter 14's extension of organizing activity to physical individuals complicates the manufactured-tree comparison without establishing vegetal consciousness.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — The branch-and-strap comparison tests the difference between visible attachment and active organic organization without treating either view as evidence of primary consciousness.
 - [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — Absolute survey distinguishes living form's proposed unity from an observer's view, without turning a covered-looking end into evidence of repair or primary consciousness.

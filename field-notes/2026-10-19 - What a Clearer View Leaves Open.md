@@ -1,7 +1,6 @@
 ---
 date: 2026-10-19
 description: Moving around the walnut clarifies a branch profile while leaving its living processes and the grounds of care open to further inquiry.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -21,7 +20,7 @@ From where I begin, the branches overlap. I expect that moving might separate th
 
 The light changes too. I stand more directly in the sunlight, looking at its passage through green and yellow foliage. Getting to this position means stepping over leaves already fallen.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-19).*
 
 *October 19, 2026. The walnut's branching canopy in autumn light, with the swing below. The portrait records visible foliage and attachments; it does not establish their effects on the tree.*
 

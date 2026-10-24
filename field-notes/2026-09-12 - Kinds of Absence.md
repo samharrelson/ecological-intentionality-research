@@ -4,7 +4,6 @@ description: A black walnut sit on hiddenness, horizonality, and different kinds
 tags:
   - husserl
   - edithstein
-status: published
 ---
 *September 12, 2026 · Black walnut · 20 minutes*
 
@@ -16,7 +15,7 @@ status: published
 
 Clouds, light rain, and wind moved through the yard during this sit. From where I stood and sat, one side of the walnut’s trunk was visible while the opposite side remained concealed by the tree’s own opacity. Some branches and compound leaves appeared clearly, others only partially, and many were hidden behind other leaves, branches, and fruit.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-12).*
 
 *September 12, 2026. The walnut appears through overlapping profiles: trunk, canopy, leaves, fruit, and the absences produced by position and opacity.*
 

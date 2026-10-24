@@ -7,7 +7,6 @@ tags:
   - MerleauPonty
   - melanieharris
   - robinwallkimmerer
-status: published
 ---
 *October 7, 2026 · Black walnut · 21 minutes*
 
@@ -21,10 +20,10 @@ The morning was clear, sunny, and cool. Looking upward, I could follow the walnu
 
 Looking downward, I saw the trunk, root flare, a surface root, moss, grasses, fallen leaves, and soil. The visible root became hidden beneath the ground. Above and below, the tree exceeded what this view disclosed, but not in exactly the same way.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-07).*
 *October 7, 2026. Trunk, limbs, leaves, light, and openings through the canopy. Branches remain traceable for a while before foliage interrupts the view.*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-07).*
 *October 7, 2026. Root flare, a surface root, moss, grasses, fallen leaves, and soil. The visible root passes out of sight beneath the ground.*
 
 ## Reflection

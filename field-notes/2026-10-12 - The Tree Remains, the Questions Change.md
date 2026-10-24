@@ -1,7 +1,6 @@
 ---
 date: 2026-10-12
 description: Returning to the standing walnut after branch loss raises different questions about recognition, living unity, flourishing, and care.
-status: draft
 tags:
   - husserl
   - edithstein
@@ -19,7 +18,7 @@ Sunshine returned after the heavy rain. A large, dark branch crossed the view ov
 
 Looking down, I saw the trunk widen into roots that disappeared beneath soil and grasses. Small plants grew around the base. A dark, irregular area on the bark caught my attention. It was a place I had noticed before, though I could not explain its history or decide from looking whether “wound” was the right word.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-12).*
 *October 12, 2026. A dark branch crosses the returning sunlight, green and yellow leaves, and openings of blue sky. This partial view belongs to the same walnut whose trunk and roots I approached below.*
 
 ## Reflection

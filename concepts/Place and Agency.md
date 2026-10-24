@@ -7,6 +7,7 @@ Related: [Ecological Intentionality](Ecological%20Intentionality.md) · [Vegetal
 
 ## From the sits
 
+- [October 24, 2026: A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) — A swing's human purpose and a branch's living development meet without becoming one activity or one measure of good.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — The swing strap belongs to human use of the yard while the branching structure belongs to the walnut's development; a shared place doesn't give both one kind of organization or a single good.
 - [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — Tree growth and electrical infrastructure meet at the branches without settling their different goods, decision-making authority, or requirements of care.
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)

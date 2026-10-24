@@ -5,7 +5,6 @@ tags:
   - MerleauPonty
   - edithstein
   - melanieharris
-status: published
 ---
 *October 3, 2026 · Black walnut · 19 minutes*
 
@@ -19,7 +18,7 @@ I stood close to the trunk beneath a gray, overcast sky. Deeply grooved bark fil
 
 What I saw was present structure: thickness, grooves, forks, knots, unequal limbs, and canopy. Knowing this as a living tree, I also know that the trunk and branches developed through growth over time. That developmental claim is not the same thing as visually perceiving the earlier growth. The bark supplies no caption for its determinate history. A knot might follow storm, pruning, obstruction, disease, ordinary branching, or several conditions together. Its visibility makes a question possible without establishing the answer.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-03).*
 *October 3, 2026. The walnut’s trunk, forks, and unequal limbs bear years of development without making the causes of each visible feature transparent.*
 
 ## Reflection

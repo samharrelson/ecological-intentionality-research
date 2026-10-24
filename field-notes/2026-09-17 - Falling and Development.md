@@ -4,7 +4,6 @@ description: A black walnut sit on the different temporal givenness of a falling
 tags:
   - husserl
   - edithstein
-status: published
 ---
 *September 17, 2026 · Black walnut · 20 minutes*
 
@@ -18,7 +17,7 @@ The morning was warming toward the nineties after several cooler days. More yell
 
 During the sit, a couple of yellow leaves detached, fluttered downward while changing orientation, and came to rest on the ground. I did not experience a sequence of unrelated positions. I watched a leaf fall as one continuous event.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-17).*
 *September 17, 2026. Green and yellow compound leaves, dark branches, and walnuts still held in the canopy.*
 
 ## Reflection

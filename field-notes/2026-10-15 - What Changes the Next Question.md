@@ -1,7 +1,6 @@
 ---
 date: 2026-10-15
 description: A fallen leaf opens a question about origin and what inquiry should do next.
-status: draft
 tags:
   - husserl
 ---
@@ -19,10 +18,10 @@ The birds interrupt my usual focus on the tree. At 8:42, Cornell's Merlin Bird I
 
 Looking toward the ground, I take a fallen leaf to have come from this walnut. Then I pause over the attribution. Being beneath the tree is not enough to establish its origin. There are other trees nearby, including other walnuts. Recognizing a leaf's kind would not necessarily tell me which individual tree produced it.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-15).*
 *October 15, 2026. Sunlight behind the trunk, with green and yellow foliage against blue sky.*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-15).*
 *October 15, 2026. A closer view into the branching canopy and compound leaves. This photograph records foliage rather than the origin of a particular fallen leaf or the birds heard nearby.*
 
 ## Reflection

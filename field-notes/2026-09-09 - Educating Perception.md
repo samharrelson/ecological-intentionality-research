@@ -3,7 +3,6 @@ date: 2026-09-09
 description: A black walnut sit on living centeredness, inference, and the education of perception.
 tags:
   - husserl
-status: published
 ---
 *September 9, 2026 · Black walnut · 15 minutes*
 
@@ -15,7 +14,7 @@ status: published
 
 The leaves are still green, walnuts remain in the branches, and a few more yellow leaves have begun to collect on the ground. Around the exposed roots, grasses and violets have appeared again as the season begins to turn.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-09).*
 
 *September 9, 2026. Walnuts among green compound leaves, with sunlight filtering through the canopy.*
 

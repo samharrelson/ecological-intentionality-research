@@ -6,7 +6,6 @@ tags:
   - husserl
   - edithstein
   - vanessawatts
-status: published
 ---
 *September 20, 2026 · Black walnut · 18 minutes*
 
@@ -20,7 +19,7 @@ After another night of thunderstorms, the grass was wet and small branches lay o
 
 I began with plain descriptions: a branch moved, a leaf fell, sunlight shifted, something entered my attention. Each event had effects. None by itself settled whether agency was present.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-20).*
 *September 20, 2026. Mostly green compound leaves with scattered yellow leaves in the black walnut’s post-storm canopy.*
 
 ## Reflection

@@ -1,7 +1,6 @@
 ---
 date: 2026-10-13
 description: A change of viewpoint and the sounds of nearby tree work sharpen questions about perception, explanation, and a common world.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -22,7 +21,7 @@ Chainsaws, warning beeps, and heavy impacts from nearby tree work entered the si
 
 Looking toward a branch, I moved a few steps left. A section hidden from my earlier position became visible; another disappeared behind foliage. My access had changed. That did not establish a change in the branch itself.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-13).*
 *October 13, 2026. Morning sunlight and shade within the walnut's canopy, above the familiar trunk, swing, and fence. One view offers a recognizable tree without showing every part.*
 
 ## Reflection

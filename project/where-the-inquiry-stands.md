@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated October 21, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated October 24, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -11,9 +11,25 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 
 **I want to find out what the encounters and the texts actually warrant, even if that requires changing or relinquishing a concept I began with.**
 
-**On this page:** [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
+**On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## The October 24 turn: From description to a proposition
+
+After the October 21 outline and two months of close comparison with existing philosophers, I'm making a deliberate constructive turn. I don't want ecological intentionality to mean only a method for noticing the natural world or an ethic of paying better attention. Those remain valuable practices, but the concept is meant to pose a more fundamental question about how consciousness and shared purposes come to be.
+
+**Ecological intentionality does not begin by asking how consciousness possesses the world, but how consciousness comes to be through relations with a world it can never possess.**
+
+That isn't an accusation that Husserl believed consciousness owned or manufactured the world. His analyses of passivity, embodiment, temporal horizons, and motivated inquiry remain among the strongest explanations of what happens in these encounters. It's a positive philosophical proposal: conscious directedness may take form through relations with other beings whose lives unfold without sharing our intentions. **Co-constitution without co-intention** is a working formulation, not a demonstrated new mental faculty or a claim that the whole world shares one consciousness.
+
+The distinction matters because knowing about ecological dependence is not automatically the same as consciousness *being constituted* through ecological relations. Gregory Bateson, Tim Ingold, ecological-enactive thinkers, and others have already made important arguments for ecological cognition. My task is not to announce their work as my discovery. It is to ask whether relationships among differently organized and sometimes conflicting lives matter to the organization of intentional activity in ways that require a further account. I'm reading and testing those predecessors before claiming an answer.
+
+[This morning's walnut encounter](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) makes the problem concrete. I saw a small gap between the swing's hanging loop and a branch, then voiced an intention to remove the swing partly for the tree's good. Whether the tree actually benefits depends on its condition, which I don't yet know. That's different from whether the tree's independently unfolding life helps **constitute the conscious intention itself**. A familiar Husserlian account of valuation and motivated action may explain the change of purpose; [Ruyer's](../concepts/Ruyer.md) account of immanent organizing form offers another powerful rival. Neither the gap nor my concern settles the stronger thesis.
+
+This turn also matters for *The Ecology of the Cross*. A church or spiritual community may ask whether the lives and histories sustaining it should change **what it intends**, not merely how it achieves familiar aims. But ecological interdependence cannot establish Christology on its own, and a changed institutional purpose doesn't prove a new theory of consciousness. Christian claims about incarnation, the cross, resurrection, creaturely vulnerability, and participation require their own argument. [Vanessa Watts](../concepts/Vanessa%20Watts.md) challenges an exclusively human origin of thought from within particular Indigenous cosmologies; [Melanie Harris](../concepts/Melanie%20Harris.md) makes historical power, eco-memory and environmental justice indispensable to any public “we.” I want those conversations to challenge this constructive work, not merely adorn it.
+
+**The immediate test:** Can I identify what the other being's ongoing activity contributes to the *realization* of a conscious intention beyond influencing my beliefs, motivating concern, providing an affordance, or determining whether my action succeeds? Today's sit gives me a real intention to analyze, not yet a decisive answer.
 
 ## The two questions
 
@@ -39,7 +55,11 @@ In [What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leave
 
 In [A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) (October 21), a familiar protrusion high on the trunk caught my attention differently in the morning light. A squirrel briefly appeared and seemed to look toward me. I imagined its opinion of a person who keeps talking to this tree, then recognized that the imagined commentary was mine. Why the protrusion caught my eye, how it formed, and how learning its history might change what I notice are connected questions requiring different kinds of evidence.
 
-Earlier encounters with fallen branches, an attached swing, and changing leaves raised related questions about attachment, organismic unity, agency, and care. A visible feature is not its own causal explanation. Something can be perceptually given without being a gift or an invitation. A practice of attention can improve a description without yet establishing what is good for a particular organism.
+In [Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) (October 22), I returned to branches pruned near the power lines. I remember witnessing one cut and asking a worker to be gentle with the walnut. That lets me say something about a particular human event, but not whether the pruning helped or harmed the tree, nor why every other branch ends where it does. Remembering the cause of one cut doesn't establish its consequences or settle what care would require.
+
+In [What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) (October 23), two photographs of the same branch from positions about ten feet apart opened up different visible details without overturning a belief. I also paused over two smaller branches, one extending upward and the other drooping down, beside the strap holding a swing. All three are attached in a visible sense. Yet the branches belong to the walnut's developing life, while the strap belongs to an organized human practice of play. Their different kinds of participation make a better question than the simple contrast between things with form and things without it. I remember both smaller branches bearing walnuts, but that memory doesn't establish their present health or the effects of the strap.
+
+Across these encounters, a visible connection keeps proving different from a causal explanation, a history, or an argument for care. Something can be perceptually given without being a gift or an invitation. A practice of attention can improve a description without yet establishing what is good for a particular organism.
 
 One methodological conviction has become clearer: **the task isn't merely to expect the unexpected. It's to recognize what actually happened, even when it doesn't serve the argument I brought to the tree.** Changed salience, redirected attention, a corrected belief, and a revised ethical judgment are not the same event.
 
@@ -88,6 +108,10 @@ Husserl is now my strongest philosophical check against inventing a new category
 
 [Edith Stein](../concepts/Edith%20Stein.md) helps me ask different questions. Her account of empathy insists that another's experience, when given as another's, isn't primordially mine. Her discussion of vegetal phenomena of life allows a qualified kind of apprehension without authorizing confident claims about plant sensation or an awake plant *I*. Her later metaphysics of living form and finite being raises the separate question of a creature's own development and good. I'm not assuming these claims fit neatly with Merleau-Ponty's flesh.
 
+[Raymond Ruyer](../concepts/Ruyer.md) has become a more active challenge. In chapter 9 of *Neofinalism*, his *survol absolu* concerns the immanent unity and active organization of form, not another viewpoint I could reach by walking around the walnut. His further account of primary consciousness is a metaphysical proposal, not something a photograph of branches can establish. Chapter 5 complicates an easy living/nonliving divide: manufactured tools and machines can have organization by form without being living organs. The swing strap is therefore not formless, even though it isn't a growing member of the tree. But having a shape or participating in an arrangement doesn't by itself establish what Ruyer calls a *true form* or an absolute domain of survey. His chapter 14 on physical beings is the next textual test, particularly for questions about rocks, soil, and collections of living and nonliving constituents; I haven't settled those cases by looking at them.
+
+One historical question has also become sharper. Hamrick and Van der Veken report that Merleau-Ponty borrowed the term *survol* from Ruyer in a 1953 course. That's a secondary-source attribution I still need to compare with the course itself. It would be premature to assume that Merleau-Ponty's criticism of *pensée de survol* and Ruyer's *survol absolu* either mean the same thing or simply oppose one another.
+
 The conversation also cannot remain confined to European phenomenology. [Vanessa Watts's](../concepts/Vanessa%20Watts.md) Place-Thought challenges the priority of a human perceiver confronting a surrounding environment, from within particular Indigenous cosmological traditions. [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md) makes gift, reciprocity, harvest, restoration, and living beings' differentiated needs questions of situated practice. [Melanie Harris's](../concepts/Melanie%20Harris.md) ecowomanism presses the importance of Black women's experience, historical memory, structural harm, environmental justice, and accountable praxis. Their work is not additional evidence for a phenomenological framework already decided elsewhere.
 
 A theological horizon remains open in what I've been calling the *Ecology of the Cross*. Creatureliness, participation, suffering, and redemption matter here, but a broken branch isn't evidence of a Christological claim. [Niels Henrik Gregersen's](../concepts/Niels%20Henrik%20Gregersen.md) questions about evolutionary suffering and deep incarnation are one theological test I still need to develop, not a conclusion the fieldwork can establish. Ecological damage or imposed harm doesn't become good because I can give it a moving theological interpretation.
@@ -96,10 +120,11 @@ A theological horizon remains open in what I've been calling the *Ecology of the
 
 There are four live possibilities for ecological intentionality. It might name **a distinct intentional structure**, **an education or configuration of inherited capacities**, **a disciplined coordination of inquiries with different warrants**, or **a term whose apparent work is already done elsewhere**. None has won by default. Even the appealing phrase “a discipline of transitions” must answer to existing approaches.
 
-Five questions are carrying the next stage of the work:
+Six questions are carrying the next stage of the work:
 
 - **Ontology:** What does late flesh explain that Husserl and early Merleau-Ponty cannot already explain?
 - **Otherness:** How do empirical ignorance, Stein's non-primordiality, and Merleau-Ponty's *écart* differ? When does “intimacy with remainder” conceal those differences?
+- **Form and organization:** What makes a living branch, an attached swing strap, or an inorganic composite a unity, and in what sense? Does Ruyer's *true form* explain anything beyond perceived structure and the organizations investigated by biology and physical science? A patch of soil, with its many constituents and lives, must not be treated as one self-surveying organism by assumption.
 - **Creaturely goods:** What warrants moving from an observed condition to an account of this organism's flourishing, and then to an ethical obligation? The goods of an individual tree, a species, and a place need not coincide.
 - **Place and history:** Whose evidence and experience shape an adequate ecological description? When are biological research, histories, community knowledge, and political analysis necessary?
 - **Distinctiveness:** If ecological intentionality adds nothing beyond existing scholarship and practice, am I prepared to relinquish the term?
@@ -108,9 +133,13 @@ These are tests of the argument, not rhetorical questions with answers chosen in
 
 ## What comes next
 
-For the remainder of Fall 2026, I want to compare Husserl's *Ideas II*, early *Phenomenology of Perception*, and the late *The Visible and the Invisible* closely enough to establish what each can and cannot explain. Stein's accounts of empathy, living form, and creaturely good remain central. Plant-empathy scholarship, eco-phenomenology, Indigenous relational thought, ecowomanism, and the theology of the cross will have to challenge the project rather than merely decorate it.
+The next stage begins now, not in November. I'm attempting a **positive account of ecological intentionality**, using each walnut encounter to articulate one proposition, give its strongest rival explanation, and identify what evidence or argument would defeat it. Husserl, Stein, Merleau-Ponty, and Ruyer remain indispensable, but phenomenology isn't the outer limit of the inquiry. Bateson and Ingold, along with ecological-enactive accounts, are serious predecessors whose primary arguments I need to test rather than claim as my own.
 
-I'll also keep returning to this particular walnut. The question I carried forward on October 21 is modest but useful: **How might learning the history of a visible feature change the way I see it, and what evidence would warrant that change?**
+My October 24 reading and source check returned to Ruyer's *Neofinalism*, chapter 14 (pp. 140–153), with a related passage from chapter 13 (p. 137). Ruyer extends active organization into the physical world and even recognizes that events can modify guiding themes; that makes a mere change of human purpose an insufficient claim to novelty. Nor does a fabricated tree become unorganized simply because it lacks the walnut's particular living development. I still need to compare Merleau-Ponty's earlier use of *survol* in its primary context.
+
+In the [October 24 sit](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md), a closer look at the swing supplies a small visual detail and an intention to remove it, but not an arboricultural verdict or proof that the tree constitutes the intending. I want to follow this case into a more exact comparison of **the content of an intention, its successful fulfillment, and the conditions that realize the conscious act**. That gives the affirmative philosophical proposal something definite to explain.
+
+Alongside this work, I want to find out what the *Ecology of the Cross* can contribute as a constructive theology of creaturely participation, not just as a biblical illustration of ecological relationships. Its implications for churches and spiritual communities matter, provided they remain accountable to living ecologies, place histories, and whose lives are affected.
 
 I'm not asking the tree to resolve the philosophy. I'm trying to let actual encounters and serious reading make my claims answerable to what I can know, what I still need to investigate, and what I shouldn't infer.
 

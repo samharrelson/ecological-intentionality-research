@@ -1,7 +1,6 @@
 ---
 date: 2026-10-21
 description: Changing light, a high bark feature, and a squirrel's brief arrival distinguish what draws attention from what explains another being's history or experience.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -20,7 +19,7 @@ Part of the trunk is lit and part lies in shade. I walk between sunlight and sha
 
 Yesterday I attended to a lower, familiar knot while touching the bark. Today's higher feature remains at a distance. I photograph it without learning how it formed.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-21).*
 
 *October 21, 2026. A raised, rounded bark feature near the branching trunk. Its visible form does not establish its cause or history.*
 

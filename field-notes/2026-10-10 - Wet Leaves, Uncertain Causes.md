@@ -19,7 +19,7 @@ A cold, rainy morning beneath a gray sky. The walnut's canopy was still mostly g
 
 Closer to the bark, the wet leaflets shone. Some were green, others yellowing; small holes, dark spots, and brown patches interrupted their surfaces. I could see the marks without knowing when they had appeared.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-10).*
 *October 10, 2026. Wet green and yellowing leaflets against the trunk. Holes and dark marks are visible; their causes and dates remain undetermined.*
 
 ## Reflection

@@ -1,7 +1,6 @@
 ---
 date: 2026-10-14
 description: Yellow leaves and a bodily exercise sharpen the question of what an encounter can correct.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -18,10 +17,10 @@ A clear, sunny morning, with cool air that makes it comfortable to stay beneath 
 
 That comparison already reaches beyond the present view. I see leaves here now; I remember a different distribution. I have not counted them or watched each one fall. Some familiar branch sections are visible, while others remain hidden behind foliage.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-14).*
 *October 14, 2026. Sunlight through green and yellow foliage, with the trunk and branching canopy partly in shade.*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-14).*
 *October 14, 2026. Scattered yellow leaves among grass and soil near the trunk. The closer view shows where they lay this morning, not when or why they fell.*
 
 ## Reflection

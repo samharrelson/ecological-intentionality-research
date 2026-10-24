@@ -6,7 +6,6 @@ tags:
   - edithstein
   - MerleauPonty
   - robinwallkimmerer
-status: published
 ---
 *October 8, 2026 · Black walnut · approximately 24 minutes recorded*
 
@@ -20,10 +19,10 @@ Morning light came through a mostly green canopy, with yellow appearing among th
 
 The swing was attached. The fruit was on the ground. Their positions made a useful contrast, but neither position explained the whole relation.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-08).*
 *October 8, 2026. The swing remains fastened to the walnut beneath a mostly green canopy. Physical attachment is visible; organismic membership is another question.*
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-08).*
 *October 8, 2026. A walnut beneath the root flare, with part of the swing at the left. The photograph records where the fruit is, not how it arrived.*
 
 ## Reflection

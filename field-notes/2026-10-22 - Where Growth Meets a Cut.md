@@ -1,7 +1,6 @@
 ---
 date: 2026-10-22
 description: Abrupt branch ends, a remembered pruning event, and changing light distinguish a known intervention from its uncertain consequences for a living tree.
-status: draft
 tags:
   - husserl
   - MerleauPonty
@@ -17,7 +16,7 @@ tags:
 
 The morning is cool and clear. Green and yellow leaflets interrupt the blue sky. On the side of the walnut near the power lines, several branches end abruptly. I follow one back toward the larger limb, looking at its outline and the leaves nearby.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-22).*
 
 *October 22, 2026. The whole walnut in the yard, with the fence and neighboring trees in view. This wider photograph locates the encounter but cannot account for the history of individual branches.*
 
@@ -25,7 +24,7 @@ One end looks covered over. From where I stand, the surface seems to continue ac
 
 I move a few feet. The illumination of the branches and trunk changes more than I expected. The branching pattern becomes easier to see, and the texture of the bark catches my attention. Looking upward, I see more sky than I remember from earlier visits. The open spaces are present now; the comparison belongs to memory.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-22).*
 
 *October 22, 2026. Abrupt branch ends beneath the leafy canopy. The photograph records their visible outlines without establishing the history or condition of each end.*
 

@@ -7,7 +7,6 @@ tags:
   - edithstein
   - vanessawatts
   - robinwallkimmerer
-status: published
 ---
 *September 21, 2026 · Black walnut · 24 minutes*
 
@@ -21,7 +20,7 @@ The morning was hazy and about seventy-five degrees. Green remained across the b
 
 I began with the most modest descriptions I could make: trunk, canopy, green and yellow leaves, sunlight, shade, air, temperature, sound, and ground. Calling the shade beautiful or pleasant already introduced value.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-21).*
 *September 21, 2026. Morning light moves through the black walnut’s mostly green canopy as scattered leaves begin to yellow.*
 
 ## Reflection

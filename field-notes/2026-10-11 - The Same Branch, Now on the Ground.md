@@ -1,7 +1,6 @@
 ---
 date: 2026-10-11
 description: The fungal-bearing branch observed a week earlier is now detached; its falling, cause, and biological history remain distinct questions.
-status: draft
 tags:
   - husserl
   - edithstein
@@ -19,7 +18,7 @@ Heavy overnight rain was easing. Light showers continued, but the clouds were be
 
 I returned to the marked leaves photographed yesterday. They remained attached, their wet surfaces showing holes, dark spots, and brown patches. Then I noticed the branch with shelf-like fungi that I had observed on October 4. It was now lying on the ground below its former position. The earlier photograph, its distinctive arrangement, and remembered location gave me grounds to recognize the same branch.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-11).*
 *October 11, 2026. The same fungal-bearing branch observed attached on [October 4](2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md) now lies detached on the ground. I did not witness its falling; the time and cause of the break remain undetermined.*
 
 ## Reflection

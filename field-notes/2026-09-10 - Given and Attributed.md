@@ -4,7 +4,6 @@ description: A black walnut sit on what is given, what is attributed, and the li
 tags:
   - husserl
   - edithstein
-status: published
 ---
 *September 10, 2026 · Black walnut · 15 minutes*
 
@@ -16,7 +15,7 @@ status: published
 
 I tried to attend first to what was sensibly given: wind moving through the compound leaves, the sound of leaves rustling, the changing shadow beneath the canopy, the texture and dark geography of the bark, and the exposed roots at the base of the tree.
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-09-10).*
 
 *September 10, 2026. Bark, exposed roots, and a fallen walnut amid the plants and leaf litter at the base of the tree.*
 

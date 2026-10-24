@@ -5,7 +5,6 @@ tags:
   - MerleauPonty
   - edithstein
   - melanieharris
-status: published
 ---
 *October 2, 2026 · Black walnut · 20 minutes*
 
@@ -19,7 +18,7 @@ Looking upward from beneath the walnut, branches crossed the field and leaves ga
 
 The photograph gives a real appearance. It also excludes nearly everything that might explain the history of this place: no property boundary, house, street, power line, record, former inhabitant, or account of labor appears within the frame. **A beautiful view can be true without being complete.**
 
-*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/).*
+*Photograph available on the [illustrated field-notes site](https://ecologicalintentionality.org/sits/2026-10-02).*
 *October 2, 2026. Branches, leaves, blue sky, and morning light are organized by one bodily position beneath the walnut; the frame gives the view without giving the histories that made this access and place possible.*
 
 ## Reflection
