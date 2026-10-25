@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated October 24, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated October 25, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -10,6 +10,8 @@ The encounters have been wonderfully ordinary. I've watched leaves turn, followe
 I'm less certain than I was at the end of my first comprehensive examination that ecological intentionality names a new structure of consciousness. That isn't a problem to work around. It has become one of the central questions of the research.
 
 **I want to find out what the encounters and the texts actually warrant, even if that requires changing or relinquishing a concept I began with.**
+
+**New constructive essay (October 24):** Consciousness in a World We Cannot Possess puts forward my affirmative proposal for ecological intentionality, including what I think it contributes and the philosophical work still needed to defend it. The field notes remain where that proposition is tested.
 
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
@@ -29,7 +31,9 @@ The distinction matters because knowing about ecological dependence is not autom
 
 This turn also matters for *The Ecology of the Cross*. A church or spiritual community may ask whether the lives and histories sustaining it should change **what it intends**, not merely how it achieves familiar aims. But ecological interdependence cannot establish Christology on its own, and a changed institutional purpose doesn't prove a new theory of consciousness. Christian claims about incarnation, the cross, resurrection, creaturely vulnerability, and participation require their own argument. [Vanessa Watts](../concepts/Vanessa%20Watts.md) challenges an exclusively human origin of thought from within particular Indigenous cosmologies; [Melanie Harris](../concepts/Melanie%20Harris.md) makes historical power, eco-memory and environmental justice indispensable to any public “we.” I want those conversations to challenge this constructive work, not merely adorn it.
 
-**The immediate test:** Can I identify what the other being's ongoing activity contributes to the *realization* of a conscious intention beyond influencing my beliefs, motivating concern, providing an affordance, or determining whether my action succeeds? Today's sit gives me a real intention to analyze, not yet a decisive answer.
+**The immediate test:** Can I identify what the other being's ongoing activity contributes to the *realization* of a conscious intention beyond influencing my beliefs, motivating concern, providing an affordance, or determining whether my action succeeds? The October 24 sit gives me a real intention to analyze, not yet a decisive answer.
+
+**October 25 continuation:** In [The Branch and the Purpose](../field-notes/2026-10-25%20-%20The%20Branch%20and%20the%20Purpose.md), the swing was still attached. The family's use of it came back to me through memory, and the visible branch brought renewed questions about care. Ruyer's *Neofinalism* (ch. 5, pp. 36–37, 44) already describes human purposes extending into organized tools without turning those tools into organs. That makes the next constructive question harder and better: **what changes when an activity we organize for human purposes also depends upon another living being with a development and possible good that do not belong to our activity?** The practical and biological standards may differ. Whether their difference is *constitutive of consciousness* remains unresolved.
 
 ## The two questions
 
