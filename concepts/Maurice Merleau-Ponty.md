@@ -21,6 +21,7 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — Early motor intentionality supplies a serious explanation of moving without an explicit prior instruction; the tree's living organization remains a further question.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Differently related branches and strap keep shared sensible belonging distinct from organismic membership; the explanatory contribution of late flesh remains open.
 - [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — Unexpected illumination after movement renews the comparison between embodied perspective and the further ontological claims of late flesh.
 - [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — Changing light and a squirrel's arrival make shared sensible belonging a question without establishing identical experience or the explanatory gain of late flesh.

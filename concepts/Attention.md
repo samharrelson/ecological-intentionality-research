@@ -7,6 +7,7 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — Moving behind the trunk to escape glare makes bodily adjustment part of continued looking, while leaving the tree's condition and good unestablished.
 - [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — A familiar feature becomes newly salient and a squirrel interrupts the reflection; what attracts attention remains distinct from what explains a history.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A changed feel of bark invites further attention without making tactile acquaintance a diagnosis or another being's experience.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
