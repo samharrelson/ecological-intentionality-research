@@ -15,6 +15,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [October 27, 2026: More Than One Time](../field-notes/2026-10-27%20-%20More%20Than%20One%20Time.md) — The walnut/soil and human-microbiome comparison asks whether independently organized lives can contribute to an ecological relation without merging into one subject. Different timescales and biological dependence still do not demonstrate the *constitution of an intention*.
 - [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — The shade/screen comparison distinguishes immediate bodily responsiveness from the stronger claim about another being's independent living activity; looking comfortably and intending care require separate tests.
 - [October 25, 2026: The Branch and the Purpose](../field-notes/2026-10-25%20-%20The%20Branch%20and%20the%20Purpose.md) — A continuing intention distinguishes developmental formation, ongoing constitution, and the conditions under which care would succeed.
 - [October 24, 2026: A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) — The positive proposal of constitution without shared intention faces a specific burden: distinguish what makes care succeed from what constitutes the conscious act.
