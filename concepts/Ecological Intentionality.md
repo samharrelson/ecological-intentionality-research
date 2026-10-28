@@ -15,6 +15,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [October 28, 2026: What the Branch Leaves Open](../field-notes/2026-10-28%20-%20What%20the%20Branch%20Leaves%20Open.md) — An actual branch removal lets me distinguish my mixed purposes, the tree's possible benefit, and the stronger, unsettled question of what helped form and sustain the intention. A high trunk feature drew unplanned attention, but familiarity and motivation might already explain that change.
 - [October 27, 2026: More Than One Time](../field-notes/2026-10-27%20-%20More%20Than%20One%20Time.md) — The walnut/soil and human-microbiome comparison asks whether independently organized lives can contribute to an ecological relation without merging into one subject. Different timescales and biological dependence still do not demonstrate the *constitution of an intention*.
 - [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — The shade/screen comparison distinguishes immediate bodily responsiveness from the stronger claim about another being's independent living activity; looking comfortably and intending care require separate tests.
 - [October 25, 2026: The Branch and the Purpose](../field-notes/2026-10-25%20-%20The%20Branch%20and%20the%20Purpose.md) — A continuing intention distinguishes developmental formation, ongoing constitution, and the conditions under which care would succeed.
