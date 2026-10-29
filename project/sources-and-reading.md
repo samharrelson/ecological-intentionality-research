@@ -6,6 +6,7 @@ tags:
   - edithstein
   - MerleauPonty
   - ruyer
+  - bateson
   - vanessawatts
   - robinwallkimmerer
   - melanieharris
@@ -20,13 +21,13 @@ For a periodically updated account of how these readings are changing the argume
 
 These sources feed most directly into [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), and [Place and Agency](../concepts/Place%20and%20Agency.md).
 
-Active thinker threads in the field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
+Active thinker threads in the field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Gregory Bateson](../concepts/Gregory%20Bateson.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
 
 Focused critical and theological interlocutors with public notes: [Rajiv Kaushik](../concepts/Rajiv%20Kaushik.md) · [Bryan Smyth](../concepts/Bryan%20Smyth.md) · [Niels Henrik Gregersen](../concepts/Niels%20Henrik%20Gregersen.md). These pages distinguish active interpretations from readings still in progress.
 
 Each linked thinker page explains the work that thinker is doing, or is being asked to do, in the project. When a thinker has actually shaped a public sit, the page links to that encounter. Prospective theological or metaphysical interlocutors are marked as such rather than credited with findings the fieldwork hasn't established.
 
-Browse by tag: #brentano · #husserl · #edithstein · #MerleauPonty · #melanieharris · #ruyer · #vanessawatts · #robinwallkimmerer
+Browse by tag: #brentano · #husserl · #edithstein · #MerleauPonty · #melanieharris · #ruyer · #bateson · #vanessawatts · #robinwallkimmerer
 
 Thinker links are used selectively in sit notes only when a thinker is actually shaping, challenging, or revising the interpretation. The broader bibliography remains here even when a source has not yet earned an active role in a field note.
 
@@ -108,6 +109,10 @@ These readings are not all part of the formal Comps II contract. They are includ
 ### Newly important comparisons (October 2026)
 
 These sources sharpen two separate burdens: what late flesh adds beyond Husserl and early Merleau-Ponty, and what ecological intentionality contributes beyond already developed ecological philosophy and methods. I want to read them for their strongest objections, not as additional authorities agreeing with a theory I've already settled.
+
+**Distributed mind, living form, and intentional life**
+
+- [Bateson, Gregory](../concepts/Gregory%20Bateson.md). *Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology*. 1972. Reprint, Northvale, NJ: Jason Aronson, 1987. I read “Form, Substance, and Difference” on October 28 and am testing its tree–person–axe circuit against my October 29 sit. Printed **pp. 465–467** in this reprint are especially important for explanatory boundaries, memory, and the way mental pathways extend beyond the skin. My open question is how a participant's own living organization and possible good figure in a particular conscious intention. I can't claim relationally constituted mind as a novelty when Bateson already presents this powerful account. Different editions have different pagination; the selected excerpts are not a complete quotation audit.
 
 **Husserl, Stein, and living forms**
 
