@@ -102,7 +102,7 @@ These are propositions to investigate, not conclusions the research has already 
 
 ## Public research roadmap
 
-The inquiry now has a small [public research roadmap](RESEARCH-ROADMAP.md) supported by six [open GitHub issues](https://github.com/samharrelson/ecological-intentionality-research/issues). They track the strongest questions and competing explanations around Husserl, late Merleau-Ponty, creaturely individuality, Bateson's ecological learning, the Ecology of the Cross, and field-method evidence. Each issue states what would count as progress or a meaningful objection, rather than assuming the proposed theory will succeed.
+Follow the [Ecological Intentionality research board](https://github.com/users/samharrelson/projects/1/views/4) for the visual overview of six open philosophical, theological, and methodological questions. The accompanying [public research roadmap](RESEARCH-ROADMAP.md) explains the workstreams and evidence standards, and the [GitHub issues](https://github.com/samharrelson/ecological-intentionality-research/issues) contain the substantive arguments, competing explanations, possible defeaters, and public sources. The board tracks inquiry and revision, not proof of a predetermined conclusion.
 
 The roadmap is a transparent companion to the curated field notes and argument history. It is **not** a mirror of my private research notebook or a second daily task list.
 
