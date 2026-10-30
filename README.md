@@ -37,26 +37,68 @@ The public workflow is:
 
 Ecological intentionality began as a name for a disciplined form of creaturely attention: attending to another being as relationally given, irreducibly other, and never exhausted by its appearance within human experience.
 
-Two independent questions now organize the research:
+The inquiry has since moved toward a more ambitious constructive question. I am developing ecological intentionality as a positive philosophical proposal about how conscious directedness emerges, develops, and changes within relations among differently organized beings whose activities, histories, and goods cannot be reduced to the purposes of the perceiver.
 
-1. **Late flesh:** What, if anything, does Merleau-Ponty's late ontology of flesh explain beyond Husserl's account of embodiment and intentionality and Merleau-Ponty's earlier phenomenology?
-2. **Ecological intentionality:** Even if late flesh makes a distinctive ontological contribution, what additional explanatory or methodological work remains for ecological intentionality beyond established phenomenological and ecological approaches?
+The distinction I am investigating is not only between being *conscious of an ecology* and being *ecologically constituted*. It is also between recognizing that our intentions are influenced by relationships and explaining how those relationships participate in the formation and realization of particular conscious intentions.
 
-Four outcomes remain possible: a distinct structure, a distinctive education or configuration of existing capacities, a methodological orientation, or relinquishing the term if it proves redundant. The Black Walnut Field Notes help test those possibilities; they do not settle them.
+This proposal is not yet an established philosophical structure. It must be tested against existing accounts of intentionality, embodiment, learning, and relational constitution.
 
-Current work is especially concerned with:
+### Two independent philosophical questions
 
-- the difference between perceptual unity, organismic unity, ecological belonging, and ethical harmony
-- Husserlian embodiment and tactile doubling
-- Edith Stein on empathy, non-primordiality, living form, and proper good
-- Merleau-Ponty on flesh, reversibility, noncoincidence, and *écart*
-- Melanie Harris on ecowomanism, history, justice, and praxis
-- Robin Wall Kimmerer and Vanessa Watts as constraints on generic relationality
-- the methodological rule that stronger claims require additional evidence
+1. **Late flesh:** What, if anything, does Merleau-Ponty's late ontology of flesh explain beyond Husserl's layered account of intentionality, embodiment, passive synthesis, and intersubjectivity, and beyond Merleau-Ponty's earlier phenomenology?
+2. **Ecological intentionality:** What positive account of conscious directedness, if any, is needed when intentional life is understood as developing within relationships among beings with their own forms of organization, activity, and potentially conflicting goods? What does such an account explain that Husserl, Stein, Merleau-Ponty, Bateson, Ruyer, process philosophy, and existing ecological approaches do not already explain?
 
-A working formulation emerging from the field notes is:
+These questions are related, but answering the first does not establish the second.
+
+### Where the fieldwork is taking the argument
+
+The Black Walnut Field Notes have become a recurring test of these questions. The encounters distinguish what is perceptually given, what is inferred through biological or historical knowledge, what is remembered or anticipated, and what remains inaccessible.
+
+The October 2026 sits have introduced another question: whether sustained relationship with the walnut is reorganizing how I encounter beings and situations beyond the backyard, including other humans.
+
+This is not merely a claim about acquiring more information or developing environmental concern. It concerns possible changes in perceptual salience, anticipation, responsiveness, and what I come to intend or become willing to revise.
+
+But those changes may already be explained by Husserlian motivation and habituality, Merleau-Ponty's embodied perception, or Bateson's ecological learning and distributed mental processes. The research must distinguish developmental influence, participation in an ongoing intentional act, and the normative adequacy of an action. None can be assumed from the others.
+
+### Current philosophical interlocutors
+
+The central conversation includes:
+
+- **Edmund Husserl:** Intentionality, constitution, passive synthesis, embodiment, motivation, and the horizons of experience.
+- **Edith Stein:** Empathy, non-primordiality, living form, creaturely individuality, and the limits of knowing another's life.
+- **Maurice Merleau-Ponty:** Embodiment, flesh, chiasm, reversibility, *écart*, and the relationship between early phenomenology and late ontology.
+- **Gregory Bateson:** Distributed mind, ecological circuits, memory, recursive learning, and the boundaries of individual mental processes.
+- **Raymond Ruyer:** Organismic form, immanent organization, absolute survey, and the relationship between self-relation and living activity.
+- **Whiteheadian and process phenomenology:** Whether relational becoming and process already account for what ecological intentionality proposes.
+- **Indigenous relational thought, ecowomanism, and ecological theology:** Vanessa Watts, Robin Wall Kimmerer, Melanie Harris, and others challenge accounts that begin with a detached human perceiver or overlook the historical, political, and material conditions of ecological relations.
+
+Recent work on the plurality of nonhuman experiential worlds further complicates these questions. Ecological belonging does not establish shared phenomenal consciousness, and biological organization does not, by itself, establish an experiential world.
+
+### A developing theological companion
+
+Alongside this philosophical inquiry, *The Ecology of the Cross* is being developed as an affirmative theology of creaturely participation.
+
+Its central question is how incarnation, crucifixion, and resurrection might illuminate forms of communion that neither erase creaturely difference nor reduce vulnerable lives to instruments of another's purposes.
+
+This theological proposal requires its own Christological, scriptural, and historical arguments. It cannot be established through ecological observation alone, nor should ecological interdependence be confused with redemption.
+
+### What remains unresolved
+
+Ecological intentionality may ultimately identify a distinct structure of intentional relation, offer a constructive account of existing structures, clarify a transformative configuration of intentional capacities, or prove unnecessary as a separate category.
+
+The inquiry does not assume its own novelty.
+
+Its current task is to formulate a defensible positive proposition, identify what would distinguish it from rival accounts, and allow fieldwork and textual evidence to revise or defeat it.
+
+Two working formulations remain important:
 
 > **Difference need not mean separation; belonging need not mean coincidence.**
+
+And:
+
+> **Ecological intentionality does not begin by asking how consciousness possesses the world, but how consciousness comes to be through relations with a world it can never possess.**
+
+These are propositions to investigate, not conclusions the research has already secured.
 
 ## Repository structure
 
