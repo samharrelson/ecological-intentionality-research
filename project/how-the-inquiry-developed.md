@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated October 21, 2026*
+*Research-development archive · Begun September 2026 · Last updated October 30, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,14 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## October 30: A changed action outside the backyard
+
+After the October 24 turn toward an affirmative philosophical proposition, I've been trying to find a situation that makes the claim more answerable to experience. In [the October 30 sit](../field-notes/2026-10-30%20-%20What%20Falls%20and%20What%20Carries%20Forward.md), yellowing leaves, a nearby squirrel, and falling acorns interrupted my attention under the walnut. But a different kind of occurrence stands out: I recalled easing back when another driver entered my lane that morning, while attending to that person's circumstances as well as to my children's safety. It felt like a changed response, one I began to associate with the repeated walnut encounters. That association is an interpretation, not an independently demonstrated cause.
+
+I want to preserve this as a better question, not as proof. Husserlian motivation and habit, Merleau-Ponty's embodied orientation, and Bateson's ecological circuits and memory can all explain changes in directed action. Simon P. James's newly published account of experiential worlds also warns me not to infer another being's felt life or moral worth just because the being belongs to a plural ecology. Andrew Kirkpatrick's process interpretation of Merleau-Ponty challenges an easy early/late rupture. The philosophical work is now to articulate what the walnut's own continuing life contributes to my later intention, and what would distinguish that contribution from learning, prior commitments, or ordinary caution.
+
+At the same time, I've begun pressing *The Ecology of the Cross* to say something affirmative about creaturely participation, rather than becoming a theological name for ethical mindfulness. The possibility of transformed communal purposes needs distinct Christological reasoning and actual institutional evidence. The falling leaves do not establish resurrection; and the road episode does not establish kenosis. These are two constructive arguments still under development, not illustrations that settle them.
 
 ---
 

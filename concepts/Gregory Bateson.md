@@ -17,6 +17,7 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [October 30, 2026: What Falls and What Carries Forward](../field-notes/2026-10-30%20-%20What%20Falls%20and%20What%20Carries%20Forward.md). Interruptions in the yard and a disposition carried into later situations need different explanations; Bateson's inclusion of memory prevents treating transfer itself as a counterexample.
 - [October 29, 2026: What the Leaves Change](../field-notes/2026-10-29%20-%20What%20the%20Leaves%20Change.md). I distinguish attention captured by falling leaves, the choice to refrain from touching nearby leaves, and my reported changes across other encounters. They need different explanations, and Bateson is one of my strongest rivals.
 
 Browse: #bateson
