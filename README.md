@@ -104,7 +104,7 @@ These are propositions to investigate, not conclusions the research has already 
 
 Follow the [Ecological Intentionality research board](https://github.com/users/samharrelson/projects/1/views/4) for the visual overview of seven open philosophical, theological, and methodological questions, including the problem of preserving failure and argumentative revision as reusable scholarship. The accompanying [public research roadmap](RESEARCH-ROADMAP.md) explains the workstreams and evidence standards, and the [GitHub issues](https://github.com/samharrelson/ecological-intentionality-research/issues) contain the substantive arguments, competing explanations, possible defeaters, and public sources. The board tracks inquiry and revision, not proof of a predetermined conclusion.
 
-The roadmap is a transparent companion to the curated field notes and argument history. It is **not** a mirror of my private research notebook or a second daily task list.
+The roadmap is a transparent companion to the curated field notes and argument history. Its [seventh question](https://github.com/samharrelson/ecological-intentionality-research/issues/7) asks whether versioned records of abandoned arguments, defeated interpretations, and changes of warrant can become reusable scholarly evidence. It is **not** a mirror of my private research notebook or a second daily task list.
 
 ## Repository structure
 
