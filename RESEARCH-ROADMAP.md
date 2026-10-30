@@ -2,7 +2,7 @@
 
 *Opened October 30, 2026. An evolving set of philosophical and theological questions, not a schedule of conclusions.*
 
-This roadmap accompanies the [Black Walnut Field Notes](https://ecologicalintentionality.org), the [current inquiry](project/where-the-inquiry-stands.md), and the [dated research history](project/how-the-inquiry-developed.md). It presents a small set of **public research problems** that readers can follow, discuss, and see revised as the work develops.
+This roadmap accompanies the [visual research board](https://github.com/users/samharrelson/projects/1/views/4), the [Black Walnut Field Notes](https://ecologicalintentionality.org), the [current inquiry](project/where-the-inquiry-stands.md), and the [dated research history](project/how-the-inquiry-developed.md). It presents a small set of **public research problems** that readers can follow, discuss, and see revised as the work develops. The board is a navigational view; the issues contain the full research questions and source links.
 
 The ongoing inquiry asks whether consciousness can be understood as taking form through relations among differently organized beings with independent histories and goods, without assuming that ecological intentionality is a new category or that phenomenology cannot already explain it. In parallel, *The Ecology of the Cross* asks a distinct constructive theological question about incarnation, crucifixion, resurrection, and creaturely participation.
 
