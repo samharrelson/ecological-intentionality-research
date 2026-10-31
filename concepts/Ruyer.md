@@ -23,6 +23,7 @@ Browse: #ruyer
 
 ## From the sits
 
+- [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I watch an organism changing through falling foliage while questioning what, if anything, Ruyer's account of temporally organized primary form adds beyond my perceptual synthesis and botanical knowledge.
 - [October 28, 2026: What the Branch Leaves Open](../field-notes/2026-10-28%20-%20What%20the%20Branch%20Leaves%20Open.md) — A removed branch distinguishes visible arrangement, living membership, and the unverified benefit of an intervention.
 - [October 27, 2026: More Than One Time](../field-notes/2026-10-27%20-%20More%20Than%20One%20Time.md) — Continuing formation and component individuality sharpen the temporal question without turning soil coordination into one subject.
 - [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — Continuing formation and the relation between whole and component individuality sharpen the burden on ecological co-constitution without establishing a unified tree–observer subject.

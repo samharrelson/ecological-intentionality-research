@@ -18,6 +18,7 @@ Browse: #husserl
 
 ## From the sits
 
+- [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I experience the yellow canopy with a remembered greener past and an anticipated bare future. Husserl's sensuous synthesis, temporal horizon, and motivated attention already explain much of this without treating my sadness as knowledge of the tree's experience.
 - [October 24, 2026: A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) — Practical surroundings, valuation, and motivation offer a strong account of an intention to care; a change in belief can explain the replica comparison.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Changed visibility and a question about living membership remain compatible with bodily horizons and motivated inquiry; no new intentional structure is established.
 - [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — A remembered pruning event narrows one historical question; motivation, investigation, and practical judgment remain distinct from establishing biological consequences.
