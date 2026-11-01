@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated October 31, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 1, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,16 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 1: from an intention to an enacted and revisable purpose
+
+This morning's [After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) begins November with an enacted action rather than a contemplated one. I took the swing down on October 31, mainly out of concern for the walnut. Today I saw indented, smoother bark at places I remember the straps hanging. I cannot infer damage to living tissue or improvement in the tree's health from those marks, and they were noticed *after* the removal, not used as evidence before my decision.
+
+A remembered spider's web complicates the account in a productive way. Earlier in October I delayed removing the swing to avoid disturbing a spider and its web. When I later found the web absent, I decided the time had come. I don't know what became of the spider. What I can describe is **care becoming specific through several independently living others**, not a single good that made the correct action obvious from the start.
+
+**My affirmative philosophical proposal for November is the ecological specification and revisability of intentional ends:** a familiar human purpose can acquire or change its practical content through encounters with other lives that neither share nor exist for that purpose. I want to explain the process by which concerns become decisions, including waiting, doing, and remaining open to correction. I must still distinguish a transformed end from a more specific end or new means, and develop how this relates to the *realization* of intentional activity. Rival theories of agency and ecological learning will test a positive explanation rather than indefinitely defer it.
+
+All Saints' Day also sharpens my distinct theological proposal: in the *Ecology of the Cross*, I am arguing that communion in Christ may require a community to reconsider **what** it seeks in the presence of neighbors and living places it cannot possess. That claim needs its own Christian textual and ecclesial warrants, not confirmation by a tree's bark. The dated [public theological working thesis](https://github.com/samharrelson/ecological-intentionality-research/issues/5) remains an opening argument, not a completed proof.
 
 ## The October 24 turn: From description to a proposition
 

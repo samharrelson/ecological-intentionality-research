@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — The walnut and an earlier spider's web challenge my tendency to assume that another life is exhausted by my purpose for its surroundings. Stein helps distinguish living individuality and my inferential access from the other being's unavailable experience.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I recognize the walnut through changing foliage, but Stein's stronger account of formation from within and the limits of access to another life must not be equated with what the canopy lets me see.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Two branches' organic membership and remembered fruiting raise questions for Stein's differentiated living form without implying direct access to vegetal interiority or flourishing.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Touching bark does not supply the tree's first-person experience or its individual organismic good.

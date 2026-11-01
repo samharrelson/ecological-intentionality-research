@@ -9,6 +9,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — I see bark contours at remembered strap positions after removing the swing, and recall delaying removal for a spider's web. Organismic condition, actual injury, and my intention to care remain distinct; several living goods can make action and waiting consequential in different ways.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Two differently oriented branches and remembered fruiting invite inquiry into this tree's development without supplying a diagnosis of its condition.
 - [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A visible, tangible knot raises a real question about this organism's history without disclosing its cause.
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
