@@ -7,6 +7,7 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — A brighter closing view changes what can be seen through the canopy; increased visibility cannot be attributed entirely to leaf loss.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — Falling foliage and a changed view of the sky distinguish present looking, remembered canopy, and anticipated absence.
 - [October 30, 2026: What Falls and What Carries Forward](../field-notes/2026-10-30%20-%20What%20Falls%20and%20What%20Carries%20Forward.md) — Leaves, a squirrel, and acorns redirect attention; the formation of a disposition across encounters requires a different timescale and test.
 - [October 29, 2026: What the Leaves Change](../field-notes/2026-10-29%20-%20What%20the%20Leaves%20Change.md) — Falling leaves interrupt intended looking; withholding touch is a separate choice under uncertain belief, while changed habits elsewhere remain a broader report to explain.

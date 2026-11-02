@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 1, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 2, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,16 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 2: constructing what care becomes
+
+Today's [What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) continues the affirmative November account without claiming a new structure every day. Returning to the swing's former attachment points, I can still see smoother areas of bark, but I cannot derive a diagnosis from them. The increasingly exposed upper canopy also looks different as the gray sky gives way to brighter light. I cannot attribute every change in what I see to foliage falling.
+
+A new practical question arises from an old habit. I tend to leave fallen walnut foliage near the tree, intending it as care. But **the fact that a practice feels caring does not establish its benefit to this organism**. The positive philosophical task is to describe how a purpose acquires more determinate content through inquiry into the different lives affected by it, including when new knowledge calls for revising the action or the purpose itself.
+
+[Stein's](../concepts/Edith%20Stein.md) gardener already moves from recognizing plant life toward investigating and influencing its conditions. [Hal King's](../concepts/Hal%20King.md) contemporary interpretation develops that practical account. This makes the constructive question more demanding, not less worthwhile: I need to explain how several independently living beings can help specify the *particular* purposes, delays, and revisions that become mine, while distinguishing those changes from ordinary deliberation or adjustment of means. The philosophical claim is under construction; its necessity is not yet demonstrated.
+
+My parallel theological proposal remains affirmative but independently answerable to Christian texts and to actual communities: communion in Christ may challenge not only a congregation's methods but its assumed ends. Today's thoughts about church grounds suggest a possible institutional inquiry, not an ecological inventory or a justified recommendation about trees or land use.
 
 ## November 1: from an intention to an enacted and revisable purpose
 

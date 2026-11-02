@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated October 30, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 2, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,26 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 2: constructive refinement through a stronger prior explanation
+
+In [What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md), my familiar practice of leaving fallen walnut foliage near the tree becomes a question rather than an already justified act of care. The yellowing canopy, exposed branching, different root and trunk textures, and lingering swing marks are things I can describe; their causal histories and consequences need separate investigation. The sky's brightening near the end changes what I can see without establishing how much additional foliage fell.
+
+This sit also produces an important **source-led correction** to how I have framed the philosophical contribution. Edith Stein's gardener, in *On the Problem of Empathy*, already apprehends a plant's condition, searches for its causes, and finds ways to influence it. [Hal King's](../concepts/Hal%20King.md) 2026 reading carries this into a practical account of propagation, soil, water, sunlight, and plant vulnerability. **Moving from recognizing vegetal life to caring action therefore cannot, by itself, be my claimed novelty.** I retain the affirmative proposal of ecological intentionality, now specifying what it would have to explain: how several independently living beings make particular purposes, delays, interventions, and corrections consequential without sharing a common intention.
+
+The revision is preserved as a positive research advance rather than hidden as a failed formulation. Existing accounts have clarified the explanandum. In the theological strand, I also began exploring a congregation's actual land-use purposes as a future case for *communion without possession*, without treating an impression of the church grounds as an ecological survey.
+
+---
+
+## November 1: from imagining care to choosing and revising an action
+
+On All Saints' Day, [After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) records something the earlier sits could only anticipate. I had removed the family's swing from the black walnut on October 31, mainly out of concern for the tree. When I returned to look at the branch on November 1, I saw smoother, indented areas at the places I remember the straps hanging. I cannot tell from these visible marks whether tissue was injured or whether removal improved the tree's condition. Their appearance also cannot be made the prior evidence for an action already taken.
+
+An earlier encounter complicates the history of the choice. When I had considered removing the swing in October, I noticed a spider's web attached to a strap and delayed the work out of concern for its inhabitant. After the web was no longer visible, I decided the time had come to act. I don't know what became of the spider. The new philosophical question is not merely whether I care about more than one being, but **how independently living beings make the content, timing, restraint, and later reconsideration of a human intention more determinate**. Neither needed to share my intention to matter to its development.
+
+My affirmative November proposal is that ecological intentionality may describe the specification and revision of practical ends through relations with beings whose lives are not ordered toward mine. That gives the argument a process to explain: established human use; recognition of living others; a reason to wait; a later choice and action; and renewed ecological inquiry after the action. The process might turn out to be an ordinary modification of means within a stable purpose of care, and existing theories of practical intention and ecological learning remain formidable. But November's task is to **construct the strongest explanation first**, then find out what revises or defeats it. In parallel, *The Ecology of the Cross* asks whether participation in Christ can transform a congregation's very purposes, a distinct theological proposal that requires scriptural and communal evidence rather than proof from the swing.
+
+---
 
 ## October 30: A changed action outside the backyard
 
