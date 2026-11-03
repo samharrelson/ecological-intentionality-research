@@ -17,11 +17,11 @@ The sections below distinguish three roles: foundational readings from my first 
 
 For a periodically updated account of how these readings are changing the argument, see [Where the Inquiry Stands](where-the-inquiry-stands.md).
 
-**Browse:** [Foundations](#foundations-comps-i) · [Current work](#current-work-comps-ii) · [Recent comparisons](#newly-important-comparisons-october-2026) · [Place and reciprocity](#place-agency-reciprocity) · [How I use these sources](#a-note-on-use)
+**Browse:** [Foundations](#foundations-comps-i) · [Current work](#current-work-comps-ii) · [November construction](#november-2026-building-the-affirmative-account) · [October comparisons](#newly-important-comparisons-october-2026) · [Place and reciprocity](#place-agency-reciprocity) · [How I use these sources](#a-note-on-use)
 
 These sources feed most directly into [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Attention](../concepts/Attention.md), [Remainder](../concepts/Remainder.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md), and [Place and Agency](../concepts/Place%20and%20Agency.md).
 
-Active thinker threads in the field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Gregory Bateson](../concepts/Gregory%20Bateson.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
+Active thinker threads in the field notes and reading archive: [Franz Brentano](../concepts/Franz%20Brentano.md) · [Edmund Husserl](../concepts/Husserl.md) · [Edith Stein](../concepts/Edith%20Stein.md) · [Maurice Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md) · [Melanie Harris](../concepts/Melanie%20Harris.md) · [Raymond Ruyer](../concepts/Ruyer.md) · [Gregory Bateson](../concepts/Gregory%20Bateson.md) · [Hal King](../concepts/Hal%20King.md) · [Vanessa Watts](../concepts/Vanessa%20Watts.md) · [Robin Wall Kimmerer](../concepts/Robin%20Wall%20Kimmerer.md).
 
 Focused critical and theological interlocutors with public notes: [Rajiv Kaushik](../concepts/Rajiv%20Kaushik.md) · [Bryan Smyth](../concepts/Bryan%20Smyth.md) · [Niels Henrik Gregersen](../concepts/Niels%20Henrik%20Gregersen.md). These pages distinguish active interpretations from readings still in progress.
 
@@ -72,7 +72,7 @@ The primary outcome of this first stage was an account of ecological intentional
 
 ## Current work: Comps II
 
-The second comprehensive examination now puts two questions under separate pressure: what late Merleau-Ponty's ontology of flesh explains beyond Husserl and early Merleau-Ponty, and what, if anything, ecological intentionality contributes beyond those resources and existing ecological inquiry. Questions of creaturely difference, participation, place, history, and accountability matter to both tests, but none settles them in advance.
+The second comprehensive examination now develops two distinct affirmative tasks while keeping rival explanations in view: what late Merleau-Ponty's ontology of flesh positively explains beyond Husserl and early Merleau-Ponty, and what ecological intentionality might explain about the formation, realization, and correction of purposes within relations with other living beings. Creaturely difference, participation, place, history, and accountability matter to both, but none settles their originality in advance. November's constructive work starts by stating a positive mechanism and its implications before turning to the strongest competing account.
 
 ### Constitution, embodiment, and otherness
 
@@ -105,6 +105,22 @@ These texts matter because perceptual attention cannot by itself establish the h
 ## Adjacent conversations
 
 These readings are not all part of the formal Comps II contract. They are included because they are actively challenging, extending, or clarifying the public concepts that emerge from the sits. The selections below are **reading priorities and possible objections**, not a claim that I've completed every text or that its argument has already survived close examination.
+
+### November 2026: building the affirmative account
+
+As November begins, I'm moving from identifying conceptual possibilities to writing a positive account of **how the purposes of consciousness become more determinate in relations with several independently living beings**. The swing, spider's web, and walnut leaf litter raise different questions about an adopted end, delaying action, and allowing biological knowledge to revise what I take good care to require. No single observation proves a novel form of consciousness.
+
+**Current readings that directly shape the construction:**
+
+- [Edmund Husserl](../concepts/Husserl.md), *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book: Studies in the Phenomenology of Constitution*, translated by Richard Rojcewicz and André Schuwer (Kluwer, 1989), especially **§50**, on the person in a surrounding world of value, use, products, and works. My November 3 artificial-tree comparison takes this as a strong existing account of why made things have meaning beyond their material properties. A selected primary passage has been checked in the connected research collection; verify the printed page before quoting it in a paper.
+- [Edith Stein](../concepts/Edith%20Stein.md), *On the Problem of Empathy*, III.5(i), with particular attention to the gardener who apprehends a plant's condition, investigates its causes, and acts upon that understanding. The 1989 ICS Publications edition used in my connected research collection has relevant pages 68–71; other editions may differ.
+- [Hal King](../concepts/Hal%20King.md), “[Propagating Plant Empathy with Edith Stein](https://doi.org/10.3197/whppp.63876246815941)” (*Plant Perspectives*, 2026). King extends Stein's resources through plant propagation and situated care; recognizing a plant and moving toward intervention cannot automatically be my claimed philosophical innovation. Selected sections have been checked; the full critical reading remains open.
+- John J. Drummond, chapter 25 on deliberating, choosing, and acting in Christopher Erhard and Tobias Keiling, eds., [*The Routledge Handbook of Phenomenology of Agency*](https://www.routledge.com/link/link/p/book/9781315104249) (Routledge, 2020), 376–87. This is a valuable account of deliberation, the adoption of ends, and action. **Bibliographic note:** the connected PDF's contents and the publisher website give the chapter title in different word orders; I will reconcile the precise printed title and edition before quoting it. The assigned full chapter reading remains open.
+- [Gregory Bateson](../concepts/Gregory%20Bateson.md), “Form, Substance, and Difference,” on memory and circuits extending beyond the human body. This is a substantial resource for understanding situated learning, not a shortcut to shared phenomenal consciousness.
+
+**A parallel theological reading task** is to articulate *the Ecology of the Cross* as an affirmative theology of participation in Christ that can transform a congregation's purposes, not merely refine its techniques. Philippians 2, Colossians 1, Romans 8, and 1 Corinthians 15 are distinct biblical warrants requiring close exegesis, not proofs supplied by the walnut.
+
+[Current inquiry](where-the-inquiry-stands.md) · [November 3 field sit](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) · [November 2 field sit](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) · [Working philosophical proposal](../concepts/Ecological%20Intentionality.md)
 
 ### Newly important comparisons (October 2026)
 

@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — The gardener's practical apprehension supplies a constructive precedent; the further question concerns whose good specifies a purpose and what could correct its claim to be care.
 - [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — Stein's gardener already moves from apprehending a plant's condition to causal inquiry and intervention. [Hal King's](Hal%20King.md) practical reading sharpens the question of what an account of plural, revisable purposes would add.
 - [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — The walnut and an earlier spider's web challenge my tendency to assume that another life is exhausted by my purpose for its surroundings. Stein helps distinguish living individuality and my inferential access from the other being's unavailable experience.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I recognize the walnut through changing foliage, but Stein's stronger account of formation from within and the limits of access to another life must not be equated with what the canopy lets me see.

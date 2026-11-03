@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 2, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 3, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,16 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 3: whose good specifies a purpose?
+
+In [A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md), the affirmative proposal gains a more useful distinction. The same bodily action can be performed under different practical descriptions. Removing a swing *to clear space* and removing it *for the walnut's possible good* may look alike but have different intended beneficiaries and different conditions under which the action could count as successful. I can sincerely intend to care without demonstrating that the tree benefited.
+
+A hypothetical manufactured walnut complicates the comparison. I could still care for a known artificial model, because it was made by someone I love and therefore matters as a cultural work. That is not a biological good possessed by the model. [Husserl's](../concepts/Husserl.md) account of value, use, and human works in *Ideas II* §50 already helps explain that relation. [Stein](../concepts/Edith%20Stein.md) and [King](../concepts/Hal%20King.md) likewise provide substantive accounts of practical concern for living plants. The philosophical question now is whether **a particular organism's independently unfolding life helps determine the content and continuing adequacy of an intention** in a way that extends rather than relabels these established resources.
+
+This gives me an affirmative structure to develop: practical end, intended beneficiary, action or deliberate restraint, conditions of success, and later correction. It does **not** yet show that the living tree constitutes an individual episode of human consciousness. The narrower account of purpose specification may be productive even if the stronger thesis proves unnecessary.
+
+The Ecology of the Cross advances as a **distinct** theological proposal: participation in Christ can require a community to ask whose good its mission serves and whether the mission's very ends need to change. That cannot be deduced from my walnut practice. It needs scriptural warrants and independently documented communal decisions. A private recollection this morning suggests a possible future institutional comparison, but no new public case is claimed here.
 
 ## November 2: constructing what care becomes
 

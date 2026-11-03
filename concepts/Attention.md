@@ -7,6 +7,7 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — Thinner leaf cover, a quieter position, and newly salient branch shapes distinguish changed visibility, practical adjustment, and a changed question brought to the encounter.
 - [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — A brighter closing view changes what can be seen through the canopy; increased visibility cannot be attributed entirely to leaf loss.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — Falling foliage and a changed view of the sky distinguish present looking, remembered canopy, and anticipated absence.
 - [October 30, 2026: What Falls and What Carries Forward](../field-notes/2026-10-30%20-%20What%20Falls%20and%20What%20Carries%20Forward.md) — Leaves, a squirrel, and acorns redirect attention; the formation of a disposition across encounters requires a different timescale and test.

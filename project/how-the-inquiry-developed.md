@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 2, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 3, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,18 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 3: what care is for
+
+In [A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md), a proposed artificial-tree comparison changed during the recording. Learning that a model is artificial would not necessarily end my concern for it: a made object can matter through its maker, use, and history. That requires the positive ecological account to distinguish *the kind of good served*, not just the persistence of care.
+
+I now want to explain a practical end through its **intended beneficiary, bodily performance, and conditions of success or correction**. Removing a swing for convenience might achieve its purpose without benefiting the living walnut. The tree's health and the actual effects of removal are independent matters for ecological investigation. Conversely, caring for a known handmade artifact may fulfill a cultural or relational purpose without treating the artifact as an organism.
+
+This revision moves the argument forward by making a stronger pre-existing explanation central to its construction. Husserl's *Ideas II* §50 already shows that human works, use, and value can motivate action in a personal surrounding world. Stein and King provide practical plant empathy. A new label is unnecessary merely to recognize their combined reach. The affirmative possibility still to be tested is whether the **independent lives of several beneficiaries** help specify and correct what I am actually intending, beyond what established accounts already explain.
+
+In the theological strand, the corresponding question is whose lives a congregation means to serve and how its understanding of those purposes might change. That is an ecclesial and Christological proposition requiring separate scriptural and empirical warrants, not a conclusion demonstrated by this field sit.
+
+---
 
 ## November 2: constructive refinement through a stronger prior explanation
 
