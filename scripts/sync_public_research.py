@@ -38,6 +38,14 @@ EXACT_FILES = {
     Path("Public/Tracking/Sources & Reading.md"): Path("project/sources-and-reading.md"),
     Path("Public/Tracking/About the Practice.md"): Path("method/about-the-practice.md"),
     Path("Public/Tracking/Sit Template.md"): Path("method/sit-template.md"),
+    # Only intentionally approved, already-public essays are exported.
+    # Two names for the same essay support its upcoming shorter sidebar name.
+    # A collision guard below refuses both names existing simultaneously.
+    Path("Public/Tracking/Essays/Essays.md"): Path("essays/README.md"),
+    Path("Public/Tracking/Essays/Consciousness in a World We Cannot Possess.md"): Path("essays/consciousness-in-a-world-we-cannot-possess.md"),
+    Path("Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md"): Path("essays/whose-good.md"),
+    Path("Public/Tracking/Essays/Whose Good.md"): Path("essays/whose-good.md"),
+    Path("Public/Tracking/Essays/Whose Good?.md"): Path("essays/whose-good.md"),
 }
 
 FOLDER_MAP = {
@@ -82,10 +90,14 @@ def strip_publish_frontmatter(text: str) -> str:
 
 def iter_source_pairs(vault: Path):
     """Yield (source_path, source_relative_path, repo_destination_relative_path)."""
+    emitted_destinations = set()
     for rel, dest in EXACT_FILES.items():
         src = vault / rel
         if src.exists():
             assert_safe_source(rel)
+            if dest in emitted_destinations:
+                raise RuntimeError(f"Multiple approved sources map to {dest}; resolve the renamed essay duplicate")
+            emitted_destinations.add(dest)
             yield src, rel, dest
 
     for source_rel, dest_dir in FOLDER_MAP.items():
@@ -95,7 +107,11 @@ def iter_source_pairs(vault: Path):
         for src in sorted(src_dir.glob("*.md")):
             rel = src.relative_to(vault)
             assert_safe_source(rel)
-            yield src, rel, dest_dir / src.name
+            dest = dest_dir / src.name
+            if dest in emitted_destinations:
+                raise RuntimeError(f"Multiple public sources map to {dest}")
+            emitted_destinations.add(dest)
+            yield src, rel, dest
 
 
 def normalize_wiki_target(target: str) -> tuple[str, str | None]:
