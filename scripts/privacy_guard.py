@@ -7,7 +7,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(sys.argv[1] if len(sys.argv) > 1 else ".").resolve()
-SCAN_DIRS = ["field-notes", "concepts", "project", "method", "docs"]
+SCAN_DIRS = ["field-notes", "concepts", "essays", "project", "method", "docs"]
 
 # Structural/path-like leak indicators, not ordinary methodological prose.
 BLOCKED_PATTERNS = {
