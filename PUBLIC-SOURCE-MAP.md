@@ -8,6 +8,9 @@ This file documents the only Obsidian sources that the automated exporter is all
 | --- | --- |
 | `Public/Tracking/Sits/*.md` | `field-notes/` |
 | `Public/Tracking/Concepts/*.md` | `concepts/` |
+| `Public/Tracking/Essays/Essays.md` | `essays/README.md` |
+| `Public/Tracking/Essays/Consciousness in a World We Cannot Possess.md` | `essays/consciousness-in-a-world-we-cannot-possess.md` |
+| `Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md` | `essays/whose-good.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |
