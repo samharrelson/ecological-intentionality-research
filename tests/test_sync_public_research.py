@@ -2,6 +2,7 @@
 import importlib.util
 import unittest
 from pathlib import Path
+from tempfile import TemporaryDirectory
 
 ROOT = Path(__file__).resolve().parents[1]
 spec = importlib.util.spec_from_file_location(
@@ -29,6 +30,56 @@ class ExportTests(unittest.TestCase):
             exporter.EXACT_FILES[Path("Public/Tracking/How the Inquiry Developed.md")],
             Path("project/how-the-inquiry-developed.md"),
         )
+
+    def test_essays_are_explicitly_allowlisted_not_a_whole_folder(self):
+        self.assertNotIn(Path("Public/Tracking/Essays"), exporter.FOLDER_MAP)
+        self.assertEqual(
+            exporter.EXACT_FILES[Path("Public/Tracking/Essays/Essays.md")],
+            Path("essays/README.md"),
+        )
+        self.assertEqual(
+            exporter.EXACT_FILES[Path("Public/Tracking/Essays/Whose Good?.md")],
+            Path("essays/whose-good.md"),
+        )
+
+    def test_essay_links_preserved_when_filename_shortens(self):
+        cases = (
+            "Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md",
+            "Public/Tracking/Essays/Whose Good.md",
+            "Public/Tracking/Essays/Whose Good?.md",
+        )
+        for relative in cases:
+            with TemporaryDirectory() as tmp:
+                vault = Path(tmp)
+                (vault / relative).parent.mkdir(parents=True, exist_ok=True)
+                (vault / relative).write_text("A published draft", encoding="utf-8")
+                pairs = list(exporter.iter_source_pairs(vault))
+                self.assertEqual(len(pairs), 1)
+                self.assertEqual(pairs[0][2], Path("essays/whose-good.md"))
+                full, titles = exporter.build_public_index(pairs)
+                normalized = exporter.normalize(
+                    "[[Public/Tracking/Essays/" + Path(relative).stem + "|Read essay]]",
+                    Path("project/where-the-inquiry-stands.md"), full, titles,
+                )[0]
+                self.assertIn("[Read essay](../essays/whose-good.md)", normalized)
+
+    def test_renamed_essay_duplicate_fails_closed(self):
+        with TemporaryDirectory() as tmp:
+            vault = Path(tmp)
+            parent = vault / "Public" / "Tracking" / "Essays"
+            parent.mkdir(parents=True)
+            (parent / "Whose Good.md").write_text("one", encoding="utf-8")
+            (parent / "Whose Good?.md").write_text("two", encoding="utf-8")
+            with self.assertRaises(RuntimeError):
+                list(exporter.iter_source_pairs(vault))
+
+    def test_undesignated_essay_is_not_exported(self):
+        with TemporaryDirectory() as tmp:
+            vault = Path(tmp)
+            parent = vault / "Public" / "Tracking" / "Essays"
+            parent.mkdir(parents=True)
+            (parent / "Future private draft.md").write_text("private", encoding="utf-8")
+            self.assertEqual(list(exporter.iter_source_pairs(vault)), [])
 
     def test_same_page_navigation_and_cross_page_links(self):
         result = self.render(
