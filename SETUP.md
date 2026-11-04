@@ -4,7 +4,7 @@ The public website is [ecologicalintentionality.org](https://ecologicalintention
 
 ## Source and privacy boundary
 
-Only explicitly mapped public pages and the curated `Public/Tracking/Sits` and `Concepts` folders may enter the GitHub export. See [PUBLIC-SOURCE-MAP.md](PUBLIC-SOURCE-MAP.md). Private working notes, audio attachments, and unresolved vault links are not mirrored. The privacy guard runs before every local push and again in GitHub Actions.
+Only explicitly mapped public pages and the curated `Public/Tracking/Sits` and `Concepts` folders may enter the GitHub export. The `Public/Tracking/Essays` folder is **not** wholesale exported: its index and individually approved working essays are expressly allowlisted, so future unpublished drafts are excluded. See [PUBLIC-SOURCE-MAP.md](PUBLIC-SOURCE-MAP.md). Private working notes, audio attachments, and unresolved vault links are not mirrored. The privacy guard runs before every local push and again in GitHub Actions.
 
 ## Normal publication
 
