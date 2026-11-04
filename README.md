@@ -16,6 +16,7 @@ This repository serves a different purpose. It makes selected research materials
 
 - curated public Black Walnut field notes
 - public concept pages
+- selected working philosophical essays, with versioned arguments and objections
 - `Where the Inquiry Stands`, the living overview of the argument
 - `How the Inquiry Developed`, the longer dated research history
 - public sources / reading orientation
@@ -111,6 +112,7 @@ The roadmap is a transparent companion to the curated field notes and argument h
 ```text
 field-notes/   Curated public sits
 concepts/      Public concept and thinker pages
+essays/        Explicitly approved public working essays and index
 project/       Current overview, research-development history, and sources
 method/        Public descriptions of the field practice and templates
 scripts/       Guarded export and publication helpers
@@ -119,7 +121,7 @@ docs/          Standalone GitHub Pages RSS endpoint
 
 ## Publication model
 
-The repository records material that has **already** crossed a deliberate public boundary; it does not decide what becomes public. The local exporter reads only an explicit allowlist under `Public/Tracking`, converts links only when their targets are also public, and flattens unresolved or non-public Obsidian links to plain text. A privacy guard runs before commits are pushed, and GitHub Actions validates the public layer again after each push.
+The repository records material that has **already** crossed a deliberate public boundary; it does not decide what becomes public. Only the currently approved Essays index and two established working essays are included; other files in the public Essays folder are not automatically mirrored. The local exporter reads only an explicit allowlist under `Public/Tracking`, converts links only when their targets are also public, and flattens unresolved or non-public Obsidian links to plain text. A privacy guard runs before commits are pushed, and GitHub Actions validates the public layer again after each push.
 
 Implementation details and local commands live in [`SETUP.md`](SETUP.md) and [`PUBLIC-SOURCE-MAP.md`](PUBLIC-SOURCE-MAP.md) so the repository front page can remain centered on the research rather than the plumbing.
 
@@ -135,7 +137,7 @@ The website itself remains on Obsidian Publish. The feed is a separate, minimal 
 
 The website remains the primary reading experience. This repository is the versioned research record.
 
-Two project documents distinguish the [current inquiry](project/where-the-inquiry-stands.md) from the [history of its development](project/how-the-inquiry-developed.md). The public website also hosts a short [field-recorded audio introduction](https://ecologicalintentionality.org/inquiry#hear-the-practice). GitHub retains the cleaned public transcript and a listening link rather than mirroring the audio attachment.
+The [Essays archive](essays/README.md) preserves the October 24 constructive statement and the November 3 working argument *Whose Good?* as distinct stages rather than proof of a finished theory. Two project documents distinguish the [current inquiry](project/where-the-inquiry-stands.md) from the [history of its development](project/how-the-inquiry-developed.md). The public website also hosts a short [field-recorded audio introduction](https://ecologicalintentionality.org/inquiry#hear-the-practice). GitHub retains the cleaned public transcript and a listening link rather than mirroring the audio attachment.
 
 The goal is not to pretend that unfinished work is finished. It is to make revision, correction, and methodological development visible while preserving the distinction between public research and the private working environment.
 
