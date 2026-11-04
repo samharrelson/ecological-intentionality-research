@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased — Essays as versioned public arguments
+
+- Add an Essays index and two working essays to the explicit public source map, without exporting future drafts automatically.
+- Preserve the October 24 co-constitution proposition separately from the November 3 beneficiary-sensitive account of practical purpose.
+- Support a shorter local *Whose Good?* filename without changing the stable public URL or GitHub archive path.
+- Extend guarded publication staging, privacy scans, and regression tests to the approved Essays archive.
+- Keep private Comps 2 drafts outside the public source boundary.
+
 ## Unreleased — Sits-only RSS subscription
 
 - Generate stable RSS 2.0 from the curated public Home sit index and exported field-note metadata, not site-wide changes.
