@@ -27,6 +27,7 @@ Related: [Edith Stein](Edith%20Stein.md) · [Vegetal Encounter](Vegetal%20Encoun
 
 ## From the sits
 
+- [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — King's already practical plant empathy supports inquiry into particular growing conditions; the new stated research intention must be compared with that existing account before claiming a further conscious structure.
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — Situated plant empathy belongs inside the positive account of care; a proposed extension must explain plural purposes and their correction without assuming King's resources stop at recognition.
 - [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — My positive account of how practical purposes become specific meets King's already substantial account of situated plant empathy and care.
 

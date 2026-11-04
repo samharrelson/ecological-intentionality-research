@@ -9,6 +9,7 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — Wet litter and living groundcover invite local inquiry without establishing species richness, symbiosis, chemical inhibition, or a need to change management.
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — Restraint near yellow, spotted leaflets expresses an intention to care while leaving its biological justification open; persistent strap marks do not settle injury or benefit.
 - [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — Fallen foliage and persistent strap marks make both familiar care practices and recent interventions answerable to further knowledge of the tree. [Hal King](Hal%20King.md) helps articulate the already practical dimension of vegetal empathy, which the constructive philosophical proposal must not overlook.
 - [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — I see bark contours at remembered strap positions after removing the swing, and recall delaying removal for a spider's web. Organismic condition, actual injury, and my intention to care remain distinct; several living goods can make action and waiting consequential in different ways.

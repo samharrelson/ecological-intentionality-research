@@ -20,6 +20,7 @@ Browse: #edithstein
 
 ## From the sits
 
+- [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — *Finite and Eternal Being* V §§16–17 distinguishes knowing a possible good from realizing it, and own goodness from mediate goods. Research about care does not by itself establish benefit to its intended recipients.
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — The gardener's practical apprehension supplies a constructive precedent; the further question concerns whose good specifies a purpose and what could correct its claim to be care.
 - [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — Stein's gardener already moves from apprehending a plant's condition to causal inquiry and intervention. [Hal King's](Hal%20King.md) practical reading sharpens the question of what an account of plural, revisable purposes would add.
 - [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — The walnut and an earlier spider's web challenge my tendency to assume that another life is exhausted by my purpose for its surroundings. Stein helps distinguish living individuality and my inferential access from the other being's unavailable experience.

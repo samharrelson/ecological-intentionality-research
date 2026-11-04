@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 3, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 4, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,18 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 4: investigation becomes the next purpose
+
+During [Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md), I experienced sustained drizzle, saw wet attached and fallen foliage, and compared what appeared to be several kinds of groundcover around the walnut and neighboring oaks. I couldn't identify the species, explain the apparent contrast, or establish which organisms benefited from the arrangement. Rain and falling leaves were present together, but I couldn't demonstrate that the drizzle caused a particular leaflet to detach.
+
+The significant change was a **stated commitment to investigate** the litter and the plants before changing how I manage that part of the yard. My earlier care for the place, the morning's appearances, prior reading, and the prepared questions all contributed to this intention. It is **not** a completed study, botanical recommendation, or demonstration that another organism constitutes my experience.
+
+Stein's *Finite and Eternal Being* V §§16–17 provides an important resource for distinguishing the knowledge of a possible benefit from the actual realization of another being's good. My prospective inquiry could succeed as a research task while leaving the plants' welfare unchanged or unknown. I want to keep those success conditions separate, preserving the possibility that better evidence confirms rather than overturns my present practice.
+
+The accompanying [*Whose Good?* essay appeared on Carolina Ecology](https://carolinaecology.substack.com/p/whose-good) on November 4. I am keeping this sequence visible because the affirmative argument is being constructed through questions and corrections, not through predetermined victories over earlier philosophy.
+
+---
 
 ## November 3: what care is for
 

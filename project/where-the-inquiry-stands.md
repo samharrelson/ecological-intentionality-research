@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 3, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 4, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,18 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 4: care can first require an inquiry
+
+During [Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md), I encountered unexpected drizzle and noticed wet leaves, fallen yellow leaflets, and familiar living plants around the walnut. Compared with the groundcover near two neighboring oaks, the walnut's immediate surroundings **appeared** less varied. That's not yet a plant inventory, a causal explanation, or evidence that the walnut's chemistry is preventing other species from thriving.
+
+What changed wasn't the management of the yard. I came to a more specific practical intention: **investigate the litter and the actual plants before deciding whether to change the practice**. The encounter, my prior concern, the prepared questions, and readings all contributed to that decision. It remains an intention to do research, not a completed study or proof that the tree has benefited.
+
+This supplies one positive step for ecological intentionality: a commitment directed toward other lives may require *knowledge* before intervention. [Edith Stein](../concepts/Edith%20Stein.md) already offers a substantial philosophical resource here. In *Finite and Eternal Being* V §§16–17 she distinguishes knowing a possible good from its realization for the recipient, and a creature's own good from the goods other beings might mediate to it. My success as an investigator and the plants' flourishing therefore require **different standards of evidence**. This refinement strengthens the beneficiary-sensitive account without yet establishing the stronger claim that another organism constitutes a conscious act.
+
+The same distinction gives the *Ecology of the Cross* a possible congregational question: learning the actual lives, history, and conditions of a place may change what a community understands its use of that place to be for. That is a positive theological proposal to investigate, not an argument for a particular site decision made without its people or evidence.
+
+My longer affirmative essay, [*Whose Good?* on Carolina Ecology](https://carolinaecology.substack.com/p/whose-good), was published November 4. Its claims remain open to criticism and revision. The internal public-essay draft in Obsidian is maintained separately from the live Substack version.
 
 ## November 3: whose good specifies a purpose?
 
