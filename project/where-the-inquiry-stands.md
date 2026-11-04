@@ -11,7 +11,7 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 
 **I want to find out what the encounters and the texts actually warrant, even if that requires changing or relinquishing a concept I began with.**
 
-**New constructive essay (October 24):** Consciousness in a World We Cannot Possess puts forward my affirmative proposal for ecological intentionality, including what I think it contributes and the philosophical work still needed to defend it. The field notes remain where that proposition is tested.
+**The working argument now has an [Essays](../essays/README.md) section.** The November 3 essay [*Whose Good? Ecological Intentionality and the Formation of Practical Purpose*](../essays/whose-good.md) develops the affirmative account of how another being's possible good may specify and correct my practical purposes. It doesn't establish the stronger claim that the other being's ongoing activity constitutes an individual conscious act. The earlier [October 24 constructive statement](../essays/consciousness-in-a-world-we-cannot-possess.md) preserves that more ambitious proposition and its burden of proof. The field notes remain where both proposals are tested.
 
 **On this page:** [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
