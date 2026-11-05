@@ -55,11 +55,19 @@ These questions are related, but answering the first does not establish the seco
 
 The Black Walnut Field Notes have become a recurring test of these questions. The encounters distinguish what is perceptually given, what is inferred through biological or historical knowledge, what is remembered or anticipated, and what remains inaccessible.
 
-The October 2026 sits have introduced another question: whether sustained relationship with the walnut is reorganizing how I encounter beings and situations beyond the backyard, including other humans.
+The October and early November 2026 sits have introduced another question: whether sustained relationship with the walnut is reorganizing how I encounter beings and situations beyond the backyard, including other humans.
 
 This is not merely a claim about acquiring more information or developing environmental concern. It concerns possible changes in perceptual salience, anticipation, responsiveness, and what I come to intend or become willing to revise.
 
 But those changes may already be explained by Husserlian motivation and habituality, Merleau-Ponty's embodied perception, or Bateson's ecological learning and distributed mental processes. The research must distinguish developmental influence, participation in an ongoing intentional act, and the normative adequacy of an action. None can be assumed from the others.
+
+### November 5: from explaining change to justifying care
+
+The [November 5 field sit, *The Yellow Sea and the Ends of Care*](field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md), sharpens a concrete distinction. A familiar route and unexpectedly open canopy generated a question about why leaves fell; a correct causal explanation would **not by itself** determine whether leaving, moving, or mulching their litter would benefit the walnut, its neighbors, or the soil community. The inquiry now separates **what happened**, **what available actions might do to particular lives**, and **which goods and beneficiaries should guide an intended action**. The actual plant comparison remains unperformed, and no incompatible organismic goods have been demonstrated.
+
+This supplies an increasingly specific **beneficiary-sensitive account of practical purpose**, not yet evidence that another life constitutes the conscious act. Husserl's motivated and habitual intentionality, Stein's physician and gardener examples, contemporary phenomenologies of agency, and [Peirce's account of inquiry and agapic growth](concepts/Charles%20S.%20Peirce.md) are serious explanatory predecessors and rivals. The next decisive question is: **Can another being's independently unfolding good alter the *end* of an intention, rather than merely its information, means, or later standard of success?** A strong rival account could explain everything documented so far.
+
+A possible future Presbyterian class in religion and ecology provides a separate theological and institutional question: could learning about a place and its affected communities revise what a congregation understands its mission to be *for*? The class has been proposed, not approved or conducted, and no study or ecological outcome is being claimed. Biblical and doctrinal warrant for the *Ecology of the Cross* remains distinct from field observation and institutional certification. Follow the [current inquiry](project/where-the-inquiry-stands.md), the [public sources](project/sources-and-reading.md), and the [open roadmap](RESEARCH-ROADMAP.md) for the continuing tests.
 
 ### Current philosophical interlocutors
 
@@ -69,6 +77,7 @@ The central conversation includes:
 - **Edith Stein:** Empathy, non-primordiality, living form, creaturely individuality, and the limits of knowing another's life.
 - **Maurice Merleau-Ponty:** Embodiment, flesh, chiasm, reversibility, *écart*, and the relationship between early phenomenology and late ontology.
 - **Gregory Bateson:** Distributed mind, ecological circuits, memory, recursive learning, and the boundaries of individual mental processes.
+- **Charles S. Peirce:** Surprise, inquiry, developing practical meaning, and the tension between independence and harmony in agapic growth. Formal abduction requires its own source comparison.
 - **Raymond Ruyer:** Organismic form, immanent organization, absolute survey, and the relationship between self-relation and living activity.
 - **Whiteheadian and process phenomenology:** Whether relational becoming and process already account for what ecological intentionality proposes.
 - **Indigenous relational thought, ecowomanism, and ecological theology:** Vanessa Watts, Robin Wall Kimmerer, Melanie Harris, and others challenge accounts that begin with a detached human perceiver or overlook the historical, political, and material conditions of ecological relations.
