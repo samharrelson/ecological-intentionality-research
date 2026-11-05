@@ -51,4 +51,4 @@ If older theories already answer it, I must acknowledge that. The walnut isn't h
 
 ---
 
-**Related field record:** [A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) (October 24, 2026). For the open objections and textual context, see [Where the Inquiry Stands](../project/where-the-inquiry-stands.md) and [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). The subsequent affirmative argument appears in [*Whose Good?*](whose-good.md), with other working arguments gathered on the [Essays page](README.md).
+**Related field record:** [A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) (October 24, 2026). For the open objections and textual context, see [Where the Inquiry Stands](../project/where-the-inquiry-stands.md) and [Ecological Intentionality](../concepts/Ecological%20Intentionality.md). The subsequent affirmative argument appears in [*Whose Good?*](whose-good.md), with other working arguments gathered on the Essays page.
