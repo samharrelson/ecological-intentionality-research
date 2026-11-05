@@ -18,6 +18,25 @@ The ongoing inquiry asks whether consciousness can be understood as taking form 
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## Six dated, qualified public findings
+
+The seven workstreams above are **continuing research burdens**. They are not a count of what has already been established. The additional public issues below preserve smaller, independently inspectable **conceptual distinctions, corrections, and methodological results** that were worked out in September and October 2026.
+
+Each finding has a dated public source, checked criteria for the particular result, an explicit statement of what is **not** established, and an unchecked or continuing larger explanatory task. The completed criteria do **not** mean that six new theories were proved, or that the seven workstreams are complete.
+
+| Public finding | What the existing public record supports | What remains unresolved |
+| --- | --- | --- |
+| [#8: Kinds of absence and remainder](https://github.com/samharrelson/ecological-intentionality-research/issues/8) | Perspectival concealment and unwitnessed historical or causal absence require different evidence. | Specifically vegetal experiential alterity and late ontological *écart*. |
+| [#9: Temporal continuity and livingness](https://github.com/samharrelson/ecological-intentionality-research/issues/9) | *Yellow* versus *yellowing* separates present color from temporally thick apprehension; persistence alone does not establish life. | A positive account of vegetal development beyond Husserl's strongest synthesis. |
+| [#10: Correcting the vegetal limit in Edith Stein](https://github.com/samharrelson/ecological-intentionality-research/issues/10) | Stein permits qualified empathic fulfillment of plant life-phenomena; a blanket exclusion of plants from empathy must be revised. | The levels of this fulfillment, comparison with Husserl, and plant subjectivity. |
+| [#11: Shared appearance is not one organism or good](https://github.com/samharrelson/ecological-intentionality-research/issues/11) | Co-givenness, interaction, organismic membership, and common good are not interchangeable. | An evidence-supported case of genuinely conflicting creaturely goods. |
+| [#12: Perceptual givenness is not gift or permission](https://github.com/samharrelson/ecological-intentionality-research/issues/12) | What appears as available was not necessarily offered; benefit, reception, gift, intention, and ethical permission differ. | What specific reciprocity or care demands in a contested living situation. |
+| [#13: Seeing a power line is not knowing its history](https://github.com/samharrelson/ecological-intentionality-research/issues/13) | Recognition of meaningful infrastructure does not itself supply institutional, legal, historical, or ecological evidence. | The actual documented history and effects of a specific local decision. |
+
+**Research accounting:** Seven original, open workstreams; six additional *bounded* public findings or qualified revisions. The number of checked criteria indicates specific publicly documented achievements, not the evidential strength of ecological intentionality as a new philosophical category. The strongest objections still govern the paper, including Husserlian redundancy, the limits of vegetal empathy, plural organismic goods, and the philosophical warrant for late flesh.
+
+The issues are available publicly in the repository. Their inclusion in the GitHub Projects visual board and assignment to the board's **Public finding** or **Evidence review** column are separate editorial steps. A project column expresses the stage of an inquiry rather than its theoretical truth.
+
 ## Preserve what failed, not only what survived
 
 A useful public research record includes substantive counterarguments, discarded interpretations, and negative outcomes **with their reasons**. Treat every consequential revision as an accountable transition:
