@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 4, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 5, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -11,11 +11,21 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 
 **I want to find out what the encounters and the texts actually warrant, even if that requires changing or relinquishing a concept I began with.**
 
-**The working argument now has an Overview section.** The November 3 essay [*Whose Good? Ecological Intentionality and the Formation of Practical Purpose*](../essays/whose-good.md) develops the affirmative account of how another being's possible good may specify and correct my practical purposes. It doesn't establish the stronger claim that the other being's ongoing activity constitutes an individual conscious act. The earlier [October 24 constructive statement](../essays/consciousness-in-a-world-we-cannot-possess.md) preserves that more ambitious proposition and its burden of proof. The field notes remain where both proposals are tested.
+**The working philosophical arguments now have their own Essays section.** The November 3 essay [*Whose Good? Ecological Intentionality and the Formation of Practical Purpose*](../essays/whose-good.md) develops the affirmative account of how another being's possible good may specify and correct my practical purposes. It doesn't establish the stronger claim that the other being's ongoing activity constitutes an individual conscious act. The earlier [October 24 constructive statement](../essays/consciousness-in-a-world-we-cannot-possess.md) preserves that more ambitious proposition and its burden of proof. The field notes remain where both proposals are tested.
 
 **On this page:** [Qualified findings](#what-the-inquiry-has-established-so-far) · [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 5: explaining a change is not yet knowing how to care
+
+In [The Yellow Sea and the Ends of Care](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md), my familiar walk past a red maple brought me to a much more open canopy, dark wet bark, and a ground newly covered in yellow foliage. Some falling leaves were witnessed during the recording; the overnight course that brought most of the foliage down was not. I had intended to examine a particular feature of the trunk, but the larger changed scene redirected my attention. This tells me something about perceptual expectations and intentional development, but not yet about the origin of each fallen leaf, the tree's consciousness, or the cause of my whole manner of attending.
+
+Today's constructive question is a new *division of explanatory labor*. Even if I could explain why the leaves fell, that wouldn't determine which practical response would serve the walnut, groundcover, soil organisms, or other lives. An inquiry into causes, an inquiry into the likely effects of available acts, and a judgment about **whose goods should guide those acts** need different kinds of evidence. It is possible that care makes investigation itself a mediating practical purpose; what the investigation discovers may then confirm or revise a later decision. The actual plant comparison has not been completed, and there is no established conflict of biological goods here.
+
+A strong rival account remains available: [Husserl](../concepts/Husserl.md) can describe habit, fulfilled and disappointed expectation, motivated inquiry and practical valuing, while [Stein](../concepts/Edith%20Stein.md) distinguishes knowledge of possible benefit from a benefit actually realized. [Peirce](../concepts/Charles%20S.%20Peirce.md) asks in addition whether loving attention grants another being independence while drawing lives toward a harmony that must not be presupposed. Today's sit advances a *specifiable task*, not proof that another life constitutes my conscious act.
+
+The same distinction now opens a **prospective theological test**. A possible church class on Scripture and ecology could invite a congregation to investigate the living and human communities affected by its decisions. The question would not be whether its intentions sound generous, but whether actual inquiry could correct the purposes it undertakes. The PC(USA)'s [Earth Care Congregations program](https://pcusa.org/about-pcusa/agencies-entities/interim-unified-agency/ministry-areas/hunger-program/sustainable-livingearth-care-concerns/earth-care-congregations) provides concrete categories for worship, education, facilities and outreach, but certification cannot by itself establish ecological adequacy or Christological communion. Luke 10:25–37 raises a further theological problem about *becoming a neighbor through enacted mercy*; extending that human parable to more-than-human neighbors is a constructive argument still to be made. No class, congregational practice, or dissertation study is yet completed.
 
 ## What the Inquiry Has Established So Far
 

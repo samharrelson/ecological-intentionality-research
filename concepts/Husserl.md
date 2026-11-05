@@ -7,6 +7,8 @@ Edmund Husserl enters these Field Notes wherever the walnut encounter tests ques
 
 His role here is especially important as a pressure test for [Ecological Intentionality](Ecological%20Intentionality.md): the project should not introduce a new category if Husserl’s account of layered intentional structures already describes the phenomenon adequately. His account of motivation also shows that an appearing thing can stimulate attention and elicit a response from the perceiver without thereby becoming an intentional subject.
 
+**November 5 comparison:** The familiar approach past the red maple carried a learned expectation that the altered walnut canopy interrupted. Some leaves were actually seen falling while the prior overnight sequence remained unknown. The resulting interest in leaf litter can be described in Husserlian terms as habit, horizonal expectation, disappointed anticipation, motivation, and practical inquiry. A stronger ecological theory must explain a feature of that *particular act* that this rich description cannot. Even a botanically informed change of management might be a change of means rather than of intended end. A living beneficiary's subsequent benefit is a distinct question from the constitution of the earlier act. [November 5 field case](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md).
+
 ## Works in this project
 
 - *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*: especially attention, retention, recollection, protention, anticipation, and temporal horizon.
@@ -17,6 +19,8 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Vegetal Enco
 Browse: #husserl
 
 ## From the sits
+
+- [November 5, 2026: The Yellow Sea and the Ends of Care](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md): motivated attention and practical inquiry remain strong explanations of the sequence from surprise to a specified research intention; a living beneficiary does not by itself establish act-constitution.
 
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — *Ideas II* §50 already describes value, use, products, and works as motivationally significant. Care for a known artifact therefore tests the intended good and purpose, not merely whether concern persists.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I experience the yellow canopy with a remembered greener past and an anticipated bare future. Husserl's sensuous synthesis, temporal horizon, and motivated attention already explain much of this without treating my sadness as knowledge of the tree's experience.
