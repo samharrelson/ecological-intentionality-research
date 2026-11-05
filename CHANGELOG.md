@@ -1,5 +1,12 @@
 # Changelog
 
+## Unreleased — Qualified September–October public findings
+
+- Add six dated public findings (#8–#13) with checkable evidence and explicit remaining questions, preserving the original seven open workstreams.
+- Amend the public roadmap and repository overview to distinguish completed narrow results from unproved philosophical and theological claims.
+- Link the bounded results back to relevant ongoing questions #1, #3, #6, and #7, without closing their core explanatory burdens.
+
+
 ## Unreleased — Essays as versioned public arguments
 
 - Add an Essays index and two working essays to the explicit public source map, without exporting future drafts automatically.
