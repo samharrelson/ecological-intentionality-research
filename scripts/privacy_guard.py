@@ -11,7 +11,7 @@ SCAN_DIRS = ["field-notes", "concepts", "essays", "project", "method", "docs"]
 
 # Structural/path-like leak indicators, not ordinary methodological prose.
 BLOCKED_PATTERNS = {
-    "absolute macOS user path": re.compile(r"/Users/[^/\s]+/", re.I),
+    "absolute macOS user path": re.compile(r"(?<![A-Za-z0-9._:/-])/Users/[^/\s]+/", re.I),
     "Daily Notes path": re.compile(r"(?:^|[\s(\[`\"'])Daily Notes/", re.I),
     "private Field Journal path": re.compile(r"(?:^|[\s(\[`\"'])Field Journal/", re.I),
     "CIIS semester path": re.compile(r"(?:^|[\s(\[`\"'])CIIS/(?:Fall|Spring|Summer)\b", re.I),
