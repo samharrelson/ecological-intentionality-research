@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 4, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 6, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,20 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 6: a stable concern, an operative purpose
+
+In [When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md), my morning attention was interrupted by sunlight, squirrels crossing high branches, a falling walnut leaf that I followed and photographed, and an acorn striking my shoulder. The particular leaf had a witnessed course, unlike the hundreds already covering the ground. Fresh yellow material rested above older brown leaves. I didn't disturb it or identify the organisms possibly sheltered within.
+
+**The practical decision preceded that recording.** After reading ecological guidance about overwintering habitat and disputed juglone claims, I abandoned the immediate plan to repeat mowing for tidiness and decided to leave the leaves whole beneath the tree. I named insects, birds, soil organisms and other lives as the beneficiaries I wanted the decision to serve. The October 28 record shows I had already affirmed the value of leaf litter, so this wasn't the first emergence of an ecological commitment. But a familiar overarching commitment doesn't always govern the immediate purpose of an intended act. At the end of today's recording I judged that the operative end had changed, while recognizing that I need to distinguish that judgment from a change of means and from the unmeasured biological outcome.
+
+The comparison prompted new reading of existing phenomenologies of action: Husserl's practical motivation, Roberta De Monticelli's intentions and standing policies, Michael Barber's account of Schütz's projected completed act, and James Jardine's research into Edith Stein's editorial role in *Ideas II*. These make the *same* event describable by richer established concepts. Today's strongest finding is a sharper discriminating test, not an independently demonstrated new structure of consciousness.
+
+## November 5: explaining changes and asking what care requires
+
+In [The Yellow Sea and the Ends of Care](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md), the altered upper canopy, dark bark, yellow-covered ground, and leaves witnessed falling in the breeze interrupted an expectation built by repeated walks past the red maple. I could describe the changed scene without having watched the particular events that produced all of it. The surprise prompted a causal question about leaf fall, while my concern for the walnut and its neighbors prompted a **different** inquiry: what would be good for them, and which practical response would serve those goods? Explaining an event is not the same as judging its consequences or justifying a response.
+
+The related working essay [*Whose Good?*](../essays/whose-good.md) proposes that beneficiaries' independent lives can help specify the content and conditions of success of an act of care. Husserl, Stein, existing practical-action theory and ecological evidence all complicate any claim that this capacity belongs to a new conscious act-type. The idea of a future congregational ecological inquiry remains exploratory, not an enacted study.
 
 ## November 4: investigation becomes the next purpose
 

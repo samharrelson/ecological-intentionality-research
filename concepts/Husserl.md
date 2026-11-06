@@ -7,6 +7,10 @@ Edmund Husserl enters these Field Notes wherever the walnut encounter tests ques
 
 His role here is especially important as a pressure test for [Ecological Intentionality](Ecological%20Intentionality.md): the project should not introduce a new category if Husserl’s account of layered intentional structures already describes the phenomenon adequately. His account of motivation also shows that an appearing thing can stimulate attention and elicit a response from the perceiver without thereby becoming an intentional subject.
 
+**November 6: practical purpose, not only changed scenery.** In [the November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md), a decision to mow fallen leaves for tidiness was replaced, following ecological reading, by an intention to leave whole litter as overwintering habitat. The action was not carried out during the sit, and the revision preceded the sunshine, squirrels, and witnessed leaf fall. The speaker describes it as a change in what the action is *for*. Husserl's *Ideas II* §§55–56 describes experienced surroundings that motivate attentional and practical action, including goals and valuing. A **changed immediate end under a continuing higher-order commitment** can be compatible with that account rather than a counterexample. More recent phenomenologies of agency further distinguish particular plans from continuing policies and commitments. The burden is not to show Husserl cannot name an ethical beneficiary but to identify an explanatory feature of the constitutive act that motivation cannot already account for.
+
+**Source-history qualification:** James Jardine's 2022 manuscript study suggests that some parts of the published *Ideas II* §56 account may reflect **Edith Stein's editorial elaboration**, alongside substantial motivation analyses traceable to Husserl's manuscripts. That complicates an easy “Husserl lacked, Stein supplied” history. These are scholarly/editorial claims to verify against the critical manuscript edition, not proof of a missing ecological act-type. See [Sources & Reading](../project/sources-and-reading.md).
+
 **November 5 comparison:** The familiar approach past the red maple carried a learned expectation that the altered walnut canopy interrupted. Some leaves were actually seen falling while the prior overnight sequence remained unknown. The resulting interest in leaf litter can be described in Husserlian terms as habit, horizonal expectation, disappointed anticipation, motivation, and practical inquiry. A stronger ecological theory must explain a feature of that *particular act* that this rich description cannot. Even a botanically informed change of management might be a change of means rather than of intended end. A living beneficiary's subsequent benefit is a distinct question from the constitution of the earlier act. [November 5 field case](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md).
 
 ## Works in this project
@@ -19,6 +23,8 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Vegetal Enco
 Browse: #husserl
 
 ## From the sits
+
+- [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — A changed immediate purpose can coexist with a stable broad commitment; motivated valuation remains a strong explanation of the plan reversal.
 
 - [November 5, 2026: The Yellow Sea and the Ends of Care](../field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md): motivated attention and practical inquiry remain strong explanations of the sequence from surprise to a specified research intention; a living beneficiary does not by itself establish act-constitution.
 

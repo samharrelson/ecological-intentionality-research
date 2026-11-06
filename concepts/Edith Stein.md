@@ -7,6 +7,8 @@ Edith Stein enters these Field Notes through empathy, non-primordiality, express
 
 Her role is double: Stein provides resources for taking another being seriously without reducing it to inference, while also disciplining the project against any easy move from livingness to interiority, subjectivity, or empathic access. Her qualified vegetal empathic fulfillment is especially important because it gives the plant case more than mechanism without granting an awake I or transparent inner life.
 
+**November 6, a new difficulty for the genealogical story:** The [November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) asks whether ecological reading can reorder which purpose actually governs a proposed act. Stein's *Finite and Eternal Being* V §§16–17 already distinguishes knowing a possible good from bringing that good about for another living being. Her vegetal account in *On the Problem of Empathy* also warns against equating apprehended signs of life with primordial access to a plant's “I.” An intended weekend restraint can be thoughtful care without proving its benefit to the actual beings sheltering in the leaves. A further historical complication arises from James Jardine's account of *Ideas II*: parts of the commonly printed §56 discussion of motivation may reflect substantial editorial elaboration by Stein, even though Husserl independently developed extensive motivation analyses. I should not set her work against a caricatured, unembodied or unmotivated Husserl. The manuscript claim remains to be checked against the critical edition and is not proof of ecological intentionality's novelty.
+
 ## Works in this project
 
 - *On the Problem of Empathy*: non-primordiality, foreign experience, the phenomena of life, vegetal empathic fulfillment, the physician / gardener “schooled view,” and the correction of empathic acts through further experience.
@@ -19,6 +21,8 @@ Related: [Remainder](Remainder.md) · [Vegetal Encounter](Vegetal%20Encounter.md
 Browse: #edithstein
 
 ## From the sits
+
+- [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Knowing a possible good does not realize it; the *Ideas II* motivation story must acknowledge Stein's editorial role.
 
 - [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — *Finite and Eternal Being* V §§16–17 distinguishes knowing a possible good from realizing it, and own goodness from mediate goods. Research about care does not by itself establish benefit to its intended recipients.
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — The gardener's practical apprehension supplies a constructive precedent; the further question concerns whose good specifies a purpose and what could correct its claim to be care.

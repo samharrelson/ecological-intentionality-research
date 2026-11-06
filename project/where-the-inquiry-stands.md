@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 5, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 6, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,18 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [Qualified findings](#what-the-inquiry-has-established-so-far) · [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 6: when a concern becomes the purpose of an action
+
+In [When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md), I returned to the walnut in unexpected sunlight. Four or five squirrels moved through the upper branches; their movement accompanied falling leaves, and I followed one leaf closely enough to catch part of its descent in a photograph. Other leaves lay across the ground in layers, newer yellow above older brown. That juxtaposition gives an appearance of temporal change, not an observational record of each leaf's history or of all the organisms sheltered beneath them. The biological research behind today's practical decision had been completed **before** the recording, so it shouldn't be credited to the squirrel or that falling leaf.
+
+A different kind of surprise arose from the comparison of my intentions. Last weekend I'd mowed through leaves to make the yard tidier. I had considered repeating that this weekend. After reading about intact leaf litter, overwintering insects and walnut-understory plants, I decided to leave the leaves whole in the naturalized area. During today's recording I described the earlier *tidy yard* purpose and the new concern for soil organisms, insects, birds, the walnut and other living inhabitants. At the end, I said that I thought the **purpose of the act** had changed, not just its means. Yet the October 28 recording already shows that I cared about leaving litter as habitat. A general ecological commitment was not invented overnight.
+
+This reveals a more usable distinction: **a continuing commitment may fail to govern a particular intended action, and evidence may bring it forward as that action's operative purpose.** That is a reported change in what this weekend's choice is for, not a measured result for the living beneficiaries, and not proof that the walnut constitutes my conscious act. The original purposes have been reconstructed retrospectively, and the weekend follow-through hasn't occurred yet.
+
+Husserl's *Ideas II* §§55–56 provides a powerful account of experienced surroundings motivating valuation and goal-directed action. More pointedly, Roberta De Monticelli's account of rational agency and Michael Barber's reading of Alfred Schütz distinguish standing policies, individual projects and anticipated completed acts. They may explain even a genuine shift of immediate purpose without a new category of intentionality. James Jardine's study of the manuscripts of *Ideas II* further cautions that parts of the familiar §56 text may be Edith Stein's editorial elaboration while Husserl's own theory of motivation remains substantial. This is a textual genealogy to verify closely, not a ready-made victory over Husserl.
+
+The corresponding theology is a separate proposition: a congregation could profess care for creation while letting convenience, maintenance or institutional preservation govern particular decisions. Whether participation in Christ calls such a congregation to reconsider its purposes requires close reading, institutional history and actual communal consequences; a proposed church class is not evidence that this has happened. **Today's result is a better discriminating case and a stronger rival account, not an additional established category of consciousness.**
 
 ## November 5: explaining a change is not yet knowing how to care
 

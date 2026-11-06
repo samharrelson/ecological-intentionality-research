@@ -7,7 +7,11 @@ The black walnut remains the primary philosophical test case. The current proble
 
 Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Agency](Place%20and%20Agency.md)
 
+**November 6 ecological correction:** In [the November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md), intact fallen walnut leaves and the layering of older and fresher material were seen, while overwintering insect habitat and nutrient recycling came from ecological sources. Caring for a tree cannot be inferred to benefit every plant, fungus, bird or invertebrate in its vicinity. A plant's particular biological good, a site's ecology, and the justification of a human act remain distinct questions. The botanical baseline beneath the walnut and two oaks is still outstanding.
+
 ## From the sits
+
+- [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Whole leaf litter, a revised weekend plan, and unmeasured biological goods.
 
 - [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — Wet litter and living groundcover invite local inquiry without establishing species richness, symbiosis, chemical inhibition, or a need to change management.
 - [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — Restraint near yellow, spotted leaflets expresses an intention to care while leaving its biological justification open; persistent strap marks do not settle injury or benefit.
