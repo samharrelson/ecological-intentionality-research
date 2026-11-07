@@ -184,8 +184,6 @@ Today's ivy encounter is one moment within a longer, uneven history. On October 
 
 The positive phenomenon is that my ways of noticing, anticipating, judging and intending have developed through a sustained relation with a living organism whose seasonal activity does not depend on my attention. Whether this warrants a distinctive constitutive account remains open. [Husserl's genetic and practical phenomenology](https://github.com/samharrelson/ecological-intentionality-research/issues/1), [Bateson's account of ecological learning](https://github.com/samharrelson/ecological-intentionality-research/issues/4) and Watts's challenge to a human-centered starting point are genuine alternative pressures. The next task is to trace the history carefully: distinguish what the tree did, what I perceived or inferred, what I learned elsewhere, which purpose changed, what I actually did, and what remains unknown about the effects on other beings.
 
-*This is a same-day editorial interpretation added after the field recording, not a claim that these later roadmap formulations were spoken during the sit.*
-
 ## Research Connection and sources
 
 The questions raised here continue through [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Husserl](../concepts/Husserl.md), [Edith Stein](../concepts/Edith%20Stein.md), [Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md), [Ruyer](../concepts/Ruyer.md), [Vanessa Watts](../concepts/Vanessa%20Watts.md), [Attention](../concepts/Attention.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) and [Place and Agency](../concepts/Place%20and%20Agency.md).
