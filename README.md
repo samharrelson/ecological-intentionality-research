@@ -36,6 +36,14 @@ The public workflow is:
 
 ## Current research pressure
 
+**Ecological intentionality isn't just phenomenology with more objects. It's an inquiry into the ecological formation of intentional life itself.**
+
+I now begin with a **positive, cumulative phenomenon** documented by the Black Walnut Field Notes: through sustained encounters with the walnut's independently developing life, my habits of attention, anticipations, practical judgments and intended actions have changed. The inquiry's reported effects extend beyond the sits, including noticing people on the road differently and reconsidering ordinary practices elsewhere in the yard. This is not only a change in how meaningful the walnut appears *to me*. I am investigating how another living being's development participates in the history through which my own intentional life takes shape.
+
+This documented first-person transformation is philosophically important whether or not Husserl's genetic intentionality, Stein's nuanced account of otherness, Merleau-Ponty's flesh, or Bateson's ecological learning can explain its structure. The challenge of those accounts is essential, but **the whole research program cannot be reduced to defeating Husserl**. A stronger claim that the other organism is a new constitutive factor *within a particular conscious act* still requires independent argument. Vanessa Watts's Place-Thought challenges the even more basic assumption that the human perceiver should be the privileged starting point; her distinct Indigenous intellectual and political contexts must not be treated as portable confirmation of the European philosophical proposal.
+
+[**The affirmative formation workstream (#14)**](https://github.com/samharrelson/ecological-intentionality-research/issues/14) now leads the public roadmap, alongside [the still-essential Husserl rival test (#1)](https://github.com/samharrelson/ecological-intentionality-research/issues/1). The difference is between **the phenomenon to be explained** and **the question whether an existing theory explains it adequately**.
+
 Ecological intentionality began as a name for a disciplined form of creaturely attention: attending to another being as relationally given, irreducibly other, and never exhausted by its appearance within human experience.
 
 The inquiry has since moved toward a more ambitious constructive question. I am developing ecological intentionality as a positive philosophical proposal about how conscious directedness emerges, develops, and changes within relations among differently organized beings whose activities, histories, and goods cannot be reduced to the purposes of the perceiver.
@@ -60,6 +68,14 @@ The October and early November 2026 sits have introduced another question: wheth
 This is not merely a claim about acquiring more information or developing environmental concern. It concerns possible changes in perceptual salience, anticipation, responsiveness, and what I come to intend or become willing to revise.
 
 But those changes may already be explained by Husserlian motivation and habituality, Merleau-Ponty's embodied perception, or Bateson's ecological learning and distributed mental processes. The research must distinguish developmental influence, participation in an ongoing intentional act, and the normative adequacy of an action. None can be assumed from the others.
+
+### November 7: the walnut helps shape the history of intentional life
+
+The published [November 7 sit, *Whose Good Governs the Act?*](https://ecologicalintentionality.org/sits/2026-11-07) develops the positive finding and makes its limitations more demanding. The living walnut, unlike a known LEGO tree, has a history of independent growth and vulnerability that makes my intentions of care answerable to something I don't create by perceiving it. A photograph of the *real* tree can still mediate that care, so medium, intended beneficiary, practical motive and the living being's independent goods must be distinguished rather than treated as a simple alive/dead contrast.
+
+Today's reflection also corrects the earlier mowing story: the original plan served *soil care and safe access* as well as tidiness, while leaving leaves whole is now intended partly for habitat. Different beings and practical ends have to be weighed rather than assimilated into one harmonious good. A climbing ivy vine is directly visible; the identification of species and the ecological consequences require more evidence.
+
+**Live evidence-based roadmap steps:** a published, charitable [Husserl reconstruction](concepts/Husserl.md) meets a narrowly scoped completion criterion for [#1](https://github.com/samharrelson/ecological-intentionality-research/issues/1), without proving that Husserl fails. A specific public distinction between coexistence and genuinely different organismic goods meets one limited conceptual criterion in [#3](https://github.com/samharrelson/ecological-intentionality-research/issues/3), without an actual measured conflict. The main positive [formation problem #14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) has its own evidence and unfinished longitudinal, theoretical and rival tests.
 
 ### November 6: an ecological commitment and the operative end of an act
 
@@ -122,7 +138,7 @@ These are propositions to investigate, not conclusions the research has already 
 
 ## Public research roadmap
 
-Follow the [Ecological Intentionality research board](https://github.com/users/samharrelson/projects/1/views/4) for the visual overview of the seven continuing philosophical, theological, and methodological questions. The [public research roadmap](RESEARCH-ROADMAP.md) now also distinguishes **six dated, qualified public findings** from those still-open major problems. These findings preserve completed textual corrections, negative inferences, and methodological distinctions with cited public evidence, without claiming a new theory of consciousness has been established. The [GitHub issues](https://github.com/samharrelson/ecological-intentionality-research/issues) retain the substantive arguments, competing explanations, possible defeaters, and checked or outstanding criteria. The board tracks inquiry and revision, not proof of a predetermined conclusion.
+Follow the [Ecological Intentionality research board](https://github.com/users/samharrelson/projects/1/views/4) for the visual overview of the eight continuing philosophical, theological, and methodological questions (including the new affirmative formation workstream). The [public research roadmap](RESEARCH-ROADMAP.md) now also distinguishes **six dated, qualified public findings** from those still-open major problems. These findings preserve completed textual corrections, negative inferences, and methodological distinctions with cited public evidence, without claiming a new theory of consciousness has been established. The [GitHub issues](https://github.com/samharrelson/ecological-intentionality-research/issues) retain the substantive arguments, competing explanations, possible defeaters, and checked or outstanding criteria. The board tracks inquiry and revision, not proof of a predetermined conclusion.
 
 The roadmap is a transparent companion to the curated field notes and argument history. Its [seventh question](https://github.com/samharrelson/ecological-intentionality-research/issues/7) asks whether versioned records of abandoned arguments, defeated interpretations, and changes of warrant can become reusable scholarly evidence. It is **not** a mirror of my private research notebook or a second daily task list.
 
