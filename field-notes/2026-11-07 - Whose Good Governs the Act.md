@@ -176,6 +176,16 @@ If those accounts fully describe this case, I need to say that. If they don't, I
 
 That's where I think the next stage of the work lies.
 
+## Later research note, November 7: formation across encounters
+
+After writing this sit, I clarified a larger affirmative question for the [public research roadmap](https://github.com/samharrelson/ecological-intentionality-research/issues/14): **How does intentional life take shape over time through relationships with independently living beings?** This question comes before, though it must still undergo, the comparison with Husserl. Ecological intentionality is not just phenomenology with a greater variety of nonhuman objects. I am asking about the *ecological formation of intentional life itself*.
+
+Today's ivy encounter is one moment within a longer, uneven history. On October 29 I reported that sustained attention to the walnut had begun affecting what I noticed away from the tree. On November 1 I recorded a particular intervention involving the swing and a spider's web. On November 6 I described a revised plan for fallen leaves, and today I recovered the soil-care and safe-access purposes that were already part of my earlier plan. These records involve reported changes in attention, an enacted action, an intended action and retrospective correction. **They are not interchangeable evidence, and they do not prove that the walnut alone caused any change.** Reading, memory, practical obligations and other encounters also belong to the history.
+
+The positive phenomenon is that my ways of noticing, anticipating, judging and intending have developed through a sustained relation with a living organism whose seasonal activity does not depend on my attention. Whether this warrants a distinctive constitutive account remains open. [Husserl's genetic and practical phenomenology](https://github.com/samharrelson/ecological-intentionality-research/issues/1), [Bateson's account of ecological learning](https://github.com/samharrelson/ecological-intentionality-research/issues/4) and Watts's challenge to a human-centered starting point are genuine alternative pressures. The next task is to trace the history carefully: distinguish what the tree did, what I perceived or inferred, what I learned elsewhere, which purpose changed, what I actually did, and what remains unknown about the effects on other beings.
+
+*This is a same-day editorial interpretation added after the field recording, not a claim that these later roadmap formulations were spoken during the sit.*
+
 ## Research Connection and sources
 
 The questions raised here continue through [Ecological Intentionality](../concepts/Ecological%20Intentionality.md), [Husserl](../concepts/Husserl.md), [Edith Stein](../concepts/Edith%20Stein.md), [Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md), [Ruyer](../concepts/Ruyer.md), [Vanessa Watts](../concepts/Vanessa%20Watts.md), [Attention](../concepts/Attention.md), [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) and [Place and Agency](../concepts/Place%20and%20Agency.md).
