@@ -5,7 +5,12 @@ These notes consider how agency appears when place is understood as part of the 
 
 Related: [Ecological Intentionality](Ecological%20Intentionality.md) · [Vegetal Encounter](Vegetal%20Encounter.md) · [Attention](Attention.md)
 
+**November 7: a yard is neither one organism nor an empty scene for my decisions.** The walnut, ivy, violets, lilyturf, oak litter, bamboo beyond the fence and the human routes through the yard are different ecological and practical relations. In [the November 7 recording](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I begin to describe how the same place contains multiple possible beneficiaries and demands different investigative methods. But co-location isn't demonstrated mutual benefit or harm. Native/introduced status and a visible climbing vine suggest possible management questions rather than a concluded balance of goods. Watts further challenges my assumption that place becomes meaningful only when a human perceiver chooses to attend to it; her account isn't interchangeable with phenomenological constitution.
+
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — One yard, several living relations and institutionally/practically shaped purposes; an empirically established conflict remains outstanding.
+
 
 - [October 24, 2026: A Purpose the Tree Does Not Share](../field-notes/2026-10-24%20-%20A%20Purpose%20the%20Tree%20Does%20Not%20Share.md) — A swing's human purpose and a branch's living development meet without becoming one activity or one measure of good.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — The swing strap belongs to human use of the yard while the branching structure belongs to the walnut's development; a shared place doesn't give both one kind of organization or a single good.

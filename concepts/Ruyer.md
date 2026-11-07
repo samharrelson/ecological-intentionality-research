@@ -21,7 +21,12 @@ Related: [Ecological Intentionality](Ecological%20Intentionality.md) · [Vegetal
 
 Browse: #ruyer
 
+**November 7 comparison: a form's activity is not my judgment of its good.** In [the November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I described a vine climbing the walnut while asking what that living development contributes to my intentions. Ruyer's *Neofinalism* ch. 9 and ch. 14 offers an ontological account of immanent organic form and its relative self-survey, not an empirical diagnosis I can make from the photograph. His account may explain an organism's own directed activity, while Husserl describes the constitution of my conscious act. To add ecological intentionality I need to show how these irreducible structures are related without turning the walnut, ivy, soil and other organisms into one primary domain or one phenomenal subject. The preliminary groundcover observations do not settle this.
+
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Ivy's visible growth invites, but does not establish, Ruyer's metaphysical account of living self-organization.
+
 
 - [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md). The tool–organ distinction in chapter 5 separates a branch's organic activity from its use as support. It sharpens the question of changing purposes without establishing damage, benefit, or the realization of a conscious act.
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md) — I watch an organism changing through falling foliage while questioning what, if anything, Ruyer's account of temporally organized primary form adds beyond my perceptual synthesis and botanical knowledge.

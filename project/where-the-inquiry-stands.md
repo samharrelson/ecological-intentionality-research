@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 6, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 7, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -16,6 +16,18 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [Qualified findings](#what-the-inquiry-has-established-so-far) · [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 7: the living walnut and the question of non-substitutability
+
+In [Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I moved from the increasingly bare upper canopy to the ivy, violets and lilyturf near the walnut's trunk. A climbing vine is now directly visible, although neither its species-specific physiological effects nor an actual conflict with the other groundcover has been demonstrated. I report having checked PictureThis's preliminary identifications against plant books and field guides; the diagnostic evidence still needs to be attached. There are violets around neighboring oaks, but the matched three-location baseline is only **partly begun**.
+
+**Today's first correction concerns my own earlier act.** Mowing leaves was not just to make the yard tidier; I also intended soil care and safe access. The later decision to leave more litter whole for winter habitat reorganizes several already-valued purposes. A distinction between intentions isn't established by comparing outward movements, and a decision's anticipated ecological benefit isn't proof of an actual beneficial outcome.
+
+**Today's stronger positive proposal:** I explicitly argue that this *particular living walnut*, which has continued changing and surprising me, matters to the formation of my practical intentions in a way a known artificial counterpart does not. That is the claim the inquiry needs to take seriously, rather than reducing ecological intentionality to a nicer ethical attitude. The problem is how to demonstrate it without begging the question. A LEGO model cannot grow as a walnut grows, but a photograph of the **living walnut** can still mediate an intention directed to that living being. The medium, the intentional object, the beneficiary, the reasons for acting and the independent conditions of successful care are different parts of the account.
+
+**Husserl remains the strongest pressure.** His *Ideas II* §§55–56 does not leave us with a static spectator. Familiar horizons, bodily approach, active inquiry, motivation, valuation and practical intentions already explain the human observer's developing response. The fact that the actual tree is alive distinguishes the referent and the possible consequences, but further argument is required to show a difference in the *constitution of the conscious act*. De Monticelli's policies and plans, Barber on Schütz's projects, Stein on possible versus realized goods, Ruyer on living self-survey, Merleau-Ponty's flesh and Watts's Place-Thought keep the inquiry answerable to differing questions; none is merely a new word for the same relation.
+
+The result for the public roadmap is **more specific evidence and a better defeater**, not another settled finding. I need a charitable primary-text-supported Husserl reconstruction and a discriminating comparison capable either of showing a remainder or of acknowledging that the proposed difference fails for this example. The theological counterpart asks whether a congregation can allow the lives affected by its actual decisions to correct its operative purposes. That question has its own Christological, historical, ecological and participatory burdens, none completed by this morning's sit.
 
 ## November 6: when a concern becomes the purpose of an action
 

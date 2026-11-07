@@ -19,7 +19,12 @@ Related: [Attention](Attention.md) · [Place and Agency](Place%20and%20Agency.md
 
 Browse: #MerleauPonty
 
+**November 7: a shared sensible scene does not settle whose good matters.** The same sunlight, walnut bark, yellow litter, ivy, violet and lilyturf belong to one field of my perception in [the November 7 encounter](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md). Merleau-Ponty's flesh and *écart* invite me to think about embodied belonging, visibility and difference without assuming that looking from outside gives me the being's interior. Yet I cannot infer from shared sensible appearance that these organisms are members of one whole, have compatible needs, or are co-conscious. The further burden is to explain what late flesh adds beyond already embodied Husserlian motivation, then whether it explains the practical purposes I formed in relation to the living walnut. Flesh is not itself a botanical report or a rule for managing invasive plants.
+
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — One field of visibility, plural living goods, and the unproved move from perceptual belonging to the constitution of practical ends.
+
 
 - [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — Early motor intentionality supplies a serious explanation of moving without an explicit prior instruction; the tree's living organization remains a further question.
 - [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Differently related branches and strap keep shared sensible belonging distinct from organismic membership; the explanatory contribution of late flesh remains open.

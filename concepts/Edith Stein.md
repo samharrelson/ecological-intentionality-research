@@ -7,6 +7,8 @@ Edith Stein enters these Field Notes through empathy, non-primordiality, express
 
 Her role is double: Stein provides resources for taking another being seriously without reducing it to inference, while also disciplining the project against any easy move from livingness to interiority, subjectivity, or empathic access. Her qualified vegetal empathic fulfillment is especially important because it gives the plant case more than mechanism without granting an awake I or transparent inner life.
 
+**November 7: plants have their own lives, but knowledge of those lives is not their benefit.** When I looked at the climbing ivy and violet-like foliage beneath the walnut in [November 7's sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I wanted to take each seriously without claiming its inner experience or assigning it a human intention. In *On the Problem of Empathy* III.5(i) Stein allows a qualified apprehension of vegetal phenomena of life, including vigor and sluggishness, but does not supply transparent access to a plant's awake “I.” In *Finite and Eternal Being* V §§16–17 she distinguishes knowledge of a possible good from the concrete realization of that good. The ivy's visible climbing and my tentative identification are not themselves a diagnosis of vitality, harm or harmony with the walnut. A living organism's own good is not identical with what benefits every other being in the yard. Nor should I assume that Stein requires ecological intentionality to replace an allegedly plant-blind theory of empathy: her gardener already gives a stronger practical predecessor.
+
 **November 6, a new difficulty for the genealogical story:** The [November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) asks whether ecological reading can reorder which purpose actually governs a proposed act. Stein's *Finite and Eternal Being* V §§16–17 already distinguishes knowing a possible good from bringing that good about for another living being. Her vegetal account in *On the Problem of Empathy* also warns against equating apprehended signs of life with primordial access to a plant's “I.” An intended weekend restraint can be thoughtful care without proving its benefit to the actual beings sheltering in the leaves. A further historical complication arises from James Jardine's account of *Ideas II*: parts of the commonly printed §56 discussion of motivation may reflect substantial editorial elaboration by Stein, even though Husserl independently developed extensive motivation analyses. I should not set her work against a caricatured, unembodied or unmotivated Husserl. The manuscript claim remains to be checked against the critical edition and is not proof of ecological intentionality's novelty.
 
 ## Works in this project
@@ -21,6 +23,8 @@ Related: [Remainder](Remainder.md) · [Vegetal Encounter](Vegetal%20Encounter.md
 Browse: #edithstein
 
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Recognizing several living plants neither discloses their inner experience nor proves their mutual benefit. Knowing a possible good remains distinct from realizing it.
 
 - [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Knowing a possible good does not realize it; the *Ideas II* motivation story must acknowledge Stein's editorial role.
 

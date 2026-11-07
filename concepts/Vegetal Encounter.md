@@ -9,7 +9,12 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 **November 6 ecological correction:** In [the November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md), intact fallen walnut leaves and the layering of older and fresher material were seen, while overwintering insect habitat and nutrient recycling came from ecological sources. Caring for a tree cannot be inferred to benefit every plant, fungus, bird or invertebrate in its vicinity. A plant's particular biological good, a site's ecology, and the justification of a human act remain distinct questions. The botanical baseline beneath the walnut and two oaks is still outstanding.
 
+**November 7: several living neighbors without one good.** I see the ivy on the walnut's bark, violet-like leaves and grass-like clumps among the fallen litter. I've compared candidate identifications against other sources, but still need diagnostic documentation for species-level claims. A vine growing on the trunk doesn't disclose whether it's helping, competing with, or damaging the tree. An invasive classification concerns regional ecological consequences; it doesn't negate the individual plant's life. I am trying to find out whether care here requires different, perhaps spatially differentiated practices rather than unconditional restraint. [The November 7 record](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) keeps the walnut, groundcover, soil, humans and other inhabitants distinct without turning any one of them into an isolated thing.
+
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Provisional identification, directly witnessed climbing, possible different organismic goods and unmeasured outcomes.
+
 
 - [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Whole leaf litter, a revised weekend plan, and unmeasured biological goods.
 

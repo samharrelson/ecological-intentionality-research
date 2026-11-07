@@ -15,7 +15,12 @@ Related: [Place and Agency](Place%20and%20Agency.md) · [Attention](Attention.md
 
 Browse: #vanessawatts
 
+**November 7: whose framework makes place available as an object?** In [the November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I begin with my looking at the walnut's ivy, using an app to name plants, and deciding whose goods ought to guide my next action. Watts's Place-Thought challenges the human-first architecture of that procedure, not merely its lack of sympathy. Her argument arises from particular Indigenous histories and accounts of land and agency; I can't appropriate them as a supporting metaphor or treat her use of the word *intentionality* as Husserl's term with a new object. The more demanding question is whether my own methods already assign to me the authority to determine which lives and goods are legible, and how ecological inquiry can become answerable to knowledges and communities beyond my personal encounter.
+
 ## From the sits
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Plant identification and practical judgment raise the question of a human-centered framework for land and agency.
+
 
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)
 - [October 1, 2026: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md)

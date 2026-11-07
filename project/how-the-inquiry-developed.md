@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 6, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 7, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -12,6 +12,14 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 7: I state the living-organism claim more strongly
+
+Today's longer recording, [Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), moves the November 6 argument forward while correcting it. The purpose of mowing earlier included soil care and safe family access alongside a tidier appearance; the revised decision to leave more leaves intact does not mark the birth of ecological care, and access and soil remain live goods. I began naming ivy, violets and lilyturf through photography and source comparison, and I directly observed ivy climbing the walnut. Neither a verified plant conflict nor a controlled three-tree comparison follows.
+
+The main philosophical claim is now stronger and more vulnerable in a useful way: **I think the living walnut itself changes my conscious purposes in ways a known LEGO model cannot.** A living referent's independent development is not equivalent to my idea of it. But a photograph of that living referent can also motivate an act of care, and Husserl's personalistic, embodied motivational account is already capable of describing changes in valuation and resolution. The positive proposal survives as a candidate about *ongoing living answerability*; it has **not yet** secured a new constitutive category or a definitive failure of Husserl. That must remain visible in the public genealogy, particularly if future research shows the difference disappears.
+
+The theological digression about congregations' enacted ends, budgets, buildings, land and affected lives is a distinct constructive possibility, not a completed case study. The documentary record should keep both the productive affirmative intuition and the rival account available for a future reader to assess.
 
 ## November 6: a stable concern, an operative purpose
 
