@@ -39,6 +39,8 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Reading and memory can mediate an organism's contribution to intentional formation. Reported leaf restraint and a prospective root-care project give that process different kinds of evidence; practical correction and philosophical discrimination remain separate tests.
+
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — The earlier mowing purpose already included several goods. The positive account must explain how beneficiaries become decisive among existing purposes, and distinguish a representation from the living being intended through it.
 
 - [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Ecological learning may reorder which existing concern governs a particular decision. The distinction between immediate purpose and standing commitment sharpens the end/means test without establishing act-level constitution.

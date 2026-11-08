@@ -46,6 +46,8 @@ Browse: #husserl
 
 ## From the sits
 
+- [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Familiarity and expectation in *Ideas II* §59 strengthen the developmental rival. Evidence sufficient to revise a care plan need not discriminate between accounts of intentional formation.
+
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Looking at climbing ivy gives a particular act for comparison. A known model changes belief and intended beneficiary; the comparison has not yet isolated a constitutive difference.
 
 - [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — A changed immediate purpose can coexist with a stable broad commitment; motivated valuation remains a strong explanation of the plan reversal.
