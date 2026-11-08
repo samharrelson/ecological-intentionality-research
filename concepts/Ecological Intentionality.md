@@ -37,6 +37,12 @@ October 13 adds a redundancy test for the methodological proposal itself. [Bryan
 
 Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Agency](Place%20and%20Agency.md)
 
+## November 8: formation, mediation and what actually follows from the evidence
+
+This morning's [sit](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) strengthens the positive proposal in a bounded way. I report actually **retaining fallen leaves** rather than only proposing it, while the possible **relocation of a climbing dome** near a visible root remains unperformed. The relation with the walnut, ecological reading, previous commitments, memory and the actual uses of the yard all enter the practical history. An organism's contribution need not be unique to its species or unmediated to matter, but I cannot infer a sole cause or a new conscious act-type from that history.
+
+The [public Issue #14 process-tracing matrix](https://github.com/samharrelson/ecological-intentionality-research/issues/14#november-8-2026-bounded-longitudinal-evidence-matrix-first-published-process-trace) documents the sequence across settings and marks that bounded evidence criterion complete. The next philosophical question concerns the **work each explanation performs**: Husserlian formation of personal habituality, Bateson's learning across contexts, and Watts's challenge to the priority of a perceiving human subject are not interchangeable. The account must also distinguish a living other's independent organization, its practical good, the representation through which it is encountered, and the intentional form of a human act. There is no guarantee that all those differences require one new category.
+
 ## From the sits
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Reading and memory can mediate an organism's contribution to intentional formation. Reported leaf restraint and a prospective root-care project give that process different kinds of evidence; practical correction and philosophical discrimination remain separate tests.

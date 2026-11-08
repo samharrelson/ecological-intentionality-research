@@ -11,6 +11,10 @@ Related: [Remainder](Remainder.md) · [Ecological Intentionality](Ecological%20I
 
 **November 7: looking down changes the questions, not the biological facts by itself.** I approached the walnut under blue sky, noticed the yellow and darkened leaf layers, then turned deliberately to the ivy, violets and lilyturf around the trunk. Repeated looking led me to find different plants and to ask about light, soil, spread and neighboring lives. But app-assisted naming, reported reference-book comparisons, current perceptual appearance and actual ecological effects each have their own warrants. The previous mowing plan's full purpose is also harder to reconstruct than a tidy-yard story; soil and human access mattered alongside appearance. Attention can surface a competing good and lead to further inquiry. It doesn't manufacture a plant's biological interest or show that a proposed act will help it. [November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md).
 
+## November 8: attention develops through the relation
+
+In [*What This Life Makes Possible*](https://ecologicalintentionality.org/sits/2026-11-08), attention is not only a practice I intentionally direct toward the walnut. Its *future saliences* appear to have developed through earlier encounters, remembered change, reading and concern. I meant to inspect a branch and found myself attending to the groundcover instead. That shift is an observed reorientation within a scripted, learned practice, **not** proof that the tree by itself caused it. The positive problem concerns the history through which some features can now present themselves as practical questions, while Husserlian habituality and Batesonian contextual learning remain strong explanatory rivals.
+
 ## From the sits
 
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Looking down at a climbing vine and uneven groundcover surfaces a practical question; taxonomy, harm, and act-constitution require further evidence.

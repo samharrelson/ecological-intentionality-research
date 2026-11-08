@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 7, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 8, 2026 · Black Walnut Field Notes · An argument in progress*
 
 For the past several weeks, I've been returning almost daily to a black walnut tree in Spartanburg, South Carolina. What began as an effort to develop an account of [ecological intentionality](../concepts/Ecological%20Intentionality.md) has become a more demanding inquiry into perception, embodiment, living form, and what responsible ecological attention might require.
 
@@ -18,6 +18,16 @@ I'm less certain than I was at the end of my first comprehensive examination tha
 **On this page:** [Qualified findings](#what-the-inquiry-has-established-so-far) · [The constructive turn](#the-october-24-turn-from-description-to-a-proposition) · [Two questions](#the-two-questions) · [Field encounters](#what-the-walnut-has-made-difficult) · [Audio](#hear-the-practice) · [Interlocutors](#thinkers-who-complicate-the-account) · [Open questions](#what-remains-open) · [Next steps](#what-comes-next)
 
 For the detailed, dated development of the argument, see [How the Inquiry Developed](how-the-inquiry-developed.md). The individual Field Notes remain the primary public record of the encounters.
+
+## November 8: formation becomes a more accountable history
+
+In [What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md), I carried yesterday's affirmative question back to the walnut: what has this relation helped me become able to notice and intend, and what brought those changes about? The morning offered two different practical evidence types. I **report having left the leaves where they were** since yesterday, a bounded follow-through on an earlier intention but no demonstrated ecological benefit. I also look again at climbing equipment near an exposed root and **consider investigating relocation**. That is a new prospective purpose, not a completed intervention or an arboricultural finding.
+
+Reading and memory belong to this history. Research on leaf litter helped specify a possible good, and returning to the walnut let me consider whether that general guidance applies here. These mediations do not automatically displace the actual organism's contribution. But neither do they prove that its independent life is the sole cause of my changed intentional habits. The [Issue #14 longitudinal matrix](https://github.com/samharrelson/ecological-intentionality-research/issues/14#november-8-2026-bounded-longitudinal-evidence-matrix-first-published-process-trace) now traces seven public episodes across October 29–November 8, explicitly differentiating reported attentional transfer, enacted action, revised plans, retrospective corrections, independent living activity, mediations and what remains unobserved. **That bounded matrix criterion is complete; the proposed mechanism and comparative explanatory test are not.**
+
+An ordinary meaningful artifact gives the account a necessary control. A LEGO dinosaur can shape human anticipation without being biologically alive. A photograph of the walnut can carry care for the *living referent* although the medium is inanimate. If a real organism contributes something different through its continuing organization and possible good, I must say whether the difference concerns its ontology, an external norm of responsible care, the historical genesis of practical intentions or the constitution of an ongoing act. Husserl's personal habituality and Bateson's contextual learning are especially strong explanatory rivals; Jardine (2022, ch. 6) and Bateson's learning essays have now been identified as **targeted readings**, not declared defeated.
+
+The constructive theological turn remains separate. Today's [Philippians 2:1–11](https://www.biblegateway.com/passage/?search=Philippians+2%3A1-11&version=NRSVUE) reflection proposes that participating in the mind of Christ might reorder what a community understands its decisions to be for, but the ecological extension, the distribution of costs, and a documented congregational case still need their own warrants. The walnut's fallen leaves are not themselves a theological proof.
 
 ## November 7: the living walnut and the question of non-substitutability
 

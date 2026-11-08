@@ -15,6 +15,12 @@ What I still want to investigate is whether the particular *conscious intention*
 
 Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md)
 
+## November 8: Learning II and the history of changed questions
+
+The [November 8 field note](https://ecologicalintentionality.org/sits/2026-11-08) asks how repeated encounter, reading and practical decisions can change **what I learn to consider relevant**. Bateson's person–axe–tree circuit is only part of his answer. His earlier “Social Planning and the Concept of Deutero-Learning” (in *Steps to an Ecology of Mind*, printed essay starts p. 166) and later “The Logical Categories of Learning and Communication” (starts p. 284) develop learning at different levels, including changes in how contexts and expectations are recognized. The selected indexed text warns that Bateson's numbering changes across these essays. **These are new reading priorities, not completed close comparisons.**
+
+If I claim that my relation to the walnut has changed which practical questions arise for me, a Batesonian account of learning-to-learn is a powerful precedent. What remains to examine is whether differentiated organismic goods and the actual human act of intending require an explanation not already offered by situated learning and wider informational circuits. A circuit extending beyond the body is not thereby one shared conscious subject.
+
 ## From the sits
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Mediated learning across encounters belongs within the strongest comparison with ecological formation. Changed questions and practical projects do not by themselves establish an explanatory difference from feedback and memory.

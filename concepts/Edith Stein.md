@@ -22,6 +22,10 @@ Related: [Remainder](Remainder.md) · [Vegetal Encounter](Vegetal%20Encounter.md
 
 Browse: #edithstein
 
+## November 8: organism-answerable restraint without invented empathy
+
+The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds a bounded report of leaving leaf litter untouched and a possible reconsideration of equipment beside a root. Neither makes the walnut's own experience transparent. Stein's qualified vegetal life-phenomena do not abolish **non-primordiality**, and botanical uncertainty is not the same issue as another being's inaccessible lived experience. Her discussion of a possible and a realized good also prevents me from presenting restraint as established biological care. Hal King's 2026 discussion of perceptual and intuitive plant empathy remains a **specific selected-reading predecessor**, particularly where interpretation gives rise to inquiry or intervention, rather than proof of an unprecedented ecological practical operation.
+
 ## From the sits
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — A report of leaving leaves is evidence of practical follow-through, not yet realized biological good; botanical uncertainty remains distinct from the other being's unavailable experience.
