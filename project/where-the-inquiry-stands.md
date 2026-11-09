@@ -33,7 +33,7 @@ The inquiry has also produced six smaller, qualified [public findings](../RESEAR
 
 The *Ecology of the Cross* asks how a community formed through Christ's life, cross and resurrection might reconsider its purposes among vulnerable human and more-than-human neighbors. Congregations may profess ecological care while other ends govern concrete choices about property, maintenance, finances or mission. Whether their shared horizons can change through encounter and inquiry is a promising question, **not a completed congregational study**.
 
-Christian theological claims require textual, doctrinal and historical grounds of their own. The black walnut cannot prove incarnation, kenosis, reconciliation or resurrection. Nor may self-emptying become a justification for ecological injury or material dispossession. See the [affirmative theological research issue #5](https://github.com/samharrelson/ecological-intentionality-research/issues/5), alongside the [Ecology of the Cross concept](../concepts/Ecology%20of%20the%20Cross.md).
+Christian theological claims require textual, doctrinal and historical grounds of their own. The black walnut cannot prove incarnation, kenosis, reconciliation or resurrection. Nor may self-emptying become a justification for ecological injury or material dispossession. See the [affirmative theological research issue #5](https://github.com/samharrelson/ecological-intentionality-research/issues/5) and the [dated research history](how-the-inquiry-developed.md) for the theological development.
 
 ## Hear the practice
 
