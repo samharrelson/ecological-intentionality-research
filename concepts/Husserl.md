@@ -50,7 +50,11 @@ The [November 8 sit](https://ecologicalintentionality.org/sits/2026-11-08) follo
 
 The remaining test isn't whether reading or living encounter can change my habits. It's whether something about the organism's independent life, or the normativity of care for its actual good, requires an account beyond this robust genetic description. A photograph can mediate attention to a real walnut; a meaningful LEGO artifact can also shape the history of an agent's projects. Different referents do not by themselves demonstrate different act-structures.
 
+**November 9: the practical “I can” and nature's motivational ground.** The [November 9 sit draft](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) reports a trial of moving the children's dome before recording and an intention to relocate it for the possible benefit of the walnut. *Ideas II* §60(a) offers a concrete description of experienced practical capability and resistance, while §§55–56 place this within motivated personal life. The trial shows what the researcher believes he can do; it doesn't establish that moving is required or beneficial. A relevant selected scholarly comparison is James Jardine, *Empathy, Embodiment, and the Person* (Springer, 2022), **chapter 4 §4.4**, on nature as motivating emotion and practical intending, alongside his **chapter 6 §6.1.2** on voluntary movement and affection. This is a constructive resource, not an argument that Husserl treated nature as passive information. **Source status:** selected indexed excerpts, not newly page-image-verified direct quotations or a complete Husserl/Jardine comparison.
+
 ## From the sits
+
+- [November 9, 2026: Directed Through This World](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) — A selected *Ideas II* §60 passage explains practical possibility through experienced capability. Testing whether equipment can be moved is distinct from the purpose of moving it and the adequacy of the proposed care.
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Familiarity and expectation in *Ideas II* §59 strengthen the developmental rival. Evidence sufficient to revise a care plan need not discriminate between accounts of intentional formation.
 

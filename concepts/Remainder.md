@@ -9,7 +9,11 @@ A theological question now opens from this dynamic account, but it remains an ex
 
 Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md) · [Vegetal Encounter](Vegetal%20Encounter.md)
 
+**November 9, intimacy with remainder as a discipline of directedness.** [This morning's case](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) distinguishes two conscious acts: deciding what a possible dome relocation is *for*, and looking at bark to understand a continuing life. Some unseen root or bark processes can become more knowable through biological study; otherness doesn't vanish when that information improves. An intended act can be intimately and materially answerable to another life without becoming that life's own intention or guaranteeing its benefit. This is a possible role of *remainder* in the **orientation** of consciousness, not just a limit on perception.
+
 ## From the sits
+
+- [November 9, 2026: Directed Through This World](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) — Visible bark prompts inquiry into processes beyond the immediate view. Investigable biological unknowns and another life's independent continuation remain distinct within increasing familiarity.
 
 - [October 28, 2026: What the Branch Leaves Open](../field-notes/2026-10-28%20-%20What%20the%20Branch%20Leaves%20Open.md) — Removal changes what is present without disclosing the fracture's history or the action's benefit; another trunk feature becomes visible without its cause becoming known.
 - [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — A high bark feature is visible while its cause remains unknown; the squirrel's particular experience poses a different question.
