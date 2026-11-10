@@ -66,7 +66,7 @@ This doesn't establish a new category of intentionality. It gives me a particula
 
 ### The tree doesn't deliver a parable
 
-About halfway through the sit, I found myself comparing this relationship to the way a parable can unsettle a listener. I love the Good Samaritan and the prodigal son partly because they don't function merely as flat instructions. You can return to the same story and be challenged in a different way because of who you are and what you're bringing to it.
+About halfway through the sit, I found myself comparing this relationship to the way a parable can unsettle a listener. I love the Good Samaritan and the prodigal son partly because they aren't flat instructions. You can return to the same story and be challenged in a different way because of who you are and what you're bringing to it.
 
 I don't mean that the walnut is telling me a story or preaching at me. It isn't secretly giving me a command about my yard. Rather, the relationship keeps disturbing the questions I thought I had already settled. I'm out here with one purpose, and something about this actual place can make me ask what that purpose is for. The parable is my interpretive comparison, not evidence that the tree has composed one.
 
@@ -86,7 +86,7 @@ I also said something more speculative aloud today. I suspect that trees and oth
 
 I don't mean that a rock, a river, a walnut and a human being necessarily possess the same sort of inner life. Some of these are organisms; some are material formations or relations that include living and nonliving processes. Nor does reciprocal influence by itself prove that the other side of the relationship intends me as I intend it.
 
-What today's encounter can establish is narrower, and perhaps more useful for the present paper. I'm involved with a living being whose ongoing activity I don't author. My conscious project is beginning to include what I understand as that being's possible good. I'm trying to discover what it would mean for that good to participate in the direction of the intention, not merely appear later as an external ethical test.
+What today's encounter can establish is narrower, and perhaps more useful for the present paper. I'm involved with a living being whose ongoing activity I don't author. My conscious project is beginning to include what I understand as that being's possible good. I'm trying to discover what it would mean for that good to participate in the direction of the intention, rather than enter only afterward as an external ethical test.
 
 This is precisely where **intimacy with remainder** becomes something more than a description of uncertainty. The closer I become to the walnut and the more concrete my purposes become, the more important it is that the tree is not exhausted by my description of it. Some of what I don't know is researchable. Otherness doesn't disappear when those facts become clearer.
 
@@ -128,7 +128,7 @@ The [Psalm 104:10–24](https://www.biblegateway.com/passage/?search=Psalm+104%3
 
 ## Question Carried Forward
 
-**How does this independent life enter what I am presently trying to do—and what evidence could change the end itself, rather than only the means I choose?**
+**How does this independent life enter what I am presently trying to do, and what evidence could change the end itself rather than only the means I choose?**
 
 Related threads: [Ecological Intentionality](../concepts/Ecological%20Intentionality.md) · [Remainder](../concepts/Remainder.md)
 

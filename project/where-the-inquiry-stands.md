@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 9, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 10, 2026 · Black Walnut Field Notes · An argument in progress*
 
 I've been returning regularly to a black walnut in Spartanburg, South Carolina, keeping dated recordings, observations, photographs and research notes. The practice began with a phenomenological question about how another living being appears. It has opened a further question about **how the world participates in the directedness of individual and communal consciousness**: not only what we notice or learn about living beings, but how independent lives and material processes may shape what we are consciously directed toward, what our purposes are for, and what could fulfill or correct those purposes.
 
@@ -11,11 +11,11 @@ The [Essays section](https://github.com/samharrelson/ecological-intentionality-r
 
 ## The affirmative question
 
-**The world is not merely what consciousness is directed toward. Its independent lives and processes may participate in the very directedness of consciousness, even while remaining irreducibly other.**
+**The world is not only what consciousness is directed toward. Its independent lives and processes may participate in the very directedness of consciousness, even while remaining irreducibly other.**
 
 That is the affirmative working proposal. Ecological intentionality concerns conscious directedness **toward and through** ecological relationships. It includes reception: I don't author every possibility or limit that becomes significant in a practical act. It includes asymmetrical reciprocity and **intimacy with remainder**: real relations may form purposes while other lives continue beyond what I know, intend or control. Historical learning is one aspect, but the question also concerns **present intentional activity, anticipated futures, and genuinely shared communal purposes**. The proposal does not require one fused consciousness in a community or a humanlike co-intender in a tree.
 
-The issue is whether a living other's independent activity and possible good can participate in specifying a particular intended end, not merely supply a new object of concern or an after-the-fact standard for success. That is a philosophical hypothesis we are constructing and testing, not a demonstrated novel act-type.
+The issue is whether a living other's independent activity and possible good can participate in specifying a particular intended end, rather than only supply a new object of concern or an after-the-fact standard for success. That is a philosophical hypothesis we are constructing and testing, not a demonstrated novel act-type.
 
 The black walnut has a life I did not author. Its development and possible goods are not reducible to the meanings I form about it. My account must nevertheless distinguish its independently existing life from my beliefs, memories, representations, learned habits and intentions. A picture of a living walnut can mediate a relationship to that actual life; an artificial model can also reorganize expectations. The contrast between living and artificial things is consequential, but it cannot by itself establish a new intentional structure.
 
@@ -28,6 +28,8 @@ The October 21 examination outline asks two related questions that remain distin
 Late flesh may change the ontological starting point of perception, emphasizing differentiation within a sensible field. That doesn't follow just from a hand touching bark, and it doesn't show that the walnut shares my experience. The separate ecological proposal must account for particular organisms, possible conflicting goods, biological inquiry, historical conditions, and the constitution or transformation of actual purposes. See [Husserl](../concepts/Husserl.md), [Merleau-Ponty](../concepts/Maurice%20Merleau-Ponty.md), and [the rival-theory issues #1–4](https://github.com/samharrelson/ecological-intentionality-research/blob/main/RESEARCH-ROADMAP.md).
 
 ## What the record supports
+
+The [November 10 sit, *A Future Not Mine Alone*](../field-notes/2026-11-10%20-%20A%20Future%20Not%20Mine%20Alone.md) develops an additional temporal dimension of directedness. I anticipated rapid seasonal leaf fall, yet the lower canopy's actual thinning surprised me in its *extent and pace*. That adjusts an expectation without showing that the dome-care intention changed: in the recorded sit, the relocation remained unperformed. An intentional future can be definite about the beneficiary and the project while still open to what independently unfolding lives may require of its fulfillment. This is a **constructive philosophical account in progress**, not a demonstrated new basic conscious act. Mark 4:26–29, introduced in the prepared sit, raises a separate theological question about action and growth beyond the sower's control; it does not establish a congregational outcome.
 
 The [November 9 sit, *Directed Through This World*](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) provides a new **prepared public draft** whose publication remains pending at the time of this source edit. It reports that before recording I tested the children's climbing dome enough to judge I could move it, then stated an intention to relocate it for the walnut's possible good. This distinguishes an experienced **practical “I can”** from an intended end and from the independent evidence needed to know whether a move actually benefits the tree. **The move has not been reported completed in this sit**, and root injury has not been diagnosed. A second conscious act of looking at bark raises a different kind of remainder: visible surface, inferred living processes and the continuing independence of the organism. The stronger belief I voiced about conscious activity in trees, rivers, rocks and soil is a **metaphysical proposition for further argument**, not a directly seen result.
 
