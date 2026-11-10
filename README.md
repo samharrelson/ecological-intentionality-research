@@ -179,7 +179,7 @@ The goal is not to pretend that unfinished work is finished. It is to make revis
 ## Author
 
 Sam Harrelson
-PhD candidate, Ecology, Spirituality, and Religion
+PhD student, Ecology, Spirituality, and Religion
 California Institute of Integral Studies
 
 Public writing: https://samharrelson.com
