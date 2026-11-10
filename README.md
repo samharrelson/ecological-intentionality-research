@@ -1,4 +1,4 @@
-# Ecological Intentionality — Public Research Layer
+# Ecological Intentionality: Public Research Layer
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23176757.svg)](https://doi.org/10.5281/zenodo.23176757)
 
@@ -38,7 +38,9 @@ The public workflow is:
 
 **Ecological intentionality isn't just phenomenology with more objects. It's an inquiry into the ecological formation of intentional life itself.**
 
-I now begin with a **positive, cumulative phenomenon** documented by the Black Walnut Field Notes: through sustained encounters with the walnut's independently developing life, my habits of attention, anticipations, practical judgments and intended actions have changed. The inquiry's reported effects extend beyond the sits, including noticing people on the road differently and reconsidering ordinary practices elsewhere in the yard. This is not only a change in how meaningful the walnut appears *to me*. I am investigating how another living being's development participates in the history through which my own intentional life takes shape.
+I am developing a **positive account of conscious directedness within ecological relationships**. Consciousness is directed *toward* living beings and places, but it may also be directed *through* relations with independently active lives. Those relations can help specify what a practical intention is *for*, whose possible good matters, what future it anticipates, and what could count as its fulfillment. **Reception, asymmetrical reciprocity, and intimacy with remainder** are working concepts in this account, not results established by naming them.
+
+Repeated Black Walnut encounters have changed my reported attention, expectations, practical judgments, and plans, sometimes outside the original sits. They involve perception, reading, memory, prior commitments, and the walnut's independent development. The constructive question concerns **present intentional life as well as its history**: how another being's activity and possible good might participate in forming a definite yet revisable purpose, without that being sharing the human intention or losing its own independent future.
 
 This documented first-person transformation is philosophically important whether or not Husserl's genetic intentionality, Stein's nuanced account of otherness, Merleau-Ponty's flesh, or Bateson's ecological learning can explain its structure. The challenge of those accounts is essential, but **the whole research program cannot be reduced to defeating Husserl**. A stronger claim that the other organism is a new constitutive factor *within a particular conscious act* still requires independent argument. Vanessa Watts's Place-Thought challenges the even more basic assumption that the human perceiver should be the privileged starting point; her distinct Indigenous intellectual and political contexts must not be treated as portable confirmation of the European philosophical proposal.
 
@@ -65,9 +67,17 @@ The Black Walnut Field Notes have become a recurring test of these questions. Th
 
 The October and early November 2026 sits have introduced another question: whether sustained relationship with the walnut is reorganizing how I encounter beings and situations beyond the backyard, including other humans.
 
-This is not merely a claim about acquiring more information or developing environmental concern. It concerns possible changes in perceptual salience, anticipation, responsiveness, and what I come to intend or become willing to revise.
+This concerns more than acquiring information or developing environmental concern. It involves changes in perceptual salience, anticipation, responsiveness, and what I come to intend or become willing to revise.
 
 But those changes may already be explained by Husserlian motivation and habituality, Merleau-Ponty's embodied perception, or Bateson's ecological learning and distributed mental processes. The research must distinguish developmental influence, participation in an ongoing intentional act, and the normative adequacy of an action. None can be assumed from the others.
+
+### November 9–10: received direction and a future that remains open
+
+The [November 9 sit, *Directed Through This World*](https://ecologicalintentionality.org/sits/2026-11-09) describes a practical intention to relocate a children's climbing dome near a visible walnut root, along with an earlier trial establishing that I believe I can move it. The trial concerns **practical capacity**. The intended end concerns a possible arrangement that accommodates play and the walnut's continuing life. No root injury, completed relocation, or ecological benefit was established.
+
+In the [November 10 sit, *A Future Not Mine Alone*](https://ecologicalintentionality.org/sits/2026-11-10), I anticipated rapid leaf loss but was still surprised by its extent and pace. My expectation became more specific, while the dome-care project remained intended and unperformed in the recording. **Changed anticipation, sustained intention, revised means, and a genuinely changed end require different evidence.**
+
+These encounters contribute to a positive proposal: an intention can be definite about a beneficiary and possible future while remaining answerable to another living being's independent development and the evidence of what would help or harm it. That is a claim about the direction and corrigibility of conscious purpose, not proof of a new basic act-structure. A related question concerns how a congregation might develop a genuinely shared *we*-intention within the lives of a place; that remains a prospective philosophical and theological inquiry, not a reported church outcome. See the [current inquiry](project/where-the-inquiry-stands.md) and [affirmative workstream #14](https://github.com/samharrelson/ecological-intentionality-research/issues/14).
 
 ### November 7: the walnut helps shape the history of intentional life
 
@@ -75,7 +85,7 @@ The published [November 7 sit, *Whose Good Governs the Act?*](https://ecological
 
 Today's reflection also corrects the earlier mowing story: the original plan served *soil care and safe access* as well as tidiness, while leaving leaves whole is now intended partly for habitat. Different beings and practical ends have to be weighed rather than assimilated into one harmonious good. A climbing ivy vine is directly visible; the identification of species and the ecological consequences require more evidence.
 
-**Live evidence-based roadmap steps:** a published, charitable [Husserl reconstruction](concepts/Husserl.md) meets a narrowly scoped completion criterion for [#1](https://github.com/samharrelson/ecological-intentionality-research/issues/1), without proving that Husserl fails. A specific public distinction between coexistence and genuinely different organismic goods meets one limited conceptual criterion in [#3](https://github.com/samharrelson/ecological-intentionality-research/issues/3), without an actual measured conflict. The main positive [formation problem #14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) has its own evidence and unfinished longitudinal, theoretical and rival tests.
+**Live evidence-based roadmap steps:** a published, charitable [Husserl reconstruction](concepts/Husserl.md) meets a narrowly scoped completion criterion for [#1](https://github.com/samharrelson/ecological-intentionality-research/issues/1), without proving that Husserl fails. A specific public distinction between coexistence and genuinely different organismic goods meets one limited conceptual criterion in [#3](https://github.com/samharrelson/ecological-intentionality-research/issues/3), without an actual measured conflict. The main positive [formation problem #14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) now has a bounded longitudinal evidence matrix and a provisional five-part account; its Husserl/Bateson/Watts comparative criterion remains open.
 
 ### November 6: an ecological commitment and the operative end of an act
 
@@ -91,7 +101,7 @@ The parallel theological question is whether a congregation's enacted purposes c
 
 The [November 5 field sit, *The Yellow Sea and the Ends of Care*](field-notes/2026-11-05%20-%20The%20Yellow%20Sea%20and%20the%20Ends%20of%20Care.md) sharpens a concrete distinction. A familiar route and unexpectedly open canopy generated a question about why leaves fell; a correct causal explanation would **not by itself** determine whether leaving, moving, or mulching their litter would benefit the walnut, its neighbors, or the soil community. The inquiry now separates **what happened**, **what available actions might do to particular lives**, and **which goods and beneficiaries should guide an intended action**. The actual plant comparison remains unperformed, and no incompatible organismic goods have been demonstrated.
 
-This supplies an increasingly specific **beneficiary-sensitive account of practical purpose**, not yet evidence that another life constitutes the conscious act. Husserl's motivated and habitual intentionality, Stein's physician and gardener examples, contemporary phenomenologies of agency, and [Peirce's account of inquiry and agapic growth](concepts/Charles%20S.%20Peirce.md) are serious explanatory predecessors and rivals. The next decisive question is: **Can another being's independently unfolding good alter the *end* of an intention, rather than merely its information, means, or later standard of success?** A strong rival account could explain everything documented so far.
+This supplies an increasingly specific **beneficiary-sensitive account of practical purpose**, not yet evidence that another life constitutes the conscious act. Husserl's motivated and habitual intentionality, Stein's physician and gardener examples, contemporary phenomenologies of agency, and [Peirce's account of inquiry and agapic growth](concepts/Charles%20S.%20Peirce.md) are serious explanatory predecessors and rivals. The next decisive question is: **Can another being's independently unfolding good alter the *end* of an intention, rather than only its information, means, or later standard of success?** A strong rival account could explain everything documented so far.
 
 A possible future Presbyterian class in religion and ecology provides a separate theological and institutional question: could learning about a place and its affected communities revise what a congregation understands its mission to be *for*? The class has been proposed, not approved or conducted, and no study or ecological outcome is being claimed. Biblical and doctrinal warrant for the *Ecology of the Cross* remains distinct from field observation and institutional certification. Follow the [current inquiry](project/where-the-inquiry-stands.md), the [public sources](project/sources-and-reading.md), and the [open roadmap](RESEARCH-ROADMAP.md) for the continuing tests.
 
@@ -105,6 +115,7 @@ The central conversation includes:
 - **Gregory Bateson:** Distributed mind, ecological circuits, memory, recursive learning, and the boundaries of individual mental processes.
 - **Charles S. Peirce:** Surprise, inquiry, developing practical meaning, and the tension between independence and harmony in agapic growth. Formal abduction requires its own source comparison.
 - **Raymond Ruyer:** Organismic form, immanent organization, absolute survey, and the relationship between self-relation and living activity.
+- **Ecological psychology and enactivism:** Gibson's affordances, Koffka's distinction between behavioral and geographical environments, and work on skilled engagement and social practices raise a relevant question about how meaning takes shape. The developing comparison asks what the living other's own activity and possible good contribute beyond the affordances available to the human observer; no full comparative reading is claimed here.
 - **Whiteheadian and process phenomenology:** Whether relational becoming and process already account for what ecological intentionality proposes.
 - **Indigenous relational thought, ecowomanism, and ecological theology:** Vanessa Watts, Robin Wall Kimmerer, Melanie Harris, and others challenge accounts that begin with a detached human perceiver or overlook the historical, political, and material conditions of ecological relations.
 
