@@ -56,6 +56,10 @@ The remaining test isn't whether reading or living encounter can change my habit
 
 ## From the sits
 
+- [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): A completed relocation and an unfulfilled purpose. Husserl's graded account of fulfillment, and the distinction in his lectures on willing between the will at work in a present action and a resolve directed at a future end, already allow that finishing an act does not finish what it was for. The recording's picture of fulfillment as a single moment is corrected in the note. Selected secondary passages, not a reading of the lectures themselves.
+
+- [November 10, 2026: A Future Not Mine Alone](../field-notes/2026-11-10%20-%20A%20Future%20Not%20Mine%20Alone.md): Rapid leaf loss was anticipated, yet its pace still surprised. Open anticipation and the practical "I can" of *Ideas II* §60(a) describe the morning without a new category; the question left is what the living beneficiary contributes to the end and its conditions of fulfillment.
+
 - [November 9, 2026: Directed Through This World](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md): A selected *Ideas II* §60 passage explains practical possibility through experienced capability. Testing whether equipment can be moved is distinct from the purpose of moving it and the adequacy of the proposed care.
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md): Familiarity and expectation in *Ideas II* §59 strengthen the developmental rival. Evidence sufficient to revise a care plan need not discriminate between accounts of intentional formation.
