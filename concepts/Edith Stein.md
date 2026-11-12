@@ -28,6 +28,8 @@ The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds
 
 ## From the sits
 
+- [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): The communal-experience question asks whether coordinated practice is also experienced as a shared purpose. Today's source is the [SEP reconstruction](https://plato.stanford.edu/entries/stein/), not a freshly checked primary “Individual and Community” passage; the participants' reasons remain to be heard. Secondary readings by Tullius, Sobrak-Seaton and MacIntyre add that members can contribute to one communal end from different motives, and that Stein, on Calcagno's reading, describes solidarity among members and doesn't posit a separate we-intentionality.
+
 - [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): Completing a relocation does not establish its benefit to the tree. *Finite and Eternal Being* V §§16–17 supplies a primary distinction between knowing, actual means and the beneficiary's realized good, while the exposed patch raises a further question about how beneficiaries enter an end.
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — A report of leaving leaves is evidence of practical follow-through, not yet realized biological good; botanical uncertainty remains distinct from the other being's unavailable experience.

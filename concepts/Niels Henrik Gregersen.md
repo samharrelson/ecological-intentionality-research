@@ -22,4 +22,4 @@ Related: [Where the Inquiry Stands](../project/where-the-inquiry-stands.md) · [
 
 ## From the sits
 
-*No public black walnut sit has yet used Gregersen's theology as an established explanation of an encounter. This page tracks a reading and a live theological objection, not a result of field observation.*
+- [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): Selected primary passages from the 2015 introduction give the proposed theology of return an incarnational starting point and a limit on identifying God with harmful events. The argument about revisiting communal purposes is a constructive extension, not an established explanation of the plants or a result of field observation. The complete chapter and its typology remain to be read. Elizabeth Johnson's essay in the same volume, "Jesus and the Cosmos: Soundings in Deep Christology," observes that John 1:14 says σάρξ (flesh) where it could have said ἄνθρωπος (human being), and then notes that the flesh the Word became was specifically human. I'm keeping both halves of that.
