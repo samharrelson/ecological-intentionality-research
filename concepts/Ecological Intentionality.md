@@ -51,6 +51,8 @@ The [public Issue #14 process-tracing matrix](https://github.com/samharrelson/ec
 
 ## From the sits
 
+- [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): I try out three moments of an ecological intention (aim, act and return) and three positions around a purpose (who it's for, who it touches without meaning to, and who it leaves out), with the return as how a life moves between them. Return through observation, reading and proposed consultation can reopen care's means and whose reasons enter a purpose. A possible maintenance alternative is not an enacted revision, and one person's new justification is not automatically a shared end.
+
 - [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): An enacted purpose changes a shared situation and is followed by an explicit winter-rest commitment for the exposed plants. The dated advance is beneficiary specification, qualified by prior seeing, intentional non-mowing and prepared questions. Effects on the tree and patch remain unknown.
 
 - [November 10, 2026: A Future Not Mine Alone](../field-notes/2026-11-10%20-%20A%20Future%20Not%20Mine%20Alone.md): Rapid leaf loss was broadly anticipated, but its degree and pace still unsettled expectation. The dome-care intention remained proposed and unperformed. A definite purpose can be directed toward an independent living beneficiary while the anticipated conditions of fulfilling it remain revisable; this is a positive problem about conscious directedness, not a reported changed end.

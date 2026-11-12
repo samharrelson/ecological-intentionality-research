@@ -13,6 +13,8 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): Coming back to the ring leaves two different remainders in view. The plants' species, roots and inhabitants are investigable unknowns. Other people's reasons for a shared practice aren't available by looking at all; they have to be asked for and heard. Familiarity with a place makes neither transparent, and the return is how each can still correct me.
+
 - [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): The dome is moved and the walnut's good remains open; a ring of plants I had seen for two years becomes something I have to decide about. Identification, root condition and effects are investigable unknowns. The continuing lives themselves are not exhausted by answering those questions, and a definite winter commitment doesn't make me the author of what follows.
 
 - [November 10, 2026: A Future Not Mine Alone](../field-notes/2026-11-10%20-%20A%20Future%20Not%20Mine%20Alone.md): The canopy's actual pace exceeded a broadly anticipated seasonal change. An intended future can be meaningful while open to correction by another life whose unfolding is not mine to predict or possess. Remainder concerns that continuing independence as well as what I have not yet learned.
