@@ -17,6 +17,8 @@ In [*What This Life Makes Possible*](https://ecologicalintentionality.org/sits/2
 
 ## From the sits
 
+- [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): A prepared turn toward neighboring trees yields unequal familiarity and an unforeseen question about a branch. The walnut's leaf fall exposes the oak break; comparison of break, texture and color confirms that the piece removed on October 28 came from the oak. The clarification records an achieved correction, while the fall itself remains unwitnessed and ecological benefit unestablished. The ring’s earlier omission from deliberation remains distinct from the oaks’ lesser familiarity.
+
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Looking down at a climbing vine and uneven groundcover surfaces a practical question; taxonomy, harm, and act-constitution require further evidence.
 
 

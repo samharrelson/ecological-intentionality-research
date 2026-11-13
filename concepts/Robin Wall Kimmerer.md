@@ -18,6 +18,10 @@ Browse: #robinwallkimmerer
 
 ## From the sits
 
+- [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): “Mishkos Kenomagwen: The Teachings of Grass” enters a question about whether to cut back a patch of liriope. The research begins with Indigenous basket makers' question and harvesting knowledge. Harvested sweetgrass thrives and untouched plots decline, so leaving a plant alone isn't always care. The chapter also says plants differ and some are harmed by harvest. Liriope isn't sweetgrass or a true grass, so I take the form of the question from Kimmerer and no answer for this patch.
+
+- [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): return as giving back, from the September 22 sit, is kept distinct from return as coming back to a purpose after acting on it.
+
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md) (bark fragment, gift-perspective, and the limits of permission)
 - [October 8, 2026: Attachment Is Not Membership](../field-notes/2026-10-08%20-%20Attachment%20Is%20Not%20Membership.md)
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)

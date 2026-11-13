@@ -13,6 +13,8 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 ## From the sits
 
+- [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): The walnut's leaf fall makes a formerly obscured oak break visible. In a clarification after the review, I identify the piece by the compost pile as the October 28 removal and confirm oak origin through its matching break, texture and color. One uncertainty has been resolved through perception and comparison. The fall itself remains unwitnessed, and the removal's benefit remains unknown. Different questions can change status independently; uncertainty need not be preserved after its evidential basis has been supplied.
+
 - [November 12, 2026: Who Asked for the Ring](../field-notes/2026-11-12%20-%20Who%20Asked%20for%20the%20Ring.md): Coming back to the ring leaves two different remainders in view. The plants' species, roots and inhabitants are investigable unknowns. Other people's reasons for a shared practice aren't available by looking at all; they have to be asked for and heard. Familiarity with a place makes neither transparent. Returning through observation and listening is one way each can still correct me; receptivity to them can also shape planning and action.
 
 - [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): The dome is moved and the walnut's good remains open; a ring of plants I had seen for two years becomes something I have to decide about. Identification, root condition and effects are investigable unknowns. The continuing lives themselves are not exhausted by answering those questions, and a definite winter commitment doesn't make me the author of what follows.

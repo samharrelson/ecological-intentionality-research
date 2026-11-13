@@ -12,6 +12,7 @@ What I still want to investigate is whether the particular *conscious intention*
 ## Works in this project
 
 - Gregory Bateson, *Steps to an Ecology of Mind*, “Form, Substance, and Difference,” beginning on printed p. 455, especially **pp. 465–467** in the Jason Aronson reprint for the tree–person–axe circuit, explanatory boundaries, memory, and wider paths of ideas through art. These were selected-text source checks, not a complete edition-wide quotation audit.
+- *Steps to an Ecology of Mind*, three essays on purpose: “Style, Grace, and Information in Primitive Art,” beginning at printed p. 137 (the section on the corrective nature of art, where consciousness sees only the short arcs of circuits that purpose directs); “Conscious Purpose versus Nature,” beginning on printed p. 434, which asks what happens to the picture of an oak wood drawn only to answer questions of purpose; and “Effects of Conscious Purpose on Human Adaptation,” beginning on p. 447, points 8, 14, 19 and 20. Read in extracted text on November 13; page numbers for individual passages aren't yet collated.
 
 Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md)
 
@@ -22,6 +23,8 @@ The [November 8 field note](https://ecologicalintentionality.org/sits/2026-11-08
 If I claim that my relation to the walnut has changed which practical questions arise for me, a Batesonian account of learning-to-learn is a powerful precedent. What remains to examine is whether differentiated organismic goods and the actual human act of intending require an explanation not already offered by situated learning and wider informational circuits. A circuit extending beyond the body is not thereby one shared conscious subject.
 
 ## From the sits
+
+- [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): The two conscious-purpose essays already describe selective arcs and possible correctives. “Effects of Conscious Purpose on Human Adaptation,” points 8 and 19, also treats discrepant organismic purposes and possible correction through love, art, nonhuman contact and religion. The remaining comparison concerns specific changes in an intention's beneficiary, means or governance, with synthesis still a possible result. Essays checked in extracted primary text from the Jason Aronson reprint, starting at printed pp. 434 and 447; exact passage folios remain uncollated.
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Mediated learning across encounters belongs within the strongest comparison with ecological formation. Changed questions and practical projects do not by themselves establish an explanatory difference from feedback and memory.
 
