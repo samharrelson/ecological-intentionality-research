@@ -63,6 +63,36 @@ class ExportTests(unittest.TestCase):
                 )[0]
                 self.assertIn("[Read essay](../essays/whose-good.md)", normalized)
 
+    def test_current_and_legacy_essay_index_sources_and_links(self):
+        for filename in ("Overview.md", "Essays.md"):
+            with self.subTest(filename=filename), TemporaryDirectory() as tmp:
+                vault = Path(tmp)
+                relative = Path("Public/Tracking/Essays") / filename
+                (vault / relative).parent.mkdir(parents=True)
+                (vault / relative).write_text("A published index", encoding="utf-8")
+                (vault / relative.parent / "Unpublished draft.md").write_text(
+                    "Not approved for export", encoding="utf-8"
+                )
+                pairs = list(exporter.iter_source_pairs(vault))
+                self.assertEqual(len(pairs), 1)
+                self.assertEqual(pairs[0][2], Path("essays/README.md"))
+                full, titles = exporter.build_public_index(pairs)
+                normalized = exporter.normalize(
+                    "[[" + relative.with_suffix("").as_posix() + "|Essays]]",
+                    Path("project/where-the-inquiry-stands.md"), full, titles,
+                )[0]
+                self.assertEqual(normalized, "[Essays](../essays/README.md)\n")
+
+    def test_duplicate_essay_index_sources_fail_closed(self):
+        with TemporaryDirectory() as tmp:
+            vault = Path(tmp)
+            parent = vault / "Public" / "Tracking" / "Essays"
+            parent.mkdir(parents=True)
+            (parent / "Overview.md").write_text("current", encoding="utf-8")
+            (parent / "Essays.md").write_text("legacy", encoding="utf-8")
+            with self.assertRaises(RuntimeError):
+                list(exporter.iter_source_pairs(vault))
+
     def test_renamed_essay_duplicate_fails_closed(self):
         with TemporaryDirectory() as tmp:
             vault = Path(tmp)

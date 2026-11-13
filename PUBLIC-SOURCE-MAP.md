@@ -8,7 +8,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | --- | --- |
 | `Public/Tracking/Sits/*.md` | `field-notes/` |
 | `Public/Tracking/Concepts/*.md` | `concepts/` |
-| `Public/Tracking/Essays/Essays.md` | `essays/README.md` |
+| `Public/Tracking/Essays/Overview.md` (current) or `Essays.md` (legacy name) | `essays/README.md` |
 | `Public/Tracking/Essays/Consciousness in a World We Cannot Possess.md` | `essays/consciousness-in-a-world-we-cannot-possess.md` |
 | `Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md` | `essays/whose-good.md` |
 | `Public/Tracking/Essays/Whose Good.md` or `Whose Good?.md` (after sidebar rename) | `essays/whose-good.md` |
@@ -18,7 +18,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/About the Practice.md` | `method/about-the-practice.md` |
 | `Public/Tracking/Sit Template.md` | `method/sit-template.md` |
 
-The Essays entries are an **individual-file allowlist**, not a wildcard on `Public/Tracking/Essays`. A future essay must first be deliberately published and reviewed, then added to this map and the exporter. The long and short approved names for *Whose Good?* are alternatives, not two files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
+The Essays entries are an **individual-file allowlist**, not a wildcard on `Public/Tracking/Essays`. A future essay must first be deliberately published and reviewed, then added to this map and the exporter. The current essay index is `Overview.md`, with the stable website permalink `/essays`; the older `Essays.md` source name remains supported. Only one may exist at a time. The long and short approved names for *Whose Good?* are also alternatives, not separate files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
 
 Only allowlisted public notes can become navigable GitHub links. Wikilinks whose targets are not part of this public source map are rendered as plain text rather than exposing private vault structure.
 

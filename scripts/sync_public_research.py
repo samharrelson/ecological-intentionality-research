@@ -39,8 +39,9 @@ EXACT_FILES = {
     Path("Public/Tracking/About the Practice.md"): Path("method/about-the-practice.md"),
     Path("Public/Tracking/Sit Template.md"): Path("method/sit-template.md"),
     # Only intentionally approved, already-public essays are exported.
-    # Two names for the same essay support its upcoming shorter sidebar name.
-    # A collision guard below refuses both names existing simultaneously.
+    # Current and legacy names are alternatives, not separate publications.
+    # A collision guard below refuses two sources for the same destination.
+    Path("Public/Tracking/Essays/Overview.md"): Path("essays/README.md"),
     Path("Public/Tracking/Essays/Essays.md"): Path("essays/README.md"),
     Path("Public/Tracking/Essays/Consciousness in a World We Cannot Possess.md"): Path("essays/consciousness-in-a-world-we-cannot-possess.md"),
     Path("Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md"): Path("essays/whose-good.md"),

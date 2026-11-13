@@ -71,6 +71,12 @@ The separate methodological workstreams **#6–7** and historical findings **#8�
 
 The affirmative inquiry in #14, the phenomenological comparisons in #1–2, and the theological argument in #5 retain distinct burdens. Their relations should not be represented as a requirement that one theory be defeated before the constructive work can proceed.
 
+## November 13 workflow clarification
+
+The project status **Evidence review** marks a working account and its evidence as ready for scrutiny. It does not close the research question. On November 13, #14 moved from Investigating to Evidence review after its public account and longitudinal record were extended. Its remaining comparative criterion stays open.
+
+The project's **Auto-close issue** workflow had been configured to close an issue when it entered Evidence review. That workflow is now disabled. The transition briefly closed #14; it was reopened, and its final state is open in Evidence review. All fourteen research issues remain open. Closure should be a deliberate decision based on the issue's stated scope, distinct from a workflow-stage change.
+
 ## Maintenance
 
 Keep this vocabulary small. Add a label when it supports a useful recurring filter. Keep bibliographic leads, remaining evidence requirements and dated revisions in the issue body, where their qualifications can be stated.
