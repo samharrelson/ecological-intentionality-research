@@ -166,4 +166,4 @@ This is a working essay rather than a citation-final academic paper. The referen
 
 **Questions I'm inviting readers to challenge:** Does this account explain anything beyond Husserl's layered intentionality? How can the different goods of organisms be determined without assuming harmony or inventing conflict? What evidence would show that another being's ongoing activity participates in the *realization* of an intention, rather than its motivation or subsequent success?
 
-For other working arguments, see the Essays index. For the evolving argument and its public revisions, see [Where the Inquiry Stands](../project/where-the-inquiry-stands.md), [How the Inquiry Developed](../project/how-the-inquiry-developed.md), and the [open research roadmap](https://github.com/users/samharrelson/projects/1).
+For other working arguments, see the [Essays index](README.md). For the evolving argument and its public revisions, see [Where the Inquiry Stands](../project/where-the-inquiry-stands.md), [How the Inquiry Developed](../project/how-the-inquiry-developed.md), and the [open research roadmap](https://github.com/users/samharrelson/projects/1).

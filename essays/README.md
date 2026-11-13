@@ -1,8 +1,6 @@
 ---
 description: Working philosophical essays developing and testing ecological intentionality through field encounters, texts, and open objections.
 ---
-# Essays
-
 *Working arguments in ecological intentionality.*
 
 The Black Walnut Field Notes record particular encounters: what I perceived, remembered, inferred, questioned, and could not determine. The [concept pages](../concepts/Ecological%20Intentionality.md) follow the philosophical vocabulary and thinkers shaping the inquiry. This section has another purpose. It gathers **extended arguments** that draw those encounters and texts together into propositions a reader can question, correct, or reject.
