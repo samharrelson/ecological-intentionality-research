@@ -3,13 +3,13 @@ description: Vanessa Watts in the developing Black Walnut Field Notes.
 tags:
   - vanessawatts
 ---
-Vanessa Watts enters these Field Notes through Place-Thought and her account of agency among human and nonhuman worlds. Her work challenges an architecture in which a human subject encounters nonhuman objects while land remains inert setting or contextual background.
+I bring Vanessa Watts into these Field Notes through Place-Thought and her account of agency among human and nonhuman worlds. Her work challenges my starting point whenever I describe a human subject encountering nonhuman objects while land remains inert setting or contextual background.
 
-Her role here is not to confirm a pre-existing theory of [Ecological Intentionality](Ecological%20Intentionality.md). Watts develops Place-Thought through specifically Haudenosaunee and Anishnaabe cosmological framings and an Indigenous intellectual and political argument concerning land, agency, colonialism, and the separation of epistemology from ontology. She explicitly refuses to reduce nonhuman agency to causal relationships and locates its recognition within stories/histories. She also speaks of the land’s “intentions” and “land’s intentionality,” language whose overlap with phenomenological intentionality must not be mistaken for conceptual identity. The field notes must allow her argument to challenge their starting terms without translating it immediately into European phenomenology or extracting “relationality” as a portable abstraction.
+Watts develops Place-Thought through specifically Haudenosaunee and Anishnaabe cosmological framings and an Indigenous intellectual and political argument concerning land, agency, colonialism, and the separation of epistemology from ontology. She refuses to reduce nonhuman agency to causal relationships and locates its recognition within stories/histories. She also speaks of the land’s “intentions” and “land’s intentionality.” I need to establish what those terms mean in her account before comparing them with phenomenological intentionality. Her argument asks me to reconsider the starting terms of [Ecological Intentionality](Ecological%20Intentionality.md), including the authority I give myself to decide what counts as agency.
 
 ## Works in this project
 
-- “Indigenous Place-Thought & Agency Amongst Humans and Non-Humans (First Woman and Sky Woman Go on a European World Tour!)”: Place-Thought, land as alive and thinking, human and nonhuman agency, stories / histories, colonial disruption, and the critique of reducing nonhuman agency to causal efficacy.
+- Vanessa Watts, [“Indigenous Place-Thought & Agency Amongst Humans and Non-Humans (First Woman and Sky Woman Go on a European World Tour!)”](https://jps.library.utoronto.ca/index.php/des/article/view/19145), *Decolonization: Indigeneity, Education & Society* 2, no. 1 (2013): 20–34. For Place-Thought and its situated framework, see pp. 21–24; for the critique of diminished nonhuman agency, pp. 28–30; for colonial violence and continuing obligation, pp. 31–33.
 
 Related: [Place and Agency](Place%20and%20Agency.md) · [Attention](Attention.md) · [Ecological Intentionality](Ecological%20Intentionality.md) · [Sources & Reading](../project/sources-and-reading.md)
 
@@ -18,6 +18,8 @@ Browse: #vanessawatts
 **November 7: whose framework makes place available as an object?** In [the November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I begin with my looking at the walnut's ivy, using an app to name plants, and deciding whose goods ought to guide my next action. Watts's Place-Thought challenges the human-first architecture of that procedure, not merely its lack of sympathy. Her argument arises from particular Indigenous histories and accounts of land and agency; I can't appropriate them as a supporting metaphor or treat her use of the word *intentionality* as Husserl's term with a new object. The more demanding question is whether my own methods already assign to me the authority to determine which lives and goods are legible, and how ecological inquiry can become answerable to knowledges and communities beyond my personal encounter.
 
 ## From the sits
+
+- [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): A rereading of the 2013 article tests the assumption that land acquires significance through a human purpose. Place-Thought's situated philosophical and political claims cannot be reduced to causal feedback or made interchangeable with Maximus's mediation. The comparison belongs to this project, not to Watts's own account of the branch.
 
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Plant identification and practical judgment raise the question of a human-centered framework for land and agency.
 

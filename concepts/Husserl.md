@@ -56,6 +56,8 @@ The remaining test isn't whether reading or living encounter can change my habit
 
 ## From the sits
 
+- [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): *Analyses Concerning Passive and Active Synthesis* §7, pp. 69–71 (Steinbock, 2001), lets me retain the earlier attribution as an error; the two-week branch history still requires distinguishing recollection from immediate retention. *Ideas II* §§55–56 also gives me a resource for how experienced surroundings motivate attention and practical purposes. I need to engage both resources when comparing the oak's earlier care with its lesser familiarity. Selected primary passages checked in extraction; neither correction nor relational formation by itself establishes a new ecological act-type.
+
 - [November 11, 2026: Done Isn't Finished](../field-notes/2026-11-11%20-%20Done%20Isn%27t%20Finished.md): A completed relocation and an unfulfilled purpose. Husserl's graded account of fulfillment, and the distinction in his lectures on willing between the will at work in a present action and a resolve directed at a future end, already allow that finishing an act does not finish what it was for. The recording's picture of fulfillment as a single moment is corrected in the note. Selected secondary passages, not a reading of the lectures themselves.
 
 - [November 10, 2026: A Future Not Mine Alone](../field-notes/2026-11-10%20-%20A%20Future%20Not%20Mine%20Alone.md): Rapid leaf loss was anticipated, yet its pace still surprised. Open anticipation and the practical "I can" of *Ideas II* §60(a) describe the morning without a new category; the question left is what the living beneficiary contributes to the end and its conditions of fulfillment.

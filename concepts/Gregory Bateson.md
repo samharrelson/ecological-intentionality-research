@@ -24,6 +24,8 @@ If I claim that my relation to the walnut has changed which practical questions 
 
 ## From the sits
 
+- [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): I can read the branch correction through purposive selection and corrective information. My comparison has to explain particular changes of description or purpose, and I cannot exclude seasonal change from Bateson's resources in advance. Selected primary passages were rechecked, including “Effects of Conscious Purpose on Human Adaptation,” points 8, 14 and 19. The fuller learning comparison remains open.
+
 - [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): The two conscious-purpose essays already describe selective arcs and possible correctives. “Effects of Conscious Purpose on Human Adaptation,” points 8 and 19, also treats discrepant organismic purposes and possible correction through love, art, nonhuman contact and religion. The remaining comparison concerns specific changes in an intention's beneficiary, means or governance, with synthesis still a possible result. Essays checked in extracted primary text from the Jason Aronson reprint, starting at printed pp. 434 and 447; exact passage folios remain uncollated.
 
 - [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Mediated learning across encounters belongs within the strongest comparison with ecological formation. Changed questions and practical projects do not by themselves establish an explanatory difference from feedback and memory.
