@@ -76,6 +76,7 @@ The second comprehensive examination now develops two distinct affirmative tasks
 
 ### Constitution, embodiment, and otherness
 
+- [Husserl, Edmund](../concepts/Husserl.md). *Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic*. Translated by Anthony J. Steinbock. Collected Works 9. Dordrecht: Kluwer Academic Publishers, 2001. https://doi.org/10.1007/978-94-010-0846-4. Section 7, pp. 69–71, and §§49–50, pp. 275–283, enter the November 14–15 sits through selected primary-text checks. Section 15, especially pp. 103–104, was added in the post-sit source review for renewed questioning and ratification of an unchanged judgment. They support distinctions among perceptual correction, background affection, attentive turning, feeling, desire and will; p. 283 n. 171 qualifies the last discussion. The source checks remain distinct from completed personal slow readings.
 - [Husserl, Edmund](../concepts/Husserl.md). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, Second Book: Studies in the Phenomenology of Constitution*. Translated by Richard Rojcewicz and André Schuwer. Dordrecht: Kluwer Academic Publishers, 1989.
 - [Stein, Edith](../concepts/Edith%20Stein.md). *On the Problem of Empathy*. Translated by Waltraut Stein. 3rd rev. ed. Washington, DC: ICS Publications, 1989.
 - [Stein, Edith](../concepts/Edith%20Stein.md). *Finite and Eternal Being: An Attempt at an Ascent to the Meaning of Being*. Translated by Kurt F. Reinhardt. Washington, DC: ICS Publications, 2002.

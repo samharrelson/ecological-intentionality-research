@@ -19,6 +19,8 @@ Browse: #vanessawatts
 
 ## From the sits
 
+- [November 15, 2026: What Can Reach a Habit](../field-notes/2026-11-15%20-%20What%20Can%20Reach%20a%20Habit.md): The question of how habits admit other lives remains open to Watts's challenge to a human-centered starting point. Place-Thought cannot be reduced to information that helps me choose among my own purposes. This comparison carries forward the earlier primary reading; it does not claim a new interpretation of her article established by the bamboo case.
+
 - [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): A rereading of the 2013 article tests the assumption that land acquires significance through a human purpose. Place-Thought's situated philosophical and political claims cannot be reduced to causal feedback or made interchangeable with Maximus's mediation. The comparison belongs to this project, not to Watts's own account of the branch.
 
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Plant identification and practical judgment raise the question of a human-centered framework for land and agency.
