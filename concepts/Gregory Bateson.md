@@ -60,6 +60,8 @@ If I claim that my relation to the walnut has changed which practical questions 
 
 ## From the sits
 
+- [Who Gets to Say We](../field-notes/2026-11-16%20-%20Who%20Gets%20to%20Say%20We.md): “The Logical Categories of Learning and Communication,” pp. 305–308 (Jason Aronson, 1987), keeps self-validating contexts in view within a shared practice. A different reason may enter conversation while the frame that organizes agreement persists. I need to follow how reasons affect later conduct; an unchanged answer proves neither responsiveness nor rationalization. Neither reported consensus nor practical follow-through establishes Learning III. The selected primary passage was rechecked.
+
 - [November 15, 2026: What Can Reach a Habit](../field-notes/2026-11-15%20-%20What%20Can%20Reach%20a%20Habit.md): A retained bamboo-removal intention supplies a case for distinguishing present specification from a changed end. The prepared learning reconstruction helps ask what kind of change occurred without diagnosing Learning III from several corrections. A stated willingness to reconsider still needs evidence of how contrary findings would enter conduct.
 
 - [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): I can read the branch correction through purposive selection and corrective information. My comparison has to explain particular changes of description or purpose, and I cannot exclude seasonal change from Bateson's resources in advance. Selected primary passages were rechecked, including “Effects of Conscious Purpose on Human Adaptation,” points 8, 14 and 19. The fuller learning comparison remains open.
