@@ -23,6 +23,8 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [November 17, 2026: Considered and Not Followed](../field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md): I distinguish two contacts while attention shifts their prominence. *The Visible and the Invisible*, p. 142, explicitly permits simultaneous touching and being touched in its handshake discussion. The difficulty on pp. 147–148 concerns grasping the hand precisely as touching. I therefore need to preserve both pressures before asking what their relation shows. This neither proves nor refutes late flesh; pp. 142 and 250 also keep embodied belonging distinct from one universal conscious organism. In [What Flesh Explains](../essays/what-flesh-explains.md), I compare what the late ontology contributes with the resources already present in Husserl and early Merleau-Ponty.
+
 - [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — One field of visibility, plural living goods, and the unproved move from perceptual belonging to the constitution of practical ends.
 
 

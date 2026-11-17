@@ -9,6 +9,26 @@ I'm publishing these as working essays, not as established findings or finished 
 
 ## Working essays
 
+### [What Flesh Explains](what-flesh-explains.md)
+
+*Embodiment, Belonging, and Noncoincidence*
+
+**November 17, 2026 · Working philosophical essay · Version 1**
+
+I ask what late Merleau-Ponty's flesh adds to Husserl's bodily sensing and early Merleau-Ponty's embodied perception. Beginning with my October 20 contact with the walnut, I argue that flesh articulates the sensible belonging within which perceiver and perceived differentiate. Noncoincidence belongs within that relation. I defend that ontological contribution while keeping the continuity objection and the further demands of ecological explanation in view.
+
+[Read the working essay](what-flesh-explains.md) · [Read its companion comparison](how-a-purpose-takes-shape.md)
+
+### [How a Purpose Takes Shape](how-a-purpose-takes-shape.md)
+
+*Ecological Formation and Its Strongest Explanations*
+
+**November 17, 2026 · Working philosophical essay · Version 1**
+
+I follow the dome, ring and bamboo through changes in practical possibility, intended beneficiaries, action and later inquiry. Holding those differences constant, I compare Husserl's motivated acts, Bateson's distributed circuits and Watts's challenge to a human-centered starting point. The constructive claim concerns how relationships help specify what a purpose is for and what could fulfill it. The record supports that inquiry while leaving the need for a new basic intentional category open.
+
+[Read the working essay](how-a-purpose-takes-shape.md) · [Read its companion on flesh](what-flesh-explains.md)
+
 ### [Whose Good?](whose-good.md)
 
 *Ecological Intentionality and the Formation of Practical Purpose*

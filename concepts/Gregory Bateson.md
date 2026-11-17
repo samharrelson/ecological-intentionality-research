@@ -9,6 +9,10 @@ That means I can't claim that mind extends beyond an isolated individual as thou
 
 What I still want to investigate is whether the particular *conscious intention* and the walnut's independently developing life and possible good demand an account beyond informational feedback, memory, and learning. Bateson's circuit doesn't require the tree, axe, and human to share a single phenomenal perspective. Nor have I established that his account neglects the tree's own life. The difference between system organization and the lives of its participants is precisely what I need to test.
 
+## November 17: later consequences belong in the comparison
+
+In [Considered and Not Followed](../field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md), the bamboo conversation leads to research together the following evening. I cannot treat this later consequence as something Bateson must miss: his account already includes memory, learned contexts and pathways beyond one person. The question is what changes within that sequence and what each explanation distinguishes. [How a Purpose Takes Shape](../essays/how-a-purpose-takes-shape.md) compares motivated intentional sense with the circuit as an explanatory unit. Neither a circuit's learning nor a participant's account of reasons establishes one conscious subject encompassing the whole system. My report also does not establish Learning III. Selected passages on self-validating contexts and memory were rechecked; the previously collated locators remain pp. 305–308 and 465–466.
+
 ## Works in this project
 
 - Gregory Bateson, *Steps to an Ecology of Mind*, “Form, Substance, and Difference,” beginning on printed p. 455, especially **pp. 465–467** in the Jason Aronson reprint for the tree–person–axe circuit, explanatory boundaries, memory, and wider paths of ideas through art. These were selected-text source checks, not a complete edition-wide quotation audit.

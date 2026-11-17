@@ -78,14 +78,6 @@ For the separate *Ecology of the Cross*, Romans 15:1–7 connects the neighbor's
 
 What makes an undertaking ours when its participants bring different reasons, and what will show that the expectation of having a say survives the next disagreement?
 
-## Source and preparation notes
-
-- Cutting and conversation were reported before the script was prepared. The recording adds the sequence, the alternative valuation, care during cutting and the expectation of future participation. The closing communal formulation was prepared; adopting it is not independent confirmation of the theory. The field account remains my reconstruction of the exchange.
-- Husserl, *Analyses Concerning Passive and Active Synthesis*, trans. Anthony J. Steinbock (Kluwer, 2001), §15, pp. 103–104. *Ideas II*, trans. Richard Rojcewicz and André Schuwer (Kluwer, 1989), §51, pp. 200–210, especially pp. 201–204, and §55, pp. 226–230. Selected primary text and English section locators checked after the sit; no new page-image collation is claimed.
-- Alasdair MacIntyre, *Edith Stein: A Philosophical Prologue, 1913–1922* (Continuum, 2007 reprint), ch. 13, pp. 120–122 and 128–129. This is a checked secondary reconstruction, not a newly completed primary reading of Stein's “Individual and Community.”
-- Ola Mostafa Anwar, “Husserl's Influence on Sociology: A Study of Schütz's Phenomenology,” in *Husserlian Phenomenology in a New Key* (Kluwer, 1991), pp. 203–213, especially 210–212; Michael Barber, “Action in the Phenomenology of Alfred Schütz,” in *The Routledge Handbook of Phenomenology of Agency* (Routledge, 2021), ch. 10, especially pp. 127–129. These are checked secondary discussions; the source list gives the editions in fuller form.
-- Gregory Bateson, *Steps to an Ecology of Mind* (Jason Aronson, 1987 reprint), “The Logical Categories of Learning and Communication,” pp. 305–308. The selected primary text supports the self-validation comparison; it does not diagnose Learning III in this conversation.
-
 Further reading: [Sources & Reading](../project/sources-and-reading.md).
 
 Thinkers: [Edith Stein](../concepts/Edith%20Stein.md) · [Husserl](../concepts/Husserl.md) · [Gregory Bateson](../concepts/Gregory%20Bateson.md)
