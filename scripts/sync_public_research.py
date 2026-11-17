@@ -38,7 +38,8 @@ EXACT_FILES = {
     Path("Public/Tracking/Sources & Reading.md"): Path("project/sources-and-reading.md"),
     Path("Public/Tracking/About the Practice.md"): Path("method/about-the-practice.md"),
     Path("Public/Tracking/Sit Template.md"): Path("method/sit-template.md"),
-    # Only intentionally approved, already-public essays are exported.
+    # Only individually approved public essay sources are eligible for export.
+    # Verify each new essay on the public website before running the exporter.
     # Current and legacy names are alternatives, not separate publications.
     # A collision guard below refuses two sources for the same destination.
     Path("Public/Tracking/Essays/Overview.md"): Path("essays/README.md"),
@@ -47,6 +48,8 @@ EXACT_FILES = {
     Path("Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md"): Path("essays/whose-good.md"),
     Path("Public/Tracking/Essays/Whose Good.md"): Path("essays/whose-good.md"),
     Path("Public/Tracking/Essays/Whose Good?.md"): Path("essays/whose-good.md"),
+    Path("Public/Tracking/Essays/What Flesh Explains.md"): Path("essays/what-flesh-explains.md"),
+    Path("Public/Tracking/Essays/How a Purpose Takes Shape.md"): Path("essays/how-a-purpose-takes-shape.md"),
 }
 
 FOLDER_MAP = {

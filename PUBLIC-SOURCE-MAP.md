@@ -12,13 +12,19 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/Essays/Consciousness in a World We Cannot Possess.md` | `essays/consciousness-in-a-world-we-cannot-possess.md` |
 | `Public/Tracking/Essays/Whose Good - Ecological Intentionality and the Formation of Practical Purpose.md` | `essays/whose-good.md` |
 | `Public/Tracking/Essays/Whose Good.md` or `Whose Good?.md` (after sidebar rename) | `essays/whose-good.md` |
+| `Public/Tracking/Essays/What Flesh Explains.md` | `essays/what-flesh-explains.md` |
+| `Public/Tracking/Essays/How a Purpose Takes Shape.md` | `essays/how-a-purpose-takes-shape.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |
 | `Public/Tracking/About the Practice.md` | `method/about-the-practice.md` |
 | `Public/Tracking/Sit Template.md` | `method/sit-template.md` |
 
-The Essays entries are an **individual-file allowlist**, not a wildcard on `Public/Tracking/Essays`. A future essay must first be deliberately published and reviewed, then added to this map and the exporter. The current essay index is `Overview.md`, with the stable website permalink `/essays`; the older `Essays.md` source name remains supported. Only one may exist at a time. The long and short approved names for *Whose Good?* are also alternatives, not separate files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
+The Essays entries are an **individual-file allowlist**, not a wildcard on `Public/Tracking/Essays`. Each new essay requires explicit approval for public release and its own entry in this map and the exporter. An entry prepares export eligibility; it does not establish that website publication has happened. Publish the reviewed public source and verify its served website version before running the export.
+
+The two entries for *What Flesh Explains* and *How a Purpose Takes Shape* were prepared on November 17, 2026, for the approved next publication. This configuration change does not copy either essay into the repository. Their website publication and verification must precede the first export; private working drafts are not eligible sources.
+
+The current essay index is `Overview.md`, with the stable website permalink `/essays`; the older `Essays.md` source name remains supported. Only one may exist at a time. The long and short approved names for *Whose Good?* are also alternatives, not separate files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
 
 Only allowlisted public notes can become navigable GitHub links. Wikilinks whose targets are not part of this public source map are rendered as plain text rather than exposing private vault structure.
 
