@@ -64,19 +64,31 @@ I have also used identification apps, field guides and research to distinguish t
 
 The positive proposition I carry indoors has two connected movements. Particular living conditions can help specify what I am trying to do while I act. Different people's relations to that place can also enter what we undertake and what we expect from one another. A purpose can remain recognizable while its content and its participants develop. Today's case gives me a retrospective account of that development, with its future still open.
 
-MacIntyre's reconstruction of [Edith Stein](../concepts/Edith%20Stein.md) helps explain how different motives can contribute to one undertaking. It also distinguishes degrees of participation and responsibility within communities. My wish for everyone to have standing to question the purpose is a normative proposal I need to defend, rather than a definition of every community in Stein. I am using these secondary resources while continuing toward her primary communal text.
+MacIntyre's reconstruction of [Edith Stein](../concepts/Edith%20Stein.md) helps explain how different motives can contribute to one undertaking. It also distinguishes degrees of participation and responsibility within communities. My wish for everyone to have standing to question the purpose is a normative proposal I need to defend, rather than a definition of every community in Stein. I am using these secondary resources while continuing toward her primary communal text.[^stein16]
 
-The post-sit reading strengthens the [Husserl](../concepts/Husserl.md) comparison. *Analyses* §15 explains how a judgment can receive renewed grounds without changing its answer, while setting communication aside in that passage. *Ideas II* §51 directly describes communication, assent, refusal and the way a response can affect the person who first addressed another. A common surrounding world takes shape through such relations. This gives me a substantial account to work with when I ask how an end becomes ours. §55 also helps describe practical motivation, including values, goals and means becoming specific through the situation.
+I return to [Husserl](../concepts/Husserl.md) to ask how a purpose can continue while its grounds and relationships develop. *Analyses* §15 explains how a judgment can receive renewed grounds without changing its answer, while setting communication aside in that passage. *Ideas II* §51 directly describes communication, assent, refusal and the way a response can affect the person who first addressed another. A common surrounding world takes shape through such relations. This gives me a substantial account to work with when I ask how an end becomes ours. §55 also helps describe practical motivation, including values, goals and means becoming specific through the situation.[^husserl16]
 
-Schutz gives me a further distinction, through the accounts by Anwar and Barber. Ordinary coordination can proceed while our motives differ. A purpose helps organize what matters, but imposed conditions can also precede the purposes I choose. The place does not have to wait for my plan to be complete before entering its formation. I want to trace how those conditions and our different reasons contribute to a particular undertaking, while keeping practical coordination distinct from agreement about every part of an end.
+Schutz gives me a further distinction, through the accounts by Anwar and Barber. Ordinary coordination can proceed while our motives differ. A purpose helps organize what matters, but imposed conditions can also precede the purposes I choose. The place does not have to wait for my plan to be complete before entering its formation. I want to trace how those conditions and our different reasons contribute to a particular undertaking, while keeping practical coordination distinct from agreement about every part of an end.[^schutz16]
 
-[Bateson](../concepts/Gregory%20Bateson.md) keeps a harder possibility in view: familiar ways of organizing experience can help arrange their own confirmation. The conversation may contain a real new reason and still leave my preferred framing intact. The useful test is what the reasons do in the continuing practice. An unchanged decision does not by itself establish responsiveness or rationalization, and a promised opportunity to participate needs a history beyond one exchange.
+[Bateson](../concepts/Gregory%20Bateson.md) keeps a harder possibility in view: familiar ways of organizing experience can help arrange their own confirmation. The conversation may contain a real new reason and still leave my preferred framing intact. The useful test is what the reasons do in the continuing practice. An unchanged decision does not by itself establish responsiveness or rationalization, and a promised opportunity to participate needs a history beyond one exchange.[^bateson16]
 
 For the separate *Ecology of the Cross*, Romans 15:1–7 connects the neighbor's good and upbuilding with Christ's example and mutual reception. I propose that participation in Christ can help form what a community takes itself to be for, with inquiry, listening, maintenance and correction expressing that formation. Applying this to practical authority and ecological purposes is a further theological argument. Taking on work should leave others able to shape its purpose. A plan can survive inquiry and still require more work from those best placed to carry it. The live question is how another's good enters what we mean to do from the beginning. [Romans 15, SBLGNT](https://github.com/Faithlife/SBLGNT/blob/master/data/sblgnt/text/Rom.txt).
 
 ## Question Carried Forward
 
 What makes an undertaking ours when its participants bring different reasons, and what will show that the expectation of having a say survives the next disagreement?
+
+## Reading notes
+
+These readings help me describe how a purpose becomes more specific while I act, and how different reasons can enter something we undertake together. I want to keep following what that participation changes in practice, including when another person's reasons challenge mine.
+
+[^stein16]: Alasdair MacIntyre, *Edith Stein: A Philosophical Prologue, 1913–1922* (Continuum, 2007 reprint), chap. 13, 120–122, 128–129.
+
+[^husserl16]: Edmund Husserl, *Analyses Concerning Passive and Active Synthesis*, trans. Anthony J. Steinbock (Kluwer, 2001), §15, 103–104; *Ideas II*, trans. Richard Rojcewicz and André Schuwer (Kluwer, 1989), §51, 200–210, especially 201–204, and §55, 226–230.
+
+[^schutz16]: Ola Mostafa Anwar, “Husserl's Influence on Sociology: A Study of Schütz's Phenomenology,” in *Husserlian Phenomenology in a New Key*, ed. Anna-Teresa Tymieniecka (Kluwer, 1991), 210–212; Michael Barber, “Action in the Phenomenology of Alfred Schütz,” in *The Routledge Handbook of Phenomenology of Agency*, ed. Christopher Erhard and Tobias Keiling (Routledge, 2021), 127–129.
+
+[^bateson16]: Gregory Bateson, “The Logical Categories of Learning and Communication,” in *Steps to an Ecology of Mind* (Jason Aronson, 1987), 305–308.
 
 Further reading: [Sources & Reading](../project/sources-and-reading.md).
 

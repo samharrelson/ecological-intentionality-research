@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 17, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 18, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -9,11 +9,23 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 
 **Browse by theme:** [Starting question](#where-the-inquiry-stands) · [Perception and livingness](#from-perception-to-livingness) · [Place and agency](#place-and-agency-change-the-starting-question) · [Gift and care](#gift-obligation-and-asymmetry) · [Embodiment and evidence](#october-embodiment-history-and-evidence) · [Theological horizon](#a-theological-question-opened-by-remainder) · [Open questions](#current-live-questions) · [Interlocutors](#current-interlocutors)
 
-**November developments:** [17](#november-17-a-reason-matters-without-prevailing) · [16](#november-16-an-act-of-mine-and-a-purpose-we-may-carry) · [15](#november-15-a-stable-purpose-acquires-a-present-target) · [14](#november-14-care-familiarity-and-welcome) · [13](#november-13-what-a-purpose-leaves-out) · [12](#november-12-the-return-as-a-third-moment) · [11](#november-11-on-the-far-side-of-an-action) · [10](#november-10-a-definite-intention-an-open-future) · [9](#november-9-a-named-intention-and-a-tested-ability) · [8](#november-8-formation-becomes-a-more-accountable-history) · [7](#november-7-i-state-the-living-organism-claim-more-strongly) · [6](#november-6-a-stable-concern-an-operative-purpose) · [5](#november-5-explaining-changes-and-asking-what-care-requires) · [4](#november-4-investigation-becomes-the-next-purpose) · [3](#november-3-what-care-is-for) · [2](#november-2-constructive-refinement-through-a-stronger-prior-explanation) · [1](#november-1-from-imagining-care-to-choosing-and-revising-an-action)
+**November developments:** [18](#november-18-preparing-an-inquiry-together) · [17](#november-17-a-reason-matters-without-prevailing) · [16](#november-16-an-act-of-mine-and-a-purpose-we-may-carry) · [15](#november-15-a-stable-purpose-acquires-a-present-target) · [14](#november-14-care-familiarity-and-welcome) · [13](#november-13-what-a-purpose-leaves-out) · [12](#november-12-the-return-as-a-third-moment) · [11](#november-11-on-the-far-side-of-an-action) · [10](#november-10-a-definite-intention-an-open-future) · [9](#november-9-a-named-intention-and-a-tested-ability) · [8](#november-8-formation-becomes-a-more-accountable-history) · [7](#november-7-i-state-the-living-organism-claim-more-strongly) · [6](#november-6-a-stable-concern-an-operative-purpose) · [5](#november-5-explaining-changes-and-asking-what-care-requires) · [4](#november-4-investigation-becomes-the-next-purpose) · [3](#november-3-what-care-is-for) · [2](#november-2-constructive-refinement-through-a-stronger-prior-explanation) · [1](#november-1-from-imagining-care-to-choosing-and-revising-an-action)
 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open) · [21 (preserved account)](#preserved-october-21-research-account) · [24–31](#the-october-24-turn-from-description-to-a-proposition) · [30](#october-30-a-changed-action-outside-the-backyard)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 18: preparing an inquiry together
+
+In [What We Are Trying to Do](../field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md), I begin with the darker yellow of the walnut's remaining leaves. I expected more leaves to fall; the changed appearance of those still attached surprised me. Husserl's *Analyses Concerning Passive and Active Synthesis*, §§37–39, pp. 229–234, helps me distinguish the present appearance from the earlier one it awakens in memory. My anticipation of further leaf loss is another part of today's description.
+
+The proposed leaf inquiry has moved into shared research and preparation. We have begun considering how to observe while limiting disturbance, though the shared field observation remains ahead. A further discussion of bamboo cultivation ended with a decision not to take on that project. Both developments help me describe what inquiry can accomplish before it becomes a new intervention or a completed field activity.
+
+At the end of the recording, I ask for a clearer account of two relations. Another person's communicated reason can move my thinking and help determine what we undertake. An organism's activity changes what there is to encounter; through perception and inquiry I can let my understanding of that activity help specify the purpose. The organism also continues independently of my understanding. Its actual conditions can show that what I intended as care failed.
+
+This is why forming a shared undertaking and caring adequately require related but different accounts. Stein's “Individual and Community,” I §3(b), helps explain common thinking while allowing different motives within common work. I §1 distinguishes realizing communal experience from doing justice to its object. I am extending that distinction when I ask what would make our inquiry adequate to the lives involved. Preparation gives me evidence of an undertaking developing, while each participant's ability to shape its direction still needs to be followed.
+
+Matthew 25 gives a separate question about the significance recognized in an act afterward. My ecological interpretation, developed alongside Gregersen, asks how participation in Christ could form a community to receive a creature's good into its purposes. I keep that theological proposal distinct from what the leaf observation or our preparation establishes. Today's contribution is a fuller communal account to write from, with the first shared field activity and its ecological findings still ahead.
 
 ## November 17: a reason matters without prevailing
 
