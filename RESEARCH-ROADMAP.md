@@ -19,6 +19,18 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 18: shared preparation and independent fulfillment
+
+In [*What We Are Trying to Do*](field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md), I report shared research and preparation for the leaf inquiry, with the observation itself still ahead. Further discussion of bamboo also ended with a decision against cultivation. These developments let me follow how contributions affect what people prepare and decide without treating reversal as the only sign that a reason matters.
+
+Stein's account of thought exchange helps explain common thinking. Her distinction between communal realization and adequacy to its object gives me a resource for a further ecological claim: people can undertake something together while still needing to learn whether they have cared well. Another person's communicated reason and another organism's encountered activity can contribute differently to a purpose; the lives involved also continue independently of that understanding.
+
+The darker remaining leaves separate a present appearance from recollection and anticipation. Matthew 25 raises a further theological question about care and its later recognition. Extending its human scene toward creaturely neighborliness remains an argument of the theological companion.
+
+**Criterion disposition:** 44 checked and 14 unchecked across 14 open issues. This continues [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14)'s positive account. It does not complete an organism-specific conflict criterion, the actual creaturely/institutional case in [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5), or the method comparison and paper in [#7](https://github.com/samharrelson/ecological-intentionality-research/issues/7).
+
+Published version: [November 18 export, cbea0ef](https://github.com/samharrelson/ecological-intentionality-research/commit/cbea0efc0fc54e45b9752ae6f07d2bf3570b7b14).
+
 ## November 17: consequential reasons and two working comparisons
 
 In [*Considered and Not Followed*](field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md), I report researching bamboo's uses together on Monday evening after Sunday's cutting. The alternative valuation had a consequence in further inquiry without reversing the cut or establishing a cultivation plan. I distinguish shared reference, an effective reason, a shared undertaking and ecological adequacy. Stein's primary account of thought exchange supplies a resource for describing further thinking together; Schutz's same-bird example prevents shared reference from becoming an assumed shared purpose.

@@ -20,15 +20,17 @@ Two comparisons now have a sustained written form: [*What Flesh Explains*](essay
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
-## The latest case: a reason matters without prevailing
+## The latest case: beginning an inquiry together
 
-[November 17, *Considered and Not Followed*](field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md) gives the bamboo conversation a later consequence. I report researching bamboo's uses together on Monday evening, after Sunday's cutting. The alternative valuation led to further inquiry and changed my regard. The cutting remained completed, and I had not adopted a cultivation plan. A reason can affect what we subsequently undertake without becoming the reason that governed the earlier act.
+[November 18, *What We Are Trying to Do*](field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md) brings the leaf inquiry into shared research and preparation. The observation itself is still ahead. A further bamboo conversation has also ended with a decision against cultivation. I can now follow how an exchange affects what we prepare, consider and decide, including a decision not to take on another project.
 
-Stein's primary account of thought exchange helps describe this further thinking together. Schutz's same-bird example keeps shared reference distinct from shared purpose. Neither joint research nor reported agreement establishes equal authority over the next decision, and the plants' actual conditions remain the test of ecological benefit.
+Stein's account of thought exchange helps me describe common thinking without presuming that everyone's motive governs the undertaking. Her distinction between realizing communal experience and doing justice to its object helps me ask a further ecological question: we can begin working together while still needing to learn whether we are caring well.
 
-The tactile inquiry also becomes more exact: I could distinguish both pressures while attention shifted. Merleau-Ponty permits simultaneous touching and being touched on p. 142 of *The Visible and the Invisible*; pp. 147–148 concern grasping the hand precisely as touching. The report neither proves nor refutes late flesh.
+The living place contributes through what there is to encounter and through the conditions on which fulfilling an intention of care depends. Observation, other people's knowledge and research mediate that relation. Shared preparation does not establish equal decision authority or ecological benefit.
 
-The two [working essays](essays/README.md) now develop these comparisons as sustained arguments. The [dated research history](project/how-the-inquiry-developed.md) keeps the earlier dome, ring and bamboo stages visible. My theological companion asks how participation can form a community willing to carry inquiry, listening and revision together; that proposal requires its own scriptural and theological argument.
+The two [working essays](essays/README.md) develop the sustained philosophical comparisons. The [dated research history](project/how-the-inquiry-developed.md) preserves the preceding dome, ring and bamboo cases. My theological companion asks how participation in Christ can form a community to receive another creature's good into its purposes; Matthew 25's human scene of care gives that extension a question to argue, not an ecological conclusion.
+
+Published version: [November 18 export, cbea0ef](https://github.com/samharrelson/ecological-intentionality-research/commit/cbea0efc0fc54e45b9752ae6f07d2bf3570b7b14).
 
 ## How the public record works
 
