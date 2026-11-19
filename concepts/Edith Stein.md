@@ -11,6 +11,14 @@ Her role is double: Stein provides resources for taking another being seriously 
 
 **November 6, a new difficulty for the genealogical story:** The [November 6 sit](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) asks whether ecological reading can reorder which purpose actually governs a proposed act. Stein's *Finite and Eternal Being* V §§16–17 already distinguishes knowing a possible good from bringing that good about for another living being. Her vegetal account in *On the Problem of Empathy* also warns against equating apprehended signs of life with primordial access to a plant's “I.” An intended weekend restraint can be thoughtful care without proving its benefit to the actual beings sheltering in the leaves. A further historical complication arises from James Jardine's account of *Ideas II*: parts of the commonly printed §56 discussion of motivation may reflect substantial editorial elaboration by Stein, even though Husserl independently developed extensive motivation analyses. I should not set her work against a caricatured, unembodied or unmotivated Husserl. The manuscript claim remains to be checked against the critical edition and is not proof of ecological intentionality's novelty.
 
+## November 19: learning a good without possessing a life
+
+I let non-primordiality do too much work in [November 19's reflection](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md). Stein distinguishes my experience of another from that person's own experience; this does not mean that another being's needs must remain unknowable. In *Finite and Eternal Being*, she allows a rational observer to know a good for a being whose striving is nonconscious, then distinguishes knowing a possible benefit from its attainment.[^stein19good]
+
+I had already used that distinction on November 6 and 7. Returning to it helps me say what I mean: I can investigate what supports the walnut without possessing its experience. Biological knowledge and an accomplished benefit remain different.
+
+I also need to distinguish the meal's practical partial fulfillment from Stein's questions about encompassing communal experience and responding adequately to its object. Those relations require argument; one word does not make them identical.[^stein19community]
+
 ## Works in this project
 
 - *Philosophy of Psychology and the Humanities*, especially “Individual and Community,” I §§1 and 3(b): communal experience, motivation, thought exchange, and the difference between understanding a wish and being moved by it. I use Mary Catharine Baseheart and Marianne Sawicki's translation, CWES 7 (ICS Publications, 2000). The selected primary sections now supplement the earlier secondary readings; the full essay remains a close-reading task.
@@ -28,6 +36,8 @@ Browse: #edithstein
 The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds a bounded report of leaving leaf litter untouched and a possible reconsideration of equipment beside a root. Neither makes the walnut's own experience transparent. Stein's qualified vegetal life-phenomena do not abolish **non-primordiality**, and botanical uncertainty is not the same issue as another being's inaccessible lived experience. Her discussion of a possible and a realized good also prevents me from presenting restraint as established biological care. Hal King's 2026 discussion of perceptual and intuitive plant empathy remains a **specific selected-reading predecessor**, particularly where interpretation gives rise to inquiry or intervention, rather than proof of an unprecedented ecological practical operation.
 
 ## From the sits
+
+- [November 19: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I return to the distinction between knowing a possible good and realizing it.
 
 - [November 18, 2026: What We Are Trying to Do](../field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md): I use “Individual and Community,” I §3(b), to describe how receiving another's thought can lead to further thinking and common inquiry. Its account of different motives within common work helps me distinguish preparing together from determining whose purpose governs. I §1 distinguishes communal realization from adequacy to its object. I extend that distinction when I ask whether our developing inquiry will serve the lives involved.
 
@@ -87,3 +97,7 @@ The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds
 - [September 12, 2026: Kinds of Absence](../field-notes/2026-09-12%20-%20Kinds%20of%20Absence.md)
 - [September 11, 2026: Presence and Remainder](../field-notes/2026-09-11%20-%20Presence%20and%20Remainder.md)
 - [September 10, 2026: Given and Attributed](../field-notes/2026-09-10%20-%20Given%20and%20Attributed.md)
+
+[^stein19good]: Edith Stein, *On the Problem of Empathy*, 3rd rev. ed., trans. Waltraut Stein (ICS Publications, 1989), II §2(c), 10–11; *Finite and Eternal Being*, trans. Kurt F. Reinhardt (ICS Publications, 2002), V §16, 312–313, and V §17, 315–316.
+
+[^stein19community]: Edith Stein, “Individual and Community,” in *Philosophy of Psychology and the Humanities*, trans. Mary Catharine Baseheart and Marianne Sawicki (ICS Publications, 2000), I §1, including n. 26.

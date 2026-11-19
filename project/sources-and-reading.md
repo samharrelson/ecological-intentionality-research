@@ -7,6 +7,7 @@ tags:
   - MerleauPonty
   - ruyer
   - bateson
+  - schutz
   - vanessawatts
   - robinwallkimmerer
   - melanieharris
@@ -111,6 +112,20 @@ These readings are not all part of the formal Comps II contract. They are includ
 ### November 2026: building the affirmative account
 
 As November begins, I'm moving from identifying conceptual possibilities to writing a positive account of **how the purposes of consciousness become more determinate in relations with several independently living beings**. The swing, spider's web, and walnut leaf litter raise different questions about an adopted end, delaying action, and allowing biological knowledge to revise what I take good care to require. No single observation proves a novel form of consciousness.
+
+**November 19: continuing purposes, possible goods and public method.** In [What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md), I use these passages to distinguish what enables an undertaking, what specifies it and what would fulfill it. The strongest correction concerns knowing another being's possible good without claiming its experience.
+
+- **Stein:** *Finite and Eternal Being*, trans. Kurt F. Reinhardt, CWES 9 (ICS Publications, 2002), **V §16, 312–313; V §17, 315–316**. Knowing a possible good and achieving it differ, including where the being's striving is not conscious. I read this beside *On the Problem of Empathy*, trans. Waltraut Stein, 3rd rev. ed. (1989), **II §2(c), 10–11**. The distinction helps me correct a claim about knowledge; it does not diagnose a benefit to the walnut.
+- **Stein's communal account:** “Individual and Community,” **I §1, including her note 26, and I §3(b)**, remains important for common activity, differing motives and adequacy. I distinguish those questions from the practical partial fulfillment of an evening's purposes.
+- **Schutz:** “The Well-Informed Citizen,” in *Collected Papers II*, ed. Arvid Brodersen (Martinus Nijhoff, 1964; reprint 1976), **124–128 and 131–133**. The first passage concerns practical relevance; the second helps me examine the grounds and social acceptance of another person's account. [The Schutz page](../concepts/Alfred%20Schutz.md) develops their role.
+- **Husserl and Bateson:** *Ideas II*, trans. Rojcewicz and Schuwer (1989), **§§51 and 56(a)**, on communication and meaningful motivation; *Steps to an Ecology of Mind* (Jason Aronson, 1987), **465–466**, on the circuit relevant to the activity explained.
+- **Theological direction:** [1 Corinthians 11:17–34](https://www.biblegateway.com/passage/?search=1%20Corinthians%2011%3A17-34&version=NRSVUE), with Gregersen, “Introduction,” *Incarnation* (2015), **1–21**, opening discussion. Gregersen reports Richard Bauckham's distinction between Christ in, with and for creatures and identifying God as every event.
+
+The comparison in [What this practice inherits](../method/about-the-practice.md#what-this-practice-inherits) adds three focused methodological sources:
+
+- David Seamon, “A Way of Seeing People and Place: Phenomenology in Environment-Behavior Research,” in *Theoretical Perspectives in Environment-Behavior Research*, ed. S. Wapner, J. Demick, T. Yamamoto and H. Minami (Kluwer Academic/Plenum, 2000), 157–178, especially **§4.1, 165, and §5, 170–172**. [DOI](https://doi.org/10.1007/978-1-4615-4701-3_13). First-person environmental inquiry and intersubjective scrutiny are resources I inherit.
+- Tony E. Adams, Stacy Holman Jones and Carolyn Ellis, *Autoethnography* (Oxford University Press, 2015), **1–2 and 57–58**. Personal experience, cultural interpretation, relationships and continuing consent supply a particular reflexive comparison.
+- Jean-Claude Bradley, [“Science is About Mistrust,” *Science 2.0*, October 4, 2007](https://science20.com/jcbradley/science_is_about_mistrust). I compare his open-notebook proposal with the selective record I publish. His article is a practitioner's methodological statement.
 
 **November 18: shared preparation and what it serves.** In [What We Are Trying to Do](../field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md), I'm asking how an undertaking begins to take shape through different contributions. I also noticed how the darker remaining leaves called up their brighter appearance in memory. Four reading directions help me describe those developments more carefully.
 

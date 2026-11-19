@@ -11,7 +11,17 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 
 **November 9, intimacy with remainder as a discipline of directedness.** [This morning's case](../field-notes/2026-11-09%20-%20Directed%20Through%20This%20World.md) distinguishes two conscious acts: deciding what a possible dome relocation is *for*, and looking at bark to understand a continuing life. Some unseen root or bark processes can become more knowable through biological study; otherness doesn't vanish when that information improves. An intended act can be intimately and materially answerable to another life without becoming that life's own intention or guaranteeing its benefit. This is a possible role of *remainder* in the **orientation** of consciousness, not just a limit on perception.
 
+## November 19: what inquiry can change
+
+I need remainder to keep inquiry open. In [November 19's sit](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md), I spoke as though the walnut's otherness meant I could only assume what would improve its conditions. Returning to [Stein](Edith%20Stein.md) helps me correct that. I can learn about a living being's needs without possessing its experience, and knowing a possible benefit remains different from bringing it about.[^remainder19]
+
+The thinner litter gives me an investigable question. Comparison and ecological study may help distinguish breakdown, displacement and disturbance. The appearance alone does not settle their contributions, but neither does “remainder” require the causes to stay unknown.
+
+Another participant's experience calls for a different approach: conversation can change what I understand without making that experience mine. I want to specify what would answer each question. Greater knowledge can resolve an uncertainty while the life concerned continues independently of what I know or intend.
+
 ## From the sits
+
+- [November 19: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I distinguish investigable needs and causes from non-primordial access to another's experience.
 
 - [November 18, 2026: What We Are Trying to Do](../field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md): I can prepare to investigate the leaf litter while its inhabitants remain unidentified. Observation and research may answer those questions, but knowing more will not make the lives there dependent on our agreement. I also distinguish another participant's communicated reasons from full access to their perspective. The limits have different kinds, and sharing an inquiry does not remove them.
 
@@ -66,3 +76,5 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 - [September 13, 2026: Hiddenness and Otherness](../field-notes/2026-09-13%20-%20Hiddenness%20and%20Otherness.md)
 - [September 12, 2026: Kinds of Absence](../field-notes/2026-09-12%20-%20Kinds%20of%20Absence.md)
 - [September 11, 2026: Presence and Remainder](../field-notes/2026-09-11%20-%20Presence%20and%20Remainder.md)
+
+[^remainder19]: Edith Stein, *On the Problem of Empathy*, 3rd rev. ed., trans. Waltraut Stein (ICS Publications, 1989), II §2(c), 10–11; *Finite and Eternal Being*, trans. Kurt F. Reinhardt (ICS Publications, 2002), V §16, 312–313.
