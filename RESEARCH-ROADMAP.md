@@ -19,6 +19,20 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 19: continuing purposes, shared observation and methodological comparison
+
+In [*What Holds a Purpose Together*](field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md), I describe an undertaking that continued while one of its goods remained unfulfilled. Food pickup carried part of the congregational dinner through a water disruption; the conversations I value around the tables could not take place. A water delivery also made an existing commitment definite without creating a wholly new end.
+
+The same recording reports a first shared leaf observation and notebook entry on November 18. The earlier record of preparation remains accurate for its recording time. This further report establishes that the activity began; it does not establish an inventory, equal authority over its method or ecological benefit.
+
+Schutz helps explain imposed relevance, changed practical conditions and knowledge received from others. Husserl, Stein and Bateson give resources for motivation, communication, common activity and relevant circuits. I use these accounts to distinguish what enables a purpose, what gives it direction and what would fulfill it. Stein's account of a possible good also corrects my inference from non-primordiality to ignorance of another being's needs.
+
+The new [methodological comparison](method/about-the-practice.md#what-this-practice-inherits) identifies what this practice inherits from environmental phenomenology, reflexive autoethnography and open notebook science. It compares evidential claims, correction, participation and reuse through two documented revision sequences.
+
+**Criterion disposition:** #7's three-method comparison is checked against the verified publication. Its full methodological-paper criterion remains open. The total is **45 checked / 13 unchecked across 14 open issues**. #14 receives a dated continuation without another checkbox. No additional creaturely-conflict, ecological-benefit or institutional-history criterion is completed.
+
+Published version: [November 19 export](https://github.com/samharrelson/ecological-intentionality-research/commit/bb2e95791cc72035d9b2823ed8fedba364010869).
+
 ## November 18: shared preparation and independent fulfillment
 
 In [*What We Are Trying to Do*](field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md), I report shared research and preparation for the leaf inquiry, with the observation itself still ahead. Further discussion of bamboo also ended with a decision against cultivation. These developments let me follow how contributions affect what people prepare and decide without treating reversal as the only sign that a reason matters.

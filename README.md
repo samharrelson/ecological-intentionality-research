@@ -20,17 +20,17 @@ Two comparisons now have a sustained written form: [*What Flesh Explains*](essay
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
-## The latest case: beginning an inquiry together
+## The latest case: continuing purposes and partial fulfillment
 
-[November 18, *What We Are Trying to Do*](field-notes/2026-11-18%20-%20What%20We%20Are%20Trying%20to%20Do.md) brings the leaf inquiry into shared research and preparation. The observation itself is still ahead. A further bamboo conversation has also ended with a decision against cultivation. I can now follow how an exchange affects what we prepare, consider and decide, including a decision not to take on another project.
+[November 19, *What Holds a Purpose Together*](field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md) follows purposes through changed conditions. During the water disruption, our congregational dinner continued as food for pickup, while the conversations around the tables remained unavailable. For me, one good of the evening was fulfilled and another was not. Delivering water to others gave an existing commitment a particular task.
 
-Stein's account of thought exchange helps me describe common thinking without presuming that everyone's motive governs the undertaking. Her distinction between realizing communal experience and doing justice to its object helps me ask a further ecological question: we can begin working together while still needing to learn whether we are caring well.
+I also report that the leaf inquiry moved from preparation into a brief shared observation and a notebook entry on November 18. Beginning the work leaves further questions about its method, whose contributions shape it, and what the observation can establish.
 
-The living place contributes through what there is to encounter and through the conditions on which fulfilling an intention of care depends. Observation, other people's knowledge and research mediate that relation. Shared preparation does not establish equal decision authority or ecological benefit.
+These cases help me distinguish the conditions that enable an undertaking, the relations that specify its direction, and what would fulfill it. Schutz, Husserl, Stein and Bateson supply substantial explanations to build with. Stein also helps me distinguish learning what could benefit another being from possessing its experience or establishing the benefit. The walnut's continuing life gives inquiry a particular subject and care conditions that my interpretation alone cannot settle.
 
-The two [working essays](essays/README.md) develop the sustained philosophical comparisons. The [dated research history](project/how-the-inquiry-developed.md) preserves the preceding dome, ring and bamboo cases. My theological companion asks how participation in Christ can form a community to receive another creature's good into its purposes; Matthew 25's human scene of care gives that extension a question to argue, not an ecological conclusion.
+[What this practice inherits](method/about-the-practice.md#what-this-practice-inherits) compares the public record with environmental phenomenology, reflexive autoethnography and open notebook science. The [working essays](essays/README.md) develop the philosophical comparisons; the [research history](project/how-the-inquiry-developed.md) preserves the dated changes.
 
-Published version: [November 18 export, cbea0ef](https://github.com/samharrelson/ecological-intentionality-research/commit/cbea0efc0fc54e45b9752ae6f07d2bf3570b7b14).
+Published version: [November 19 export](https://github.com/samharrelson/ecological-intentionality-research/commit/bb2e95791cc72035d9b2823ed8fedba364010869).
 
 ## How the public record works
 
