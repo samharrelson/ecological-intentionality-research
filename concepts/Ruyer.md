@@ -7,6 +7,14 @@ Raymond Ruyer enters the larger project through living form, self-survey, finali
 
 The October 22 sit gives him a direct role: tracing a tree's visible branching structure differs from arguing for its own unity or self-survey. His account rejects a supplementary internal observer and advances a substantive claim about primary consciousness. It cannot be established by the appearance of a branch end. Husserl's and Stein's resources remain strong comparators; what Ruyer adds still has to be argued.
 
+## November 19: what self-survey adds
+
+In [A Life of Its Own](../essays/a-life-of-its-own.md), I compare Ruyer's immanent form with [Stein's](Edith%20Stein.md) accounts of access, plant development and individual life. *Neofinalism*, chapter 9, 90–101, makes self-survey an active organization through time, without an additional observer inside the organism. Its account of primary consciousness is a further metaphysical claim, not a claim that plants reflect on their lives as humans do.
+
+Stein already describes a living individual's self-formation and measure. I therefore ask what explanatory work Ruyer's stronger commitment performs. Chapter 14, 142–143 and 150–151, adds another question: the integration of components within a stronger unity can relatively subordinate their individuality. I cannot assume that the relation among a walnut, a vine and a human observer is that kind of unity.
+
+My provisional verdict carries differentiated living goods into ecological intentionality without treating primary consciousness as established. The conditions supporting another life can help determine what I try to do and what would fulfill that purpose; accepting this does not settle Ruyer's metaphysical argument.
+
 ## Works in this project
 
 - *Neofinalism*, trans. Alyosha Edlebi (2016): organismic form, self-survey, finality, and value. Chapter 9 (especially pp. 94, 99–101) advances a claim about active organization and primary consciousness that a tree photograph cannot verify. Chapter 5 (pp. 36–37) argues that the nervous system extends organic finality into an external world of tools and machines, which can be organized by form without being living matter. On p. 44, Ruyer further distinguishes the externally constructed and inspected tool from an organ whose organized living activity is not reducible to its mechanism. That sharpens the swing-strap comparison: a human activity can depend on the walnut's branch without the tree becoming our tool in the same sense as the manufactured swing, an organ of our body, or a co-intender. **Status:** checked against the indexed English primary-text attachment on October 25, including p. 44; page-image collation remains outstanding. This is Ruyer's metaphysical account, not a physiological diagnosis or proof of the new ecological-intentionality hypothesis.

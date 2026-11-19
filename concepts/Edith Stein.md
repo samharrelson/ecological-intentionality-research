@@ -19,6 +19,12 @@ I had already used that distinction on November 6 and 7. Returning to it helps m
 
 I also need to distinguish the meal's practical partial fulfillment from Stein's questions about encompassing communal experience and responding adequately to its object. Those relations require argument; one word does not make them identical.[^stein19community]
 
+## November 19: individuality before the comparison with Ruyer
+
+In [A Life of Its Own](../essays/a-life-of-its-own.md), I bring Stein's non-primordiality into conversation with her account of living form. *Finite and Eternal Being* IV §4, 248–250 and 261–266, gives a plant its own formative activity and individual measure. Its life is not exhausted by appearing to me or by being a specimen of a species. Stein also distinguishes the plant's bodily forming principle from animal and human inner life.
+
+That makes the comparison with [Ruyer](Ruyer.md) more demanding. I cannot give Stein only the work of preserving difference and Ruyer all the work of explaining unity. I ask what his further claim about primary consciousness explains beyond her account. The distinction between knowing a good and realizing it remains central to my own proposal: another life's conditions can help specify a purpose without becoming mine to define.
+
 ## Works in this project
 
 - *Philosophy of Psychology and the Humanities*, especially “Individual and Community,” I §§1 and 3(b): communal experience, motivation, thought exchange, and the difference between understanding a wish and being moved by it. I use Mary Catharine Baseheart and Marianne Sawicki's translation, CWES 7 (ICS Publications, 2000). The selected primary sections now supplement the earlier secondary readings; the full essay remains a close-reading task.

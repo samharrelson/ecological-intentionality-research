@@ -9,6 +9,16 @@ I'm publishing these as working essays, not as established findings or finished 
 
 ## Working essays
 
+### [A Life of Its Own](a-life-of-its-own.md)
+
+*Stein, Ruyer, and Creaturely Difference*
+
+**November 19, 2026 · Working philosophical essay · Version 1**
+
+I ask how I can know something of another organism's good without possessing its experience. Stein already gives me an account of individual living form; Ruyer makes a further claim about immanent organization and primary consciousness. I compare those claims through the vine at the walnut and a documented interaction between two plants. The argument distinguishes what supports each life from what I ought to do, while asking how those independent goods can help specify a purpose.
+
+[Read the working essay](a-life-of-its-own.md) · [Read its companion on purpose](how-a-purpose-takes-shape.md)
+
 ### [What Flesh Explains](what-flesh-explains.md)
 
 *Embodiment, Belonging, and Noncoincidence*
