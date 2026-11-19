@@ -16,9 +16,19 @@ The [affirmative workstream (#14)](https://github.com/samharrelson/ecological-in
 
 Three claims require different evidence: that relationships shape the history of an intention, that another being's activity helps constitute an ongoing conscious act, and that the action benefits its intended recipient. None follows automatically from the others. Husserl's motivated and genetic intentionality remains a serious account of the documented cases, alongside Stein, Merleau-Ponty, Bateson, and other interlocutors. Ecological psychology and enactivism sharpen the question of what a living being contributes beyond the affordances available to a human observer. Vanessa Watts's Place-Thought challenges the privileged starting point of the human perceiver within its own Indigenous intellectual and political contexts.
 
-Two comparisons now have a sustained written form: [*What Flesh Explains*](essays/what-flesh-explains.md) asks what late Merleau-Ponty contributes beyond Husserl and early embodied phenomenology; [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md) compares ecological formation with Husserl, Bateson and Watts. Both are version 1 working essays dated November 17. They support a constructive account while leaving the necessity of a new basic intentional category unproved.
+Three comparisons now have a sustained written form. [*What Flesh Explains*](essays/what-flesh-explains.md) and [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md), dated November 17, address late flesh and ecological formation. [*A Life of Its Own*](essays/a-life-of-its-own.md), dated November 19, compares Stein and Ruyer on living individuality and develops an organism-specific example of distinct goods. These version 1 working essays support a constructive account while leaving the necessity of a new basic intentional category unproved.
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
+
+## Latest essay: A Life of Its Own
+
+In [*A Life of Its Own: Stein, Ruyer, and Creaturely Difference*](essays/a-life-of-its-own.md), I ask how another organism's good can become knowable without its experience becoming mine. Stein already supplies an account of self-formation, individuality and natural measure. Ruyer's active self-survey and primary organic consciousness make a further metaphysical commitment. I compare those claims without treating either the walnut's appearance or ecological interaction as proof of one shared conscious individual.
+
+Clemson Extension's documented relation between English ivy and coral bells gives the argument a particular case of different biological goods. The report of competition and shading is distinct from my interpretation of those goods and from a judgment about what to do. It does not establish injury to the vine's host in my own field setting.
+
+The verified essay meets the two remaining bounded criteria in [#3: creaturely individuality and distinct goods](https://github.com/samharrelson/ecological-intentionality-research/issues/3). The issue remains open in Evidence review. After the separate assessments, the live formal total is **47 checked / 11 unchecked across 14 open issues**. [#11](https://github.com/samharrelson/ecological-intentionality-research/issues/11)'s actual-conflict criterion remains for its own review.
+
+Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
 ## The latest case: continuing purposes and partial fulfillment
 
@@ -47,7 +57,7 @@ The roadmap and issues preserve competing explanations, possible defeaters, revi
 | Start with | What it offers |
 | --- | --- |
 | [Where the Inquiry Stands](project/where-the-inquiry-stands.md) | The current argument and its open questions |
-| [Working essays](essays/README.md) | The November 17 comparisons, *What Flesh Explains* and *How a Purpose Takes Shape*, alongside the earlier statements. |
+| [Working essays](essays/README.md) | The November 19 Stein–Ruyer comparison, the November 17 flesh and purpose essays, and the earlier statements. |
 | [Black Walnut field notes](field-notes/) | Dated encounters, observations, and public reflections |
 | [How the Inquiry Developed](project/how-the-inquiry-developed.md) | The fuller chronology of claims, corrections, and changing interpretations |
 | [Concepts](concepts/) and [Sources & Reading](project/sources-and-reading.md) | Philosophical vocabulary, interlocutors, and reading orientation |

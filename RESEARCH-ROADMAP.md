@@ -13,11 +13,23 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | **Ecological directedness of intentional life** | **[#14: How do ecological relationships participate in intentional directedness?](https://github.com/samharrelson/ecological-intentionality-research/issues/14)** (affirmative starting point; working account v0.1) |
 | Intentionality and constitution | [#1: Does ecological intentionality explain anything beyond Husserl's layered intentionality?](https://github.com/samharrelson/ecological-intentionality-research/issues/1) |
 | Flesh and process | [#2: What does late Merleau-Ponty's flesh add beyond Husserl and early phenomenology?](https://github.com/samharrelson/ecological-intentionality-research/issues/2) |
-| Creaturely individuality | [#3: How can ecological relation preserve creaturely individuality and inaccessible goods?](https://github.com/samharrelson/ecological-intentionality-research/issues/3) |
+| Creaturely individuality | [#3: How can ecological relation preserve creaturely individuality and distinct goods?](https://github.com/samharrelson/ecological-intentionality-research/issues/3) |
 | Ecological mind and learning | [#4: Does Bateson's ecological mind already explain changes of intention beyond the walnut?](https://github.com/samharrelson/ecological-intentionality-research/issues/4) |
 | Ecology of the Cross | [#5: What affirmative theological claim does the Ecology of the Cross make?](https://github.com/samharrelson/ecological-intentionality-research/issues/5) |
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
+
+## November 19, later: A Life of Its Own and distinct living goods
+
+The working essay [*A Life of Its Own*](essays/a-life-of-its-own.md) compares Stein's non-primordial access, positive account of individual living form and knowable goods with Ruyer's active self-survey and primary organic consciousness. Stein already supplies self-formation and natural measure. Ruyer's further metaphysical claim is not interchangeable with her account, and his treatment of component integration requires me to distinguish an organism's unity from ecological relations among independent lives.
+
+I assess two deliverables in [#3](https://github.com/samharrelson/ecological-intentionality-research/issues/3) separately. The sustained, cited comparison meets the criterion of comparing Stein and Ruyer without equating them. The essay's external, species-identified ivy–coral-bells example meets the criterion of genuinely different or conflicting goods. It uses Williamson's reported competition and shading to argue for distinct biological goods while distinguishing botanical description, philosophical interpretation and ethical judgment. The effects of the vine on my walnut remain unestablished.
+
+**Criterion disposition:** those two #3 criteria are checked against the verified essay. All four current #3 criteria are now checked; the issue stays open in **Evidence review**. The live formal total is **47 checked / 11 unchecked across 14 open issues**, excluding #6's reusable method prompts. [#11](https://github.com/samharrelson/ecological-intentionality-research/issues/11)'s separate actual-conflict criterion is unchanged. The earlier morning count below remains a dated record.
+
+The current navigation now uses #3's revised title, **distinct goods**. Earlier dated wording is preserved. The open philosophical tasks include the explanatory need for Ruyer's stronger commitment, the particular vine–walnut relation and the ethical judgment that biological difference alone cannot settle.
+
+Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
 ## November 19: continuing purposes, shared observation and methodological comparison
 
