@@ -30,17 +30,19 @@ The verified essay meets the two remaining bounded criteria in [#3: creaturely i
 
 Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
-## The latest case: continuing purposes and partial fulfillment
+## The latest case: a capacity formed through particular lives
 
-[November 19, *What Holds a Purpose Together*](field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md) follows purposes through changed conditions. During the water disruption, our congregational dinner continued as food for pickup, while the conversations around the tables remained unavailable. For me, one good of the evening was fulfilled and another was not. Delivering water to others gave an existing commitment a particular task.
+[November 20, *The Lives That Form Us*](field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md) helps me name a capacity developed through the practice: I have become readier to reconsider an arrangement through a life affected by it. The exposed root brings back the climbing-dome move I had already reported on November 11. Today's reflection interprets that history; it does not record another move or establish that the root benefited.
 
-I also report that the leaf inquiry moved from preparation into a brief shared observation and a notebook entry on November 18. Beginning the work leaves further questions about its method, whose contributions shape it, and what the observation can establish.
+I distinguish acquiring a capacity from exercising it toward a particular life. A habit can persist between visits and travel into another setting. Adequate judgment about this root still requires learning its conditions. Perception, remembered encounters, inquiry and prior commitments help specify a purpose whose success also depends on a life that continues independently of my intentions. Husserl's motivation and habituality and Bateson's ecological learning remain substantial resources for explaining this formation.
 
-These cases help me distinguish the conditions that enable an undertaking, the relations that specify its direction, and what would fulfill it. Schutz, Husserl, Stein and Bateson supply substantial explanations to build with. Stein also helps me distinguish learning what could benefit another being from possessing its experience or establishing the benefit. The walnut's continuing life gives inquiry a particular subject and care conditions that my interpretation alone cannot settle.
+Gregersen gives the theological argument a positive account of formation. In §I of his 2001 essay, his reading of Luther connects receiving grace and faith with becoming able to act in love and justice. The 2015 introduction describes participation in divine life as differing with the recipient. I cite Luther and Aquinas here through Gregersen; this review did not independently check their passages. These resources help me develop the proposal that participation in Christ can form a community's capacity to learn, deliberate and share responsibilities.
+
+Gregersen's extended incarnational scope includes trees, grass, soil and moisture, while leaving final salvation as a separate question. My hope for transformed communion needs its own argument. His account of suffering also requires scrutiny: a community cannot describe another creature's injury as its own self-giving.
+
+This continuation strengthens [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) and [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5) without adding a completed criterion. The real creaturely and institutional conflict case remains open.
 
 [What this practice inherits](method/about-the-practice.md#what-this-practice-inherits) compares the public record with environmental phenomenology, reflexive autoethnography and open notebook science. The [working essays](essays/README.md) develop the philosophical comparisons; the [research history](project/how-the-inquiry-developed.md) preserves the dated changes.
-
-Published version: [November 19 export](https://github.com/samharrelson/ecological-intentionality-research/commit/bb2e95791cc72035d9b2823ed8fedba364010869).
 
 ## How the public record works
 

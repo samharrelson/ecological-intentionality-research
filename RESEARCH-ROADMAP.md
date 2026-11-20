@@ -19,6 +19,18 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 20: acquired capacities and their particular exercise
+
+In [*The Lives That Form Us*](field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md), I name a capacity formed through repeated sitting: reconsidering an arrangement through a life affected by it. I return to the climbing-dome move reported on November 11 as a remembered example, while a less familiar view of the trunk supplies a separate perceptual episode. Neither establishes a new action or measured biological benefit.
+
+I distinguish the history of acquiring a capacity from the evidence needed to exercise it adequately toward a particular being. A habit can persist between visits; judgment about this root still depends on its conditions. Perception, inquiry, memory and prior commitments mediate how a living situation enters deliberation and helps specify a purpose. The tree's independent life also matters to what would count as successful care. This develops [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) without inferring an ongoing constitutive mechanism from acquisition or dependence.
+
+The theological reading gives [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5) a positive resource for explaining formation. In §I of the 2001 essay, Gregersen's reading of Luther connects received grace and faith with active responsiveness to others' needs. His 2015 conclusion describes participation as differing according to the recipient's mode, drawing on Aquinas. I use these as Gregersen's interpretations; this review did not independently check the Luther or Aquinas passages. I develop their implications for communal ecological capacities as my own proposal.
+
+The same 2015 introduction distinguishes incarnation's extended scope (C2) from final salvation (C3). Deep incarnation does not strictly entail universalism. My hope for transformed communion requires further argument, and the 2001 account of suffering and divine transformation remains a challenge. It does not establish plant pain or authorize avoidable injury.
+
+**Criterion disposition:** all fourteen issues remain open, with **47 checked / 11 unchecked** formal criteria. #14 receives a dated continuation; #5 retains its real creaturely and institutional conflict requirement. Today's work adds no checkbox or proposed board-stage change. #2's continuity reconstruction, #6's scoped source and publication review, and #7's full methodological paper retain their distinct burdens.
+
 ## November 19, later: A Life of Its Own and distinct living goods
 
 The working essay [*A Life of Its Own*](essays/a-life-of-its-own.md) compares Stein's non-primordial access, positive account of individual living form and knowable goods with Ruyer's active self-survey and primary organic consciousness. Stein already supplies self-formation and natural measure. Ruyer's further metaphysical claim is not interchangeable with her account, and his treatment of component integration requires me to distinguish an organism's unity from ecological relations among independent lives.
