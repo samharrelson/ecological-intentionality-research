@@ -209,11 +209,11 @@ A useful public research record includes substantive counterarguments, discarded
 
 **Earlier claim → field observation or source → strongest objection/counterexample → decision to retain, narrow, withdraw, or suspend → remaining uncertainty → dated public record (when safe and warranted).**
 
-The public issue is a navigable record of the question; its checkboxes indicate publicly evidenced deliverables, not philosophical proof. Update an issue only for work its criteria actually describe. A question may move between board statuses, gain a better formulation, or be superseded. Do not rewrite away the previous rationale merely to make the new position look inevitable. When a question no longer distinguishes anything, explain the reason publicly and close or mark it superseded rather than creating an appearance of steady cumulative success.
+The public issue is a navigable record of the question; its checkboxes indicate publicly evidenced deliverables, not philosophical proof. Update an issue only for work its criteria actually describe. A question may move between board statuses, gain a better formulation, or be superseded. I preserve the previous rationale so that a later position does not appear inevitable. When a question no longer distinguishes anything, explain the reason publicly and close or mark it superseded rather than creating an appearance of steady cumulative success.
 
 The underlying field journal, intimate encounters, consent-sensitive knowledge, exploratory drafts, and unpublished research remain private. A record of revision can be transparent without being exhaustive. Publication is a governed scholarly choice, not an automatic Git synchronization rule.
 
-This is itself an unresolved methodological research problem, tracked in [issue #7](https://github.com/samharrelson/ecological-intentionality-research/issues/7); relevant comparisons with open notebooks, reflexive field research, and established provenance practices are still required.
+I completed a bounded comparison with environmental phenomenology, reflexive autoethnography and open notebook science on November 19 in [What this practice inherits](method/about-the-practice.md#what-this-practice-inherits). [Issue #7](https://github.com/samharrelson/ecological-intentionality-research/issues/7) keeps the full methodological paper open. Scholarly reuse and effectiveness also require an external-reader test.
 
 ## How to read the status of a research question
 
@@ -237,7 +237,7 @@ A source may be a **reading target**, a **selected-passage check**, or a **compl
 
 ## Public and private boundaries
 
-This is **not** a copy of my private doctoral research notebook or my task list. Public issues link to curated public notes and sources, not raw field recordings, family details, private correspondence, Zotero storage, or unpublished Comps material. The GitHub Project, when configured, will organize these issues; it will not serve as a publishing gate or decide what crosses the private/public boundary.
+This is **not** a copy of my private doctoral research notebook or my task list. Public issues link to curated public notes and sources, not raw field recordings, family details, private correspondence, Zotero storage, or unpublished Comps material. I use the GitHub Project to organize these issues. Editorial review governs what crosses the private/public boundary; the board records the work's stage.
 
 Readers are welcome to offer substantive references, counterarguments, and corrections through the linked public issues. Disagreement and failed hypotheses are meaningful findings when the evidence supports them.
 
