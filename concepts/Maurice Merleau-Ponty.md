@@ -23,16 +23,18 @@ Browse: #MerleauPonty
 
 ## From the sits
 
+- [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I shift my stance to follow bark and light, then ask how flesh describes my bodily belonging within what I encounter. The changed view gives me a case to interpret without making my experience the tree's.
+
 - [November 17, 2026: Considered and Not Followed](../field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md): I distinguish two contacts while attention shifts their prominence. *The Visible and the Invisible*, p. 142, explicitly permits simultaneous touching and being touched in its handshake discussion. The difficulty on pp. 147–148 concerns grasping the hand precisely as touching. I therefore need to preserve both pressures before asking what their relation shows. This neither proves nor refutes late flesh; pp. 142 and 250 also keep embodied belonging distinct from one universal conscious organism. In [What Flesh Explains](../essays/what-flesh-explains.md), I compare what the late ontology contributes with the resources already present in Husserl and early Merleau-Ponty.
 
-- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — One field of visibility, plural living goods, and the unproved move from perceptual belonging to the constitution of practical ends.
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md): One field of visibility, plural living goods, and the unproved move from perceptual belonging to the constitution of practical ends.
 
 
-- [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md) — Early motor intentionality supplies a serious explanation of moving without an explicit prior instruction; the tree's living organization remains a further question.
-- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Differently related branches and strap keep shared sensible belonging distinct from organismic membership; the explanatory contribution of late flesh remains open.
-- [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md) — Unexpected illumination after movement renews the comparison between embodied perspective and the further ontological claims of late flesh.
-- [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md) — Changing light and a squirrel's arrival make shared sensible belonging a question without establishing identical experience or the explanatory gain of late flesh.
-- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — Bark contact sharpens the distinction between tactile acquaintance, bodily reversibility, and unestablished experiential reciprocity.
+- [October 26, 2026: Moving into Shade](../field-notes/2026-10-26%20-%20Moving%20into%20Shade.md): Early motor intentionality supplies a serious explanation of moving without an explicit prior instruction; the tree's living organization remains a further question.
+- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md): Differently related branches and strap keep shared sensible belonging distinct from organismic membership; the explanatory contribution of late flesh remains open.
+- [October 22, 2026: Where Growth Meets a Cut](../field-notes/2026-10-22%20-%20Where%20Growth%20Meets%20a%20Cut.md): Unexpected illumination after movement renews the comparison between embodied perspective and the further ontological claims of late flesh.
+- [October 21, 2026: A Shared Morning](../field-notes/2026-10-21%20-%20A%20Shared%20Morning.md): Changing light and a squirrel's arrival make shared sensible belonging a question without establishing identical experience or the explanatory gain of late flesh.
+- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md): Bark contact sharpens the distinction between tactile acquaintance, bodily reversibility, and unestablished experiential reciprocity.
 - [October 19, 2026: What a Clearer View Leaves Open](../field-notes/2026-10-19%20-%20What%20a%20Clearer%20View%20Leaves%20Open.md)
 - [October 18, 2026: What Returning Makes Present](../field-notes/2026-10-18%20-%20What%20Returning%20Makes%20Present.md)
 - [October 17, 2026: When the Conditions Change](../field-notes/2026-10-17%20-%20When%20the%20Conditions%20Change.md)

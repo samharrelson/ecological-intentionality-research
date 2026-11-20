@@ -15,15 +15,17 @@ Related: [Place and Agency](Place%20and%20Agency.md) · [Attention](Attention.md
 
 Browse: #vanessawatts
 
-**November 7: whose framework makes place available as an object?** In [the November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I begin with my looking at the walnut's ivy, using an app to name plants, and deciding whose goods ought to guide my next action. Watts's Place-Thought challenges the human-first architecture of that procedure, not merely its lack of sympathy. Her argument arises from particular Indigenous histories and accounts of land and agency; I can't appropriate them as a supporting metaphor or treat her use of the word *intentionality* as Husserl's term with a new object. The more demanding question is whether my own methods already assign to me the authority to determine which lives and goods are legible, and how ecological inquiry can become answerable to knowledges and communities beyond my personal encounter.
+**November 7: whose framework makes place available as an object?** In [the November 7 sit](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md), I begin with my looking at the walnut's ivy, using an app to name plants, and deciding whose goods ought to guide my next action. Watts's Place-Thought challenges the human-first architecture of that procedure, not only its lack of sympathy. Her argument arises from particular Indigenous histories and accounts of land and agency; I can't appropriate them as a supporting metaphor or treat her use of the word *intentionality* as Husserl's term with a new object. The more demanding question is whether my own methods already assign to me the authority to determine which lives and goods are legible, and how ecological inquiry can become answerable to knowledges and communities beyond my personal encounter.
 
 ## From the sits
+
+- [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I let Place-Thought challenge a starting point that makes land and nonhuman agency matter only through a human project. I keep her situated argument distinct from my vocabulary of learning and formation.
 
 - [November 15, 2026: What Can Reach a Habit](../field-notes/2026-11-15%20-%20What%20Can%20Reach%20a%20Habit.md): The question of how habits admit other lives remains open to Watts's challenge to a human-centered starting point. Place-Thought cannot be reduced to information that helps me choose among my own purposes. This comparison carries forward the earlier primary reading; it does not claim a new interpretation of her article established by the bamboo case.
 
 - [November 14, 2026: The Neighbor's Branch](../field-notes/2026-11-14%20-%20The%20Neighbor%27s%20Branch.md): A rereading of the 2013 article tests the assumption that land acquires significance through a human purpose. Place-Thought's situated philosophical and political claims cannot be reduced to causal feedback or made interchangeable with Maximus's mediation. The comparison belongs to this project, not to Watts's own account of the branch.
 
-- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Plant identification and practical judgment raise the question of a human-centered framework for land and agency.
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md): Plant identification and practical judgment raise the question of a human-centered framework for land and agency.
 
 
 - [October 4, 2026: One Shared Field, No Single Good](../field-notes/2026-10-04%20-%20One%20Shared%20Field%2C%20No%20Single%20Good.md)

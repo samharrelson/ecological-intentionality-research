@@ -66,6 +66,8 @@ The remaining test isn't whether reading or living encounter can change my habit
 
 ## From the sits
 
+- [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I use embodied familiarity, habituality and motivation to explain a capacity formed through repeated encounter. I still distinguish how I acquired that capacity from how a particular relationship enters its exercise now.
+
 - [November 19, 2026: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I use *Ideas II* §§51 and 56(a) to distinguish communicated reasons and motivated continuation from the physical conditions of an undertaking. A retained commitment can become a particular act as circumstances change.
 
 - [Who Gets to Say We](../field-notes/2026-11-16%20-%20Who%20Gets%20to%20Say%20We.md): *Analyses* §15, pp. 103–104, explains renewed grounds for an unchanged judgment and sets communication aside in that passage. *Ideas II* §51, pp. 200–210, especially 201–204, directly supplies communicative acts, assent, refusal, counterproposal and mutual determination within a common surrounding world. §55, pp. 226–230, helps explain practical motivation during the act. These primary resources give me a stronger account of protection becoming specific in cutting and of reasons entering a developing shared undertaking. 

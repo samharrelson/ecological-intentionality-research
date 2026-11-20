@@ -5,7 +5,7 @@ tags:
 ---
 I've been reading Gregory Bateson as a serious challenge to my proposed account of [ecological intentionality](Ecological%20Intentionality.md). In *Steps to an Ecology of Mind*, particularly “Form, Substance, and Difference,” he describes a person–axe–tree circuit through which differences in the cut, perception, bodily movement, and the next stroke all help explain what happens. The appropriate boundary of the mental system depends on the activity we're trying to understand.
 
-That means I can't claim that mind extends beyond an isolated individual as though Bateson hadn't already argued for it. His account is stronger than an environment merely influencing a finished subject. He also includes relevant memory, which makes my claim that encounters with the walnut affect how I notice things elsewhere a question for Bateson, not an immediate objection to him.
+That means I can't claim that mind extends beyond an isolated individual as though Bateson hadn't already argued for it. His account goes beyond environmental influence on an already formed subject. He also includes relevant memory, which makes my claim that encounters with the walnut affect how I notice things elsewhere a question for Bateson, not an immediate objection to him.
 
 What I still want to investigate is whether the particular *conscious intention* and the walnut's independently developing life and possible good demand an account beyond informational feedback, memory, and learning. Bateson's circuit doesn't require the tree, axe, and human to share a single phenomenal perspective. Nor have I established that his account neglects the tree's own life. The difference between system organization and the lives of its participants is precisely what I need to test.
 
@@ -68,6 +68,8 @@ If I claim that my relation to the walnut has changed which practical questions 
 
 ## From the sits
 
+- [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I ask what learning and wider circuits explain about the capacity I carry between encounters. I distinguish that history from the relations involved in a particular activity and from the tree's independent conditions of benefit.
+
 - [November 19, 2026: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): The relevant circuit depends on the action I am explaining. My account of the delivery does not explain the repair system, and connecting the yard's inhabitants does not establish one common conscious perspective.
 
 - [Who Gets to Say We](../field-notes/2026-11-16%20-%20Who%20Gets%20to%20Say%20We.md): “The Logical Categories of Learning and Communication,” pp. 305–308 (Jason Aronson, 1987), keeps self-validating contexts in view within a shared practice. A different reason may enter conversation while the frame that organizes agreement persists. I need to follow how reasons affect later conduct; an unchanged answer proves neither responsiveness nor rationalization. Neither reported consensus nor practical follow-through establishes Learning III. The selected primary passage was rechecked.
@@ -78,7 +80,7 @@ If I claim that my relation to the walnut has changed which practical questions 
 
 - [November 13, 2026: What a Purpose Leaves Out](../field-notes/2026-11-13%20-%20What%20a%20Purpose%20Leaves%20Out.md): The two conscious-purpose essays already describe selective arcs and possible correctives. “Effects of Conscious Purpose on Human Adaptation,” points 8 and 19, also treats discrepant organismic purposes and possible correction through love, art, nonhuman contact and religion. The remaining comparison concerns specific changes in an intention's beneficiary, means or governance, with synthesis still a possible result. Essays checked in extracted primary text from the Jason Aronson reprint, starting at printed pp. 434 and 447; exact passage folios remain uncollated.
 
-- [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md) — Mediated learning across encounters belongs within the strongest comparison with ecological formation. Changed questions and practical projects do not by themselves establish an explanatory difference from feedback and memory.
+- [November 8, 2026: What This Life Makes Possible](../field-notes/2026-11-08%20-%20What%20This%20Life%20Makes%20Possible.md): Mediated learning across encounters belongs within the strongest comparison with ecological formation. Changed questions and practical projects do not by themselves establish an explanatory difference from feedback and memory.
 
 - [October 31, 2026: Through the Thinning Canopy](../field-notes/2026-10-31%20-%20Through%20the%20Thinning%20Canopy.md). Tracking a falling piece makes the relevant activity precise; feedback and memory remain strong explanations without demonstrating a special role for the tree's continuing life.
 - [October 30, 2026: What Falls and What Carries Forward](../field-notes/2026-10-30%20-%20What%20Falls%20and%20What%20Carries%20Forward.md). Interruptions in the yard and a disposition carried into later situations need different explanations; Bateson's inclusion of memory prevents treating transfer itself as a counterexample.
