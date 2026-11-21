@@ -21,6 +21,8 @@ Another participant's experience calls for a different approach: conversation ca
 
 ## From the sits
 
+- [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): The twig's future and the unmeasured effects of relocation are different open questions. The theological reflection further distinguishes incomplete knowledge, creaturely difference and wounded relation; naming all three remainder does not give them the same conditions of transformation.
+
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I leave the lighter bark feature's history open while gaining a clearer view. I also distinguish that investigable question from the walnut's continuing life beyond what it contributes to my formation.
 
 - [November 19: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I distinguish investigable needs and causes from non-primordial access to another's experience.

@@ -43,6 +43,8 @@ The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds
 
 ## From the sits
 
+- [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): Reported buds direct attention toward the walnut's ongoing development. Living form and the distinction between knowing and realizing a possible good help me separate that development from proof that the dome move benefited the tree. These applications retain the existing selected source warrants.
+
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I use living individuality and the distinction between knowing and realizing a possible good to keep the walnut's life from becoming a measure of my development. Its good remains different from my satisfaction with an act.
 
 - [November 19: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I return to the distinction between knowing a possible good and realizing it.

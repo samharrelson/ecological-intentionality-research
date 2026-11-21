@@ -17,6 +17,8 @@ In [*What This Life Makes Possible*](https://ecologicalintentionality.org/sits/2
 
 ## From the sits
 
+- [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): Inspecting a living twig makes a detail in a familiar representation newly noticeable. I distinguish that recognized image from a replica mistakenly believed alive, and the history of attention from evidence that an intervention benefited the tree.
+
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I change my stance to follow bark and light, while the exposed root prompts reflection on a capacity developed across encounters. I distinguish present attention, learned readiness and judgment about this particular life.
 
 - [November 17, 2026: Considered and Not Followed](../field-notes/2026-11-17%20-%20Considered%20and%20Not%20Followed.md): With one palm on bark and the other hand against it, I can distinguish both pressures while shifting attention between them. Changed prominence does not mean the less prominent contact disappears. Merleau-Ponty permits simultaneous touching and being touched in *The Visible and the Invisible*, p. 142; pp. 147–148 address the more specific difficulty of apprehending the touching hand as touching. This keeps my description open to interpretation without changing it to fit the text. The practical inquiry adds a related distinction: a reason can receive consideration and prompt further research without becoming the reason that governs the immediate choice.

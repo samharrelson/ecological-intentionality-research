@@ -1,7 +1,7 @@
 ---
 description: A provisional orientation to where the Black Walnut inquiry currently stands.
 ---
-*Updated November 20, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 21, 2026 · Black Walnut Field Notes · An argument in progress*
 
 I've been returning regularly to a black walnut in Spartanburg, South Carolina, keeping dated recordings, observations, photographs and research notes. The practice began with a phenomenological question about how another living being appears. It has opened a further question about **how the world participates in the directedness of individual and communal consciousness**: not only what we notice or learn about living beings, but how independent lives and material processes may shape what we are consciously directed toward, what our purposes are for, and what could fulfill or correct those purposes.
 
@@ -11,7 +11,7 @@ The [Essays section](../essays/README.md) carries the working philosophical argu
 
 ## The affirmative question
 
-**The world is not only what consciousness is directed toward. Its independent lives and processes may participate in the very directedness of consciousness, even while remaining irreducibly other.**
+**Intentional life is directed toward the world and can receive direction through encounters with it. Its purposes may be formed and redirected through the independent lives and processes of other beings, while those beings continue beyond what I know, intend or control.**
 
 That is the affirmative working proposal. Ecological intentionality concerns conscious directedness **toward and through** ecological relationships. It includes reception: I don't author every possibility or limit that becomes significant in a practical act. It includes asymmetrical reciprocity and **intimacy with remainder**: real relations may form purposes while other lives continue beyond what I know, intend or control. Historical learning is one aspect, but the question also concerns **present intentional activity, anticipated futures, and genuinely shared communal purposes**. The proposal does not require one fused consciousness in a community or a humanlike co-intender in a tree.
 
@@ -33,7 +33,13 @@ In [A Life of Its Own](../essays/a-life-of-its-own.md), my November 19 working e
 
 ## What the record supports
 
-In the latest sit, [The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md), I name a capacity formed through repeated encounter: reconsidering an arrangement through a life affected by it. The exposed root recalls the dome move already reported on November 11. Moving beside the trunk gives me a different perceptual episode, including a lighter bark feature whose history I still don't know. The remembered action and the present observation contribute differently to my account.
+In the November 21 sit, [Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md), I inspect an attached twig and identify a couple of structures as buds. Seeing them draws my attention to a matching detail in a familiar representation, which in turn helps me think about the tree's future. I know the image is an image. It can redirect my attention while having no developmental life like the walnut's. The case makes a positive claim more demanding: intentional life can receive direction, yet being redirected alone does not establish a new intentional structure or a two-sided conscious purpose shared with the tree.
+
+The source comparison matters. [Brentano](../concepts/Franz%20Brentano.md) distinguishes reference to objects in modes of presentation, judgment and affect. [Husserl](../concepts/Husserl.md) already describes affection before attentive turning and the persistence of habit; [Bateson](../concepts/Gregory%20Bateson.md) describes contextual learning and wider feedback. I am constructing an account that follows another living being through the formation of a capacity, the specification or revision of a practical purpose, and the independent conditions in which its possible good could be realized. A photograph or tattoo may mediate that relation. The walnut's own development helps determine what care could accomplish, without proving that the organism itself constitutes my act of consciousness.
+
+The bud identification is my field report, open to further close documentation. Neither that identification nor spring leaves alone can establish whether the dome relocation benefited the root. This is the boundary between a corrected observation, a completed movement, a good actually realized and evidence that the good occurred. My final statement for November 30 will need to defend those connections while keeping the stronger constitutive claim open.
+
+In the November 20 sit, [The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md), I name a capacity formed through repeated encounter: reconsidering an arrangement through a life affected by it. The exposed root recalls the dome move already reported on November 11. Moving beside the trunk gives me a different perceptual episode, including a lighter bark feature whose history I still don't know. The remembered action and the present observation contribute differently to my account.
 
 I distinguish acquiring a capacity from exercising it toward this particular life. Some habits of inquiry can travel to another place; an informed judgment about this root still needs knowledge of its conditions. Relationships can form selective or damaging habits as well as attentive ones. My proposal concerns how directedness develops, while the adequacy of care requires further evidence. Husserl's account of acquired faculties and Bateson's learning supply substantial explanations that help me state the remaining question: what does the independently continuing life contribute to the present judgment or act? The [sit's research discussion and source notes](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md#research-connection) develop the comparison.
 

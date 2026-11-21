@@ -34,6 +34,8 @@ Related: [Where the Inquiry Stands](../project/where-the-inquiry-stands.md) · [
 
 ## From the sits
 
+- [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): I carry the previously checked accounts of received life enabling agency and differentiated participation into a question about shared work. I distinguish limited knowledge, creaturely difference and wounded relations before asking what reconciliation transforms. The community's formation remains a theological proposal, with the garden still prospective.
+
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I develop communal formation through Gregersen's account of grace enabling agency and participation differing with its recipient. I distinguish incarnation's scope from final salvation and retain the difficulty of his claims about evolutionary suffering.
 
 - [November 19, 2026: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): I ask how participation in Christ can shape the purposes carried through a changed meal. The distinction attributed to Bauckham in Gregersen's introduction helps me resist making the outage itself a theological necessity.

@@ -68,6 +68,8 @@ If I claim that my relation to the walnut has changed which practical questions 
 
 ## From the sits
 
+- [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): The twig–image sequence makes mediation part of the question about received direction. Learning and relevant circuits remain substantial explanations; a report that the practice changed me cannot distinguish my proposal from an account that already predicts such change. The beneficiary's good and the effects of acting still require their own evidence.
+
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I ask what learning and wider circuits explain about the capacity I carry between encounters. I distinguish that history from the relations involved in a particular activity and from the tree's independent conditions of benefit.
 
 - [November 19, 2026: What Holds a Purpose Together](../field-notes/2026-11-19%20-%20What%20Holds%20a%20Purpose%20Together.md): The relevant circuit depends on the action I am explaining. My account of the delivery does not explain the repair system, and connecting the yard's inhabitants does not establish one common conscious perspective.
