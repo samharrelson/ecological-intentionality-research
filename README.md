@@ -30,7 +30,15 @@ The verified essay meets the two remaining bounded criteria in [#3: creaturely i
 
 Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
-## The latest case: a capacity formed through particular lives
+## The latest case: receiving and redirecting attention
+
+In [November 21, *Already Underway*](field-notes/2026-11-21%20-%20Already%20Underway.md), an attached twig becomes a focus of visual and tactile attention, and a recognizable detail in a familiar image of the walnut becomes newly significant. The image is known as a representation; the living tree's ongoing development gives a different referent and practical stake. The public account leaves the twig identification open to further close documentation and makes no claim that the dome relocation benefited the root.
+
+My constructive question concerns **consciousness directed toward the world and capable of receiving and changing direction through encounter**. A relation can help form a capacity, specify or revise a particular purpose, and supply conditions for the purpose's fulfillment in another life. Husserl already describes affection preceding attentive turning, Brentano distinguishes intentional reference in different modes, and Bateson's ecological circuits explain feedback and learning. The positive account must state what a particular living beneficiary's organization and good contribute. I do not infer that the tree intends toward me or that these cases demonstrate a new basic intentional act.
+
+See [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) for the affirmative formation question, [#1](https://github.com/samharrelson/ecological-intentionality-research/issues/1) for the strongest Husserlian reconstruction, and [#4](https://github.com/samharrelson/ecological-intentionality-research/issues/4) for Bateson's challenge. The separate theological inquiry [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5) asks how participation in Christ can form shared purposes and obligations. This continuation adds no completed criterion.
+
+## November 20: a capacity formed through particular lives
 
 [November 20, *The Lives That Form Us*](field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md) helps me name a capacity developed through the practice: I have become readier to reconsider an arrangement through a life affected by it. The exposed root brings back the climbing-dome move I had already reported on November 11. Today's reflection interprets that history; it does not record another move or establish that the root benefited.
 

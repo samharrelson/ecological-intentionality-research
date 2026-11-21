@@ -19,6 +19,18 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 21: directedness received, redirected and made answerable
+
+[Already Underway](field-notes/2026-11-21%20-%20Already%20Underway.md) describes an attached twig, reported bud structures, and a familiar image that became newly significant when the living twig was inspected. The encounter supplies a possible example of *redirected attention*, including through a known representation. The tree's developmental activity remains an independent matter, and the bud does not prove benefit from relocating the climbing dome.
+
+I develop ecological intentionality as a connected account of **(1) capacities formed through relationships, (2) the specification or revision of particular purposes in an encounter, and (3) conditions of possible fulfillment in independently continuing lives**. The recipient's good can outlast my completed action and my knowledge of its consequences. The field case does not establish a new basic act structure or a conscious intention in the tree.
+
+The [Husserl comparison #1](https://github.com/samharrelson/ecological-intentionality-research/issues/1) gains a fresh source-based correction. In *Analyses Concerning Passive and Active Synthesis* §§20–21 and 49–51, Husserl distinguishes affection preceding attentive turning, fulfillment of intended givenness, and practical striving to realize value. [Brentano's](concepts/Franz%20Brentano.md) object-directed modes include presentation, judgment and affect; [Bateson's #4](https://github.com/samharrelson/ecological-intentionality-research/issues/4) traces learning and feedback across wider circuits. An artifact or image can redirect attention as well. These strong predecessor explanations discipline [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14)'s affirmative question.
+
+The ecological and theological claims remain distinct. [Matthew 25](https://bible.usccb.org/bible/matthew/25) concerns judgment and persons in need; [1 Corinthians 3](https://bible.usccb.org/bible/1corinthians/3) concerns divided congregations and differentiated work. Their use in the Ecology of the Cross is an interpretive proposal that must account for creaturely difference, wounded relations and who bears the costs of a communal purpose.
+
+**Criterion disposition:** 47 checked / 11 unchecked across the existing fourteen open issues. #14, #1, #4 and #5 remain open; board stages stay as they were. No new biological benefit, reciprocal tree intention or act-level irreducibility is established.
+
 ## November 20: acquired capacities and their particular exercise
 
 In [*The Lives That Form Us*](field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md), I name a capacity formed through repeated sitting: reconsidering an arrangement through a life affected by it. I return to the climbing-dome move reported on November 11 as a remembered example, while a less familiar view of the trunk supplies a separate perceptual episode. Neither establishes a new action or measured biological benefit.
