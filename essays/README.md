@@ -5,9 +5,17 @@ description: Working philosophical essays developing and testing ecological inte
 
 The Black Walnut Field Notes record particular encounters: what I perceived, remembered, inferred, questioned, and could not determine. The [concept pages](../concepts/Ecological%20Intentionality.md) follow the philosophical vocabulary and thinkers shaping the inquiry. This section has another purpose. It gathers **extended arguments** that draw those encounters and texts together into propositions a reader can question, correct, or reject.
 
-I'm publishing these as working essays, not as established findings or finished statements of a theory of consciousness. Dates and versions matter. I want readers to see what the argument claimed at a particular point, what evidence it relied on, and what later required revision.
+I publish these as working essays whose claims remain open to criticism and revision. Dates and versions matter. I want readers to see what the argument claimed at a particular point, what evidence it relied on, and what later required revision.
 
 ## Working essays
+
+### [Seeing a Life Develop](seeing-a-life-develop.md)
+
+*Husserl, Stein, and the Purposes of Care*
+
+**November 22, 2026 · Working comparison · Version 1**
+
+Remembered ivy growth gives me a particular inquiry to follow. I reconstruct what Husserl's temporal horizons, receptive attention and practical striving explain, alongside Stein's apprehension of plant life and her gardener's investigation. I build from those resources to explain how formation, situated purpose and independent benefit connect across an undertaking.
 
 ### [A Life of Its Own](a-life-of-its-own.md)
 

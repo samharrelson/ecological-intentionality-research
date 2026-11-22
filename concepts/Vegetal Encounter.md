@@ -13,17 +13,19 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
-- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) — Provisional identification, directly witnessed climbing, possible different organismic goods and unmeasured outcomes.
+- [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): Learning to recognize leaf stalks and remembering a shorter ivy vine change what I investigate. I distinguish present appearance, an estimate of change, diagnosis and a justified response. The walnut's good and the vine's good each require attention as I make the purpose more definite.
+
+- [November 7, 2026: Whose Good Governs the Act](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md): Provisional identification, directly witnessed climbing, possible different organismic goods and unmeasured outcomes.
 
 
-- [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md) — Whole leaf litter, a revised weekend plan, and unmeasured biological goods.
+- [November 6, 2026: When Another Life Changes the End](../field-notes/2026-11-06%20-%20When%20Another%20Life%20Changes%20the%20End.md): Whole leaf litter, a revised weekend plan, and unmeasured biological goods.
 
-- [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md) — Wet litter and living groundcover invite local inquiry without establishing species richness, symbiosis, chemical inhibition, or a need to change management.
-- [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md) — Restraint near yellow, spotted leaflets expresses an intention to care while leaving its biological justification open; persistent strap marks do not settle injury or benefit.
-- [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md) — Fallen foliage and persistent strap marks make both familiar care practices and recent interventions answerable to further knowledge of the tree. [Hal King](Hal%20King.md) helps articulate the already practical dimension of vegetal empathy, which the constructive philosophical proposal must not overlook.
-- [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md) — I see bark contours at remembered strap positions after removing the swing, and recall delaying removal for a spider's web. Organismic condition, actual injury, and my intention to care remain distinct; several living goods can make action and waiting consequential in different ways.
-- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md) — Two differently oriented branches and remembered fruiting invite inquiry into this tree's development without supplying a diagnosis of its condition.
-- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md) — A visible, tangible knot raises a real question about this organism's history without disclosing its cause.
+- [November 4, 2026: Rain and Unfinished Purposes](../field-notes/2026-11-04%20-%20Rain%20and%20Unfinished%20Purposes.md): Wet litter and living groundcover invite local inquiry without establishing species richness, symbiosis, chemical inhibition, or a need to change management.
+- [November 3, 2026: A Purpose Answerable to Life](../field-notes/2026-11-03%20-%20A%20Purpose%20Answerable%20to%20Life.md): Restraint near yellow, spotted leaflets expresses an intention to care while leaving its biological justification open; persistent strap marks do not settle injury or benefit.
+- [November 2, 2026: What Care Becomes](../field-notes/2026-11-02%20-%20What%20Care%20Becomes.md): Fallen foliage and persistent strap marks make both familiar care practices and recent interventions answerable to further knowledge of the tree. [Hal King](Hal%20King.md) helps articulate the already practical dimension of vegetal empathy, which the constructive philosophical proposal must not overlook.
+- [November 1, 2026: After the Swing](../field-notes/2026-11-01%20-%20After%20the%20Swing.md): I see bark contours at remembered strap positions after removing the swing, and recall delaying removal for a spider's web. Organismic condition, actual injury, and my intention to care remain distinct; several living goods can make action and waiting consequential in different ways.
+- [October 23, 2026: What Living Changes](../field-notes/2026-10-23%20-%20What%20Living%20Changes.md): Two differently oriented branches and remembered fruiting invite inquiry into this tree's development without supplying a diagnosis of its condition.
+- [October 20, 2026: What Touch Leaves Open](../field-notes/2026-10-20%20-%20What%20Touch%20Leaves%20Open.md): A visible, tangible knot raises a real question about this organism's history without disclosing its cause.
 - [October 12, 2026: The Tree Remains, the Questions Change](../field-notes/2026-10-12%20-%20The%20Tree%20Remains%2C%20the%20Questions%20Change.md)
 - [October 6, 2026: What Still Adds to Seeing](../field-notes/2026-10-06%20-%20What%20Still%20Adds%20to%20Seeing.md)
 - [October 1, 2026: Present in the Perspective](../field-notes/2026-10-01%20-%20Present%20in%20the%20Perspective.md)

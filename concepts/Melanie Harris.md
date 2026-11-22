@@ -3,9 +3,9 @@ description: Melanie L. Harris in the developing Black Walnut Field Notes.
 tags:
   - melanieharris
 ---
-Melanie L. Harris enters these Field Notes through ecowomanism, Black women’s lived experience, eco-memory, environmental justice, intersectional analysis, earth-honoring faith, transformation, and praxis.
+I read Melanie L. Harris through her account of ecowomanism, Black women’s lived experience, eco-memory, environmental justice, intersectional analysis, earth-honoring faith, transformation and praxis.
 
-Her role is methodological rather than illustrative. Harris pressures any account of embodied perception when its historical situation remains too generic, but she should not be cast as adding history to an otherwise ahistorical phenomenology. Her ecowomanist work asks whose lived experience, memory, and traditions guide ecological knowing, how race, gender, property, labor, political power, and environmental harm shape access and vulnerability, and how inquiry is ordered toward environmental justice, transformation, and praxis. Her work must be read on its own terms rather than treated as a supplement that adds missing variables to phenomenology.
+Her work changes the questions I bring to ecological inquiry. I need to ask whose lived experience, memory and traditions guide ecological knowing, how race, gender, property, labor, political power and environmental harm shape access and vulnerability, and how inquiry moves toward justice and praxis. I read her account on its own terms. Merleau-Ponty's attention to history and social situation makes that comparison more demanding.
 
 ## Works in this project
 
@@ -17,6 +17,8 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 Browse: #melanieharris
 
 ## From the sits
+
+- [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I bring Harris's environmental-justice method to the proposed garden's starting questions. Whose knowledge guides it, who can revise it, who provides the labor and who bears an unwanted cost? *Ecowomanism* (Orbis, 2017), 19–24, 44–46 and 57–58, grounds the methodological comparison. The garden remains a proposal, and I need to let the answers change its design.
 
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)
 - [October 7, 2026: What Kind of Remainder Is This Now?](../field-notes/2026-10-07%20-%20What%20Kind%20of%20Remainder%20Is%20This%20Now.md)

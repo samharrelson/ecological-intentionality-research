@@ -21,6 +21,8 @@ Another participant's experience calls for a different approach: conversation ca
 
 ## From the sits
 
+- [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I distinguish what I can learn through inquiry, another life's continuing independence, creature–Creator difference and relations damaged by injury or domination. The theological account of reconciliation must explain which relation it proposes to transform. The ivy inquiry separately tests what improved knowledge could change in care.
+
 - [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): The twig's future and the unmeasured effects of relocation are different open questions. The theological reflection further distinguishes incomplete knowledge, creaturely difference and wounded relation; naming all three remainder does not give them the same conditions of transformation.
 
 - [November 20, 2026: The Lives That Form Us](../field-notes/2026-11-20%20-%20The%20Lives%20That%20Form%20Us.md): I leave the lighter bark feature's history open while gaining a clearer view. I also distinguish that investigable question from the walnut's continuing life beyond what it contributes to my formation.
