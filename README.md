@@ -16,11 +16,21 @@ The [affirmative workstream (#14)](https://github.com/samharrelson/ecological-in
 
 Three claims require different evidence: that relationships shape the history of an intention, that another being's activity helps constitute an ongoing conscious act, and that the action benefits its intended recipient. None follows automatically from the others. Husserl's motivated and genetic intentionality remains a serious account of the documented cases, alongside Stein, Merleau-Ponty, Bateson, and other interlocutors. Ecological psychology and enactivism sharpen the question of what a living being contributes beyond the affordances available to a human observer. Vanessa Watts's Place-Thought challenges the privileged starting point of the human perceiver within its own Indigenous intellectual and political contexts.
 
-Three comparisons now have a sustained written form. [*What Flesh Explains*](essays/what-flesh-explains.md) and [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md), dated November 17, address late flesh and ecological formation. [*A Life of Its Own*](essays/a-life-of-its-own.md), dated November 19, compares Stein and Ruyer on living individuality and develops an organism-specific example of distinct goods. These version 1 working essays support a constructive account while leaving the necessity of a new basic intentional category unproved.
+I now have four sustained working comparisons. [*What Flesh Explains*](essays/what-flesh-explains.md) and [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md), dated November 17, address late flesh and ecological formation. [*A Life of Its Own*](essays/a-life-of-its-own.md), dated November 19, compares Stein and Ruyer on living individuality and distinct goods. [*Seeing a Life Develop*](essays/seeing-a-life-develop.md), dated November 22, follows the recognition of development into inquiry and practical purpose. I develop their constructive account while continuing to test the need for a new basic intentional category.
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
-## Latest essay: A Life of Its Own
+## Latest essay: Seeing a Life Develop
+
+In [*Seeing a Life Develop*](essays/seeing-a-life-develop.md), I compare my changing recognition of the walnut with Husserl's passive synthesis and Stein's accounts of life, development and inquiry. Husserl already explains how attention and learning work within intentional life. Stein's gardener already moves from apprehending a plant's condition toward investigating causes and seeking a response. I take those resources into the positive account.
+
+My proposal follows the connection among a capacity acquired through relationships, a particular purpose specified through an encounter, and a benefit realized in an independently developing life. Practical purpose serves as one test within the wider inquiry into intentional life. Recognizing the ivy's apparent extension has already specified an inquiry into its identity, development and relation to the walnut. The remembered comparison supplies no measurement of growth or evidence of injury.
+
+The published comparison and its edition-conscious review complete the final primary-comparison criterion in [#9](https://github.com/samharrelson/ecological-intentionality-research/issues/9). The current formal total is **48 checked / 10 unchecked across 14 open issues**. [#2](https://github.com/samharrelson/ecological-intentionality-research/issues/2)'s Kirkpatrick/Whitehead reconstruction and [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5)'s real conflict case retain their separate requirements.
+
+Evidence: [November 22 public export](https://github.com/samharrelson/ecological-intentionality-research/commit/a58d19eea7402b4fa23c81a805e7ebe76b7c692a) · [recorded criterion assessment](https://github.com/samharrelson/ecological-intentionality-research/issues/9).
+
+## November 19 essay: A Life of Its Own
 
 In [*A Life of Its Own: Stein, Ruyer, and Creaturely Difference*](essays/a-life-of-its-own.md), I ask how another organism's good can become knowable without its experience becoming mine. Stein already supplies an account of self-formation, individuality and natural measure. Ruyer's active self-survey and primary organic consciousness make a further metaphysical commitment. I compare those claims without treating either the walnut's appearance or ecological interaction as proof of one shared conscious individual.
 
@@ -30,7 +40,15 @@ The verified essay meets the two remaining bounded criteria in [#3: creaturely i
 
 Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
-## The latest case: receiving and redirecting attention
+## The latest case: the inquiry becomes a purpose
+
+In [November 22, *The Life I Return To*](field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md), I distinguish what I have learned to recognize from what has changed in the encounter. Botanical learning helps me recognize the leaf stalks. Rain changes the bark I touch. The ivy's apparent extension and the plants' apparent spread into the old footprint remain comparisons with remembered appearances.
+
+The ivy gives my inquiry a particular object and questions whose answers could guide care. That undertaking already has a direction while the biological investigation and any management decision remain ahead. My separate report of research sustaining the winter restraint shows how inquiry can also support a retained purpose. I follow these different developments through [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14), whose five formal criteria remain checked.
+
+The theological continuation asks how participation forms the person who returns from contemplation. I retain [Bonaventure's](concepts/Bonaventure.md) Christological itinerary and its passage beyond sensible and intellectual activity. Returning to creaturely needs as a test of communal purpose is my constructive extension. [Moltmann](concepts/J%C3%BCrgen%20Moltmann.md) helps me distinguish creaturely worth, individuation and community; [Harris](concepts/Melanie%20Harris.md) keeps authority, labor and exposure within the questions a community must face. The proposed garden and pruning inquiry still require evidence before I can use either as a real conflict case.
+
+## November 21: receiving and redirecting attention
 
 In [November 21, *Already Underway*](field-notes/2026-11-21%20-%20Already%20Underway.md), an attached twig becomes a focus of visual and tactile attention, and a recognizable detail in a familiar image of the walnut becomes newly significant. The image is known as a representation; the living tree's ongoing development gives a different referent and practical stake. The public account leaves the twig identification open to further close documentation and makes no claim that the dome relocation benefited the root.
 
@@ -67,7 +85,7 @@ The roadmap and issues preserve competing explanations, possible defeaters, revi
 | Start with | What it offers |
 | --- | --- |
 | [Where the Inquiry Stands](project/where-the-inquiry-stands.md) | The current argument and its open questions |
-| [Working essays](essays/README.md) | The November 19 Stein–Ruyer comparison, the November 17 flesh and purpose essays, and the earlier statements. |
+| [Working essays](essays/README.md) | The November 22 living-development comparison, the November 19 Stein–Ruyer comparison, the November 17 flesh and purpose essays, and the earlier statements. |
 | [Black Walnut field notes](field-notes/) | Dated encounters, observations, and public reflections |
 | [How the Inquiry Developed](project/how-the-inquiry-developed.md) | The fuller chronology of claims, corrections, and changing interpretations |
 | [Concepts](concepts/) and [Sources & Reading](project/sources-and-reading.md) | Philosophical vocabulary, interlocutors, and reading orientation |

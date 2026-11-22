@@ -19,6 +19,20 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 22: recognizing development and specifying an inquiry
+
+In [*The Life I Return To*](field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md), I separate learned recognition of leaf stalks, wet bark encountered by touch, and remembered comparisons of ivy and groundcover. The ivy inquiry already has a subject, anticipated determinations and possible consequences for care. Its biological investigation remains ahead; apparent extension supplies no measured growth, identified species or established harm.
+
+The working comparison [*Seeing a Life Develop*](essays/seeing-a-life-develop.md) reconstructs the substantial resources available in Husserl and Stein. Passive and active synthesis, affection, habitual knowing and practical value-realization already describe much of the process. Stein's gardener connects apprehending a plant's condition with further inquiry and possible response. Her account also distinguishes knowing a good from its realization. My use of Husserl's renewed justification of judgments in *Analyses* §15 for a retained practical decision is an interpretive extension.
+
+I develop [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14) through the connection among capacities formed over time, an undertaking specified through a particular encounter and its possible fulfillment in another life. Practical purpose is one test within the wider inquiry into conscious directedness. The stronger constitutive proposal continues to require its own argument.
+
+The theological continuation gives [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5) a question about the participant who returns from contemplation. Bonaventure's Christological passage retains its movement beyond sensible and intellectual activity. I develop ecological return as my own further claim. Moltmann's account of Spirit, individuation, community and Sabbath and Harris's Black ecowomanist method give distinct resources for considering worth, responsibility and the distribution of burdens. The garden and the remembered pruning remain proposed inquiries.
+
+**Criterion disposition:** the published comparison and its edition-conscious review complete [#9](https://github.com/samharrelson/ecological-intentionality-research/issues/9)'s final primary-text criterion. The current formal total is **48 checked / 10 unchecked across 14 open issues**. #2's strongest Kirkpatrick/Whitehead reconstruction, #5's real conflict case and #6's scoped source and publication review remain open. I retain the current issue states and board stages.
+
+Evidence: [November 22 public export](https://github.com/samharrelson/ecological-intentionality-research/commit/a58d19eea7402b4fa23c81a805e7ebe76b7c692a) · [recorded criterion assessment](https://github.com/samharrelson/ecological-intentionality-research/issues/9).
+
 ## November 21: directedness received, redirected and made answerable
 
 [Already Underway](field-notes/2026-11-21%20-%20Already%20Underway.md) describes an attached twig, reported bud structures, and a familiar image that became newly significant when the living twig was inspected. The encounter supplies a possible example of *redirected attention*, including through a known representation. The tree's developmental activity remains an independent matter, and the bud does not prove benefit from relocating the climbing dome.
