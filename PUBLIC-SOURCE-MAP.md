@@ -15,6 +15,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/Essays/What Flesh Explains.md` | `essays/what-flesh-explains.md` |
 | `Public/Tracking/Essays/How a Purpose Takes Shape.md` | `essays/how-a-purpose-takes-shape.md` |
 | `Public/Tracking/Essays/A Life of Its Own.md` | `essays/a-life-of-its-own.md` |
+| `Public/Tracking/Essays/Seeing a Life Develop.md` | `essays/seeing-a-life-develop.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |

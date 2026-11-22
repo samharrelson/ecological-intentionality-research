@@ -51,6 +51,7 @@ EXACT_FILES = {
     Path("Public/Tracking/Essays/What Flesh Explains.md"): Path("essays/what-flesh-explains.md"),
     Path("Public/Tracking/Essays/How a Purpose Takes Shape.md"): Path("essays/how-a-purpose-takes-shape.md"),
     Path("Public/Tracking/Essays/A Life of Its Own.md"): Path("essays/a-life-of-its-own.md"),
+    Path("Public/Tracking/Essays/Seeing a Life Develop.md"): Path("essays/seeing-a-life-develop.md"),
 }
 
 FOLDER_MAP = {
