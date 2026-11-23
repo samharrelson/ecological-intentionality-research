@@ -9,6 +9,16 @@ I publish these as working essays whose claims remain open to criticism and revi
 
 ## Working essays
 
+### [Learning, Flesh, and Continuing Lives](learning-flesh-and-continuing-lives.md)
+
+*Merleau-Ponty, Kirkpatrick, and the Reach of a Continuity Argument*
+
+**November 23, 2026 · Working comparison · Version 1**
+
+I reconstruct Kirkpatrick's strongest account of continuity from embodied learning into late flesh and a wider process interpretation. The magnifying glass, learned recognition of fallen stalks and a remembered classroom question give the comparison particular cases. I examine the early text's dependence on expression and the extension from bodily ability toward natural subjectivity, then state what remains for ecological intentionality to explain.
+
+[Read the working comparison](learning-flesh-and-continuing-lives.md) · [Read the earlier essay on flesh](what-flesh-explains.md)
+
 ### [Seeing a Life Develop](seeing-a-life-develop.md)
 
 *Husserl, Stein, and the Purposes of Care*

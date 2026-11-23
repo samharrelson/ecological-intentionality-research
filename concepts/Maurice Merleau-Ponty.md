@@ -3,11 +3,17 @@ description: Maurice Merleau-Ponty in the developing Black Walnut Field Notes.
 tags:
   - MerleauPonty
 ---
-Maurice Merleau-Ponty enters these Field Notes through embodied perception, bodily orientation, movement, operative intentionality, and, later in the project, the questions of flesh, chiasm, reversibility, and *écart*.
+I bring Maurice Merleau-Ponty into these Field Notes through embodied perception, bodily orientation, movement and operative intentionality. As the project develops, I carry those questions into flesh, chiasm, reversibility and *écart*.
 
-His role is not to provide a ready-made ecological ontology. The walnut encounters first test bodily spatiality, motricity, the operative “I can,” habit, sedimentation, the social world, and conditioned freedom before moving to flesh or chiasm. Merleau-Ponty’s embodied subject is already socially and historically situated, and the past can remain active in acquired bodily powers and a sedimented cultural world. The remaining question is what that phenomenological historical depth can disclose without substituting for the evidential work required to establish particular histories or for the ethical and political work of responding to them.
+I use the walnut encounters to test bodily spatiality, motricity, the operative “I can,” habit, sedimentation, the social world and conditioned freedom before moving to flesh or chiasm. Merleau-Ponty’s embodied subject is already socially and historically situated, and the past can remain active in acquired bodily powers and a sedimented cultural world. The remaining question is what that phenomenological historical depth can disclose without substituting for the evidential work required to establish particular histories or for the ethical and political work of responding to them.
 
 The October 13 reading of [Bryan Smyth](Bryan%20Smyth.md) adds a further control: early embodied phenomenology may radicalize the transcendental project rather than abandon it. The Preface to *Phenomenology of Perception*, pp. lxxiv–lxxvi in the Landes translation, distinguishes perception from scientific explanation while explicitly acknowledging Husserl's problem of others. Smyth's practical interpretation of a common world raises a question about the conditions of empirical correction; it does not settle the relation between the early work and the unfinished late ontology.
+
+## November 23: learning and continuity
+
+In [Learning, Flesh, and Continuing Lives](../essays/learning-flesh-and-continuing-lives.md), I reconstruct [Kirkpatrick's](Andrew%20Trevor%20Kirkpatrick.md) strongest continuity case. The early text already connects acquired bodily abilities with perceptual learning (*Phenomenology of Perception*, Landes 2012, 144–145, 153–155). Its tacit cogito also depends on expression (426), which gives the continuity reading a stronger reply to the later self-criticism (*The Visible and the Invisible*, Lingis 1968, 171, 179).
+
+I distinguish that interpretive question from the process reading's wider natural subjectivity. *Nature*, Vallier 2003, 118, distinguishes natural activity from consciousness or mind; *The Visible and the Invisible*, 250, distinguishes world-flesh from bodily self-sensing. These passages constrain the extension while leaving its further argument to be assessed. My magnifier encounter and recognition of fallen stalks give the comparison concrete cases.
 
 ## Works in this project
 
@@ -22,6 +28,8 @@ Browse: #MerleauPonty
 **November 7: a shared sensible scene does not settle whose good matters.** The same sunlight, walnut bark, yellow litter, ivy, violet and lilyturf belong to one field of my perception in [the November 7 encounter](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md). Merleau-Ponty's flesh and *écart* invite me to think about embodied belonging, visibility and difference without assuming that looking from outside gives me the being's interior. Yet I cannot infer from shared sensible appearance that these organisms are members of one whole, have compatible needs, or are co-conscious. The further burden is to explain what late flesh adds beyond already embodied Husserlian motivation, then whether it explains the practical purposes I formed in relation to the living walnut. Flesh is not itself a botanical report or a rule for managing invasive plants.
 
 ## From the sits
+
+- [November 23, 2026: What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md): I distinguish optical access, learned recognition and an inquiry shaped through another person's question. Early embodiment and Kirkpatrick's continuity account already explain substantial parts of that history; late flesh gives worldly belonging an ontological articulation.
 
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I touch wet bark and compare it with an earlier dry contact. *The Visible and the Invisible*, 139–140 and 147–148, helps me describe embodied belonging and noncoincidence while keeping the tree's own experience as a separate question. [Kirkpatrick's](Andrew%20Trevor%20Kirkpatrick.md) process reading gives the continuity comparison a further task: I need to examine how acquired bodily abilities support a wider account of nature.
 

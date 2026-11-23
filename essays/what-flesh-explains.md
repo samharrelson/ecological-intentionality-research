@@ -46,4 +46,6 @@ My conclusion is a qualified affirmative one. Late flesh contributes an account 
 
 I use paraphrases of selected passages; page-image collation continues for the committee manuscript.
 
+**November 23 companion:** In [Learning, Flesh, and Continuing Lives](learning-flesh-and-continuing-lives.md), I develop the strongest Kirkpatrick/Whitehead continuity reconstruction, its possible tensions and a qualified verdict. That companion carries the later comparison while preserving this November 17 argument.
+
 [Essays](README.md) · [Companion essay](how-a-purpose-takes-shape.md) · [Sources and Reading](../project/sources-and-reading.md)

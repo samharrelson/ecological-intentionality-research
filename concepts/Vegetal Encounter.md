@@ -1,9 +1,9 @@
 ---
 description: Notes arising from sustained encounter with vegetal life.
 ---
-Vegetal encounter names the concrete practice at the center of this archive: attending to plant life without reducing the plant either to object, symbol, projection, or generalized ecological example.
+I use vegetal encounter to name the concrete practice at the center of this archive: attending to a particular plant's appearance, development and relations while asking what remains its own.
 
-The black walnut remains the primary philosophical test case. The current problem is no longer only how plant life becomes perceptually intelligible, but how the unity of one living organism differs from generic object-unity, how flourishing or impairment acquires a norm, and how those organismic claims can be carried into ecological relation without turning grove, place, or watershed into larger versions of the same kind of whole. The Sept. 29 root-boundary sit adds that living integrity does not require material closure: a boundary can permit incorporation and exchange without organism and world becoming indistinct. October 6 adds a temporal threshold: present attachment, remembered fruit fall, anticipated detachment, membership in one living whole, and the possibility of a new individual life are different claims that should not be collapsed into one story of development.
+The black walnut remains my primary philosophical test case. I ask how plant life becomes perceptually intelligible, how the unity of one living organism differs from generic object-unity, how flourishing or impairment acquires a norm, and how those organismic claims can enter an ecological account that preserves differences among organism, grove, place and watershed. The Sept. 29 root-boundary sit adds that living integrity does not require material closure: a boundary can permit incorporation and exchange without organism and world becoming indistinct. October 6 adds a temporal threshold: present attachment, remembered fruit fall, anticipated detachment, membership in one living whole, and the possibility of a new individual life are different claims that should not be collapsed into one story of development.
 
 Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Agency](Place%20and%20Agency.md)
 
@@ -12,6 +12,8 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 **November 7: several living neighbors without one good.** I see the ivy on the walnut's bark, violet-like leaves and grass-like clumps among the fallen litter. I've compared candidate identifications against other sources, but still need diagnostic documentation for species-level claims. A vine growing on the trunk doesn't disclose whether it's helping, competing with, or damaging the tree. An invasive classification concerns regional ecological consequences; it doesn't negate the individual plant's life. I am trying to find out whether care here requires different, perhaps spatially differentiated practices rather than unconditional restraint. [The November 7 record](../field-notes/2026-11-07%20-%20Whose%20Good%20Governs%20the%20Act.md) keeps the walnut, groundcover, soil, humans and other inhabitants distinct without turning any one of them into an isolated thing.
 
 ## From the sits
+
+- [November 23, 2026: What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md): I recognize the fallen compound-leaf stalks through recent learning and remember a question about their falling. A detached leaf, a diagram and the continuing walnut can answer different questions. An inquiry about this tree's current condition needs evidence about the actual life, which can also be mediated through photographs and testimony.
 
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): Learning to recognize leaf stalks and remembering a shorter ivy vine change what I investigate. I distinguish present appearance, an estimate of change, diagnosis and a justified response. The walnut's good and the vine's good each require attention as I make the purpose more definite.
 
