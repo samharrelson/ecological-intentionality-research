@@ -19,6 +19,16 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 23: learning, continuity and a continuing life
+
+In [*What We Learn to See*](field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md), the magnifying glass, learned recognition of fallen leaf stalks and a remembered question about leaf fall make different contributions to inquiry. The classroom turn specifies part of the explanation I give. The record does not establish lasting student learning, equal authority, a completed ecological intervention or benefit to the walnut.
+
+The working comparison [*Learning, Flesh, and Continuing Lives*](essays/learning-flesh-and-continuing-lives.md) reconstructs Kirkpatrick's strongest continuity case in six steps, then considers two possible tensions with their strongest replies. His account already preserves worldly involvement, difference and incomplete reflection. The remaining questions concern the depth of conceptual revision and the warrant for wider subjectivity. I retain those questions while developing the connection among formation, specification and fulfillment in [#14](https://github.com/samharrelson/ecological-intentionality-research/issues/14).
+
+**Criterion disposition:** the reviewed reconstruction completes [#2](https://github.com/samharrelson/ecological-intentionality-research/issues/2)'s remaining criterion, “Reconstruct the strongest Kirkpatrick/Whitehead continuity case, including possible incompatibilities.” The formal total is now **49 checked / 9 unchecked across 14 open issues**. This records a bounded reconstruction with possible tensions; it establishes no refutation of Kirkpatrick and no new basic intentional category. The issue stays open in Evidence review.
+
+The new comparison enters [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s defined source review alongside the previous four comparisons and the forthcoming November 30 statement. Its citations distinguish checked primary passages, my interpretation, mediated Whitehead and unfinished collation. [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5)'s actual conflict, [#7](https://github.com/samharrelson/ecological-intentionality-research/issues/7)'s methodological paper and the other scoped criteria retain their existing requirements.
+
 ## November 22: recognizing development and specifying an inquiry
 
 In [*The Life I Return To*](field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md), I separate learned recognition of leaf stalks, wet bark encountered by touch, and remembered comparisons of ivy and groundcover. The ivy inquiry already has a subject, anticipated determinations and possible consequences for care. Its biological investigation remains ahead; apparent extension supplies no measured growth, identified species or established harm.
