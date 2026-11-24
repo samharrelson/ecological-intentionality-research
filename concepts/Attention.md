@@ -17,6 +17,8 @@ In [*What This Life Makes Possible*](https://ecologicalintentionality.org/sits/2
 
 ## From the sits
 
+- [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): I follow a falling piece to the ground, mark its position and later identify it as a leaflet. That fuller account gives my inquiry a more definite object while the tiny attachment separation remains unresolved. In [the comparison](../essays/what-fuller-understanding-requires.md), I distinguish perceptual determination, empathic accomplishment, causal explanation and practical realization. Each has evidence to answer to within the connected inquiry.
+
 - [November 23, 2026: What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md): I recognize fallen leaf stalks through recent learning and recall a student's question changing my explanation. Optical access, acquired distinctions and a conversational contribution each help specify an inquiry. The evidence needed to care for the continuing tree has a further role.
 
 - [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): Inspecting a living twig makes a detail in a familiar representation newly noticeable. I distinguish that recognized image from a replica mistakenly believed alive, and the history of attention from evidence that an intervention benefited the tree.

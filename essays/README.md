@@ -9,6 +9,14 @@ I publish these as working essays whose claims remain open to criticism and revi
 
 ## Working essays
 
+### [What Fuller Understanding Requires](what-fuller-understanding-requires.md)
+
+*Stein, Husserl, and the Different Accomplishments of Inquiry*
+
+**November 24, 2026 · Working comparison · Version 1**
+
+I distinguish Stein's three modalities from the question of which beings can be empathically apprehended, then compare her qualified vegetal account with Husserl's appresentation and epistemic/practical fulfillment. Following a particular leaflet gives me a case in which an inquiry becomes more definite while its end stays the same. I grant the predecessors' explanatory strength and identify the further work for ecological intentionality.
+
 ### [Learning, Flesh, and Continuing Lives](learning-flesh-and-continuing-lives.md)
 
 *Merleau-Ponty, Kirkpatrick, and the Reach of a Continuity Argument*

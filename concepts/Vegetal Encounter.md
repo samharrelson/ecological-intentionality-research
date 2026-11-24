@@ -13,6 +13,8 @@ Related: [Attention](Attention.md) · [Remainder](Remainder.md) · [Place and Ag
 
 ## From the sits
 
+- [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): Recent learning helps me identify a fallen leaflet and locate it within the compound leaf's structure. Following its descent supports an account of this event while leaving the physiological cause and the tree's experience open. [The comparison](../essays/what-fuller-understanding-requires.md) grants Stein's qualified vegetal empathy its positive scope, including the gardener's empathic elucidation and causal inquiry, while asking what this encounter actually fulfills.
+
 - [November 23, 2026: What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md): I recognize the fallen compound-leaf stalks through recent learning and remember a question about their falling. A detached leaf, a diagram and the continuing walnut can answer different questions. An inquiry about this tree's current condition needs evidence about the actual life, which can also be mediated through photographs and testimony.
 
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): Learning to recognize leaf stalks and remembering a shorter ivy vine change what I investigate. I distinguish present appearance, an estimate of change, diagnosis and a justified response. The walnut's good and the vine's good each require attention as I make the purpose more definite.

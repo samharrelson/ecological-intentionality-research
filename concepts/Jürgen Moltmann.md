@@ -12,6 +12,8 @@ I also need to reconstruct his own theological commitments. Divine indwelling, B
 
 ## From the sits
 
+- [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): *God in Creation*, Kohl 1993, XI §1, 278–280, gives creaturely freedom a theological place in the proposed communal inquiry. I distinguish Sabbath from seasonal change and retain the question of difference within his language of correspondence and identity. The garden remains a proposal.
+
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I connect the Spirit's creativity, community and individuation with the question of what a community's purposes ask other lives to carry.
 
 Related: [Bonaventure](Bonaventure.md) · [Niels Henrik Gregersen](Niels%20Henrik%20Gregersen.md) · [Remainder](Remainder.md) · [Sources & Reading](../project/sources-and-reading.md)

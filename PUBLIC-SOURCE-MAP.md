@@ -17,6 +17,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/Essays/A Life of Its Own.md` | `essays/a-life-of-its-own.md` |
 | `Public/Tracking/Essays/Seeing a Life Develop.md` | `essays/seeing-a-life-develop.md` |
 | `Public/Tracking/Essays/Learning, Flesh, and Continuing Lives.md` | `essays/learning-flesh-and-continuing-lives.md` |
+| `Public/Tracking/Essays/What Fuller Understanding Requires.md` | `essays/what-fuller-understanding-requires.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |
@@ -30,6 +31,8 @@ The two entries for *What Flesh Explains* and *How a Purpose Takes Shape* were p
 The individual mapping for *A Life of Its Own* was prepared on November 19, 2026, for its approved working-essay publication. It permits export only after the reviewed website version is published and verified. The private manuscript is not an export source.
 
 The individual mapping for *Learning, Flesh, and Continuing Lives* was prepared on November 23, 2026, for the reviewed continuity comparison. It establishes export eligibility for that one public source. Verify the served website version before its first export; the private comparison and source record remain outside this mapping.
+
+The individual mapping for *What Fuller Understanding Requires* was prepared on November 24, 2026, for the reviewed Stein and Husserl comparison. It establishes export eligibility for that one public source. Verify the served website version before its first export; the private comparison and source record remain outside this mapping.
 
 The current essay index is `Overview.md`, with the stable website permalink `/essays`; the older `Essays.md` source name remains supported. Only one may exist at a time. The long and short approved names for *Whose Good?* are also alternatives, not separate files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
 

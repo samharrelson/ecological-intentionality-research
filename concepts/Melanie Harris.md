@@ -18,6 +18,8 @@ Browse: #melanieharris
 
 ## From the sits
 
+- [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): I bring *Ecowomanism*, ch. 2, 37–38 and 41–46, to the question of who can define, revise or decline a communal project. Her Black ecowomanist account of history, agency and power requires more than inviting people to supply labor. The church-ground proposal still needs ecological and institutional evidence.
+
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I bring Harris's environmental-justice method to the proposed garden's starting questions. Whose knowledge guides it, who can revise it, who provides the labor and who bears an unwanted cost? *Ecowomanism* (Orbis, 2017), 19–24, 44–46 and 57–58, grounds the methodological comparison. The garden remains a proposal, and I need to let the answers change its design.
 
 - [October 10, 2026: Wet Leaves, Uncertain Causes](../field-notes/2026-10-10%20-%20Wet%20Leaves%2C%20Uncertain%20Causes.md)

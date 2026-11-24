@@ -43,6 +43,8 @@ The [November 8 note](https://ecologicalintentionality.org/sits/2026-11-08) adds
 
 ## From the sits
 
+- [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): I distinguish the three modalities in *Empathy* II §2(c), 10–11, from the qualified vegetal discussion in III §5(i), 68–71. The physician's trained apprehension and gardener's causal inquiry help me ask what improved identification actually fulfills. [The companion comparison](../essays/what-fuller-understanding-requires.md) gives these distinctions sustained form.
+
 - [November 22, 2026: The Life I Return To](../field-notes/2026-11-22%20-%20The%20Life%20I%20Return%20To.md): I find a strong practical predecessor in *On the Problem of Empathy*, III §5(i), 68–71. Stein's gardener already apprehends a condition, investigates causes and seeks a response. Her account of living form and of possible goods in *Finite and Eternal Being* sharpens the next question. In [the companion comparison](../essays/seeing-a-life-develop.md), I develop the connection among acquired capacity, a particular undertaking and independently realized benefit.
 
 - [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): Reported buds direct attention toward the walnut's ongoing development. Living form and the distinction between knowing and realizing a possible good help me separate that development from proof that the dome move benefited the tree. These applications retain the existing selected source warrants.
