@@ -16,13 +16,13 @@ The [affirmative workstream (#14)](https://github.com/samharrelson/ecological-in
 
 Three claims require different evidence: that relationships shape the history of an intention, that another being's activity helps constitute an ongoing conscious act, and that the action benefits its intended recipient. None follows automatically from the others. Husserl's motivated and genetic intentionality remains a serious account of the documented cases, alongside Stein, Merleau-Ponty, Bateson, and other interlocutors. Ecological psychology and enactivism sharpen the question of what a living being contributes beyond the affordances available to a human observer. Vanessa Watts's Place-Thought challenges the privileged starting point of the human perceiver within its own Indigenous intellectual and political contexts.
 
-I now have six sustained working comparisons, with five published and the November 24 comparison reviewed for release. [*What Flesh Explains*](essays/what-flesh-explains.md) and [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md), dated November 17, address late flesh and ecological formation. [*A Life of Its Own*](essays/a-life-of-its-own.md), dated November 19, compares Stein and Ruyer on living individuality and distinct goods. [*Seeing a Life Develop*](essays/seeing-a-life-develop.md), dated November 22, follows the recognition of development into inquiry and practical purpose. [*Learning, Flesh, and Continuing Lives*](essays/learning-flesh-and-continuing-lives.md), dated November 23, reconstructs Kirkpatrick's continuity argument and its process interpretation beside Merleau-Ponty's primary passages. *What Fuller Understanding Requires*, dated November 24, compares Stein's modalities of empathy and qualified vegetal fulfillment with Husserl's account of developing understanding. I develop their constructive account while continuing to test the need for a new basic intentional category.
+I now have six sustained working comparisons. [*What Flesh Explains*](essays/what-flesh-explains.md) and [*How a Purpose Takes Shape*](essays/how-a-purpose-takes-shape.md), dated November 17, address late flesh and ecological formation. [*A Life of Its Own*](essays/a-life-of-its-own.md), dated November 19, compares Stein and Ruyer on living individuality and distinct goods. [*Seeing a Life Develop*](essays/seeing-a-life-develop.md), dated November 22, follows the recognition of development into inquiry and practical purpose. [*Learning, Flesh, and Continuing Lives*](essays/learning-flesh-and-continuing-lives.md), dated November 23, reconstructs Kirkpatrick's continuity argument and its process interpretation beside Merleau-Ponty's primary passages. [*What Fuller Understanding Requires*](essays/what-fuller-understanding-requires.md), dated November 24, compares Stein's modalities of empathy and qualified vegetal fulfillment with Husserl's account of developing understanding. I develop their constructive account while continuing to test the need for a new basic intentional category.
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
-## November 24 review: What Fuller Understanding Requires
+## Latest essay: What Fuller Understanding Requires
 
-I've completed an edition-conscious comparison of Stein and Husserl in the manuscript *What Fuller Understanding Requires*. I distinguish identifying a part of the walnut, understanding another life, investigating a cause, specifying an undertaking and realizing a benefit. These accomplishments require different evidence. Stein's three modalities, the qualified plant passage and the physician-to-gardener transition receive separate treatment; Husserl's account receives its strongest reply.
+In [*What Fuller Understanding Requires*](essays/what-fuller-understanding-requires.md), I've completed an edition-conscious comparison of Stein and Husserl. I distinguish identifying a part of the walnut, understanding another life, investigating a cause, specifying an undertaking and realizing a benefit. These accomplishments require different evidence. Stein's three modalities, the qualified plant passage and the physician-to-gardener transition receive separate treatment; Husserl's account receives its strongest reply.
 
 The review includes selected page-image checks in Waltraut Stein's third revised English edition (1989), printed pages 6–7, 10–11 and 68–71, and Cairns's *Cartesian Meditations* (1960, seventh impression 1982), §§50 and 52, printed pages 109 and 114. The comparison distinguishes those checks from indexed-text checks in Steinbock's 2001 *Analyses Concerning Passive and Active Synthesis*. Personal reading and broader collations retain their own status.
 
@@ -30,9 +30,9 @@ The completed written analysis meets the final bounded criterion in [#10](https:
 
 I also rechecked the published organism-specific case in [*A Life of Its Own*](essays/a-life-of-its-own.md). Clemson's identified English ivy and coral bells support a bounded account of competing conditions of maintenance and development in the documented bed. The essay distinguishes the reported interaction from my interpretation of biological goods. This existing published evidence completes [#11](https://github.com/samharrelson/ecological-intentionality-research/issues/11)'s final criterion. I retain the open questions about the vine on my walnut and any decision about intervention. With these two bounded assessments, the formal total is **51 checked / 7 unchecked across 14 open issues**.
 
-**Public release pending:** the comparison and the November 24 sit, *Following This Life*, are prepared for Walnut Publish. I will add their public links after the served versions and export are verified. [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s defined final review now includes six working comparisons and the forthcoming November 30 statement. The formal November 30 milestone remains **24 checked / 1 unchecked** across #1–5 and #14; [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5)'s real creaturely and institutional conflict requires its own evidence.
+The reviewed comparison and [November 24 sit, *Following This Life*](field-notes/2026-11-24%20-%20Following%20This%20Life.md), are now public and preserved in the versioned record. [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s defined final review now includes six working comparisons and the forthcoming November 30 statement. The formal November 30 milestone remains **24 checked / 1 unchecked** across #1–5 and #14; [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5)'s real creaturely and institutional conflict requires its own evidence.
 
-## Latest published essay: Learning, Flesh, and Continuing Lives
+## November 23 essay: Learning, Flesh, and Continuing Lives
 
 In [*Learning, Flesh, and Continuing Lives*](essays/learning-flesh-and-continuing-lives.md), I reconstruct the strongest early/late continuity case through Kirkpatrick's 2020 dissertation and selected passages in *Phenomenology of Perception*, *Nature*, and *The Visible and the Invisible*. Bodily history, learned perception, received direction and incomplete self-access already have substantial explanations in these texts. Kirkpatrick preserves difference within his process account.
 
@@ -60,7 +60,13 @@ The verified essay meets the two remaining bounded criteria in [#3: creaturely i
 
 Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
-## The latest case: a question changes the explanation
+## The latest case: following a leaflet
+
+In [November 24, *Following This Life*](field-notes/2026-11-24%20-%20Following%20This%20Life.md), I follow a falling part to the ground, mark where it lands and later identify it as a leaflet. The sequence becomes more definite while the tiny separation at the attachment remains beyond what I could resolve. Better identification, an investigated physiological cause and benefit to the walnut each require their own evidence.
+
+The changing encounter helps specify my inquiry into the walnut's seasonal development. I connect that specification with the capacities formed through previous visits and with the independent conditions that could answer my questions. Moltmann's account of Sabbath and Harris's ecowomanist attention to power and burdens also inform my developing theological questions. The church-ground inventory and consultation remain proposed work.
+
+## November 23: a question changes the explanation
 
 In [November 23, *What We Learn to See*](field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md), I distinguish three contributions to an inquiry: a magnifying glass changes optical access, recent learning changes my recognition of fallen leaf stalks, and a remembered classroom question changes the explanation I give. The reflection supplies a reported conversational turn, while lasting student learning and shared authority remain separate questions.
 
@@ -111,7 +117,7 @@ The roadmap and issues preserve competing explanations, possible defeaters, revi
 | Start with | What it offers |
 | --- | --- |
 | [Where the Inquiry Stands](project/where-the-inquiry-stands.md) | The current argument and its open questions |
-| [Working essays](essays/README.md) | The November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
+| [Working essays](essays/README.md) | The November 24 Stein/Husserl comparison, November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
 | [Black Walnut field notes](field-notes/) | Dated encounters, observations, and public reflections |
 | [How the Inquiry Developed](project/how-the-inquiry-developed.md) | The fuller chronology of claims, corrections, and changing interpretations |
 | [Concepts](concepts/) and [Sources & Reading](project/sources-and-reading.md) | Philosophical vocabulary, interlocutors, and reading orientation |
