@@ -123,7 +123,7 @@ As November begins, I'm moving from identifying conceptual possibilities to writ
 - **Moltmann:** *God in Creation*, trans. Margaret Kohl (Fortress Press, 1993), XI §1, 278–280, especially 279; 288–289; 6. Creaturely freedom in Sabbath gives my theological proposal a resource whose wider language of correspondence and identity also needs examination.
 - **Harris:** *Ecowomanism: African American Women and Earth-Honoring Faiths* (Orbis Books, 2017), ch. 2, 37–38 and 41–46. Her Black ecowomanist method brings situated knowledge, history, agency and power into the starting questions of a proposed communal project.
 
-My November 24 review includes assisted checks of the selected Stein and *Cartesian Meditations* primary page images. The *Analyses*, Moltmann and Harris loci retain selected indexed-text verification. These checks support the passages used in the comparison; my complete personal reading and broader manuscript collation retain their separate statuses. The communal application is my constructive proposal, and the garden still needs ecological and institutional evidence.
+The communal application is my constructive proposal, and the garden still needs ecological and institutional evidence.
 
 **November 23: learning, continuity and creaturely fulfillment.** In [What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md) and [Learning, Flesh, and Continuing Lives](../essays/learning-flesh-and-continuing-lives.md), I reconstruct the strongest continuity account and give the theological proposal a focused comparison.
 

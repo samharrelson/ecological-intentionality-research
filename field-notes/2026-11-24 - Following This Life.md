@@ -56,10 +56,10 @@ What evidence would explain this leaflet's detachment, and how would I distingui
 Related threads: [Attention](../concepts/Attention.md) · [Vegetal Encounter](../concepts/Vegetal%20Encounter.md) · [Ecological Intentionality](../concepts/Ecological%20Intentionality.md)
 
 [^stein]: Edith Stein, *On the Problem of Empathy*, trans. Waltraut Stein, third revised edition (ICS Publications, 1989), II §2(a), 6–7, and §2(c), 10–11. The three modalities occur on printed p. 10.
-[^plant]: Stein, *Empathy*, III §5(i), 68–71. The schooled physician and initial-level apprehension on 70 lead into the gardener on 71. My November 24 review includes assisted checks of these selected primary page images; complete personal reading retains its separate status.
-[^husserl]: Edmund Husserl, *Cartesian Meditations*, trans. Dorion Cairns (Martinus Nijhoff, 1960; seventh impression, 1982), §50, 109, and §52, 114; *Analyses Concerning Passive and Active Synthesis*, trans. Anthony J. Steinbock (Kluwer, 2001), §2, 44–45, and §§20–21, 128–133. My November 24 review includes assisted checks of the selected *Cartesian Meditations* page images. The *Analyses* loci retain selected indexed-text verification. Applying other-subject experience to plants requires its own argument.
-[^moltmann]: Jürgen Moltmann, *God in Creation*, trans. Margaret Kohl (Fortress Press, 1993), XI §1, 278–280, especially 279; 288–289; 6. Selected indexed passages checked in preparation. The communal application is my constructive extension.
-[^harris]: Melanie L. Harris, *Ecowomanism: African American Women and Earth-Honoring Faiths* (Orbis Books, 2017), ch. 2, 37–38 and 41–46. Selected indexed preparation checks; the proposed garden questions are my application of her situated method.
+[^plant]: Stein, *Empathy*, III §5(i), 68–71. The schooled physician and initial-level apprehension on 70 lead into the gardener on 71. 
+[^husserl]: Edmund Husserl, *Cartesian Meditations*, trans. Dorion Cairns (Martinus Nijhoff, 1960; seventh impression, 1982), §50, 109, and §52, 114; *Analyses Concerning Passive and Active Synthesis*, trans. Anthony J. Steinbock (Kluwer, 2001), §2, 44–45, and §§20–21, 128–133.
+[^moltmann]: Jürgen Moltmann, *God in Creation*, trans. Margaret Kohl (Fortress Press, 1993), XI §1, 278–280, especially 279; 288–289; 6.
+[^harris]: Melanie L. Harris, *Ecowomanism: African American Women and Earth-Honoring Faiths* (Orbis Books, 2017), ch. 2, 37–38 and 41–46.
 
 Thinkers: [Edith Stein](../concepts/Edith%20Stein.md) · [Edmund Husserl](../concepts/Husserl.md) · [Jürgen Moltmann](../concepts/J%C3%BCrgen%20Moltmann.md) · [Melanie Harris](../concepts/Melanie%20Harris.md)
 

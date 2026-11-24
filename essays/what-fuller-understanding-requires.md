@@ -78,6 +78,4 @@ My bounded verdict is that fuller understanding can preserve a difference in mod
 [^husserl]: Edmund Husserl, *Cartesian Meditations: An Introduction to Phenomenology*, trans. Dorion Cairns (The Hague: Martinus Nijhoff, 1960; seventh impression, 1982), §50, 109; §52, 114. For the methodological reduction, see §44, 93. The selected comparison concerns appresentation and confirmation within that methodological setting.
 [^analyses]: Husserl, *Analyses Concerning Passive and Active Synthesis: Lectures on Transcendental Logic*, trans. Anthony J. Steinbock, *Collected Works* IX (Dordrecht: Kluwer, 2001), §2, 44–45; §§20–21, 128–133, especially 130–133.
 
-**Source status:** My November 24 review includes assisted checks of the selected primary page images for Stein 6–7, 10–11 and 68–71 and Husserl's *Cartesian Meditations* 93, 109 and 114. The *Analyses* loci retain the preparation's selected indexed-text verification. These checks establish the passages used here; my complete personal reading and broader manuscript collation retain their separate statuses.
-
 [Seeing a Life Develop](seeing-a-life-develop.md) · [Learning, Flesh, and Continuing Lives](learning-flesh-and-continuing-lives.md) · [Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md)
