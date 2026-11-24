@@ -40,6 +40,12 @@ Only allowlisted public notes can become navigable GitHub links. Wikilinks whose
 
 The inquiry overview and research history are separate, explicit source entries. Links between them and heading-level navigation become GitHub Markdown links. The overview's spoken introduction stays on the public website: its media attachment is **not copied** to GitHub, but the exported note links to the hosted recording and includes its public transcript.
 
+## RSS sit index
+
+The RSS builder reads its explicit dated sit allowlist from `Public/Tracking/Field Notes.md`, under `## All sits`. Month subheadings can organize this complete archive. If that file is absent, the builder supports the older `## Recent sits` section in `Public/Tracking/Home.md`. An existing empty or invalid archive fails without falling back to Home. The builder also refuses to remove any existing feed item, protecting the feed history during a partial migration.
+
+Publish and verify the reviewed website index before generating the feed. Descriptions and full-text content still come only from already-exported public field notes. The archive index itself has no general export mapping.
+
 ## Explicitly excluded
 
 The exporter refuses to copy from paths containing any of these markers:
@@ -53,6 +59,6 @@ The exporter refuses to copy from paths containing any of these markers:
 - `Private`
 - `.obsidian`
 
-`About Sam Harrelson.md`, `Contact.md`, and `Home.md` are also not exported automatically because they belong to the website layer rather than the versioned research record.
+`About Sam Harrelson.md`, `Contact.md`, `Home.md`, and `Field Notes.md` are also not exported automatically because they belong to the website layer rather than the versioned research record.
 
 The allowlist is intentional. Add a source only after deciding that it belongs in the versioned public research record.

@@ -3,6 +3,7 @@ import importlib.util
 from pathlib import Path
 from tempfile import TemporaryDirectory
 import unittest
+from unittest.mock import patch
 import xml.etree.ElementTree as ET
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -93,6 +94,82 @@ class SitFeedTests(unittest.TestCase):
         with TemporaryDirectory() as temp:
             with self.assertRaisesRegex(ValueError, "2026-10-22"):
                 feed.build_xml(home, Path(temp))
+
+    def test_archive_preferred_over_short_home_preserves_complete_feed(self):
+        november = [
+            f"- [[Public/Tracking/Sits/2026-11-{day} - A Sit|November {day}, 2026: A Sit]]\n"
+            for day in (24, 23, 22)
+        ]
+        october = "- [October 16, 2026: A Coastal Sit](https://ecologicalintentionality.org/sits/2026-10-16)\n"
+        old_home = "## Recent sits\n" + "".join(november) + october
+        archive = "## All sits\n\n### November 2026\n" + "".join(november) + "\n### October 2026\n" + october
+        with TemporaryDirectory() as temp:
+            vault = Path(temp) / "vault"
+            public = vault / "Public/Tracking"
+            public.mkdir(parents=True)
+            (public / "Home.md").write_text("## Recent sits\n" + "".join(november), encoding="utf-8")
+            (public / "Field Notes.md").write_text(archive, encoding="utf-8")
+            notes = Path(temp) / "field-notes"
+            notes.mkdir()
+            for day in (24, 23, 22):
+                self.make_sit(notes, f"2026-11-{day}", "A Sit", "A public sit.")
+            self.make_sit(notes, "2026-10-16", "A Coastal Sit", "A coastal sit.")
+            actual = feed.build_xml(feed.read_public_index(vault), notes)
+            self.assertEqual(len(ET.fromstring(actual).findall("./channel/item")), 4)
+            self.assertEqual(actual, feed.build_xml(old_home, notes))
+
+    def test_home_fallback_when_archive_is_absent(self):
+        home = "## Recent sits\n- [[2026-10-21 - A Shared Morning|October 21, 2026: A Shared Morning]]\n"
+        with TemporaryDirectory() as temp:
+            vault = Path(temp)
+            public = vault / "Public/Tracking"
+            public.mkdir(parents=True)
+            (public / "Home.md").write_text(home, encoding="utf-8")
+            self.assertEqual(feed.curated_sits(feed.read_public_index(vault)), [("2026-10-21", "A Shared Morning")])
+
+    def test_existing_invalid_archive_never_falls_back_to_home(self):
+        home = "## Recent sits\n- [[2026-10-21 - A Shared Morning|October 21, 2026: A Shared Morning]]\n"
+        invalid_archives = (
+            "",
+            "## Unrelated section\n- [[2026-10-21 - A Shared Morning|October 21, 2026: A Shared Morning]]\n",
+            "## All sits\nNo published sits listed.\n",
+            "## All sits\n- [[Private/2026-10-21 - A Private Sit|October 21, 2026: Private]]\n",
+        )
+        with TemporaryDirectory() as temp:
+            vault = Path(temp)
+            public = vault / "Public/Tracking"
+            public.mkdir(parents=True)
+            (public / "Home.md").write_text(home, encoding="utf-8")
+            for archive in invalid_archives:
+                with self.subTest(archive=archive):
+                    (public / "Field Notes.md").write_text(archive, encoding="utf-8")
+                    with self.assertRaises(ValueError):
+                        feed.curated_sits(feed.read_public_index(vault))
+
+    def test_partial_migration_cannot_overwrite_existing_feed_history(self):
+        links = [
+            f"- [[2026-11-{day} - A Sit|November {day}, 2026: A Sit]]\n"
+            for day in (24, 23, 22, 21)
+        ]
+        with TemporaryDirectory() as temp:
+            vault = Path(temp) / "vault"
+            public = vault / "Public/Tracking"
+            public.mkdir(parents=True)
+            # Home has already been shortened, but the archive has not arrived.
+            (public / "Home.md").write_text("## Recent sits\n" + "".join(links[:3]), encoding="utf-8")
+            repo = Path(temp) / "repo"
+            notes = repo / "field-notes"
+            notes.mkdir(parents=True)
+            for day in (24, 23, 22, 21):
+                self.make_sit(notes, f"2026-11-{day}", "A Sit", "A public sit.")
+            dest = repo / "docs/sits.xml"
+            dest.parent.mkdir()
+            old = feed.build_xml("## Recent sits\n" + "".join(links), notes)
+            dest.write_bytes(old)
+            with patch("sys.argv", ["build_sits_feed.py", "--vault", str(vault), "--repo", str(repo), "--apply"]):
+                with self.assertRaisesRegex(ValueError, "Feed would remove existing sits"):
+                    feed.main()
+            self.assertEqual(dest.read_bytes(), old)
 
 
 if __name__ == "__main__":

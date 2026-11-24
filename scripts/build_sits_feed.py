@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Build a *sits-only* RSS feed from the curated public Obsidian index.
 
-The Obsidian Home.md "Recent sits" links are the feed allowlist.
+The Obsidian Field Notes.md "All sits" links are the feed allowlist.
+Home.md "Recent sits" remains a fallback for vaults without the archive index.
 Descriptions and full-text HTML come only from already-exported public field notes.
 No private vault paths, unindexed notes, or page-edit timestamps are syndicated.
 """
@@ -147,11 +148,21 @@ def markdown_to_html(text: str) -> str:
     return "\n".join(fragments)
 
 
-def curated_sits(home_text: str) -> list[tuple[str, str]]:
-    """Find explicitly linked dated sits in Home's public 'Recent sits' section."""
-    section = re.search(r"(?ms)^## Recent sits\s*\n(.*?)(?=^## |\Z)", home_text)
+def read_public_index(vault: Path) -> str:
+    """Prefer the complete archive; an existing invalid index must fail closed."""
+    index = vault / "Public/Tracking/Field Notes.md"
+    if not index.exists():
+        index = vault / "Public/Tracking/Home.md"
+    if not index.is_file():
+        raise ValueError("Cannot locate the public sit index, refusing to build feed.")
+    return index.read_text(encoding="utf-8")
+
+
+def curated_sits(index_text: str) -> list[tuple[str, str]]:
+    """Read dated links from the archive or the legacy Home index."""
+    section = re.search(r"(?ms)^## (?:All sits|Recent sits)\s*\n(.*?)(?=^## |\Z)", index_text)
     if not section:
-        raise ValueError("No 'Recent sits' section in the public Home index.")
+        raise ValueError("No 'All sits' or 'Recent sits' section in the public sit index.")
     results = []
     seen = set()
     for line in section.group(1).splitlines():
@@ -179,7 +190,7 @@ def curated_sits(home_text: str) -> list[tuple[str, str]]:
         title = label.split(": ", 1)[1] if ": " in label else label
         results.append((day, title.strip()))
     if not results:
-        raise ValueError("No dated public sit links were found in Home.")
+        raise ValueError("No dated public sit links were found in the public sit index.")
     return results
 
 
@@ -200,12 +211,12 @@ def public_metadata(notes_dir: Path) -> dict[str, dict[str, str]]:
     return result
 
 
-def build_xml(home_text: str, notes_dir: Path) -> bytes:
-    curated = curated_sits(home_text)
+def build_xml(index_text: str, notes_dir: Path) -> bytes:
+    curated = curated_sits(index_text)
     metadata = public_metadata(notes_dir)
     missing = sorted(day for day, _ in curated if day not in metadata)
     if missing:
-        raise ValueError("Public Home lists dates without matching exported sit metadata: " + ", ".join(missing))
+        raise ValueError("Public index lists dates without matching exported sit metadata: " + ", ".join(missing))
     root = ET.Element("rss", version="2.0")
     channel = ET.SubElement(root, "channel")
     ET.SubElement(channel, "title").text = "Black Walnut Field Notes | Ecological Intentionality"
@@ -240,12 +251,19 @@ def main() -> int:
     args = parser.parse_args()
     vault = Path(args.vault).expanduser().resolve()
     repo = Path(args.repo).expanduser().resolve()
-    home = vault / "Public/Tracking/Home.md"
-    if not home.is_file():
-        raise SystemExit("Cannot locate public Home index, refusing to build feed.")
-    xml = build_xml(home.read_text(encoding="utf-8"), repo / "field-notes")
+    xml = build_xml(read_public_index(vault), repo / "field-notes")
     dest = repo / "docs/sits.xml"
     old = dest.read_bytes() if dest.is_file() else None
+    if old is not None:
+        # Navigation edits must not silently discard the published feed history.
+        # Any deliberate removal needs a separate review.
+        old_guids = {item.findtext("guid") for item in ET.fromstring(old).findall("./channel/item")}
+        new_guids = {item.findtext("guid") for item in ET.fromstring(xml).findall("./channel/item")}
+        if None in old_guids or "" in old_guids:
+            raise ValueError("Existing feed has an item without a GUID, refusing to write.")
+        removed = old_guids - new_guids
+        if removed:
+            raise ValueError("Feed would remove existing sits, refusing to write: " + ", ".join(sorted(removed)))
     if old == xml:
         print("Sit-only RSS unchanged (no new sit or metadata change).")
         return 0
