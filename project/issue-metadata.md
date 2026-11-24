@@ -26,14 +26,14 @@ Use the [labels directory](https://github.com/samharrelson/ecological-intentiona
 
 ## Issue map
 
-This is the initial November 12 assignment. Revise it when an issue's principal subject or checkpoint changes.
+I established this map on November 12, 2026. The labels and milestone assignments below reflect the November 24 review; I update the map when an issue's principal subject or checkpoint changes.
 
 | Issue | Kind | Topics | Argument checkpoint |
 | --- | --- | --- | --- |
 | [#1: Husserl and ecological intentionality](https://github.com/samharrelson/ecological-intentionality-research/issues/1) | workstream | intentionality; phenomenology | November 30 |
 | [#2: Late flesh and earlier phenomenology](https://github.com/samharrelson/ecological-intentionality-research/issues/2) | workstream | phenomenology | November 30 |
 | [#3: Creaturely individuality and distinct goods](https://github.com/samharrelson/ecological-intentionality-research/issues/3) | workstream | creaturely difference; phenomenology | November 30 |
-| [#4: Bateson and changes of intention](https://github.com/samharrelson/ecological-intentionality-research/issues/4) | workstream | intentionality | November 30 |
+| [#4: Bateson and changes of intention](https://github.com/samharrelson/ecological-intentionality-research/issues/4) | workstream | intentionality; creaturely difference | November 30 |
 | [#5: Ecology of the Cross](https://github.com/samharrelson/ecological-intentionality-research/issues/5) | workstream | theology | November 30 |
 | [#6: Field notes as philosophical tests](https://github.com/samharrelson/ecological-intentionality-research/issues/6) | workstream | research method | None assigned |
 | [#7: Versioned scholarship and philosophical failure](https://github.com/samharrelson/ecological-intentionality-research/issues/7) | workstream | research method; public scholarship | None assigned |
