@@ -26,7 +26,7 @@ I have completed the documented Mariandale test in [#5](https://github.com/samha
 
 That bounded assessment brings the formal total to **52 checked / 6 unchecked across 14 open issues**. The six issues assigned to the [November 30 argument checkpoint](https://github.com/samharrelson/ecological-intentionality-research/milestone/1) now have **25 of 25 criteria checked**. The checkpoint still calls for my synthesis of supported claims, surviving objections and next tests. Completing these criteria leaves the larger philosophical and theological questions open.
 
-I have prepared the public essay *A Commitment with a Future* and the November 25 sit *Room to Continue* for the next publication run. The sit distinguishes a continuing seasonal inquiry from the immediate intention that changed when I returned to a bare crown. The essay develops the institutional comparison through Moltmann and Harris while keeping the source sequence, my interpretation and theological warrants distinguishable. [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s final review covers six philosophical comparisons, this case assessment and the forthcoming statement. The new sit and essay await website verification and export.
+The public essay [*A Commitment with a Future*](https://ecologicalintentionality.org/essays/a-commitment-with-a-future) and the November 25 sit [*Room to Continue*](https://ecologicalintentionality.org/sits/2026-11-25) are published, with the [case assessment preserved here](essays/a-commitment-with-a-future.md). The sit distinguishes a continuing seasonal inquiry from the immediate intention that changed when I returned to a bare crown. The essay develops the institutional comparison through Moltmann and Harris while keeping the source sequence, my interpretation and theological warrants distinguishable. [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s final review covers six philosophical comparisons, this case assessment and the forthcoming statement. The served pages were verified before the [November 25 export](https://github.com/samharrelson/ecological-intentionality-research/commit/6a351ae66b1846ddfc00a581ca433c45993f8177).
 
 ## November 24 essay: What Fuller Understanding Requires
 
@@ -125,7 +125,7 @@ The roadmap and issues preserve competing explanations, possible defeaters, revi
 | Start with | What it offers |
 | --- | --- |
 | [Where the Inquiry Stands](project/where-the-inquiry-stands.md) | The current argument and its open questions |
-| [Working essays](essays/README.md) | The November 24 Stein/Husserl comparison, November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
+| [Working essays](essays/README.md) | The November 25 Mariandale institutional case, November 24 Stein/Husserl comparison, November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
 | [Black Walnut field notes](field-notes/) | Dated encounters, observations, and public reflections |
 | [How the Inquiry Developed](project/how-the-inquiry-developed.md) | The fuller chronology of claims, corrections, and changing interpretations |
 | [Concepts](concepts/) and [Sources & Reading](project/sources-and-reading.md) | Philosophical vocabulary, interlocutors, and reading orientation |
