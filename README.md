@@ -20,11 +20,19 @@ I now have six sustained working comparisons. [*What Flesh Explains*](essays/wha
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
-## Latest essay: What Fuller Understanding Requires
+## November 25 assessment: A Commitment with a Future
+
+I have completed the documented Mariandale test in [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5). The conservation commitment gained lasting institutional form through negotiations over campus redevelopment. Established values, congregational needs and ordinary deliberation remain a strong explanation. The partly reconstructed housing history and later ecological benefits retain their own questions.
+
+That bounded assessment brings the formal total to **52 checked / 6 unchecked across 14 open issues**. The six issues assigned to the [November 30 argument checkpoint](https://github.com/samharrelson/ecological-intentionality-research/milestone/1) now have **25 of 25 criteria checked**. The checkpoint still calls for my synthesis of supported claims, surviving objections and next tests. Completing these criteria leaves the larger philosophical and theological questions open.
+
+I have prepared the public essay *A Commitment with a Future* and the November 25 sit *Room to Continue* for the next publication run. The sit distinguishes a continuing seasonal inquiry from the immediate intention that changed when I returned to a bare crown. The essay develops the institutional comparison through Moltmann and Harris while keeping the source sequence, my interpretation and theological warrants distinguishable. [#6](https://github.com/samharrelson/ecological-intentionality-research/issues/6)'s final review covers six philosophical comparisons, this case assessment and the forthcoming statement. The new sit and essay await website verification and export.
+
+## November 24 essay: What Fuller Understanding Requires
 
 In [*What Fuller Understanding Requires*](essays/what-fuller-understanding-requires.md), I've completed an edition-conscious comparison of Stein and Husserl. I distinguish identifying a part of the walnut, understanding another life, investigating a cause, specifying an undertaking and realizing a benefit. These accomplishments require different evidence. Stein's three modalities, the qualified plant passage and the physician-to-gardener transition receive separate treatment; Husserl's account receives its strongest reply.
 
-The review includes selected page-image checks in Waltraut Stein's third revised English edition (1989), printed pages 6–7, 10–11 and 68–71, and Cairns's *Cartesian Meditations* (1960, seventh impression 1982), §§50 and 52, printed pages 109 and 114. The comparison distinguishes those checks from indexed-text checks in Steinbock's 2001 *Analyses Concerning Passive and Active Synthesis*. Personal reading and broader collations retain their own status.
+I draw on Stein's *On the Problem of Empathy*, translated by Waltraut Stein, third revised edition (1989), 6–7, 10–11 and 68–71; Husserl's *Cartesian Meditations*, translated by Dorion Cairns (1960, seventh impression 1982), §§50 and 52, 109 and 114; and *Analyses Concerning Passive and Active Synthesis*, translated by Anthony J. Steinbock (2001). The physician and gardener passages receive distinct attention alongside the difference between understanding and realizing a benefit.
 
 The completed written analysis meets the final bounded criterion in [#10](https://github.com/samharrelson/ecological-intentionality-research/issues/10). My conclusion grants that Stein and Husserl already explain the recorded sequence. The stronger claim about a living being's contribution to the constitution of an ongoing conscious act remains open.
 
@@ -60,7 +68,7 @@ The verified essay meets the two remaining bounded criteria in [#3: creaturely i
 
 Published version: [November 19 essay export](https://github.com/samharrelson/ecological-intentionality-research/commit/e3b90a0e29d06224725a34e730a43d4bba687198).
 
-## The latest case: following a leaflet
+## November 24 case: following a leaflet
 
 In [November 24, *Following This Life*](field-notes/2026-11-24%20-%20Following%20This%20Life.md), I follow a falling part to the ground, mark where it lands and later identify it as a leaflet. The sequence becomes more definite while the tiny separation at the attachment remains beyond what I could resolve. Better identification, an investigated physiological cause and benefit to the walnut each require their own evidence.
 

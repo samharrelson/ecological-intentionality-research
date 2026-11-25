@@ -155,6 +155,27 @@ class ExportTests(unittest.TestCase):
         self.assertNotIn("CIIS/", rendered)
         self.assertNotIn("photo.jpg", rendered)
 
+    def test_social_preview_metadata_keeps_private_assets_out_of_export(self):
+        asset = "CIIS/Fall 2026 (Comps 2)/Field Journal/Media/walnut-photo.jpg"
+        note = Path("field-notes/2026-11-25 - Room to Continue.md")
+        for key in ("cover", "image"):
+            for value in (asset, '"' + asset + '"'):
+                with self.subTest(key=key, value=value):
+                    source = (
+                        "---\ndate: 2026-11-25\ndescription: A continuing inquiry\n"
+                        "tags: [husserl, moltmann]\n" + key + ": " + value + "\n---\n"
+                        "A public reflection.\n![[" + asset + "]]\n"
+                    )
+                    rendered = exporter.normalize(source, note, self.full, self.titles)[0]
+                    self.assertNotIn("CIIS/", rendered)
+                    self.assertNotIn("walnut-photo.jpg", rendered)
+                    self.assertNotIn(key + ":", rendered)
+                    self.assertIn("date: 2026-11-25", rendered)
+                    self.assertIn("description: A continuing inquiry", rendered)
+                    self.assertIn("tags: [husserl, moltmann]", rendered)
+                    self.assertIn("A public reflection.", rendered)
+                    self.assertIn("https://ecologicalintentionality.org/sits/2026-11-25", rendered)
+
     def test_non_sit_embed_falls_back_to_home(self):
         self.assertIn(
             "https://ecologicalintentionality.org/",

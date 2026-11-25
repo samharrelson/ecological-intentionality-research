@@ -54,6 +54,7 @@ EXACT_FILES = {
     Path("Public/Tracking/Essays/Seeing a Life Develop.md"): Path("essays/seeing-a-life-develop.md"),
     Path("Public/Tracking/Essays/Learning, Flesh, and Continuing Lives.md"): Path("essays/learning-flesh-and-continuing-lives.md"),
     Path("Public/Tracking/Essays/What Fuller Understanding Requires.md"): Path("essays/what-fuller-understanding-requires.md"),
+    Path("Public/Tracking/Essays/A Commitment with a Future.md"): Path("essays/a-commitment-with-a-future.md"),
 }
 
 FOLDER_MAP = {
@@ -86,7 +87,7 @@ def strip_publish_frontmatter(text: str) -> str:
 
     for line in fm:
         key = line.split(":", 1)[0].strip().lower() if ":" in line else ""
-        if key in {"permalink", "publish", "published", "share", "cssclasses", "status"}:
+        if key in {"permalink", "publish", "published", "share", "cssclasses", "status", "cover", "image"}:
             continue
         kept.append(line)
 

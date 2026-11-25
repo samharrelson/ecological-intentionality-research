@@ -1,7 +1,6 @@
 ---
 date: {{date}}
 description: 
-cover: 
 concepts: []
 tags: []
 ---

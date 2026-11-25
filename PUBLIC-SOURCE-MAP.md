@@ -18,6 +18,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/Essays/Seeing a Life Develop.md` | `essays/seeing-a-life-develop.md` |
 | `Public/Tracking/Essays/Learning, Flesh, and Continuing Lives.md` | `essays/learning-flesh-and-continuing-lives.md` |
 | `Public/Tracking/Essays/What Fuller Understanding Requires.md` | `essays/what-fuller-understanding-requires.md` |
+| `Public/Tracking/Essays/A Commitment with a Future.md` | `essays/a-commitment-with-a-future.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |
@@ -34,11 +35,17 @@ The individual mapping for *Learning, Flesh, and Continuing Lives* was prepared 
 
 The individual mapping for *What Fuller Understanding Requires* was prepared on November 24, 2026, for the reviewed Stein and Husserl comparison. It establishes export eligibility for that one public source. Verify the served website version before its first export; the private comparison and source record remain outside this mapping.
 
+The individual mapping for *A Commitment with a Future* was prepared on November 25, 2026, for the reviewed Mariandale case assessment. It establishes eligibility for that public essay source. Publish and verify its served website version before the first export; the private assessment, source dossier and transcript remain outside this mapping.
+
 The current essay index is `Overview.md`, with the stable website permalink `/essays`; the older `Essays.md` source name remains supported. Only one may exist at a time. The long and short approved names for *Whose Good?* are also alternatives, not separate files to export together; duplicate sources are rejected. Its stable website permalink is `/essays/whose-good` regardless of the local filename.
 
 Only allowlisted public notes can become navigable GitHub links. Wikilinks whose targets are not part of this public source map are rendered as plain text rather than exposing private vault structure.
 
 The inquiry overview and research history are separate, explicit source entries. Links between them and heading-level navigation become GitHub Markdown links. The overview's spoken introduction stays on the public website: its media attachment is **not copied** to GitHub, but the exported note links to the hosted recording and includes its public transcript.
+
+## Website preview metadata
+
+Website preview properties, including `cover` and `image`, are removed from exported frontmatter. Their values may name attachments outside the public source tree. The selected website image remains on the published site; GitHub receives the public note's descriptive metadata and a link to its illustrated page. The privacy guard continues to reject private attachment paths.
 
 ## RSS sit index
 
