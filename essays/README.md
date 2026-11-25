@@ -1,5 +1,5 @@
 ---
-description: Working philosophical essays developing and testing ecological intentionality through field encounters, texts, and open objections.
+description: I develop and test ecological intentionality and the Ecology of the Cross through field encounters, texts and documented cases.
 ---
 *Working arguments in ecological intentionality.*
 
@@ -8,6 +8,14 @@ The Black Walnut Field Notes record particular encounters: what I perceived, rem
 I publish these as working essays whose claims remain open to criticism and revision. Dates and versions matter. I want readers to see what the argument claimed at a particular point, what evidence it relied on, and what later required revision.
 
 ## Working essays
+
+### [A Commitment with a Future](a-commitment-with-a-future.md)
+
+*Mariandale, Communal Purpose, and the Lives Affected by a Decision*
+
+**November 25, 2026 · Working case assessment · Version 1**
+
+I follow a documented negotiation between campus redevelopment and land preservation at Mariandale. An enduring commitment gained lasting institutional form through an easement. I test that interpretation against ordinary institutional deliberation, distinguish the partly reconstructed housing history, and bring Moltmann and Harris to the question of whose lives and burdens enter a community's judgment.
 
 ### [What Fuller Understanding Requires](what-fuller-understanding-requires.md)
 

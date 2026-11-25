@@ -8,9 +8,11 @@ The Sabbath chapter gives those questions a temporal and practical direction. Mo
 
 I also need to reconstruct his own theological commitments. Divine indwelling, Bonaventure's vestige and Merleau-Ponty's flesh develop through different arguments. My proposal about purposes formed through living relationships draws on those arguments and remains responsible for explaining the connection. Moltmann's use of “intentionality” for open systems of matter and life on page 100 also needs comparison with the philosophical meanings I use.
 
-**Source:** Jürgen Moltmann, *God in Creation: A New Theology of Creation and the Spirit of God*, trans. Margaret Kohl (Minneapolis: Fortress Press, 1993), IV, 99–100; XI, 278–79 and 286–89. Selected passages and edition matter checked November 22. The whole argument remains under study. His account of Jubilee also needs comparison with the social hierarchies retained in Leviticus 25.
+**Source:** Jürgen Moltmann, *God in Creation: A New Theology of Creation and the Spirit of God*, trans. Margaret Kohl (Minneapolis: Fortress Press, 1993), 6–8; IV, 99–100; XI, 278–279 and 285–289. His account of Jubilee also needs comparison with the social hierarchies retained in Leviticus 25.
 
 ## From the sits
+
+- [November 25, 2026: Room to Continue](../field-notes/2026-11-25%20-%20Room%20to%20Continue.md): I bring *God in Creation*, 6–8, 279 and 285–289, to the question of creaturely reception and communal purpose. Sabbath includes servants, animals and strangers, and asks who bears the costs of celebration. In [A Commitment with a Future](../essays/a-commitment-with-a-future.md), I keep housing needs within the question of liberation and distinguish an institutional arrangement from the completed glory Moltmann hopes for.
 
 - [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): *God in Creation*, Kohl 1993, XI §1, 278–280, gives creaturely freedom a theological place in the proposed communal inquiry. I distinguish Sabbath from seasonal change and retain the question of difference within his language of correspondence and identity. The garden remains a proposal.
 

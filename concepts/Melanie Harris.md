@@ -1,5 +1,5 @@
 ---
-description: Melanie L. Harris in the developing Black Walnut Field Notes.
+description: I read Melanie Harris on ecowomanism, situated knowledge, environmental justice and the purposes of communal inquiry.
 tags:
   - melanieharris
 ---
@@ -17,6 +17,8 @@ Related: [Attention](Attention.md) · [Ecological Intentionality](Ecological%20I
 Browse: #melanieharris
 
 ## From the sits
+
+- [November 25, 2026: Room to Continue](../field-notes/2026-11-25%20-%20Room%20to%20Continue.md): *Ecowomanism*, ch. 2, 41–46, helps me question whose account could revise a favorable interpretation of conservation at Mariandale. I distinguish a community limiting its own authority from one placing costs on people who cannot refuse them. I develop those questions in [A Commitment with a Future](../essays/a-commitment-with-a-future.md). Accounts from people seeking homes or maintaining the place could change my judgment of whose good the arrangement serves.
 
 - [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): I bring *Ecowomanism*, ch. 2, 37–38 and 41–46, to the question of who can define, revise or decline a communal project. Her Black ecowomanist account of history, agency and power requires more than inviting people to supply labor. The church-ground proposal still needs ecological and institutional evidence.
 
