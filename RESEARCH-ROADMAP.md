@@ -19,6 +19,14 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 26: a record becomes part of the history I investigate
+
+In [What Returning Carries](field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I distinguish an earlier encounter, its dated record and the later recovery of that record. The recovered entry helps specify a present question while leaving its influence on the previous day's experience open. An archive can participate in an inquiry as well as preserve evidence of it.
+
+This distinction advances [#7's methods paper](https://github.com/samharrelson/ecological-intentionality-research/issues/7). The paper still needs to bring its documented correction histories, comparisons with established methods and analysis of selection together into a sustained argument. A proposed explanation considered today has a different evidential status from a claim I previously made and then revised.
+
+**Criterion disposition:** **52 checked / 6 unchecked across 14 open issues**. The November 30 milestone remains **25/25**. The six remaining criteria retain their existing requirements, including [#6's defined final review](https://github.com/samharrelson/ecological-intentionality-research/issues/6) and the complete methodological paper.
+
 ## November 25: a commitment acquires a lasting institutional form
 
 I tested the documented conflict between campus redevelopment and land preservation at Mariandale. [Westchester Land Trust's 2018 account, p. 11](https://westchesterlandtrust.org/wp-content/uploads/WLT-Fall-Newsletter-2018.pdf), describes successive project revisions before an arrangement accommodated sensitive land and the congregation's goals. [The Sisters' account](https://ophope.org/preserving-the-land-at-mariandale/) locates the protected meadow, wetlands and woodland within 34 of their 61 acres, adjoining Crawbuckie Nature Preserve.

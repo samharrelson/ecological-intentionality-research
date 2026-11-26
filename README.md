@@ -20,6 +20,12 @@ I now have six sustained working comparisons. [*What Flesh Explains*](essays/wha
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
+## November 26: what returning carries
+
+In [What Returning Carries](field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I bring a recovered November 2025 journal entry into the present inquiry. Its dated reference establishes recurrence. Its recovery after the November 25 sit becomes a further event that changes what I can investigate. I keep that contribution separate from an explanation of what caused the earlier experience.
+
+The reflection connects acquired capacities, the specification of a question and the different conditions that could fulfill it. Brentano and Husserl help me keep intentionality wider than deliberate purpose. Gregersen and Moltmann support a separate theological account of received agency and shared existence. This continuation advances [#7's methodological paper](https://github.com/samharrelson/ecological-intentionality-research/issues/7); the complete paper remains ahead. The formal count stays **52 checked / 6 unchecked**, with **25/25** November 30 criteria completed.
+
 ## November 25 assessment: A Commitment with a Future
 
 I have completed the documented Mariandale test in [#5](https://github.com/samharrelson/ecological-intentionality-research/issues/5). The conservation commitment gained lasting institutional form through negotiations over campus redevelopment. Established values, congregational needs and ordinary deliberation remain a strong explanation. The partly reconstructed housing history and later ecological benefits retain their own questions.
