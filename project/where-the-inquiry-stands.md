@@ -1,7 +1,7 @@
 ---
 description: I set out the current argument, its strongest comparisons and the questions I am carrying forward.
 ---
-*Updated November 25, 2026 · Black Walnut Field Notes · An argument in progress*
+*Updated November 26, 2026 · Black Walnut Field Notes · An argument in progress*
 
 I've been returning regularly to a black walnut in Spartanburg, South Carolina, keeping dated recordings, observations, photographs and research notes. The practice began with a phenomenological question about how another living being appears. It has opened a further question about **how the world participates in the directedness of individual and communal consciousness**. I want to explain how independent lives and material processes shape what I notice, imagine, judge and undertake, and how their continuing conditions bear on the fulfillment or correction of a purpose.
 
@@ -32,6 +32,8 @@ The two November 17 working essays give these comparisons a sustained form. In [
 In [A Life of Its Own](../essays/a-life-of-its-own.md), my November 19 working essay, I develop the creaturely difference this account requires. Stein already describes individual living form and distinguishes knowledge of a possible good from its realization. Ruyer's account of primary consciousness makes a further metaphysical claim. I can argue that independent living goods help specify beneficiaries, means and possible fulfillment without treating that further claim as established. A documented plant interaction supplies a concrete comparison; the effects of the vine on my own walnut remain an open question.
 
 ## What the record supports
+
+In [What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I distinguish an earlier event, its record and my later encounter with that record. The November 11, 2025 song reference resurfaced after the November 25, 2026 sit and publication. It establishes recurrence and opens a present comparison, while its causal contribution to yesterday's attention remains uncertain. Brentano's different modes of intentional reference and Husserl's familiar-melody example help me separate perceiving, remembering, anticipating and willing. My constructive account follows how acquired capacities enter these different acts and what could fulfill each one. The recovered archive also provides a comparison for the walnut's contribution: both can change an inquiry, while the tree continues to develop independently of the record.
 
 In [the November 25 sit](../field-notes/2026-11-25%20-%20Room%20to%20Continue.md), an earlier photograph and a later bare crown give my continuing seasonal inquiry a changed immediate undertaking. I did not witness the last visible blade fall. A separate collected compound leaf supplies another kind of evidence. I distinguish the scale at which a purpose continues from the particular intention that changes, and ask whether the evidence reaches the time and condition concerned. Husserl already allows striving to acquire a new goal and material things to change beyond a present view. I develop the ecological account with those resources in place.
 
@@ -93,6 +95,8 @@ The public record also needs to show its own limits. [Who has a say in the recor
 
 
 ## A separate theological question
+
+My November 26 reflection brings two goods together. Gregersen's interpretation of Luther connects received grace and participation in Christ with active love and justice. Moltmann's Sabbath account affirms the worth of shared existence, rest and enjoyment beyond accomplishment. I propose that participation can form a community's capacity to respond while its welcome extends to people whose place cannot depend on what they produce. The ecological extension asks how other creatures share in that concern. [What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md) gives the sources and opens a practical question about whose labor makes another's rest possible.
 
 In [A Commitment with a Future](../essays/a-commitment-with-a-future.md), I examine the documented Mariandale redevelopment and conservation negotiation. I find an enduring commitment gaining lasting force over future projects, while keeping housing justice and later ecological benefit open. Established values and ordinary institutional deliberation explain substantial parts of the sequence. I test the theological proposal through [Moltmann's](../concepts/J%C3%BCrgen%20Moltmann.md) conjunction of Sabbath with Exodus and his attention to those who bear the costs of celebration. His distinction between present grace and completed glory gives institutional success a limited place. [Harris](../concepts/Melanie%20Harris.md) presses whose account could revise my judgment. This documented assessment completes [#5's real-conflict test](https://github.com/samharrelson/ecological-intentionality-research/issues/5) while leaving the larger theological argument open.
 

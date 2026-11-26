@@ -12,6 +12,8 @@ I also need to reconstruct his own theological commitments. Divine indwelling, B
 
 ## From the sits
 
+- [November 26, 2026: What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md): *God in Creation*, XI, 285–286, joins grateful existence with rest and enjoyment beyond achievement. I bring that claim beside Gregersen's account of received grace enabling action. The theological proposal needs both the capacity to contribute and a welcome that exceeds contribution. Preparing for Thanksgiving also lets me ask whose labor makes a gathering possible and whether those people share its rest. I retain Sabbath's Jewish context in making this comparison.
+
 - [November 25, 2026: Room to Continue](../field-notes/2026-11-25%20-%20Room%20to%20Continue.md): I bring *God in Creation*, 6–8, 279 and 285–289, to the question of creaturely reception and communal purpose. Sabbath includes servants, animals and strangers, and asks who bears the costs of celebration. In [A Commitment with a Future](../essays/a-commitment-with-a-future.md), I keep housing needs within the question of liberation and distinguish an institutional arrangement from the completed glory Moltmann hopes for.
 
 - [November 24, 2026: Following This Life](../field-notes/2026-11-24%20-%20Following%20This%20Life.md): *God in Creation*, Kohl 1993, XI §1, 278–280, gives creaturely freedom a theological place in the proposed communal inquiry. I distinguish Sabbath from seasonal change and retain the question of difference within his language of correspondence and identity. The garden remains a proposal.
