@@ -19,6 +19,18 @@ This roadmap accompanies the [visual research board](https://github.com/users/sa
 | Field method and warranted inference | [#6: How should the Black Walnut Field Notes test and correct philosophical claims?](https://github.com/samharrelson/ecological-intentionality-research/issues/6) |
 | Versioned scholarship and intellectual genealogy | [#7: Can versioned public scholarship preserve philosophical failure as reusable evidence?](https://github.com/samharrelson/ecological-intentionality-research/issues/7) |
 
+## November 27: a complete methods essay and a correction's later use
+
+I have published [*Who Has a Say in the Record: Argumentative Genealogy and Reusable Revision in Ecological Inquiry*](essays/who-has-a-say-in-the-record.md). The essay connects an earlier claim, its grounds, a challenge, the decision to retain or revise it, the remaining uncertainty and an accessible record. Its four histories distinguish a retrospective baseline repair, hypothetical counterexamples to a necessity claim, a newly considered causal hypothesis and a correction's reported later use. Each gives another reader a definite inference to examine.
+
+The paper compares environmental phenomenology, relational autoethnography and open notebook science while examining selection, consent, editorial authority and publicity. It proposes an independent-reader evaluation and identifies outcomes that would weaken its claim to usefulness. That evaluation remains further research; completing the draft-paper criterion does not establish actual scholarly reuse.
+
+The accompanying sit, [What the Oak Brings Into View](field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md), separates the evidence for today's identification from my report that the earlier correction helped me recognize the new branches. Living developments changed access; comparison corrected an attribution; an acquired discrimination can help specify a later inquiry. Husserl's accounts of intentional experience, striving and affection remain substantial resources within this positive account.
+
+**Criterion disposition:** the verified website publication and [November 27 export](https://github.com/samharrelson/ecological-intentionality-research/commit/20e67666db84639fa76b8873b66e3db7198096e0) support [#7's final draft-paper criterion](https://github.com/samharrelson/ecological-intentionality-research/issues/7), now checked. All five criteria in that issue are complete. The formal total is **53 checked / 5 unchecked across 14 open issues**, and the designated November 30 milestone remains **25/25**. Issue closure and Project stage are separate from this criterion assessment.
+
+The five unchecked criteria concern [#6's source-verification and publication-boundary review](https://github.com/samharrelson/ecological-intentionality-research/issues/6), [#8's warranted vegetal account](https://github.com/samharrelson/ecological-intentionality-research/issues/8), [#12's contested-care judgment](https://github.com/samharrelson/ecological-intentionality-research/issues/12), and [#13's verified local inquiry](https://github.com/samharrelson/ecological-intentionality-research/issues/13). The November 30 statement and its substantial claim-to-source map remain the next writing and review task. The dated entries below preserve earlier dispositions.
+
 ## November 26: a record becomes part of the history I investigate
 
 In [What Returning Carries](field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I distinguish an earlier encounter, its dated record and the later recovery of that record. The recovered entry helps specify a present question while leaving its influence on the previous day's experience open. An archive can participate in an inquiry as well as preserve evidence of it.
@@ -293,7 +305,7 @@ The public issue is a navigable record of the question; its checkboxes indicate 
 
 The underlying field journal, intimate encounters, consent-sensitive knowledge, exploratory drafts, and unpublished research remain private. A record of revision can be transparent without being exhaustive. Publication is a governed scholarly choice, not an automatic Git synchronization rule.
 
-I completed a bounded comparison with environmental phenomenology, reflexive autoethnography and open notebook science on November 19 in [What this practice inherits](method/about-the-practice.md#what-this-practice-inherits). [Issue #7](https://github.com/samharrelson/ecological-intentionality-research/issues/7) keeps the full methodological paper open. Scholarly reuse and effectiveness also require an external-reader test.
+The November 19 bounded comparison in [What this practice inherits](method/about-the-practice.md#what-this-practice-inherits) now develops into the complete November 27 essay, [*Who Has a Say in the Record*](essays/who-has-a-say-in-the-record.md). Its verified publication completes [issue #7's draft-paper criterion](https://github.com/samharrelson/ecological-intentionality-research/issues/7). The proposed outside-reader test remains an evaluation of scholarly usefulness, with no completed reader uptake claimed.
 
 ## How to read the status of a research question
 

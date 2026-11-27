@@ -20,6 +20,14 @@ I now have six sustained working comparisons. [*What Flesh Explains*](essays/wha
 
 A theological companion, [*The Ecology of the Cross* (#5)](https://github.com/samharrelson/ecological-intentionality-research/issues/5), asks about creaturely participation and communion without possession. Its scriptural, Christological, and historical arguments require their own warrant.
 
+## November 27: a correction becomes available for further inquiry
+
+In [What the Oak Brings Into View](field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md), I identify new fallen pieces as oak and credit an earlier correction with helping me recognize them. I distinguish the comparisons supporting the present identification from my retrospective account of learning. The sequence connects changed access, acquired discrimination and the specification of a further inquiry, while leaving the stronger causal and constitutive claims open.
+
+The complete methods essay, [*Who Has a Say in the Record: Argumentative Genealogy and Reusable Revision in Ecological Inquiry*](essays/who-has-a-say-in-the-record.md), brings four histories into a sustained argument about preserving the reasons for revision. It compares environmental phenomenology, relational autoethnography and open notebook science, examines editorial authority and privacy, and proposes a concrete task through which another reader could challenge and reuse a distinction. Actual reader use remains to be documented.
+
+The sit and essay are published and preserved in the [November 27 export](https://github.com/samharrelson/ecological-intentionality-research/commit/20e67666db84639fa76b8873b66e3db7198096e0). The final draft-paper criterion in [#7](https://github.com/samharrelson/ecological-intentionality-research/issues/7) is complete, bringing the formal total to **53 checked / 5 unchecked across 14 open issues**. The November 30 milestone remains **25/25**. The issue stays open; the statement, its claim-to-source review and the larger research questions retain their separate work.
+
 ## November 26: what returning carries
 
 In [What Returning Carries](field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I bring a recovered November 2025 journal entry into the present inquiry. Its dated reference establishes recurrence. Its recovery after the November 25 sit becomes a further event that changes what I can investigate. I keep that contribution separate from an explanation of what caused the earlier experience.
@@ -131,7 +139,7 @@ The roadmap and issues preserve competing explanations, possible defeaters, revi
 | Start with | What it offers |
 | --- | --- |
 | [Where the Inquiry Stands](project/where-the-inquiry-stands.md) | The current argument and its open questions |
-| [Working essays](essays/README.md) | The November 25 Mariandale institutional case, November 24 Stein/Husserl comparison, November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
+| [Working essays](essays/README.md) | The November 27 methods essay, November 25 Mariandale institutional case, November 24 Stein/Husserl comparison, November 23 continuity comparison, November 22 living-development comparison, November 19 Stein–Ruyer comparison, November 17 flesh and purpose essays, and earlier statements. |
 | [Black Walnut field notes](field-notes/) | Dated encounters, observations, and public reflections |
 | [How the Inquiry Developed](project/how-the-inquiry-developed.md) | The fuller chronology of claims, corrections, and changing interpretations |
 | [Concepts](concepts/) and [Sources & Reading](project/sources-and-reading.md) | Philosophical vocabulary, interlocutors, and reading orientation |
