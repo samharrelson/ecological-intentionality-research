@@ -1,7 +1,7 @@
 ---
 description: A developing research history of the Black Walnut Field Notes and ecological intentionality inquiry, beginning September 2026.
 ---
-*Research-development archive · Begun September 2026 · Last updated November 26, 2026*
+*Research-development archive · Begun September 2026 · Last updated November 27, 2026*
 
 This research history began with a preserved version of the earlier **Where the Inquiry Stands** page. It traces the field encounters, readings, objections, and changes of interpretation that shaped the inquiry through September and October 2026, and it can continue as the work develops. I have kept the earlier account intact, including proposals that remain provisional or have since been complicated. The [shorter overview](where-the-inquiry-stands.md) offers an accessible entry into the current argument.
 
@@ -14,6 +14,14 @@ The chronology is part of the evidence of how the inquiry developed, not a list 
 **October developments:** [13](#october-13-separate-questions-must-still-answer-to-one-another) · [16](#october-16-what-a-new-perspective-does-not-give) · [17](#october-17-when-the-conditions-of-appearance-change) · [18](#october-18-the-return-can-confirm-without-correcting) · [19](#october-19-what-a-clearer-view-leaves-open) · [20](#october-20-what-touch-leaves-open) · [21 (preserved account)](#preserved-october-21-research-account) · [24–31](#the-october-24-turn-from-description-to-a-proposition) · [30](#october-30-a-changed-action-outside-the-backyard)
 
 For the current, shorter account, return to [Where the Inquiry Stands](where-the-inquiry-stands.md).
+
+## November 27: what a correction makes available later
+
+In [What the Oak Brings Into View](../field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md), new fallen branches bring the October 28 and November 13 history into present looking. The walnut's loss of foliage had made the oak's broken limb visible; a prompted inspection and a comparison of the detached piece corrected its attribution. Today I report considering walnut and oak before identifying the new pieces and credit that earlier experience with helping me recognize them sooner.
+
+The constructive claim connects changes in access, acquired distinctions and the specification of a present inquiry. The evidence supporting today's identification differs from my testimony about how I learned. A correction can become a resource for later inquiry while the account of its influence remains open to examination. The oak's condition and seasonal history become further questions; the fragments alone do not answer them.
+
+The source comparison also narrows my spoken proposal. Husserl's *Analyses* §49, 275–276, explicitly describes sedimentation and affection before attentive turning. Receiving direction therefore belongs within the account I must grant him. My further question concerns what independently developing lives contribute to the connected history. Gregersen and Moltmann give the theological continuation its own grounds: participation can form responsive agency, while creaturely worth exceeds the purposes a community already knows how to pursue. The methods question is how to preserve the earlier uncertainty, its resolution and its later use so another reader can test the roles I assign them.
 
 ## November 26: what an earlier record makes possible now
 

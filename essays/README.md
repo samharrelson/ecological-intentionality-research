@@ -9,6 +9,14 @@ I publish these as working essays whose claims remain open to criticism and revi
 
 ## Working essays
 
+### [Who Has a Say in the Record](who-has-a-say-in-the-record.md)
+
+*Argumentative Genealogy and Reusable Revision in Ecological Inquiry*
+
+**November 27, 2026 · Working essay · Version 1**
+
+I follow corrections to the mowing account, the role of return and the history of recognition to ask what a failed inference can contribute to another inquiry. I compare the practice with environmental phenomenology, reflexive autoethnography and open notebook science, examine my authority over the public record, and propose a reader's test of what its dated revisions make available for criticism and reuse.
+
 ### [A Commitment with a Future](a-commitment-with-a-future.md)
 
 *Mariandale, Communal Purpose, and the Lives Affected by a Decision*

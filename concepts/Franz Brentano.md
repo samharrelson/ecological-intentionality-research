@@ -19,6 +19,8 @@ Browse: #brentano
 
 ## From the sits
 
+- [November 27, 2026: What the Oak Brings Into View](../field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md): I distinguish seeing branches, judging their origin and valuing the life they came from. Book II, chap. I, §5 keeps these modes within the wider account of intentional reference. My proposal about their formation through living relationships needs a further explanation of what each participant contributes.
+
 - [November 26, 2026: What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md): I see the bare branching, remember yesterday's yellow blade, read an older journal entry and intend to keep returning. *Psychology from an Empirical Standpoint*, Book II, chap. I, §5, gives me a broad account of directedness through presentations, judgments and affective acts. I use it to keep those experiences distinct before asking how the living relationship has formed them.
 
 - [November 21, 2026: Already Underway](../field-notes/2026-11-21%20-%20Already%20Underway.md): A twig redirects attention to a detail in a known image. The modes of intentional reference belong to Brentano's account; the independently living referent's contribution to purpose and fulfillment requires a further explanation.

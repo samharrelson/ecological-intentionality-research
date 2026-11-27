@@ -116,6 +116,13 @@ These readings are not all part of the formal Comps II contract. They are includ
 
 As November begins, I'm moving from identifying conceptual possibilities to writing a positive account of **how the purposes of consciousness become more determinate in relations with several independently living beings**. The swing, spider's web, and walnut leaf litter raise different questions about an adopted end, delaying action, and allowing biological knowledge to revise what I take good care to require. No single observation proves a novel form of consciousness.
 
+**November 27: an earlier correction enters present inquiry.** In [What the Oak Brings Into View](../field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md), I distinguish a change in perceptual access, a corrected attribution and my later account of learning. The theological question concerns becoming able to receive responsibilities beyond an established purpose.
+
+- Franz Brentano, *Psychology from an Empirical Standpoint*, Book II, chap. I, §5: presentations, judgments and affective acts belong within the broad account of intentional reference.
+- Edmund Husserl, *Analyses Concerning Passive and Active Synthesis*, trans. Anthony J. Steinbock (Kluwer, 2001), §49, 275–276, and §21, 130–133: activity sediments into passivity, affection precedes attentive turning, and knowing differs from practical realization. These resources narrow any claim that reception itself supplies a gap in his account.
+- Niels Henrik Gregersen, “The Cross of Christ in an Evolutionary World” (2001), §I: received grace enables love and justice in his interpretation of Luther. My extension concerns communal ecological purposes.
+- Jürgen Moltmann, *God in Creation*, trans. Margaret Kohl (Fortress Press, 1993), XI, 285–287: the worth of existence, shared rest and liberation. The oak's place in my theological proposal depends on this argument's warrants as well as its own particular life.
+
 **November 26: receiving direction, remembering and enjoying shared life.** In [What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md), I follow how acquired distinctions and a recovered journal entry enter present inquiry. The theological reflection joins received agency with the worth of shared existence.
 
 - Franz Brentano, *Psychology from an Empirical Standpoint*, English ed. Linda L. McAlister, trans. Antos C. Rancurello, D. B. Terrell and Linda L. McAlister (Routledge, 1995; electronic edition, 2009), Book II, chap. I, §5: directedness through presentations, judgments and affective acts.

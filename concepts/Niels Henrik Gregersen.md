@@ -40,6 +40,8 @@ Related: [Where the Inquiry Stands](../project/where-the-inquiry-stands.md) · [
 
 ## From the sits
 
+- [November 27, 2026: What the Oak Brings Into View](../field-notes/2026-11-27%20-%20What%20the%20Oak%20Brings%20Into%20View.md): Gregersen's interpretation of Luther in the 2001 essay, §I, develops received grace as enabling works of love and justice. I extend that account toward a community capable of receiving responsibilities beyond its original purpose. Encounters and learning would give that capacity a particular direction; the proposed ecological application remains my argument.
+
 - [November 26, 2026: What Returning Carries](../field-notes/2026-11-26%20-%20What%20Returning%20Carries.md): I develop the relation between receiving life and contributing to shared work. In §I of “The Cross of Christ in an Evolutionary World” (2001), Gregersen interprets received grace and participation in Christ as enabling love and justice. I bring that account beside Moltmann's grateful existence beyond accomplishment. My communal proposal asks how participation forms capacities for response while people's place in shared life exceeds what they can produce.
 
 - [November 23, 2026: What We Learn to See](../field-notes/2026-11-23%20-%20What%20We%20Learn%20to%20See.md): I compare Boff's resurrection claim with Gregersen's distinction between incarnational inclusion and final salvation, then ask how participation might form communal purposes answerable to particular lives.

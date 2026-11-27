@@ -27,6 +27,12 @@ Over time, the notes gather around recurring questions: attention and possession
 
 **Open research:** A versioned public research layer for this project is available on [GitHub](https://github.com/samharrelson/ecological-intentionality-research), including curated field notes, concept pages, methodological documentation, and the revision history of the inquiry. The repository records material that has already been deliberately made public; it is not a mirror of the private research vault.
 
+## The methods essay
+
+*November 27, 2026*
+
+In [Who Has a Say in the Record](../essays/who-has-a-say-in-the-record.md), I develop the earlier discussions below into a connected argument about preserving failed inferences and the grounds of their revision. I follow four histories, compare what this practice inherits, and ask what another reader can recover, challenge and carry into a different inquiry. The essay offers a test of that usefulness; an independent reader's actual use remains to be documented.
+
 ## Who has a say in the record?
 
 *November 16, 2026*

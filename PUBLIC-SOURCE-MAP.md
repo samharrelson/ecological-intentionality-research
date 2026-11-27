@@ -19,6 +19,7 @@ This file documents the only Obsidian sources that the automated exporter is all
 | `Public/Tracking/Essays/Learning, Flesh, and Continuing Lives.md` | `essays/learning-flesh-and-continuing-lives.md` |
 | `Public/Tracking/Essays/What Fuller Understanding Requires.md` | `essays/what-fuller-understanding-requires.md` |
 | `Public/Tracking/Essays/A Commitment with a Future.md` | `essays/a-commitment-with-a-future.md` |
+| `Public/Tracking/Essays/Who Has a Say in the Record.md` | `essays/who-has-a-say-in-the-record.md` |
 | `Public/Tracking/Where the Inquiry Stands.md` | `project/where-the-inquiry-stands.md` |
 | `Public/Tracking/How the Inquiry Developed.md` | `project/how-the-inquiry-developed.md` |
 | `Public/Tracking/Sources & Reading.md` | `project/sources-and-reading.md` |
